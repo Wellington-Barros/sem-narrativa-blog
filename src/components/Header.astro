@@ -5,12 +5,13 @@ import HeaderLink from './HeaderLink.astro';
 
 <header>
 	<nav>
-		<h2><a href="/">{SITE_TITLE}</a></h2>
-		<div class="internal-links">
-			<HeaderLink href="/">Home</HeaderLink>
-			<HeaderLink href="/blog">Blog</HeaderLink>
-			<HeaderLink href="/about">About</HeaderLink>
-		</div>
+		<h2><a href="/">Sem <span class="riscado">Narrativa</span></a></h2>
+<div class="internal-links">
+	<HeaderLink href="/">Home</HeaderLink>
+	<HeaderLink href="/blog">Blog</HeaderLink>
+	<HeaderLink href="/about">Sobre</HeaderLink>
+	<HeaderLink href="/loja">Loja</HeaderLink>
+</div>
 		<div class="social-links">
 			<a href="https://m.webtoo.ls/@astro" target="_blank">
 				<span class="sr-only">Follow Astro on Mastodon</span>
@@ -46,15 +47,29 @@ import HeaderLink from './HeaderLink.astro';
 	header {
 		margin: 0;
 		padding: 0 1em;
-		background: white;
-		box-shadow: 0 2px 8px rgba(var(--black), 5%);
+		background: #0a0a0f;
+		border-bottom: 1px solid rgb(var(--border));
 	}
 	h2 {
 		margin: 0;
 		font-size: 1em;
 	}
 
-	h2 a,
+	.riscado {
+	position: relative;
+}
+
+.riscado::after {
+	content: '';
+	position: absolute;
+	left: -4px;
+	right: -4px;
+	top: 50%;
+	height: 1px;
+	background: #fcfbfb;
+}
+
+h2 a,
 	h2 a.active {
 		text-decoration: none;
 	}
@@ -65,7 +80,7 @@ import HeaderLink from './HeaderLink.astro';
 	}
 	nav a {
 		padding: 1em 0.5em;
-		color: var(--black);
+		color: rgb(var(--black));
 		border-bottom: 4px solid transparent;
 		text-decoration: none;
 	}
@@ -76,6 +91,9 @@ import HeaderLink from './HeaderLink.astro';
 	.social-links,
 	.social-links a {
 		display: flex;
+	}
+	.social-links a {
+		color: rgb(var(--black));
 	}
 	@media (max-width: 720px) {
 		.social-links {
