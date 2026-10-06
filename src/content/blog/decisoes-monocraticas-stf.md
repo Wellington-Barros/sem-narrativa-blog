@@ -12,7 +12,7 @@ Você já deve ter visto essa expressão em alguma manchete: "ministro decide mo
 
 "Monocrática" vem de "mono" (um só) + "crática" (poder, governo). Ou seja: é uma decisão tomada **por um único ministro**, sozinho, sem precisar reunir o plenário (todos os 11 ministros) ou uma das turmas do Supremo Tribunal Federal (STF).
 
-O oposto disso é a **decisão colegiada** — quando o caso é julgado em conjunto, com vários ministros votando.
+O oposto disso é a **decisão colegiada**, quando o caso é julgado em conjunto, com vários ministros votando.
 
 ## Quando um ministro pode decidir sozinho?
 
@@ -23,11 +23,11 @@ Isso não é uma invenção recente nem uma brecha ilegal. O próprio regimento 
 - Para negar seguimento a recursos considerados inviáveis
 - Para conceder ou negar liminares (decisões provisórias, de caráter urgente, até o julgamento final do caso)
 
-Em vários desses casos, a decisão do ministro **ainda precisa ser confirmada depois pelo colegiado** — funciona como uma resposta rápida inicial, sujeita a revisão.
+Em vários desses casos, a decisão do ministro **ainda precisa ser confirmada depois pelo colegiado**, funciona como uma resposta rápida inicial, sujeita a revisão.
 
 ## Por que isso virou polêmica
 
-O problema não é a existência da ferramenta, e sim o **volume** que ela vem tomando. Segundo dados divulgados pelo presidente do STF, ministro Edson Fachin, em dezembro de 2025, o tribunal proferiu cerca de 116 mil decisões naquele ano — e **80,5% delas foram monocráticas**. Apenas 19,5% passaram pelo colegiado.
+O problema não é a existência da ferramenta, e sim o **volume** que ela vem tomando. Segundo dados divulgados pelo presidente do STF, ministro Edson Fachin, em dezembro de 2025, o tribunal proferiu cerca de 116 mil decisões naquele ano, e **80,5% delas foram monocráticas**. Apenas 19,5% passaram pelo colegiado.
 
 Esse número alimenta uma crítica recorrente: a de que decisões com grande impacto no país estariam sendo tomadas por uma única pessoa, sem o debate e o controle mútuo que normalmente existem entre os poderes (o chamado sistema de "freios e contrapesos").
 
@@ -47,4 +47,4 @@ Atualmente tramitam no Congresso Nacional propostas que buscam limitar o alcance
 
 **Quem critica o uso atual** argumenta que o volume ultrapassou o que seria razoável para uma ferramenta pensada para exceções, e que isso concentra poder de forma excessiva nas mãos de indivíduos, reduzindo o escrutínio público sobre decisões de grande impacto no país.
 
-Não cabe a este espaço dizer qual lado está certo — isso é uma discussão legítima, com argumentos técnicos dos dois lados. Cabe a você, agora que entende do que se trata, formar sua própria opinião.
+Não cabe a este espaço dizer qual lado está certo, isso é uma discussão legítima, com argumentos técnicos dos dois lados. Cabe a você, agora que entende do que se trata, formar sua própria opinião.
