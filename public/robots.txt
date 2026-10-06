@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://semnarrativa.com.br/sitemap-index.xml
