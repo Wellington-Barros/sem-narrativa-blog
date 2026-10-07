@@ -32,6 +32,16 @@ const { title, description, image = FallbackImage } = Astro.props;
 />
 <meta name="generator" content={Astro.generator} />
 
+<script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-FLSCW1518X"></script>
+<script is:inline>
+	window.dataLayer = window.dataLayer || [];
+	function gtag() {
+		dataLayer.push(arguments);
+	}
+	gtag('js', new Date());
+	gtag('config', 'G-FLSCW1518X');
+</script>
+
 <Font cssVariable="--font-montserrat" preload />
 
 <!-- Canonical URL -->
