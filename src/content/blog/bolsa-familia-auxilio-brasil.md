@@ -3,7 +3,7 @@ title: 'Bolsa Família x Auxílio Brasil: o que realmente mudou?'
 description: 'Uma comparação factual entre o Bolsa Família e o extinto Auxílio Brasil: valores, regras de elegibilidade e o que de fato mudou entre os dois programas sociais.'
 pubDate: 'Oct 05 2026'
 category: 'Fato ou Narrativa'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/capa-bolsa-familia-auxilio-brasil.jpg'
 ---
 
 Bolsa Família e Auxílio Brasil são nomes que geram confusão até hoje. Muita gente não sabe ao certo se são a mesma coisa, ou o que de fato mudou entre um e outro.
