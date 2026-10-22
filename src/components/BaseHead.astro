@@ -46,9 +46,21 @@ const { title, description, image = FallbackImage } = Astro.props;
 	function gtag() {
 		dataLayer.push(arguments);
 	}
+	var cookieConsent = 'pending';
+	try {
+		cookieConsent = localStorage.getItem('cookie-consent') || 'pending';
+	} catch (e) {}
+	var consentState = cookieConsent === 'granted' ? 'granted' : 'denied';
+	gtag('consent', 'default', {
+		ad_storage: consentState,
+		ad_user_data: consentState,
+		ad_personalization: consentState,
+		analytics_storage: consentState,
+	});
 	gtag('js', new Date());
 	gtag('config', 'G-FLSCW1518X');
 </script>
+<script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-FLSCW1518X"></script>
 
 <Font cssVariable="--font-montserrat" preload />
 

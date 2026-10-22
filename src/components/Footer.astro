@@ -1,5 +1,6 @@
 ---
 const today = new Date();
+import CookieBanner from './CookieBanner.astro';
 ---
 
 <footer>
@@ -8,8 +9,12 @@ const today = new Date();
 		<a href="/politica-de-privacidade">Política de Privacidade</a>
 		<a href="/termos-de-uso">Termos de Uso</a>
 		<a href="mailto:contato@semnarrativa.com.br">contato@semnarrativa.com.br</a>
+		<a href="#" data-cookie-prefs>Preferências de cookies</a>
 	</nav>
 </footer>
+
+<CookieBanner />
+
 <style>
 	footer {
 		padding: 2em 1em 4em 1em;
