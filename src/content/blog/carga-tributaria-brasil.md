@@ -3,7 +3,7 @@ title: '"O Brasil é o país que mais paga impostos do mundo"?'
 description: 'Verificamos essa afirmação tão repetida com dados da OCDE: o Brasil tem mesmo a maior carga tributária do mundo? A resposta é mais sutil do que parece.'
 pubDate: 'Sep 23 2026'
 category: 'Fato ou Narrativa'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/capa-carga-tributaria-brasil.jpg'
 ---
 
 Você já deve ter ouvido (ou repetido) essa frase: "o Brasil é o país que mais cobra imposto do mundo". É uma das afirmações mais repetidas no debate público brasileiro, de churrasco a rede social. Mas ela é verdadeira? Vamos aos números.
