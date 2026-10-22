@@ -3,7 +3,7 @@ title: 'O que é foro privilegiado e por que ele existe'
 description: 'Entenda de forma simples o que é o foro privilegiado (ou "foro por prerrogativa de função"), quem tem direito a ele e por que essa regra é tão debatida no Brasil.'
 pubDate: 'Sep 11 2026'
 category: 'Como Funciona'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/capa-foro-privilegiado.jpg'
 ---
 
 "Fulano tem foro privilegiado, por isso só pode ser julgado pelo Supremo." Você já deve ter ouvido uma frase parecida com essa. Mas o que isso realmente significa? Vamos simplificar.
