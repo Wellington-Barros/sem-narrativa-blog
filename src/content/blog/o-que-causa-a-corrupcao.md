@@ -3,7 +3,7 @@ title: 'O que causa a corrupção? Uma reflexão baseada em dados'
 description: 'Impunidade, falta de transparência, poder de decisão sem controle e cultura: veja o que as pesquisas apontam como causas da corrupção e o que isso tem a ver com a vida de todo mundo.'
 pubDate: 'Oct 06 2026'
 category: 'Fato ou Narrativa'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/capa-o-que-causa-a-corrupcao.jpg'
 ---
 
 Quase todo brasileiro tem uma opinião firme sobre corrupção. O que pouca gente para pra olhar é o que as pesquisas dizem sobre as causas dela.
