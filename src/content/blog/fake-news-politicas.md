@@ -3,7 +3,7 @@ title: 'Como nascem e se espalham as fake news políticas'
 description: 'Entenda os mecanismos técnicos e psicológicos por trás da desinformação política no Brasil, com dados de pesquisas recentes sobre como ela se espalha e se transforma.'
 pubDate: 'Oct 05 2026'
 category: 'Fato ou Narrativa'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/capa-fake-news-politicas.jpg'
 ---
 
 Você provavelmente já recebeu alguma mensagem política duvidosa em um grupo de família no WhatsApp. Esse não é um acaso isolado.
