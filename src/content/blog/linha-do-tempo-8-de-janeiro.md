@@ -3,7 +3,7 @@ title: 'Linha do tempo: os atos de 8 de janeiro de 2023 e seus desdobramentos'
 description: 'Uma cronologia completa e factual dos atos golpistas de 8 de janeiro de 2023 em Brasília, dos julgamentos que vieram depois, e do debate sobre anistia que segue em aberto até hoje.'
 pubDate: 'Sep 23 2026'
 category: 'Linha do Tempo'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/capa-linha-do-tempo-8-de-janeiro.jpg'
 ---
 
 Poucos eventos recentes da história brasileira geram tanta discussão quanto o 8 de janeiro de 2023. Por isso mesmo, vale reconstruir os fatos com calma, na ordem em que aconteceram, sem adjetivos, sem narrativa pronta, só a sequência do que está documentado e confirmado por instituições oficiais.
