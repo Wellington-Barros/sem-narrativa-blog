@@ -3,7 +3,7 @@ title: 'A reforma da Previdência aumentou o desemprego?'
 description: 'Comparamos a taxa de desemprego brasileira antes e depois da Reforma da Previdência de 2019, com dados oficiais do IBGE, para verificar essa afirmação recorrente.'
 pubDate: 'Sep 26 2026'
 category: 'Fato ou Narrativa'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/capa-reforma-previdencia-desemprego.jpg'
 ---
 
 Um argumento recorrente contra a Reforma da Previdência de 2019 é que ela teria piorado o desemprego no país. A lógica por trás dessa ideia é simples de entender.
