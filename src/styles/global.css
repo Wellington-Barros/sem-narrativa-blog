@@ -5,8 +5,11 @@
  */
 
 :root {
+	color-scheme: dark;
+	--bg: #0a0a0f;
 	--accent: #7c6cf6;
 	--accent-dark: #6355d4;
+	--link-hover: #9d90ff;
 	--black: 245, 245, 250;
 	--gray: 138, 138, 158;
 	--gray-light: 19, 19, 26;
@@ -16,17 +19,32 @@
 		0 2px 6px rgba(var(--gray), 25%), 0 8px 24px rgba(var(--gray), 33%),
 		0 16px 32px rgba(var(--gray), 33%);
 }
+:root[data-theme='light'] {
+	color-scheme: light;
+	--bg: #ffffff;
+	--accent: #5b4bd4;
+	--accent-dark: #463ab0;
+	--link-hover: #3f33a8;
+	--black: 15, 18, 25;
+	--gray: 96, 105, 130;
+	--gray-light: 241, 243, 248;
+	--border: 223, 227, 237;
+	--gray-dark: 34, 41, 57;
+}
 body {
 	font-family: var(--font-montserrat);
 	margin: 0;
 	padding: 0;
 	text-align: left;
-	background: #0a0a0f;
+	background: var(--bg);
 	word-wrap: break-word;
 	overflow-wrap: break-word;
 	color: rgb(var(--gray-dark));
 	font-size: 20px;
 	line-height: 1.7;
+	transition:
+		background-color 0.2s ease,
+		color 0.2s ease;
 }
 main {
 	width: 720px;
@@ -67,7 +85,7 @@ a {
 	color: var(--accent);
 }
 a:hover {
-	color: #9d90ff;
+	color: var(--link-hover);
 }
 p {
 	margin-bottom: 1em;
