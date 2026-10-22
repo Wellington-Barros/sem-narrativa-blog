@@ -3,7 +3,7 @@ title: 'Como funciona uma PEC (Proposta de Emenda à Constituição)'
 description: 'Entenda de forma simples o que é uma PEC, quem pode propor, quantos votos são necessários e por que mudar a Constituição é tão mais difícil do que aprovar uma lei comum.'
 pubDate: 'Sep 11 2026'
 category: 'Como Funciona'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/capa-pec-como-funciona.jpg'
 ---
 
 Você provavelmente já viu a sigla "PEC" nas manchetes várias vezes, inclusive em alguns dos nossos próprios artigos aqui, quando falamos de propostas para mudar o foro privilegiado ou as regras de impeachment de ministros. Mas o que exatamente é uma PEC, e por que ela costuma demorar tanto pra sair do papel?
