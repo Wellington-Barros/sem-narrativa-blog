@@ -3,7 +3,7 @@ title: 'Linha do tempo: a saga do foro privilegiado'
 description: 'Como o entendimento sobre o foro privilegiado no STF mudou ao longo dos anos, da restrição de 2018 até a reviravolta de 2025, e o que está em jogo na PEC que tramita há quase uma década.'
 pubDate: 'Oct 05 2026'
 category: 'Linha do Tempo'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/capa-linha-do-tempo-foro-privilegiado.jpg'
 ---
 
 Já explicamos [o que é o foro privilegiado](/blog/foro-privilegiado) aqui no blog. Agora, vamos reconstruir como esse entendimento mudou ao longo do tempo, em um vaivém que já dura quase uma década.
