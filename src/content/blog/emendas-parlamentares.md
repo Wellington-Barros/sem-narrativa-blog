@@ -3,7 +3,7 @@ title: 'Como funcionam as emendas parlamentares'
 description: 'Entenda de forma simples o que são as emendas parlamentares, os diferentes tipos que existem, e por que esse tema virou um dos mais debatidos da política brasileira.'
 pubDate: 'Sep 11 2026'
 category: 'Como Funciona'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/capa-emendas-parlamentares.jpg'
 ---
 
 Você já deve ter ouvido falar de "emenda parlamentar" ligada a alguma obra na sua cidade, ou como parte de alguma polêmica no noticiário. Mas o que é isso, na prática? Vamos simplificar.
