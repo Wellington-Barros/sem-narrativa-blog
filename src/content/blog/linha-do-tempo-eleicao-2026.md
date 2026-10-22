@@ -3,7 +3,7 @@ title: 'Linha do tempo: a corrida eleitoral de 2026'
 description: 'Da liderança de Lula nas pesquisas no início do ano até o resultado surpreendente do primeiro turno, entenda a cronologia da eleição presidencial de 2026.'
 pubDate: 'Oct 05 2026'
 category: 'Linha do Tempo'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/capa-linha-do-tempo-eleicao-2026.jpg'
 ---
 
 O primeiro turno da eleição presidencial de 2026 aconteceu ontem, domingo (4). O resultado surpreendeu boa parte do país, inclusive o próprio presidente candidato à reeleição. Vamos reconstruir como chegamos até aqui.
