@@ -3,7 +3,7 @@ title: 'Como funciona um processo de impeachment'
 description: 'Entenda, passo a passo e em linguagem simples, como funciona o processo de impeachment no Brasil, quem pode pedir, quantos votos são necessários e o que acontece depois.'
 pubDate: 'Sep 11 2026'
 category: 'Como Funciona'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/capa-processo-de-impeachment.jpg'
 ---
 
 Você já deve ter ouvido: "fulano vai sofrer impeachment", "entrou um pedido de impeachment contra tal autoridade". Mas afinal, o que precisa acontecer pra isso realmente sair do papel? Vamos destrinchar isso em etapas simples.
