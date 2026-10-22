@@ -3,7 +3,7 @@ title: 'Linha do tempo: a Reforma Tributária, do projeto à implementação'
 description: 'Da apresentação da PEC 45 em 2019 até o cronograma de transição que vai até 2033, entenda cada etapa da Reforma Tributária brasileira.'
 pubDate: 'Oct 05 2026'
 category: 'Linha do Tempo'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/capa-linha-do-tempo-reforma-tributaria.jpg'
 ---
 
 Já mencionamos a Reforma Tributária em outro artigo, quando [verificamos se o Brasil tem mesmo a maior carga tributária do mundo](/blog/carga-tributaria-brasil). Agora, vamos detalhar a linha do tempo completa dessa reforma, da primeira proposta até o cronograma que vai até 2033.
