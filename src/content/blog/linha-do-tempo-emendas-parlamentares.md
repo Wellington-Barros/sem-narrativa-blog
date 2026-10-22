@@ -3,7 +3,7 @@ title: 'Linha do tempo: como as emendas parlamentares mudaram desde 2020'
 description: 'Do nascimento do "orçamento secreto" em 2020 até as decisões do STF que suspenderam repasses em 2024 e 2025, entenda a cronologia completa da crise institucional das emendas parlamentares.'
 pubDate: 'Oct 05 2026'
 category: 'Linha do Tempo'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/capa-linha-do-tempo-emendas-parlamentares.jpg'
 ---
 
 Já explicamos [como funcionam as emendas parlamentares](/blog/emendas-parlamentares) aqui no blog. Agora, vamos reconstruir a cronologia completa de como esse tema virou um dos principais pontos de tensão entre o STF e o Congresso Nacional nos últimos anos.
