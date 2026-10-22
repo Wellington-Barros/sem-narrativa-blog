@@ -3,7 +3,7 @@ title: 'O que são as decisões monocráticas do STF (e por que viraram assunto 
 description: 'Entenda de forma simples o que é uma decisão monocrática, quando ela pode acontecer e por que esse termo virou um dos mais debatidos da política brasileira.'
 category: 'Como Funciona'
 pubDate: 'Sep 10 2026'
-heroImage: '../../assets/capa-monocraticas.jpg'
+heroImage: '../../assets/capa-decisoes-monocraticas-stf.jpg'
 ---
 
 Você já deve ter visto essa expressão em alguma manchete: "ministro decide monocraticamente". E, como acontece com boa parte do vocabulário jurídico, muita gente repete o termo sem saber exatamente o que ele significa. Vamos resolver isso.
