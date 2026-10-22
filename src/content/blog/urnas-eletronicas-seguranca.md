@@ -3,7 +3,7 @@ title: 'Urnas eletrônicas são seguras?'
 description: 'Um levantamento factual dos mecanismos de segurança das urnas eletrônicas brasileiras, do histórico de questionamentos e do que as auditorias oficiais já constataram.'
 pubDate: 'Sep 23 2026'
 category: 'Fato ou Narrativa'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/capa-urnas-eletronicas-seguranca.jpg'
 ---
 
 Poucos temas voltam com tanta frequência no debate público brasileiro quanto a segurança das urnas eletrônicas, especialmente em anos de eleição. Em 2026, o sistema completa 30 anos de uso no país. Vamos separar os mecanismos técnicos comprovados do histórico de alegações que já circularam.
