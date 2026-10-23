@@ -80,3 +80,4 @@ const { title, description, image = FallbackImage } = Astro.props;
 
 <!-- Twitter -->
 <meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content={new URL(image.src, Astro.url)} />
