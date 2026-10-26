@@ -107,7 +107,7 @@ Não existe resposta única, e este espaço não vai dar uma.
 
 ## Fontes consultadas para este artigo
 
-- Radar do Voto, vídeo no Instagram com análise cidade por cidade dos dois turnos de 2026 (cálculos do Radar do Voto sobre dados do TSE)
+- Radar do Voto (@radardovotobrasil), vídeo no Instagram com análise cidade por cidade dos dois turnos de 2026 (cálculos do Radar do Voto sobre dados do TSE)
 - Tribunal Superior Eleitoral (TSE), totalização do primeiro e do segundo turno de 2026
 - Revista Oeste, "Confira os números do 2º turno, com 100% da apuração concluída" (25 de outubro de 2026)
 - TMC, "Veja quantos votos Lula recebeu no segundo turno" (25 de outubro de 2026)
