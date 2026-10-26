@@ -1,12 +1,13 @@
 ---
 title: 'Linha do tempo: a corrida eleitoral de 2026'
-description: 'Da liderança de Lula nas pesquisas no início do ano até o resultado surpreendente do primeiro turno, entenda a cronologia da eleição presidencial de 2026.'
+description: 'Da liderança de Lula nas pesquisas no início do ano, passando pelo primeiro turno surpreendente, até a reeleição no segundo turno, entenda a cronologia da eleição presidencial de 2026.'
 pubDate: 'Oct 05 2026'
+updatedDate: 'Oct 25 2026'
 category: 'Linha do Tempo'
 heroImage: '../../assets/capa-linha-do-tempo-eleicao-2026.jpg'
 ---
 
-O primeiro turno da eleição presidencial de 2026 aconteceu ontem, domingo (4). O resultado surpreendeu boa parte do país, inclusive o próprio presidente candidato à reeleição. Vamos reconstruir como chegamos até aqui.
+A eleição presidencial de 2026 foi decidida no segundo turno, no domingo (25 de outubro): Lula (PT) foi reeleito, derrotando Flávio Bolsonaro (PL). O caminho até aqui teve uma virada em relação às pesquisas do início do ano e um primeiro turno que surpreendeu boa parte do país. Vamos reconstruir como chegamos até aqui.
 
 ## O contexto de partida
 
@@ -33,9 +34,9 @@ Eis o resultado final, segundo o Tribunal Superior Eleitoral (TSE):
 - **Augusto Cury (Avante):** 2,89% (3.448.569 votos)
 - **Renan Santos (Missão):** 2,24% (2.675.887 votos)
 
-Nenhum candidato atingiu os 50% necessários para vencer em primeiro turno, então **Flávio Bolsonaro e Lula disputarão o segundo turno em 25 de outubro de 2026**.
+Nenhum candidato atingiu os 50% necessários para vencer em primeiro turno, então **Flávio Bolsonaro e Lula disputaram o segundo turno em 25 de outubro de 2026**.
 
-## Um resultado diferente do esperado
+## O primeiro turno: um resultado diferente do esperado
 
 O resultado representou uma reviravolta em relação às pesquisas de boa parte do ano, que indicavam vantagem confortável de Lula. O próprio presidente afirmou, no domingo, que esperava vencer já no primeiro turno, e classificou o resultado como "inesperado".
 
@@ -45,22 +46,54 @@ Flávio Bolsonaro, por sua vez, declarou que o resultado representa o início do
 
 Do total de 158.745.502 eleitores aptos, **125.275.835 compareceram às urnas**, uma abstenção de 21,08%. Em números absolutos, **33.469.244 pessoas não votaram**, o maior número de ausências já registrado em uma eleição presidencial no país. Os votos em branco somaram 2.300.798 (1,84% do total).
 
+## De 9 a 23 de outubro: a campanha do segundo turno
+
+Entre 9 e 23 de outubro, aconteceu a propaganda eleitoral gratuita no rádio e na TV, já voltada ao segundo turno. As pesquisas do período mostravam disputa apertada entre os dois candidatos.
+
+## 25 de outubro de 2026: o segundo turno
+
+Segundo a totalização do TSE divulgada na noite de domingo, com **97,69% das seções apuradas** (às 21h08, o painel do TSE já indicava a eleição como matematicamente definida), o resultado foi:
+
+- **Lula (PT):** 51,74% dos votos válidos (62.641.973 votos)
+- **Flávio Bolsonaro (PL):** 48,26% dos votos válidos (58.436.437 votos)
+
+A diferença foi de **mais de 4,2 milhões de votos**. Lula foi reeleito e vai ao quarto mandato como presidente. Os votos em branco e nulos somaram mais de 4 milhões, sem entrar no cálculo dos votos válidos.
+
+Os números acima são os da totalização parcial divulgada naquela noite. A totalização final do TSE pode mudar levemente os percentuais, mas não a conclusão.
+
+## A virada em relação ao primeiro turno
+
+No primeiro turno, Flávio Bolsonaro havia terminado na frente, com 47,03% contra 45,16% de Lula. No segundo turno, com apenas dois candidatos na disputa, Lula passou à frente. Como o voto é secreto, não é possível saber como os eleitores dos outros candidatos do primeiro turno, nem quem se absteve, distribuíram suas escolhas desta vez.
+
+## O dia da votação: a decisão sobre o horário
+
+Perto do fechamento das urnas, às 17h, a coligação de Lula pediu ao STF a prorrogação do horário, alegando problemas de transporte público para eleitores em cidades da Bahia. A campanha de Flávio Bolsonaro também pediu extensão em municípios afetados por chuvas e falhas de deslocamento.
+
+O ministro Cristiano Zanin, do STF, determinou que a votação seguisse até as 19h (horário de Brasília) em todo o país. Depois, Zanin esclareceu, e o TSE orientou os tribunais regionais, que a extensão valia **apenas para as seções que ainda estavam abertas**. Urnas já encerradas às 17h não foram reabertas. O Ministério Público Eleitoral havia se manifestado contra a prorrogação, e a totalização dos votos foi pausada até depois das 19h.
+
+Até a publicação desta atualização, as fontes consultadas não relatavam contestação formal do resultado.
+
 ## O que vem agora
 
-Entre 9 e 23 de outubro, acontece a propaganda eleitoral gratuita no rádio e na TV, já voltada ao segundo turno. A decisão final sobre quem vai governar o Brasil nos próximos quatro anos sai no dia **25 de outubro de 2026**.
-
-Este artigo será atualizado assim que houver o resultado do segundo turno.
+Com o resultado definido, a sequência é a totalização final pelo TSE, a diplomação do presidente eleito e a posse, prevista para 1º de janeiro de 2027.
 
 ## Fatos Relevantes
 
 - O primeiro turno de 2026 aconteceu em 4 de outubro, sem nenhum candidato atingir os 50% dos votos válidos necessários para vencer de imediato.
-- Flávio Bolsonaro (PL) terminou em primeiro lugar, com 47,03%, à frente de Lula (PT), com 45,16%, uma reviravolta em relação às pesquisas do início do ano.
-- A abstenção bateu recorde histórico, com mais de 33 milhões de eleitores ausentes.
-- O segundo turno, decisivo entre Flávio Bolsonaro e Lula, ocorre em 25 de outubro de 2026.
+- Flávio Bolsonaro (PL) terminou o primeiro turno em primeiro lugar, com 47,03%, à frente de Lula (PT), com 45,16%, uma reviravolta em relação às pesquisas do início do ano.
+- A abstenção do primeiro turno bateu recorde histórico, com mais de 33 milhões de eleitores ausentes.
+- No segundo turno, em 25 de outubro, Lula foi reeleito com cerca de 51,7% dos votos válidos, contra cerca de 48,3% de Flávio Bolsonaro, segundo a totalização parcial do TSE (97,69% das seções).
+- O ministro Zanin (STF) prorrogou a votação até as 19h, mas só para as seções ainda abertas. Urnas já encerradas não foram reabertas.
 
 ## Fontes consultadas para este artigo
 
 - Tribunal Superior Eleitoral (TSE), totalização oficial do primeiro turno de 2026
 - Carta Capital, "TSE encerra apuração do 1º turno"
 - Genial/Quaest, pesquisa de intenção de voto de janeiro de 2026
+- ND Mais, "Virada histórica: Lula é eleito presidente do Brasil no 2º turno das Eleições 2026"
+- BM&C News, "Lula é reeleito presidente com 51,74% dos votos e derrota Flávio Bolsonaro"
+- Jornal Grande Bahia, "Lula é reeleito para quarto mandato após virada inédita sobre Flávio Bolsonaro; TSE define eleição com 97,69% das seções"
+- Suno, "Eleições 2026: Zanin prorroga votação do 2º turno até as 19h em todo o país"
+- Bahia Notícias, "TSE define que urnas fechadas não podem ser reabertas após prorrogação da votação"
+- InfoMoney, "AO VIVO: Zanin diz que prorrogação até 19h vale apenas para urnas abertas"
 - Wikipédia, verbete "Eleição presidencial no Brasil em 2026"
