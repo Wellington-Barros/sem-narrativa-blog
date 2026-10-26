@@ -2,7 +2,7 @@
 title: 'Linha do tempo: a corrida eleitoral de 2026'
 description: 'Da liderança de Lula nas pesquisas no início do ano, passando pelo primeiro turno surpreendente, até a reeleição no segundo turno, entenda a cronologia da eleição presidencial de 2026.'
 pubDate: 'Oct 05 2026'
-updatedDate: 'Oct 25 2026'
+updatedDate: 'Oct 26 2026'
 category: 'Linha do Tempo'
 heroImage: '../../assets/capa-linha-do-tempo-eleicao-2026.jpg'
 ---

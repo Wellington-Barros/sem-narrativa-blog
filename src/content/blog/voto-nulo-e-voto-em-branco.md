@@ -2,7 +2,7 @@
 title: 'Você sabe a diferença entre voto nulo e voto em branco? E por que eles existem?'
 description: 'Entenda de forma simples o que é voto nulo, o que é voto em branco, como cada um entra na contagem, por que eles existem e o que os números das últimas eleições mostram. Sem recomendar voto.'
 pubDate: 'Oct 24 2026'
-updatedDate: 'Oct 25 2026'
+updatedDate: 'Oct 26 2026'
 category: 'Como Funciona'
 heroImage: '../../assets/capa-voto-nulo-e-em-branco.jpg'
 ---
