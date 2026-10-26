@@ -58,12 +58,12 @@ Primeiro turno de 2026 (4 de outubro), eleição presidencial, segundo dados do 
 
 Somando brancos e nulos, foram cerca de 6 milhões de votos. Juntando a abstenção, foram cerca de **39 milhões de brasileiros** que não escolheram nenhum candidato no primeiro turno.
 
-Segundo turno de 2026 (25 de outubro), segundo a totalização parcial do TSE, com 97,69% das seções apuradas:
+Segundo turno de 2026 (25 de outubro), segundo a totalização do TSE divulgada pela imprensa:
 
-- **Votos em branco:** 1.394.854 (1,11% dos votos registrados)
-- **Votos nulos:** 2.649.294 (2,12% dos votos registrados)
+- **Votos em branco:** 1.430.496 (1,12% dos votos registrados)
+- **Votos nulos:** 2.723.305 (2,12% dos votos registrados)
 
-Somados, branco e nulo passaram de 4 milhões de votos e não entraram no cálculo dos votos válidos. A diferença entre os dois candidatos, nessa mesma apuração, foi de cerca de 4,2 milhões de votos, ou seja, um pouco acima do total de brancos e nulos. Esses números são parciais e podem mudar levemente com a totalização final.
+Somados, branco e nulo passaram de 4 milhões de votos e não entraram no cálculo dos votos válidos. A diferença entre os dois candidatos foi de cerca de 4,4 milhões de votos, ou seja, um pouco acima do total de brancos e nulos.
 
 Segundo turno de 2022, para comparação:
 
@@ -108,7 +108,7 @@ Não existe resposta única, e este espaço não vai dar uma.
 - Mais de 50% de votos nulos não anulam a eleição. O art. 224 do Código Eleitoral trata de nulidade por vícios (como fraude), não da escolha do eleitor.
 - O voto é obrigatório para alfabetizados entre 18 e 70 anos. Quem falta e não justifica pode pagar multa de até R$ 3,51 por turno.
 - No 1º turno de 2026, a abstenção foi de 21,08%, os nulos foram 2,93% e os brancos, 1,84%.
-- No 2º turno de 2026, com 97,69% das seções apuradas, os nulos foram 2,12% e os brancos, 1,11% dos votos registrados (dados parciais do TSE).
+- No 2º turno de 2026, os nulos foram 2,12% e os brancos, 1,12% dos votos registrados (dados do TSE).
 - No 2º turno de 2022, brancos e nulos somaram cerca de 5,7 milhões, mais que a diferença entre os dois candidatos (cerca de 2,1 milhões).
 - Este artigo não recomenda nem desaconselha nenhum tipo de voto.
 
@@ -123,7 +123,7 @@ Não existe resposta única, e este espaço não vai dar uma.
 - Gazeta SP, "E se a maioria votar branco ou nulo? TSE responde o que acontece"
 - Diário do Nordeste, "Eleições 2026: primeiro turno encerra com 25,85% de abstenções, votos nulos e em branco" (dados do TSE)
 - Exame, "Eleições 2026: abstenções, votos em branco e nulos somam 39,1 milhões no 1º turno"
-- BM&C News, "Lula é reeleito presidente com 51,74% dos votos e derrota Flávio Bolsonaro" (totalização parcial do 2º turno de 2026, dados do TSE)
+- TMC, "Veja quantos votos Lula recebeu no segundo turno" (2º turno de 2026, dados do TSE)
 - Gazeta SP, "Entenda o mecanismo e o valor da multa por não votar nas eleições brasileiras"
 - Jus.com.br, "Sua Excelência, o voto em branco" (para o trecho histórico do Código Eleitoral)
 

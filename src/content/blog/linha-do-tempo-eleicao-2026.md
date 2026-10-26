@@ -52,14 +52,12 @@ Entre 9 e 23 de outubro, aconteceu a propaganda eleitoral gratuita no rádio e n
 
 ## 25 de outubro de 2026: o segundo turno
 
-Segundo a totalização do TSE divulgada na noite de domingo, com **97,69% das seções apuradas** (às 21h08, o painel do TSE já indicava a eleição como matematicamente definida), o resultado foi:
+Segundo a totalização do TSE (às 21h08 de domingo, o painel já indicava a eleição como matematicamente definida), o resultado foi:
 
-- **Lula (PT):** 51,74% dos votos válidos (62.641.973 votos)
-- **Flávio Bolsonaro (PL):** 48,26% dos votos válidos (58.436.437 votos)
+- **Lula (PT):** 51,79% dos votos válidos (64.256.232 votos)
+- **Flávio Bolsonaro (PL):** 48,21% dos votos válidos (59.826.041 votos)
 
-A diferença foi de **mais de 4,2 milhões de votos**. Lula foi reeleito e vai ao quarto mandato como presidente. Os votos em branco e nulos somaram mais de 4 milhões, sem entrar no cálculo dos votos válidos.
-
-Os números acima são os da totalização parcial divulgada naquela noite. A totalização final do TSE pode mudar levemente os percentuais, mas não a conclusão.
+A diferença foi de **mais de 4,4 milhões de votos**. Lula foi reeleito e vai ao quarto mandato como presidente. Os votos em branco e nulos somaram mais de 4 milhões, sem entrar no cálculo dos votos válidos.
 
 ## A virada em relação ao primeiro turno
 
@@ -75,14 +73,14 @@ Até a publicação desta atualização, as fontes consultadas não relatavam co
 
 ## O que vem agora
 
-Com o resultado definido, a sequência é a totalização final pelo TSE, a diplomação do presidente eleito e a posse, prevista para 1º de janeiro de 2027.
+Com o resultado definido, a sequência é a diplomação do presidente eleito e a posse, prevista para 1º de janeiro de 2027.
 
 ## Fatos Relevantes
 
 - O primeiro turno de 2026 aconteceu em 4 de outubro, sem nenhum candidato atingir os 50% dos votos válidos necessários para vencer de imediato.
 - Flávio Bolsonaro (PL) terminou o primeiro turno em primeiro lugar, com 47,03%, à frente de Lula (PT), com 45,16%, uma reviravolta em relação às pesquisas do início do ano.
 - A abstenção do primeiro turno bateu recorde histórico, com mais de 33 milhões de eleitores ausentes.
-- No segundo turno, em 25 de outubro, Lula foi reeleito com cerca de 51,7% dos votos válidos, contra cerca de 48,3% de Flávio Bolsonaro, segundo a totalização parcial do TSE (97,69% das seções).
+- No segundo turno, em 25 de outubro, Lula foi reeleito com 51,79% dos votos válidos, contra 48,21% de Flávio Bolsonaro, segundo a totalização do TSE.
 - O ministro Zanin (STF) prorrogou a votação até as 19h, mas só para as seções ainda abertas. Urnas já encerradas não foram reabertas.
 
 ## Fontes consultadas para este artigo
@@ -91,7 +89,8 @@ Com o resultado definido, a sequência é a totalização final pelo TSE, a dipl
 - Carta Capital, "TSE encerra apuração do 1º turno"
 - Genial/Quaest, pesquisa de intenção de voto de janeiro de 2026
 - ND Mais, "Virada histórica: Lula é eleito presidente do Brasil no 2º turno das Eleições 2026"
-- BM&C News, "Lula é reeleito presidente com 51,74% dos votos e derrota Flávio Bolsonaro"
+- TMC, "Veja quantos votos Lula recebeu no segundo turno"
+- BM&C News, "Lula é reeleito presidente com 51,74% dos votos e derrota Flávio Bolsonaro" (apuração parcial)
 - Jornal Grande Bahia, "Lula é reeleito para quarto mandato após virada inédita sobre Flávio Bolsonaro; TSE define eleição com 97,69% das seções"
 - Suno, "Eleições 2026: Zanin prorroga votação do 2º turno até as 19h em todo o país"
 - Bahia Notícias, "TSE define que urnas fechadas não podem ser reabertas após prorrogação da votação"
