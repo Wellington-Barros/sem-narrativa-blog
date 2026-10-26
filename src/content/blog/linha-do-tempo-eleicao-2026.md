@@ -57,7 +57,7 @@ Segundo a totalização do TSE (às 21h08 de domingo, o painel já indicava a el
 - **Lula (PT):** 51,79% dos votos válidos (64.256.232 votos)
 - **Flávio Bolsonaro (PL):** 48,21% dos votos válidos (59.826.041 votos)
 
-A diferença foi de **mais de 4,4 milhões de votos**. Lula foi reeleito e vai ao quarto mandato como presidente. Os votos em branco e nulos somaram mais de 4 milhões, sem entrar no cálculo dos votos válidos.
+A diferença foi de **mais de 4,4 milhões de votos**. Lula foi reeleito e vai ao quarto mandato como presidente. Os votos em branco e nulos somaram mais de 4 milhões, sem entrar no cálculo dos votos válidos. A abstenção foi de **19,22%** (30.509.005 eleitores), abaixo dos 21,08% do primeiro turno, e 128.236.074 pessoas compareceram às urnas.
 
 ## A virada em relação ao primeiro turno
 
@@ -90,6 +90,7 @@ Com o resultado definido, a sequência é a diplomação do presidente eleito e 
 - Genial/Quaest, pesquisa de intenção de voto de janeiro de 2026
 - ND Mais, "Virada histórica: Lula é eleito presidente do Brasil no 2º turno das Eleições 2026"
 - TMC, "Veja quantos votos Lula recebeu no segundo turno"
+- Revista Oeste, "Confira os números do 2º turno, com 100% da apuração concluída"
 - BM&C News, "Lula é reeleito presidente com 51,74% dos votos e derrota Flávio Bolsonaro" (apuração parcial)
 - Jornal Grande Bahia, "Lula é reeleito para quarto mandato após virada inédita sobre Flávio Bolsonaro; TSE define eleição com 97,69% das seções"
 - Suno, "Eleições 2026: Zanin prorroga votação do 2º turno até as 19h em todo o país"

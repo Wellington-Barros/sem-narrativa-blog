@@ -62,6 +62,7 @@ Segundo turno de 2026 (25 de outubro), segundo a totalização do TSE divulgada 
 
 - **Votos em branco:** 1.430.496 (1,12% dos votos registrados)
 - **Votos nulos:** 2.723.305 (2,12% dos votos registrados)
+- **Abstenção:** 19,22% do eleitorado (30.509.005 pessoas)
 
 Somados, branco e nulo passaram de 4 milhões de votos e não entraram no cálculo dos votos válidos. A diferença entre os dois candidatos foi de cerca de 4,4 milhões de votos, ou seja, um pouco acima do total de brancos e nulos.
 
@@ -124,6 +125,7 @@ Não existe resposta única, e este espaço não vai dar uma.
 - Diário do Nordeste, "Eleições 2026: primeiro turno encerra com 25,85% de abstenções, votos nulos e em branco" (dados do TSE)
 - Exame, "Eleições 2026: abstenções, votos em branco e nulos somam 39,1 milhões no 1º turno"
 - TMC, "Veja quantos votos Lula recebeu no segundo turno" (2º turno de 2026, dados do TSE)
+- Revista Oeste, "Confira os números do 2º turno, com 100% da apuração concluída" (abstenção do 2º turno de 2026, dados do TSE)
 - Gazeta SP, "Entenda o mecanismo e o valor da multa por não votar nas eleições brasileiras"
 - Jus.com.br, "Sua Excelência, o voto em branco" (para o trecho histórico do Código Eleitoral)
 
