@@ -2,6 +2,7 @@
 title: 'Linha do tempo: o passaporte de Flávio Bolsonaro e as dúvidas sobre o paradeiro dele'
 description: 'Da confirmação do resultado da eleição ao pedido da PF, da decisão de Moraes à reportagem argentina sobre um jato. Veja o que está confirmado, o que é alegação e o que ninguém sabe ainda.'
 pubDate: 'Oct 27 2026'
+updatedDate: 'Oct 27 2026'
 category: 'Linha do Tempo'
 heroImage: '../../assets/capa-flavio-passaporte-paradeiro-2026.jpg'
 ---
@@ -80,6 +81,15 @@ Segundo a coluna de Igor Gadelha no Metrópoles (08h16, atualizada às 08h25), a
 - **Interlocutores ouvidos pelo colunista Lauro Jardim (O Globo):** disseram, na manhã de terça, que Flávio está em casa, segundo conversas com a segurança dele.
 - **Assessoria de Flávio:** segundo o SBT News, respondeu em mensagem: "Deve ter ido visitar o pai". Até a última atualização consultada, o senador não havia feito nova declaração pública.
 
+### Terça-feira, 27 de outubro, fim da manhã: paradeiro desconhecido
+
+- **Folha de S.Paulo (coluna de Mônica Bergamo):** segundo o Terra, que reproduz a informação, agentes da PF "já identificaram que Flávio não passou oficialmente pela fronteira regular", e os voos entre Brasil e Argentina também estavam sendo checados. A coluna não identifica as fontes.
+- **Poder360 (11h42):** diz que o paradeiro do senador é desconhecido. Segundo o texto, a casa dele no Lago Sul, em Brasília, estava com as janelas fechadas e ninguém atendia o interfone, e três comboios teriam deixado o condomínio mais cedo. O Poder360 informa ainda que o prazo para entregar os passaportes era às 12h e que não sabe se a ordem foi cumprida.
+- **Money Times (12h03):** informa que a PF disse, na manhã de terça, desconhecer a localização do senador. Segundo o texto, a Casa Rosada negou em nota que ele tenha entrado na Argentina, e a Diretoria de Migração argentina disse que a documentação da empresa dona do jato estava em ordem e que não havia plano de voo com a família Bolsonaro.
+- **Eduardo Bolsonaro**, em entrevista ao UOL, chamou a história de mentira e disse que a esquerda quer justificar uma ação contra Flávio. Isso é uma opinião, não um fato.
+
+Há divergência entre os veículos sobre o prazo: CNN Brasil, Gazeta do Povo e Brasil 247 falam em 24 horas, e o Poder360 cita as 12h de terça. Também há divergência sobre a casa dele: segundo o colunista Lauro Jardim, de O Globo, interlocutores disseram na manhã de terça que ele estava em casa, enquanto o Poder360 diz que ninguém atendia no local. Nenhuma das duas informações foi confirmada oficialmente.
+
 ### Terça-feira, 27 de outubro, tarde: o avião parado e as versões sobre a lista de passageiros
 
 Novas reportagens trouxeram versões diferentes sobre o mesmo jato, e elas **não batem entre si**:
@@ -93,7 +103,7 @@ Nenhuma das fontes consultadas traz declaração de piloto ou de tripulante sobr
 
 - **Quem estava no avião.** As versões divergem: uma diz que o nome de Flávio não consta no manifesto, outra fala em passageiro "presumido". Nenhuma lista oficial foi divulgada.
 - **Se o avião decolou, ficou retido ou mudou de destino.** Há relatos de voo marcado para Miami às 17h e relatos de plano de voo cancelado.
-- **Onde Flávio está.** Nenhum veículo consultado apresentou uma confirmação oficial do paradeiro dele.
+- **Onde Flávio está.** Nenhum veículo consultado apresentou uma confirmação oficial do paradeiro dele. Segundo o Money Times, a própria PF disse desconhecer a localização do senador na manhã de terça.
 - **Se ele embarcou naquele jato.** A alegação nasceu no Infobae e é contestada pelo governo argentino. Um portal argentino diz que o nome dele não está no manifesto, e outro canal fala em passageiro "presumido".
 - **Se ele entregou os passaportes.** O prazo de 24 horas foi dado na segunda-feira. Alguns veículos afirmam que ele não entregou, mas não identificam a fonte dessa informação, e não encontramos confirmação da PF.
 - **O conteúdo completo da decisão.** O processo é sigiloso, e a defesa e a PF ainda não divulgaram o texto.
@@ -122,6 +132,7 @@ Este espaço não vai dar uma resposta pronta.
 - O Infobae afirmou que Flávio teria seguido para os Estados Unidos em um jato saído de Puerto Iguazú. Isso não foi confirmado por nenhuma autoridade e é negado pelo governo argentino e por aliados do senador.
 - A PF verifica fronteiras e voos. Fontes da PF dizem que ele não passou por posto regular de migração brasileiro.
 - Na tarde de 27 de outubro, o Iguazú Ahora disse que o nome de Flávio não consta no manifesto do jato, e o canal TN disse que o avião está retido e que um passageiro "presumivelmente" seria Flávio. As versões divergem e nenhuma foi confirmada oficialmente.
+- Segundo o Poder360 e o Money Times, o paradeiro de Flávio era desconhecido na manhã de 27 de outubro, e a PF disse não saber onde ele está. Segundo a coluna de Mônica Bergamo, a PF identificou que ele não passou oficialmente pela fronteira regular. O governo argentino nega que ele tenha entrado no país.
 - Este artigo não afirma que Flávio fugiu, nem que está no Brasil. Ele reúne as informações publicadas até 27 de outubro de 2026.
 
 ## Fontes consultadas para este artigo
@@ -138,6 +149,9 @@ Este espaço não vai dar uma resposta pronta.
 - CNN Portugal, "Imprensa argentina diz que Flávio Bolsonaro saiu do Brasil. Polícia Federal está a investigar" (27 de outubro de 2026)
 - Painel Político, "Avião é retido na Argentina sob suspeita de levar Flávio aos EUA" (27 de outubro de 2026, citando o canal argentino TN)
 - Agenda do Poder, "Nome de Flávio não está em lista de passageiros de jatinho com destino a Miami, diz imprensa argentina" (27 de outubro de 2026, citando o portal Iguazú Ahora)
+- Poder360, "Paradeiro de Flávio é desconhecido após site relatar fuga do país" (27 de outubro de 2026)
+- Money Times, "Flávio Bolsonaro saiu do país? Veja o que se sabe sobre o paradeiro do senador" (27 de outubro de 2026)
+- Terra, "PF investiga se Flávio Bolsonaro teria deixado o Brasil rumo aos EUA, diz jornal" (27 de outubro de 2026, com informação da coluna de Mônica Bergamo, da Folha de S.Paulo)
 - Diário Carioca e Brasil 247, reportagens sobre o voo para Miami marcado para as 17h (27 de outubro de 2026)
 - Infobae, TN e Iguazú Ahora (Argentina), reportagens citadas pelos veículos acima
 
