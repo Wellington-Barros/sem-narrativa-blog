@@ -15,6 +15,7 @@ Este artigo organiza os fatos em ordem cronológica e separa três coisas que co
 
 - **Confirmado:** o ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), cancelou os passaportes de Flávio, mandou que ele entregasse os documentos à Polícia Federal (PF) em 24 horas e o proibiu de deixar o país. A decisão atende a um pedido da PF.
 - **Confirmado:** a PF está verificando fronteiras e voos para saber se ele saiu do Brasil.
+- **Confirmado por fontes da PF (Reuters):** o prazo para entregar os passaportes venceu às 11h de 27 de outubro e Flávio não os entregou. A PF cancelou os documentos no sistema. Não há mandado de prisão contra ele.
 - **Alegação:** o site argentino Infobae publicou que Flávio teria atravessado a fronteira e embarcado em um jato particular rumo aos Estados Unidos. Relatos posteriores da imprensa argentina divergem sobre quem estava no avião.
 - **Negado:** o governo argentino, o coordenador da campanha de Flávio e outros interlocutores dizem que ele não saiu do país.
 - **Não confirmado por nenhuma autoridade:** que Flávio tenha deixado o Brasil.
@@ -97,15 +98,26 @@ Novas reportagens trouxeram versões diferentes sobre o mesmo jato, e elas **nã
 - **Iguazú Ahora (Argentina):** o portal diz, citando autoridades do aeroporto de Puerto Iguazú sem identificá-las, que o nome de Flávio **não aparece no manifesto de embarque**. Segundo o portal, o voo tinha destino a **Miami**, com decolagem prevista para as 17h, no horário local. A informação foi repetida por Agenda do Poder, Diário Carioca e Brasil 247. Nenhuma autoridade confirmou isso oficialmente, e não há identificação dos demais passageiros.
 - **TN (Todo Noticias, Argentina):** segundo o Painel Político, que cita o canal, o avião está **retido** em Puerto Iguazú, chegou de madrugada com quatro passageiros no pedido de voo, e o plano de voo para os Estados Unidos foi cancelado. O canal diz que um dos passageiros "presumivelmente" seria Flávio, e fala em "versões". As identidades não foram divulgadas, e a tripulação seria de dois comandantes e uma comissária.
 
-Nenhuma das fontes consultadas traz declaração de piloto ou de tripulante sobre quem estava a bordo.
+- **Clarín (Argentina):** segundo o Times Brasil, que cita o jornal, o jato deveria sair de Puerto Iguazú rumo a Miami às 2h30 de terça com quatro passageiros, mas o plano de voo para os Estados Unidos já havia sido cancelado quando ele pousou. A tripulação não sabia do cancelamento e ficou em um hotel esperando instruções da empresa. Fontes anônimas ouvidas pelo jornal disseram que a única explicação foi que "um dos passageiros teve um problema" e **não descartam** que o voo fosse para Flávio e a família, o que o jornal trata como suspeita. A lista de passageiros nunca foi entregue à imigração argentina.
+- **Piloto Mauro Mattosinho (relato à Folha de S.Paulo):** segundo a Revista Fórum, que cita a reportagem de Alexa Salomão, da Folha, o piloto disse ter recebido a informação de que o nome de Flávio constava na lista de passageiros do jato. **O piloto não disse ter visto Flávio nem apresentou a lista.** Ele repassou o que um funcionário do aeroporto argentino, que pediu anonimato, lhe contou. Segundo esse relato de segunda mão, quatro passageiros eram esperados, o campo de documento de Flávio estaria em branco, três dos quatro teriam chegado por volta de 1h30, e problemas de documentação teriam impedido a partida. Não conseguimos abrir a reportagem original da Folha e não há confirmação independente.
+- **Autoridades argentinas:** segundo a Reuters, citada pelo Terra, a Direção de Migração argentina disse não ter registro de entrada de Flávio, e um porta-voz de Javier Milei afirmou que "não há pedido de asilo". Segundo o ICL Notícias, a autoridade de aviação argentina teria barrado a decolagem por exigências não cumpridas, informação atribuída à imprensa argentina.
+
+Dois pontos de atenção: as versões sobre a lista de passageiros se contradizem (uma diz que o nome **não** consta, outra que consta com o documento em branco), e **todas vêm de fontes anônimas**. Nenhuma autoridade brasileira ou argentina confirmou que Flávio esteve no aeroporto.
+
+### Terça-feira, 27 de outubro, início da tarde: o prazo vence e a PF cancela os passaportes
+
+- **Prazo vencido:** o prazo de 24 horas terminou às 11h de terça, segundo Terra e Brasil de Fato. Segundo duas fontes da PF ouvidas pela Reuters (matéria das 13h31), Flávio **descumpriu o prazo**. O g1 e a CNN Brasil também informaram que os passaportes físicos não foram entregues. O Terra diz que a defesa havia sinalizado que a entrega seria feita pela manhã, o que não aconteceu.
+- **PF cancela os documentos:** segundo o Terra, a PF cancelou os passaportes comum e diplomático no sistema, o que impede o uso em viagens internacionais, e vai comunicar a Moraes o descumprimento. Isso é descrito como um passo futuro. O Terra ressalta que **não há mandado de prisão** contra Flávio e que, por isso, ele não pode ser chamado de foragido.
+- **A PF diz o que já checou:** uma autoridade da PF disse à Reuters que ele não saiu do país por posto regular de migração, e a PF investiga se ele usou algum meio irregular. Isso não significa que tenha saído.
+- **Aliados sem notícias:** segundo a coluna do ICL Notícias (12h20), três aliados próximos, não identificados, disseram que o paradeiro do senador é desconhecido. O último visitante conhecido teria sido o advogado Frederick Wassef, na segunda-feira, e o deputado Cabo Gilberto Silva (PL-PB) disse ter falado com ele na noite de segunda, sem notícias depois disso. A assessoria de Flávio se recusou a comentar, e a defesa não se manifestou publicamente.
 
 ## O que ainda não se sabe
 
-- **Quem estava no avião.** As versões divergem: uma diz que o nome de Flávio não consta no manifesto, outra fala em passageiro "presumido". Nenhuma lista oficial foi divulgada.
-- **Se o avião decolou, ficou retido ou mudou de destino.** Há relatos de voo marcado para Miami às 17h e relatos de plano de voo cancelado.
+- **Quem estava no avião.** As versões divergem e todas vêm de fontes anônimas: uma diz que o nome de Flávio não consta no manifesto, outra fala em passageiro "presumido", outra em nome na lista com o documento em branco. Nenhuma lista oficial foi divulgada.
+- **Por que o voo não saiu.** O Clarín fala em plano de voo cancelado e "problema" com um passageiro. Outros relatos falam em decolagem barrada ou em voo marcado para as 17h. Nenhuma versão foi confirmada oficialmente.
 - **Onde Flávio está.** Nenhum veículo consultado apresentou uma confirmação oficial do paradeiro dele. Segundo o Money Times, a própria PF disse desconhecer a localização do senador na manhã de terça.
 - **Se ele embarcou naquele jato.** A alegação nasceu no Infobae e é contestada pelo governo argentino. Um portal argentino diz que o nome dele não está no manifesto, e outro canal fala em passageiro "presumido".
-- **Se ele entregou os passaportes.** O prazo de 24 horas foi dado na segunda-feira. Alguns veículos afirmam que ele não entregou, mas não identificam a fonte dessa informação, e não encontramos confirmação da PF.
+- **O que Moraes fará.** Segundo o Terra, a PF vai comunicar o descumprimento a Moraes. Até o fechamento deste texto, não encontramos nenhuma nova decisão dele.
 - **O conteúdo completo da decisão.** O processo é sigiloso, e a defesa e a PF ainda não divulgaram o texto.
 - **Se a PF encontrará algum registro.** A verificação com as autoridades argentinas estava em andamento.
 
@@ -133,6 +145,8 @@ Este espaço não vai dar uma resposta pronta.
 - A PF verifica fronteiras e voos. Fontes da PF dizem que ele não passou por posto regular de migração brasileiro.
 - Na tarde de 27 de outubro, o Iguazú Ahora disse que o nome de Flávio não consta no manifesto do jato, e o canal TN disse que o avião está retido e que um passageiro "presumivelmente" seria Flávio. As versões divergem e nenhuma foi confirmada oficialmente.
 - Segundo o Poder360 e o Money Times, o paradeiro de Flávio era desconhecido na manhã de 27 de outubro, e a PF disse não saber onde ele está. Segundo a coluna de Mônica Bergamo, a PF identificou que ele não passou oficialmente pela fronteira regular. O governo argentino nega que ele tenha entrado no país.
+- Segundo duas fontes da PF ouvidas pela Reuters, Flávio descumpriu o prazo para entregar os passaportes, que terminou às 11h de 27 de outubro. Segundo o Terra, não há mandado de prisão contra ele.
+- Segundo o relato de um piloto à Folha, repassado por um funcionário anônimo do aeroporto argentino, o nome de Flávio constava na lista do jato, com o campo do documento em branco. O piloto não viu Flávio, e o relato não tem confirmação independente. O portal Iguazú Ahora disse o contrário, que o nome não consta.
 - Este artigo não afirma que Flávio fugiu, nem que está no Brasil. Ele reúne as informações publicadas até 27 de outubro de 2026.
 
 ## Fontes consultadas para este artigo
@@ -149,6 +163,12 @@ Este espaço não vai dar uma resposta pronta.
 - CNN Portugal, "Imprensa argentina diz que Flávio Bolsonaro saiu do Brasil. Polícia Federal está a investigar" (27 de outubro de 2026)
 - Painel Político, "Avião é retido na Argentina sob suspeita de levar Flávio aos EUA" (27 de outubro de 2026, citando o canal argentino TN)
 - Agenda do Poder, "Nome de Flávio não está em lista de passageiros de jatinho com destino a Miami, diz imprensa argentina" (27 de outubro de 2026, citando o portal Iguazú Ahora)
+- Terra, "Com paradeiro desconhecido, Flávio Bolsonaro descumpre prazo do STF para entregar passaportes" (27 de outubro de 2026, com informação da Reuters)
+- Terra, "PF cancela passaportes de Flávio Bolsonaro e comunicará a Moraes que senador descumpriu ordem" (27 de outubro de 2026)
+- Brasil de Fato, "Após dizer que 'nunca pensou' em deixar o país, Flávio Bolsonaro não entrega passaportes à PF" (27 de outubro de 2026)
+- ICL Notícias, "Aliados reconhecem que o paradeiro de Flávio Bolsonaro é desconhecido" (27 de outubro de 2026)
+- Times Brasil, "Voo particular para Miami é cancelado na Argentina, e fontes não descartam que fosse para Flávio Bolsonaro, diz o Clarín" (27 de outubro de 2026)
+- Revista Fórum, "Piloto revela relato sobre Flávio Bolsonaro em lista de passageiros de jatinho na Argentina" (27 de outubro de 2026, com base em reportagem da Folha de S.Paulo que não conseguimos abrir)
 - Poder360, "Paradeiro de Flávio é desconhecido após site relatar fuga do país" (27 de outubro de 2026)
 - Money Times, "Flávio Bolsonaro saiu do país? Veja o que se sabe sobre o paradeiro do senador" (27 de outubro de 2026)
 - Terra, "PF investiga se Flávio Bolsonaro teria deixado o Brasil rumo aos EUA, diz jornal" (27 de outubro de 2026, com informação da coluna de Mônica Bergamo, da Folha de S.Paulo)
