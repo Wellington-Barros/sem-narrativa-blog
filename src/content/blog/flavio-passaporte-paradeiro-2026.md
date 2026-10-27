@@ -1,24 +1,25 @@
 ---
-title: 'Linha do tempo: o passaporte de Flávio Bolsonaro e as dúvidas sobre o paradeiro dele'
-description: 'Da confirmação do resultado da eleição ao pedido da PF, da decisão de Moraes à reportagem argentina sobre um jato. Veja o que está confirmado, o que é alegação e o que ninguém sabe ainda.'
+title: 'Linha do tempo: o passaporte de Flávio Bolsonaro e a viagem aos EUA relatada pela imprensa'
+description: 'Do pedido da PF sete minutos após o resultado à reportagem da Reuters sobre uma viagem aos EUA. Veja o que está confirmado oficialmente, o que vem de fontes anônimas e o que ninguém sabe ainda.'
 pubDate: 'Oct 27 2026'
 updatedDate: 'Oct 27 2026'
 category: 'Linha do Tempo'
 heroImage: '../../assets/capa-flavio-passaporte-paradeiro-2026.jpg'
 ---
 
-Poucas horas depois do fim do segundo turno, o senador Flávio Bolsonaro (PL-RJ) se viu no centro de uma história que mistura uma decisão judicial sigilosa, uma reportagem de um site argentino e várias negativas. Em 27 de outubro de 2026, a pergunta que circulava nas redes era: **onde está Flávio Bolsonaro?**
+Poucas horas depois do fim do segundo turno, o senador Flávio Bolsonaro (PL-RJ) se viu no centro de uma história que mistura uma decisão judicial sigilosa, uma reportagem de um site argentino, várias negativas e, depois, relatos de que ele teria viajado aos Estados Unidos. Em 27 de outubro de 2026, a pergunta que circulava nas redes era: **onde está Flávio Bolsonaro?**
 
-Este artigo organiza os fatos em ordem cronológica e separa três coisas que costumam se misturar: o que **está confirmado**, o que é **alegação de uma fonte só** e o que **ainda não se sabe**. A história continua em andamento, então tudo aqui reflete as informações publicadas até a manhã e o início da tarde de 27 de outubro.
+Este artigo organiza os fatos em ordem cronológica e separa três coisas que costumam se misturar: o que **está confirmado**, o que é **relato de fontes anônimas** e o que **ainda não se sabe**. A história continua em andamento, então tudo aqui reflete as informações publicadas até o fim da tarde de 27 de outubro.
 
 ## Resumo rápido
 
 - **Confirmado:** o ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), cancelou os passaportes de Flávio, mandou que ele entregasse os documentos à Polícia Federal (PF) em 24 horas e o proibiu de deixar o país. A decisão atende a um pedido da PF.
-- **Confirmado:** a PF está verificando fronteiras e voos para saber se ele saiu do Brasil.
+- **Confirmado:** a PF verificou fronteiras e voos para saber se ele saiu do Brasil. Até o fim da tarde, a PF não havia divulgado registro formal de saída.
 - **Confirmado por fontes da PF (Reuters):** o prazo para entregar os passaportes venceu às 11h de 27 de outubro e Flávio não os entregou. A PF cancelou os documentos no sistema. Não há mandado de prisão contra ele.
-- **Alegação:** o site argentino Infobae publicou que Flávio teria atravessado a fronteira e embarcado em um jato particular rumo aos Estados Unidos. Relatos posteriores da imprensa argentina divergem sobre quem estava no avião.
-- **Negado:** o governo argentino, o coordenador da campanha de Flávio e outros interlocutores dizem que ele não saiu do país.
-- **Não confirmado por nenhuma autoridade:** que Flávio tenha deixado o Brasil.
+- **Relatado por fontes anônimas:** a Reuters publicou, às 15h18 segundo o texto republicado, que Flávio viajou aos Estados Unidos, com base em duas fontes não identificadas: um aliado próximo e uma fonte do governo americano. A CNN Brasil e o Metrópoles também citam aliados, que dizem que ele foi com a família.
+- **Divergência sobre a PF:** a Gazeta do Povo diz que a PF confirmou à reportagem que ele deixou o país. A Reuters e a CNN Brasil, nos textos que consultamos, não trazem confirmação oficial e identificada da PF.
+- **Alegação sobre a rota:** o site argentino Infobae disse que ele cruzou a fronteira e embarcou em um jato em Puerto Iguazú. O governo argentino diz que ele **não entrou** no país, e a rota segue sem confirmação.
+- **Sem declaração oficial e identificada** da defesa, do próprio Flávio, do STF, do governo brasileiro ou do governo americano sobre a viagem até o fim da tarde de 27 de outubro.
 
 ## A linha do tempo
 
@@ -113,15 +114,31 @@ Dois pontos de atenção: as versões sobre a lista de passageiros se contradize
 - **Governo sem informação:** segundo a CNN Brasil (atualização das 12h35), o governo brasileiro não tem informação sobre se o senador está no Brasil, e acionou autoridades argentinas sobre um possível risco de fuga.
 - **Aliados sem notícias:** segundo a coluna do ICL Notícias (12h20), três aliados próximos, não identificados, disseram que o paradeiro do senador é desconhecido. O último visitante conhecido teria sido o advogado Frederick Wassef, na segunda-feira, e o deputado Cabo Gilberto Silva (PL-PB) disse ter falado com ele na noite de segunda, sem notícias depois disso. A assessoria de Flávio se recusou a comentar, e a defesa não se manifestou publicamente.
 
+### Terça-feira, 27 de outubro, a partir das 14h: relatos de que ele viajou aos Estados Unidos
+
+- **Metrópoles (coluna de Igor Gadelha, 14h04, atualizada às 14h23):** segundo fontes não identificadas, Flávio teria saído do Brasil na terça com a esposa e as duas filhas, em uma viagem organizada de última hora, e entraria nos Estados Unidos pela Flórida. A coluna diz que o governo Trump "já foi avisado" e que ele pretende pedir asilo. O texto não cita nenhuma confirmação oficial.
+- **Jovem Pan (14h24):** relata, com fontes anônimas, que ele planeja pedir asilo político nos EUA e se encontrará com Eduardo Bolsonaro na quarta-feira (28). O texto não traz confirmação oficial.
+- **Gazeta do Povo (atualizada às 14h21):** diz que a PF confirmou à reportagem que o senador deixou o Brasil, depois de tentar cumprir a ordem de Moraes e de os advogados dizerem que não conseguiram localizá-lo. A mesma reportagem registra que uma fonte próxima ao senador disse que ele foi para os Estados Unidos, que o coordenador da campanha, Rogério Marinho, negou a viagem e disse que Flávio estaria em Brasília, e que o governo argentino nega a entrada dele.
+- **Reuters (15h18, segundo a versão republicada pela Agência Brasil e pelo site RED):** diz que Flávio viajou aos EUA depois de descumprir a ordem do STF, com base em **duas fontes não identificadas**: um aliado próximo e uma fonte do governo americano. Uma terceira fonte disse que as duas filhas dele não foram à escola em Brasília na terça. A Reuters não confirmou a rota nem quem viajou com ele. Segundo o texto, um funcionário da PF disse que ele saiu sem passar por posto regular de migração, e a PF não fez declaração oficial. A defesa não respondeu de imediato. A palavra "fugiu" aparece no título e na abertura como narração do próprio veículo, e nenhuma fonte é citada usando esse termo.
+- **Governo argentino:** segundo a CNN Brasil, a Direção Nacional de Migrações disse não ter registro de entrada de Flávio na Argentina, o Ministério da Segurança disse que ele não entrou nem pediu para entrar, e o porta-voz da Presidência afirmou que não há pedido de asilo.
+- **Defesa:** segundo a CNN Brasil, os advogados disseram que o último contato com Flávio foi às 16h30 de segunda e que planejavam encontrá-lo na terça para recolher os passaportes.
+- **CNN Brasil (16h21):** informa que, segundo aliados, ele partiu para os EUA, e diz que o texto não traz nova decisão de Moraes. A reportagem também traz a opinião de especialistas, que dizem que o descumprimento dá a Moraes a possibilidade de decretar prisão preventiva. Isso é análise, não decisão.
+- **Pedido do PT:** segundo a Revista Fórum (15h28), os deputados Lindbergh Farias (PT-RJ), Rogério Correia (PT-MG) e Ana Elisa Santos (PT-MG) pediram ao STF a prisão preventiva de Flávio e, se ela for decretada, a inclusão dele na difusão vermelha da Interpol. A reportagem diz que não há confirmação de que Moraes tenha decretado a prisão nem de que a Interpol tenha emitido qualquer alerta.
+
+Pontos de atenção: **nenhuma fonte identificada** confirmou a viagem, e os relatos vêm de aliados anônimos, de uma fonte anônima do governo americano e, segundo a Gazeta do Povo, de uma confirmação da PF que os outros veículos não reproduzem com identificação. A rota (Argentina ou outra) e o jato de Puerto Iguazú **não foram ligados** à viagem por nenhuma fonte oficial.
+
 ## O que ainda não se sabe
 
-- **Quem estava no avião.** As versões divergem e todas vêm de fontes anônimas: uma diz que o nome de Flávio não consta no manifesto, outra fala em passageiro "presumido", outra em nome na lista com o documento em branco. Nenhuma lista oficial foi divulgada.
+- **Se ele realmente está nos Estados Unidos.** A Reuters e outros veículos relatam isso com fontes anônimas. Até o fim da tarde de 27 de outubro, o próprio Flávio, a defesa, o STF e o governo brasileiro não haviam confirmado de forma identificada.
+- **Como ele teria saído do Brasil.** O Infobae fala em travessia por terra até a Argentina, mas a Argentina diz que ele não entrou. Nenhuma rota foi confirmada.
+- **Se ele pedirá asilo.** Aliados dizem que sim, segundo o Metrópoles e a Jovem Pan. O governo argentino diz que não há pedido de asilo lá, e não há confirmação sobre os EUA.
+- **Quem estava no avião de Puerto Iguazú.** As versões divergem e todas vêm de fontes anônimas: uma diz que o nome de Flávio não consta no manifesto, outra fala em passageiro "presumido", outra em nome na lista com o documento em branco. Nenhuma lista oficial foi divulgada.
 - **Por que o voo não saiu.** O Clarín fala em plano de voo cancelado e "problema" com um passageiro. Outros relatos falam em decolagem barrada ou em voo marcado para as 17h. Nenhuma versão foi confirmada oficialmente.
-- **Onde Flávio está.** Nenhum veículo consultado apresentou uma confirmação oficial do paradeiro dele. Segundo o Money Times, a própria PF disse desconhecer a localização do senador na manhã de terça.
+- **Onde Flávio está neste momento.** Segundo o Money Times, a própria PF disse desconhecer a localização do senador na manhã de terça. Depois disso vieram os relatos de fontes anônimas sobre os EUA.
 - **Se ele embarcou naquele jato.** A alegação nasceu no Infobae e é contestada pelo governo argentino. Um portal argentino diz que o nome dele não está no manifesto, e outro canal fala em passageiro "presumido".
-- **O que Moraes fará.** Segundo o Terra, a PF vai comunicar o descumprimento a Moraes. Segundo o Metrópoles, aliados e advogados de Flávio apostam que ele decretará a prisão preventiva em breve, mas até o fechamento deste texto não encontramos nenhuma nova decisão dele.
+- **O que Moraes fará.** Segundo o Terra, a PF vai comunicar o descumprimento a Moraes. Segundo o Metrópoles, aliados e advogados de Flávio apostavam na tarde de terça que ele decretaria a prisão preventiva, e deputados do PT pediram a medida ao STF. Até o fechamento deste texto, não encontramos nenhuma nova decisão dele.
 - **O conteúdo completo da decisão.** O processo é sigiloso, e a defesa e a PF ainda não divulgaram o texto.
-- **Se a PF encontrará algum registro.** A verificação com as autoridades argentinas estava em andamento.
+- **Se a PF apresentará algum registro.** A PF não divulgou, até agora, registro formal de saída do país.
 
 ## Como ler esse tipo de notícia
 
@@ -132,7 +149,7 @@ Dois pontos de atenção: as versões sobre a lista de passageiros se contradize
 
 ## Perguntas para pensar
 
-- Que tipo de prova seria suficiente para confirmar ou descartar a saída do país?
+- Que tipo de prova seria suficiente para confirmar a saída do país, além de fontes que não se identificam?
 - Por que uma informação de um único site estrangeiro se espalhou tão rápido antes de ser confirmada?
 - Como separar a discussão sobre a decisão judicial da discussão sobre o paradeiro?
 
@@ -149,7 +166,10 @@ Este espaço não vai dar uma resposta pronta.
 - Segundo o Poder360 e o Money Times, o paradeiro de Flávio era desconhecido na manhã de 27 de outubro, e a PF disse não saber onde ele está. Segundo a coluna de Mônica Bergamo, a PF identificou que ele não passou oficialmente pela fronteira regular. O governo argentino nega que ele tenha entrado no país.
 - Segundo duas fontes da PF ouvidas pela Reuters, Flávio descumpriu o prazo para entregar os passaportes, que terminou às 11h de 27 de outubro. Segundo o Terra, não há mandado de prisão contra ele.
 - Segundo o relato de um piloto à Folha, repassado por um funcionário anônimo do aeroporto argentino, o nome de Flávio constava na lista do jato, com o campo do documento em branco. O piloto não viu Flávio, e o relato não tem confirmação independente. O portal Iguazú Ahora disse o contrário, que o nome não consta.
-- Este artigo não afirma que Flávio fugiu, nem que está no Brasil. Ele reúne as informações publicadas até 27 de outubro de 2026.
+- Segundo a Reuters, que cita duas fontes não identificadas (um aliado próximo e uma fonte do governo americano), Flávio viajou aos Estados Unidos. A CNN Brasil e o Metrópoles citam aliados, que dizem que ele foi com a família e pedirá asilo. Nenhuma fonte identificada confirmou a viagem, e o governo argentino diz que ele não entrou na Argentina.
+- A Gazeta do Povo diz que a PF confirmou que ele deixou o país, informação que os outros veículos consultados não reproduzem de forma identificada.
+- Deputados do PT pediram ao STF a prisão preventiva de Flávio e a inclusão dele na Interpol. Até o fechamento deste texto, não havia decisão de Moraes.
+- Este artigo não afirma que Flávio fugiu, nem que está nos Estados Unidos, nem que está no Brasil. Ele reúne o que foi publicado até o fim da tarde de 27 de outubro de 2026 e atribui cada informação à sua fonte.
 
 ## Fontes consultadas para este artigo
 
@@ -177,6 +197,12 @@ Este espaço não vai dar uma resposta pronta.
 - Money Times, "Flávio Bolsonaro saiu do país? Veja o que se sabe sobre o paradeiro do senador" (27 de outubro de 2026)
 - Terra, "PF investiga se Flávio Bolsonaro teria deixado o Brasil rumo aos EUA, diz jornal" (27 de outubro de 2026, com informação da coluna de Mônica Bergamo, da Folha de S.Paulo)
 - Diário Carioca e Brasil 247, reportagens sobre o voo para Miami marcado para as 17h (27 de outubro de 2026)
+- Reuters, reportagem sobre a viagem aos EUA (27 de outubro de 2026), na versão publicada pela Agência Brasil, "Flávio Bolsonaro fugiu para os EUA, diz agência Reuters", e pelo site RED
+- Gazeta do Povo, "Flávio Bolsonaro deixa o Brasil e viaja aos EUA" (27 de outubro de 2026, atualizada às 14h21)
+- Metrópoles, coluna de Igor Gadelha, "Flávio fugiu com a família para os EUA e pedirá asilo político a Trump" (27 de outubro de 2026)
+- Jovem Pan, "Flávio planeja asilo político nos EUA e se encontrará com Eduardo nesta quarta-feira" (27 de outubro de 2026)
+- CNN Brasil, "O que se sabe sobre a fuga de Flávio Bolsonaro do Brasil" e "Fuga de Flávio pode motivar prisão preventiva, dizem especialistas" (27 de outubro de 2026)
+- Revista Fórum, "Flávio Bolsonaro na mira: deputados do PT pedem prisão preventiva e inclusão na Interpol" (27 de outubro de 2026)
 - Infobae, TN e Iguazú Ahora (Argentina), reportagens citadas pelos veículos acima
 
 Veja também: [Linha do tempo: a corrida eleitoral de 2026](/blog/linha-do-tempo-eleicao-2026) e [A virada no segundo turno de 2026](/blog/virada-segundo-turno-2026).
