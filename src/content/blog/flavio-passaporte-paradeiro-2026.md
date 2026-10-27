@@ -109,6 +109,8 @@ Dois pontos de atenção: as versões sobre a lista de passageiros se contradize
 - **Prazo vencido:** o prazo de 24 horas terminou às 11h de terça, segundo Terra e Brasil de Fato. Segundo duas fontes da PF ouvidas pela Reuters (matéria das 13h31), Flávio **descumpriu o prazo**. O g1 e a CNN Brasil também informaram que os passaportes físicos não foram entregues. O Terra diz que a defesa havia sinalizado que a entrega seria feita pela manhã, o que não aconteceu.
 - **PF cancela os documentos:** segundo o Terra, a PF cancelou os passaportes comum e diplomático no sistema, o que impede o uso em viagens internacionais, e vai comunicar a Moraes o descumprimento. Isso é descrito como um passo futuro. O Terra ressalta que **não há mandado de prisão** contra Flávio e que, por isso, ele não pode ser chamado de foragido.
 - **A PF diz o que já checou:** uma autoridade da PF disse à Reuters que ele não saiu do país por posto regular de migração, e a PF investiga se ele usou algum meio irregular. Isso não significa que tenha saído.
+- **Defesa e aliados esperam prisão:** segundo a coluna de Igor Gadelha no Metrópoles (12h41), Flávio havia combinado com os advogados a entrega dos passaportes, mas não deu notícias na manhã de terça, e aliados e defesa dizem não saber onde ele está. A coluna diz que aliados e advogados **apostam** que Moraes decretará em breve a prisão preventiva dele. **Isso é uma expectativa, não uma decisão**, e o texto não cita nenhuma decisão nesse sentido.
+- **Governo sem informação:** segundo a CNN Brasil (atualização das 12h35), o governo brasileiro não tem informação sobre se o senador está no Brasil, e acionou autoridades argentinas sobre um possível risco de fuga.
 - **Aliados sem notícias:** segundo a coluna do ICL Notícias (12h20), três aliados próximos, não identificados, disseram que o paradeiro do senador é desconhecido. O último visitante conhecido teria sido o advogado Frederick Wassef, na segunda-feira, e o deputado Cabo Gilberto Silva (PL-PB) disse ter falado com ele na noite de segunda, sem notícias depois disso. A assessoria de Flávio se recusou a comentar, e a defesa não se manifestou publicamente.
 
 ## O que ainda não se sabe
@@ -117,7 +119,7 @@ Dois pontos de atenção: as versões sobre a lista de passageiros se contradize
 - **Por que o voo não saiu.** O Clarín fala em plano de voo cancelado e "problema" com um passageiro. Outros relatos falam em decolagem barrada ou em voo marcado para as 17h. Nenhuma versão foi confirmada oficialmente.
 - **Onde Flávio está.** Nenhum veículo consultado apresentou uma confirmação oficial do paradeiro dele. Segundo o Money Times, a própria PF disse desconhecer a localização do senador na manhã de terça.
 - **Se ele embarcou naquele jato.** A alegação nasceu no Infobae e é contestada pelo governo argentino. Um portal argentino diz que o nome dele não está no manifesto, e outro canal fala em passageiro "presumido".
-- **O que Moraes fará.** Segundo o Terra, a PF vai comunicar o descumprimento a Moraes. Até o fechamento deste texto, não encontramos nenhuma nova decisão dele.
+- **O que Moraes fará.** Segundo o Terra, a PF vai comunicar o descumprimento a Moraes. Segundo o Metrópoles, aliados e advogados de Flávio apostam que ele decretará a prisão preventiva em breve, mas até o fechamento deste texto não encontramos nenhuma nova decisão dele.
 - **O conteúdo completo da decisão.** O processo é sigiloso, e a defesa e a PF ainda não divulgaram o texto.
 - **Se a PF encontrará algum registro.** A verificação com as autoridades argentinas estava em andamento.
 
@@ -165,6 +167,8 @@ Este espaço não vai dar uma resposta pronta.
 - Agenda do Poder, "Nome de Flávio não está em lista de passageiros de jatinho com destino a Miami, diz imprensa argentina" (27 de outubro de 2026, citando o portal Iguazú Ahora)
 - Terra, "Com paradeiro desconhecido, Flávio Bolsonaro descumpre prazo do STF para entregar passaportes" (27 de outubro de 2026, com informação da Reuters)
 - Terra, "PF cancela passaportes de Flávio Bolsonaro e comunicará a Moraes que senador descumpriu ordem" (27 de outubro de 2026)
+- Metrópoles, coluna de Igor Gadelha, "Moraes deve decretar prisão de Flávio em breve, apostam aliados do senador" (27 de outubro de 2026)
+- CNN Brasil, "PF cancela passaportes de Flávio Bolsonaro após decisão de Moraes" (27 de outubro de 2026)
 - Brasil de Fato, "Após dizer que 'nunca pensou' em deixar o país, Flávio Bolsonaro não entrega passaportes à PF" (27 de outubro de 2026)
 - ICL Notícias, "Aliados reconhecem que o paradeiro de Flávio Bolsonaro é desconhecido" (27 de outubro de 2026)
 - Times Brasil, "Voo particular para Miami é cancelado na Argentina, e fontes não descartam que fosse para Flávio Bolsonaro, diz o Clarín" (27 de outubro de 2026)
