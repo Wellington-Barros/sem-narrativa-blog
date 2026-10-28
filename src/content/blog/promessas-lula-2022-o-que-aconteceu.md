@@ -6,7 +6,7 @@ category: 'Fato ou Narrativa'
 heroImage: '../../assets/capa-promessas-lula-2022-o-que-aconteceu.jpg'
 ---
 
-Depois da eleição de 2026, um leitor sugeriu uma pergunta simples: **o que o Lula prometeu antes da campanha, o que prevalece e o que mudou?** A pergunta é boa porque a resposta quase nunca cabe em "cumpriu" ou "não cumpriu".
+Depois da eleição de 2026, recebemos uma sugestão do nosso seguidor **Matheus Fiesta** ([@matheusfiesta](https://www.instagram.com/matheusfiesta/) no Instagram): **o que o Lula prometeu antes da campanha, o que prevalece e o que mudou?** A pergunta é boa porque a resposta quase nunca cabe em "cumpriu" ou "não cumpriu".
 
 Este artigo olha para as promessas feitas em 2022, na pré-campanha e na campanha que levou Lula ao terceiro mandato, e compara com o que aconteceu de **1º de janeiro de 2023 até outubro de 2026**. Ele **não** cobre as promessas da campanha de 2026, que ainda vão começar a ser cobradas, e **não recomenda voto** em ninguém.
 
