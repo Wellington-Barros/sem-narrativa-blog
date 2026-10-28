@@ -116,6 +116,53 @@ const twitterURL = `https://twitter.com/intent/tweet?text=${encodeURIComponent(t
 	border-color: var(--accent);
 }
 		</style>
+		<style is:global>
+			.promessas-lista {
+				display: grid;
+				gap: 1rem;
+				margin: 1.5rem 0;
+			}
+			.promessa-card {
+				border: 1px solid rgb(var(--border));
+				border-radius: 12px;
+				background: rgba(var(--gray-light), 1);
+				overflow: hidden;
+			}
+			.promessa-bloco {
+				padding: 0.75rem 1rem;
+				border-bottom: 1px solid rgb(var(--border));
+			}
+			.promessa-bloco:last-child {
+				border-bottom: 0;
+			}
+			.promessa-bloco p {
+				margin: 0;
+				font-size: 1rem;
+				line-height: 1.5;
+			}
+			.promessa-rotulo {
+				display: block;
+				margin-bottom: 0.25rem;
+				color: var(--accent);
+				font-size: 0.72rem;
+				font-weight: 700;
+				text-transform: uppercase;
+				letter-spacing: 0.05em;
+			}
+			.selo {
+				display: inline-block;
+				padding: 0.2em 0.7em;
+				border-radius: 999px;
+				font-size: 0.9rem;
+				font-weight: 700;
+				border: 1px solid currentColor;
+			}
+			.selo-ok { color: #2e9e5b; }
+			.selo-ressalva { color: #8fa31e; }
+			.selo-parcial { color: #d08a1c; }
+			.selo-nao { color: #d2493f; }
+			.selo-neutro { color: rgb(var(--gray)); }
+		</style>
 	</head>
 
 	<body>

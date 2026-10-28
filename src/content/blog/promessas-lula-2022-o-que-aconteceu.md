@@ -32,22 +32,78 @@ Para cada item, separamos três coisas: **o que foi dito** em 2022, **o que acon
 
 ## Visão geral das 14 promessas
 
-| Promessa (2022) | O que aconteceu | Situação |
-|---|---|---|
-| Bolsa Família de R$ 600 e R$ 150 por criança | Lei 14.601, de 19 de junho de 2023 | Cumprida |
-| Isentar o IR de quem ganha até R$ 5 mil | Lei 15.270, de novembro de 2025, vale em 2026 | Cumprida |
-| Reforma tributária | EC 132 (dezembro de 2023) e LC 214 (janeiro de 2025) | Cumprida, efeitos só a partir de 2026 |
-| Revogar o teto de gastos | Substituído pelo arcabouço fiscal em 2023 | Mudou |
-| Revogar a reforma trabalhista | Falou-se em "revisão", sem proposta enviada, segundo uma coluna | Não cumprida ou mudou |
-| Acabar com o "orçamento secreto" | O STF extinguiu a emenda de relator em 2022; emendas seguem em outras formas | Em parte |
-| Acabar com o sigilo de 100 anos | g1 classifica como não cumprida | Não cumprida, segundo o g1 |
-| Tirar o Brasil do Mapa da Fome | Relatório da ONU de 2025 coloca o país abaixo do limite | Cumprida, com ressalva |
-| Zerar o desmatamento até 2030 | Queda de cerca de metade desde 2022, meta ainda não atingida | Em andamento |
-| Valorizar o salário mínimo | Lei 14.663/2023, mínimo de R$ 1.621 em 2026 | Cumprida |
-| "Voltar a comer picanha e tomar cerveja" | Preços variaram ao longo do período | Sem como medir |
-| Recriar o Ministério da Segurança Pública | PEC parada na Câmara | Não cumprida |
-| Reverter a privatização da Eletrobras | Acordo com o STF deu mais voz à União, sem retomar o controle | Não cumprida |
-| Não buscar a reeleição em 2026 | Lula se candidatou e foi reeleito | Não cumprida, segundo o g1 |
+<div class="promessas-lista">
+<div class="promessa-card">
+<div class="promessa-bloco"><span class="promessa-rotulo">Promessa (2022)</span><p>Bolsa Família de R$ 600 e R$ 150 por criança</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">O que aconteceu</span><p>Lei 14.601, de 19 de junho de 2023</p></div>
+<div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Situação</span><p><span class="selo selo-ok">Cumprida</span></p></div>
+</div>
+<div class="promessa-card">
+<div class="promessa-bloco"><span class="promessa-rotulo">Promessa (2022)</span><p>Isentar o IR de quem ganha até R$ 5 mil</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">O que aconteceu</span><p>Lei 15.270, de novembro de 2025, vale em 2026</p></div>
+<div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Situação</span><p><span class="selo selo-ok">Cumprida</span></p></div>
+</div>
+<div class="promessa-card">
+<div class="promessa-bloco"><span class="promessa-rotulo">Promessa (2022)</span><p>Reforma tributária</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">O que aconteceu</span><p>EC 132 (dezembro de 2023) e LC 214 (janeiro de 2025)</p></div>
+<div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Situação</span><p><span class="selo selo-ressalva">Cumprida, efeitos só a partir de 2026</span></p></div>
+</div>
+<div class="promessa-card">
+<div class="promessa-bloco"><span class="promessa-rotulo">Promessa (2022)</span><p>Revogar o teto de gastos</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">O que aconteceu</span><p>Substituído pelo arcabouço fiscal em 2023</p></div>
+<div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Situação</span><p><span class="selo selo-parcial">Mudou</span></p></div>
+</div>
+<div class="promessa-card">
+<div class="promessa-bloco"><span class="promessa-rotulo">Promessa (2022)</span><p>Revogar a reforma trabalhista</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">O que aconteceu</span><p>Falou-se em "revisão", sem proposta enviada, segundo uma coluna</p></div>
+<div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Situação</span><p><span class="selo selo-nao">Não cumprida ou mudou</span></p></div>
+</div>
+<div class="promessa-card">
+<div class="promessa-bloco"><span class="promessa-rotulo">Promessa (2022)</span><p>Acabar com o "orçamento secreto"</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">O que aconteceu</span><p>O STF extinguiu a emenda de relator em 2022; emendas seguem em outras formas</p></div>
+<div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Situação</span><p><span class="selo selo-parcial">Em parte</span></p></div>
+</div>
+<div class="promessa-card">
+<div class="promessa-bloco"><span class="promessa-rotulo">Promessa (2022)</span><p>Acabar com o sigilo de 100 anos</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">O que aconteceu</span><p>g1 classifica como não cumprida</p></div>
+<div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Situação</span><p><span class="selo selo-nao">Não cumprida, segundo o g1</span></p></div>
+</div>
+<div class="promessa-card">
+<div class="promessa-bloco"><span class="promessa-rotulo">Promessa (2022)</span><p>Tirar o Brasil do Mapa da Fome</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">O que aconteceu</span><p>Relatório da ONU de 2025 coloca o país abaixo do limite</p></div>
+<div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Situação</span><p><span class="selo selo-ressalva">Cumprida, com ressalva</span></p></div>
+</div>
+<div class="promessa-card">
+<div class="promessa-bloco"><span class="promessa-rotulo">Promessa (2022)</span><p>Zerar o desmatamento até 2030</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">O que aconteceu</span><p>Queda de cerca de metade desde 2022, meta ainda não atingida</p></div>
+<div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Situação</span><p><span class="selo selo-parcial">Em andamento</span></p></div>
+</div>
+<div class="promessa-card">
+<div class="promessa-bloco"><span class="promessa-rotulo">Promessa (2022)</span><p>Valorizar o salário mínimo</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">O que aconteceu</span><p>Lei 14.663/2023, mínimo de R$ 1.621 em 2026</p></div>
+<div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Situação</span><p><span class="selo selo-ok">Cumprida</span></p></div>
+</div>
+<div class="promessa-card">
+<div class="promessa-bloco"><span class="promessa-rotulo">Promessa (2022)</span><p>"Voltar a comer picanha e tomar cerveja"</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">O que aconteceu</span><p>Preços variaram ao longo do período</p></div>
+<div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Situação</span><p><span class="selo selo-neutro">Sem como medir</span></p></div>
+</div>
+<div class="promessa-card">
+<div class="promessa-bloco"><span class="promessa-rotulo">Promessa (2022)</span><p>Recriar o Ministério da Segurança Pública</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">O que aconteceu</span><p>PEC parada na Câmara</p></div>
+<div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Situação</span><p><span class="selo selo-nao">Não cumprida</span></p></div>
+</div>
+<div class="promessa-card">
+<div class="promessa-bloco"><span class="promessa-rotulo">Promessa (2022)</span><p>Reverter a privatização da Eletrobras</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">O que aconteceu</span><p>Acordo com o STF deu mais voz à União, sem retomar o controle</p></div>
+<div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Situação</span><p><span class="selo selo-nao">Não cumprida</span></p></div>
+</div>
+<div class="promessa-card">
+<div class="promessa-bloco"><span class="promessa-rotulo">Promessa (2022)</span><p>Não buscar a reeleição em 2026</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">O que aconteceu</span><p>Lula se candidatou e foi reeleito</p></div>
+<div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Situação</span><p><span class="selo selo-nao">Não cumprida, segundo o g1</span></p></div>
+</div>
+</div>
 
 ## Promessas aprovadas em lei
 
