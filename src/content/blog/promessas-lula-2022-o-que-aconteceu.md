@@ -22,7 +22,7 @@ Este artigo olha para as promessas feitas em 2022, na pré-campanha e na campanh
 
 ## Como lemos cada promessa
 
-Para cada item, separamos três coisas: **o que foi dito** em 2022, **o que aconteceu** (com data e fonte) e **o que a evidência não prova**. A coluna "Situação" é a nossa leitura, e quando um levantamento externo classificou o item, dizemos qual.
+Para cada item, separamos três coisas: **o que foi dito** em 2022, **o que aconteceu** (com data e fonte) e **o que a evidência não prova**. A "Situação" é a nossa leitura. A fonte e a classificação de levantamentos externos (g1 e Folha) aparecem em um bloco próprio, no mesmo formato para todas as promessas, para que o leitor compare com a nossa leitura.
 
 - **Cumprida:** o que foi prometido virou lei, programa ou resultado verificável.
 - **Em parte ou em andamento:** houve ação, mas o resultado ainda não alcançou o que foi prometido.
@@ -37,71 +37,85 @@ Para cada item, separamos três coisas: **o que foi dito** em 2022, **o que acon
 <div class="promessa-bloco"><span class="promessa-rotulo">Promessa (2022)</span><p>Bolsa Família de R$ 600 e R$ 150 por criança</p></div>
 <div class="promessa-bloco"><span class="promessa-rotulo">O que aconteceu</span><p>Lei 14.601, de 19 de junho de 2023</p></div>
 <div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Situação</span><p><span class="selo selo-ok">Cumprida</span></p></div>
+<div class="promessa-bloco promessa-fonte"><span class="promessa-rotulo">Fonte</span><p>Lei 14.601/2023 (Câmara dos Deputados)</p><span class="promessa-rotulo">Classificação externa</span><p>Nenhuma encontrada nas fontes consultadas</p></div>
 </div>
 <div class="promessa-card">
 <div class="promessa-bloco"><span class="promessa-rotulo">Promessa (2022)</span><p>Isentar o IR de quem ganha até R$ 5 mil</p></div>
 <div class="promessa-bloco"><span class="promessa-rotulo">O que aconteceu</span><p>Lei 15.270, de novembro de 2025, vale em 2026</p></div>
 <div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Situação</span><p><span class="selo selo-ok">Cumprida</span></p></div>
+<div class="promessa-bloco promessa-fonte"><span class="promessa-rotulo">Fonte</span><p>Lei 15.270/2025 (Legisweb)</p><span class="promessa-rotulo">Classificação externa</span><p>Nenhuma encontrada nas fontes consultadas</p></div>
 </div>
 <div class="promessa-card">
 <div class="promessa-bloco"><span class="promessa-rotulo">Promessa (2022)</span><p>Reforma tributária</p></div>
 <div class="promessa-bloco"><span class="promessa-rotulo">O que aconteceu</span><p>EC 132 (dezembro de 2023) e LC 214 (janeiro de 2025)</p></div>
 <div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Situação</span><p><span class="selo selo-ressalva">Cumprida, efeitos só a partir de 2026</span></p></div>
+<div class="promessa-bloco promessa-fonte"><span class="promessa-rotulo">Fonte</span><p>EC 132/2023 e LC 214/2025 (Diário do Nordeste, Grupo GEN)</p><span class="promessa-rotulo">Classificação externa</span><p>G1: cumprida</p></div>
 </div>
 <div class="promessa-card">
 <div class="promessa-bloco"><span class="promessa-rotulo">Promessa (2022)</span><p>Revogar o teto de gastos</p></div>
 <div class="promessa-bloco"><span class="promessa-rotulo">O que aconteceu</span><p>Substituído pelo arcabouço fiscal em 2023</p></div>
 <div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Situação</span><p><span class="selo selo-parcial">Mudou</span></p></div>
+<div class="promessa-bloco promessa-fonte"><span class="promessa-rotulo">Fonte</span><p>LC 200/2023 e apresentação do Tesouro Nacional</p><span class="promessa-rotulo">Classificação externa</span><p>G1: cumprida (teto substituído pelo arcabouço)</p></div>
 </div>
 <div class="promessa-card">
 <div class="promessa-bloco"><span class="promessa-rotulo">Promessa (2022)</span><p>Revogar a reforma trabalhista</p></div>
-<div class="promessa-bloco"><span class="promessa-rotulo">O que aconteceu</span><p>Falou-se em "revisão", sem proposta enviada, segundo uma coluna</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">O que aconteceu</span><p>Falou-se em "revisão" em 2022. Não encontramos lei que revogue a reforma de 2017</p></div>
 <div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Situação</span><p><span class="selo selo-nao">Não cumprida ou mudou</span></p></div>
+<div class="promessa-bloco promessa-fonte"><span class="promessa-rotulo">Fonte</span><p>Poder360 (2022) e coluna de opinião da Gazeta do Povo, não conferida de forma independente</p><span class="promessa-rotulo">Classificação externa</span><p>G1: cumprida em parte (nova legislação para autônomos e de aplicativos)</p></div>
 </div>
 <div class="promessa-card">
 <div class="promessa-bloco"><span class="promessa-rotulo">Promessa (2022)</span><p>Acabar com o "orçamento secreto"</p></div>
 <div class="promessa-bloco"><span class="promessa-rotulo">O que aconteceu</span><p>O STF extinguiu a emenda de relator em 2022; emendas seguem em outras formas</p></div>
 <div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Situação</span><p><span class="selo selo-parcial">Em parte</span></p></div>
+<div class="promessa-bloco promessa-fonte"><span class="promessa-rotulo">Fonte</span><p>Decisão do STF (2022) e Brasil de Fato</p><span class="promessa-rotulo">Classificação externa</span><p>Nenhuma encontrada nas fontes consultadas</p></div>
 </div>
 <div class="promessa-card">
 <div class="promessa-bloco"><span class="promessa-rotulo">Promessa (2022)</span><p>Acabar com o sigilo de 100 anos</p></div>
-<div class="promessa-bloco"><span class="promessa-rotulo">O que aconteceu</span><p>g1 classifica como não cumprida</p></div>
-<div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Situação</span><p><span class="selo selo-nao">Não cumprida, segundo o g1</span></p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">O que aconteceu</span><p>A revogação integral dos decretos não foi concluída</p></div>
+<div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Situação</span><p><span class="selo selo-nao">Não cumprida</span></p></div>
+<div class="promessa-bloco promessa-fonte"><span class="promessa-rotulo">Fonte</span><p>g1 e coluna de opinião da Gazeta do Povo, não conferida em fonte primária</p><span class="promessa-rotulo">Classificação externa</span><p>G1: não cumprida</p></div>
 </div>
 <div class="promessa-card">
 <div class="promessa-bloco"><span class="promessa-rotulo">Promessa (2022)</span><p>Tirar o Brasil do Mapa da Fome</p></div>
 <div class="promessa-bloco"><span class="promessa-rotulo">O que aconteceu</span><p>Relatório da ONU de 2025 coloca o país abaixo do limite</p></div>
 <div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Situação</span><p><span class="selo selo-ressalva">Cumprida, com ressalva</span></p></div>
+<div class="promessa-bloco promessa-fonte"><span class="promessa-rotulo">Fonte</span><p>Relatório SOFI 2025, da FAO (Jornal do Brasil)</p><span class="promessa-rotulo">Classificação externa</span><p>G1: cumprida</p></div>
 </div>
 <div class="promessa-card">
 <div class="promessa-bloco"><span class="promessa-rotulo">Promessa (2022)</span><p>Zerar o desmatamento até 2030</p></div>
 <div class="promessa-bloco"><span class="promessa-rotulo">O que aconteceu</span><p>Queda de cerca de metade desde 2022, meta ainda não atingida</p></div>
 <div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Situação</span><p><span class="selo selo-parcial">Em andamento</span></p></div>
+<div class="promessa-bloco promessa-fonte"><span class="promessa-rotulo">Fonte</span><p>Prodes/INPE (Olhar Digital)</p><span class="promessa-rotulo">Classificação externa</span><p>Folha (jan/2025): "não deslancharam"</p></div>
 </div>
 <div class="promessa-card">
 <div class="promessa-bloco"><span class="promessa-rotulo">Promessa (2022)</span><p>Valorizar o salário mínimo</p></div>
 <div class="promessa-bloco"><span class="promessa-rotulo">O que aconteceu</span><p>Lei 14.663/2023, mínimo de R$ 1.621 em 2026</p></div>
 <div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Situação</span><p><span class="selo selo-ok">Cumprida</span></p></div>
+<div class="promessa-bloco promessa-fonte"><span class="promessa-rotulo">Fonte</span><p>Lei 14.663/2023 (InvestNews, O Povo)</p><span class="promessa-rotulo">Classificação externa</span><p>Nenhuma encontrada nas fontes consultadas</p></div>
 </div>
 <div class="promessa-card">
 <div class="promessa-bloco"><span class="promessa-rotulo">Promessa (2022)</span><p>"Voltar a comer picanha e tomar cerveja"</p></div>
 <div class="promessa-bloco"><span class="promessa-rotulo">O que aconteceu</span><p>Preços variaram ao longo do período</p></div>
 <div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Situação</span><p><span class="selo selo-neutro">Sem como medir</span></p></div>
+<div class="promessa-bloco promessa-fonte"><span class="promessa-rotulo">Fonte</span><p>IPCA/IBGE (Money Times, Jovem Pan)</p><span class="promessa-rotulo">Classificação externa</span><p>Sem meta, nenhuma nota dada</p></div>
 </div>
 <div class="promessa-card">
 <div class="promessa-bloco"><span class="promessa-rotulo">Promessa (2022)</span><p>Recriar o Ministério da Segurança Pública</p></div>
 <div class="promessa-bloco"><span class="promessa-rotulo">O que aconteceu</span><p>PEC parada na Câmara</p></div>
 <div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Situação</span><p><span class="selo selo-nao">Não cumprida</span></p></div>
+<div class="promessa-bloco promessa-fonte"><span class="promessa-rotulo">Fonte</span><p>g1 e coluna de opinião da Gazeta do Povo</p><span class="promessa-rotulo">Classificação externa</span><p>G1: não cumprida</p></div>
 </div>
 <div class="promessa-card">
 <div class="promessa-bloco"><span class="promessa-rotulo">Promessa (2022)</span><p>Reverter a privatização da Eletrobras</p></div>
 <div class="promessa-bloco"><span class="promessa-rotulo">O que aconteceu</span><p>Acordo com o STF deu mais voz à União, sem retomar o controle</p></div>
 <div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Situação</span><p><span class="selo selo-nao">Não cumprida</span></p></div>
+<div class="promessa-bloco promessa-fonte"><span class="promessa-rotulo">Fonte</span><p>Decisão do STF de 11/12/2025 (Cenário Energia, STF)</p><span class="promessa-rotulo">Classificação externa</span><p>Folha (jan/2025): parada</p></div>
 </div>
 <div class="promessa-card">
 <div class="promessa-bloco"><span class="promessa-rotulo">Promessa (2022)</span><p>Não buscar a reeleição em 2026</p></div>
 <div class="promessa-bloco"><span class="promessa-rotulo">O que aconteceu</span><p>Lula se candidatou e foi reeleito</p></div>
-<div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Situação</span><p><span class="selo selo-nao">Não cumprida, segundo o g1</span></p></div>
+<div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Situação</span><p><span class="selo selo-nao">Não cumprida</span></p></div>
+<div class="promessa-bloco promessa-fonte"><span class="promessa-rotulo">Fonte</span><p>Rádio Metrópole (2022) e Jornal de Brasília (2025)</p><span class="promessa-rotulo">Classificação externa</span><p>G1: não cumprida</p></div>
 </div>
 </div>
 
