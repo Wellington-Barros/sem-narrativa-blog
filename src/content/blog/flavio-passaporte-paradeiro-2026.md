@@ -1,26 +1,28 @@
 ---
-title: 'Linha do tempo: o passaporte de Flávio Bolsonaro e a viagem aos EUA relatada pela imprensa'
-description: 'Do pedido da PF sete minutos após o resultado ao anúncio de que os EUA darão visto a Flávio Bolsonaro e à família. Veja o que está confirmado oficialmente, o que vem de fontes anônimas e o que ninguém sabe ainda.'
+title: 'Linha do tempo: o passaporte de Flávio Bolsonaro, a saída pela Argentina e o voo rumo a Miami'
+description: 'Do pedido da PF sete minutos após o resultado ao registro oficial da Argentina e ao jato que segue para Miami. Veja o que está confirmado oficialmente, o que vem de fontes anônimas e o que ninguém sabe ainda.'
 pubDate: 'Oct 27 2026'
-updatedDate: 'Oct 27 2026'
+updatedDate: 'Oct 28 2026'
 category: 'Linha do Tempo'
 heroImage: '../../assets/capa-flavio-passaporte-paradeiro-2026.jpg'
 ---
 
-Poucas horas depois do fim do segundo turno, o senador Flávio Bolsonaro (PL-RJ) se viu no centro de uma história que mistura uma decisão judicial sigilosa, uma reportagem de um site argentino, várias negativas e, depois, relatos de que ele teria viajado aos Estados Unidos. Em 27 de outubro de 2026, a pergunta que circulava nas redes era: **onde está Flávio Bolsonaro?**
+Poucas horas depois do fim do segundo turno, o senador Flávio Bolsonaro (PL-RJ) se viu no centro de uma história que mistura uma decisão judicial sigilosa, uma reportagem de um site argentino, várias negativas e, depois, relatos de que ele teria viajado aos Estados Unidos. Em 27 de outubro de 2026, a pergunta que circulava nas redes era: **onde está Flávio Bolsonaro?** Na madrugada de 28 de outubro, a Argentina divulgou um registro oficial que respondeu parte dela.
 
-Este artigo organiza os fatos em ordem cronológica e separa três coisas que costumam se misturar: o que **está confirmado**, o que é **relato de fontes anônimas** e o que **ainda não se sabe**. A história continua em andamento, então tudo aqui reflete as informações publicadas até a noite de 27 de outubro.
+Este artigo organiza os fatos em ordem cronológica e separa três coisas que costumam se misturar: o que **está confirmado**, o que é **relato de fontes anônimas** e o que **ainda não se sabe**. A história continua em andamento, então tudo aqui reflete as informações publicadas até a manhã de 28 de outubro.
 
 ## Resumo rápido
 
 - **Confirmado:** o ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), cancelou os passaportes de Flávio, mandou que ele entregasse os documentos à Polícia Federal (PF) em 24 horas e o proibiu de deixar o país. A decisão atende a um pedido da PF.
-- **Confirmado:** a PF verificou fronteiras e voos para saber se ele saiu do Brasil. Até o fim da tarde, a PF não havia divulgado registro formal de saída.
+- **Confirmado:** a PF verificou fronteiras e voos para saber se ele saiu do Brasil. Até a noite de 27 de outubro, a PF não havia divulgado registro formal de saída.
 - **Confirmado por fontes da PF (Reuters):** o prazo para entregar os passaportes venceu às 11h de 27 de outubro e Flávio não os entregou. A PF cancelou os documentos no sistema. Não há mandado de prisão contra ele.
-- **Visto, segundo autoridade anônima dos EUA:** a Associated Press, o Axios e o Metrópoles informam que uma autoridade do Departamento de Estado americano, que não se identificou, disse que os EUA **emitirão vistos** para Flávio e a família e permitirão a entrada deles. A autoridade não disse se ele já saiu do Brasil. Visto não é asilo, e **não há confirmação oficial de pedido ou concessão de asilo**.
+- **Visto, segundo autoridade anônima dos EUA:** a Associated Press, o Axios e o Metrópoles informam que uma autoridade do Departamento de Estado americano, que não se identificou, disse que os EUA **emitirão vistos** para Flávio e a família e permitirão a entrada deles. Visto não é asilo, e **não há confirmação oficial de pedido ou concessão de asilo**. O presidente Donald Trump disse que aprovaria a entrada da família, segundo a CartaCapital e o The Guardian.
 - **Relatado por fontes anônimas:** a Reuters publicou, às 15h18 segundo o texto republicado, que Flávio viajou aos Estados Unidos, com base em duas fontes não identificadas: um aliado próximo e uma fonte do governo americano. A CNN Brasil e o Metrópoles também citam aliados, que dizem que ele foi com a família.
 - **Divergência sobre a PF:** a Gazeta do Povo diz que a PF confirmou à reportagem que ele deixou o país. A Reuters e a CNN Brasil, nos textos que consultamos, não trazem confirmação oficial e identificada da PF.
-- **Alegação sobre a rota:** o site argentino Infobae disse que ele cruzou a fronteira e embarcou em um jato em Puerto Iguazú. O governo argentino diz que ele **não entrou** no país, e a rota segue sem confirmação.
-- **Sem declaração oficial e identificada** da defesa, do próprio Flávio, do STF, do governo brasileiro ou de um porta-voz americano nomeado sobre a viagem, até a noite de 27 de outubro. Não houve decisão de Moraes sobre prisão.
+- **Confirmado pela Argentina (28 de outubro):** em comunicado na madrugada de quarta, a Direção Nacional de Migrações disse que Flávio, a esposa Fernanda e as filhas Carolina e Luiza **entraram no país às 22h50 de terça** pela Ponte Internacional Tancredo Neves e **embarcaram às 23h30** em um voo privado da empresa Baires Fly S.A., com destino declarado a **Guayaquil, no Equador**. O órgão disse que os quatro tinham documentos de viagem válidos. Isso **muda a versão** que o próprio governo argentino tinha dado na terça, quando disse não ter registro de entrada.
+- **Segundo sites de rastreamento de voos:** o jato de matrícula LV-JQW pousou em Guayaquil por volta das 5h46 de quarta e seguiu para o aeroporto de Opa-locka, em Miami, com previsão de pouso entre 10h30 e 10h39 (horário de Brasília). Nos textos que consultamos, publicados até as 8h50, **o pouso não estava confirmado**.
+- **Não confirmado:** que Flávio esteja no trecho entre Guayaquil e Miami, que ele já tenha chegado aos Estados Unidos e se pedirá ou receberá asilo. A defesa e o PL não haviam respondido à CNN Brasil até a publicação.
+- **Sem decisão de Moraes sobre prisão**, segundo o que encontramos até a manhã de 28 de outubro, e sem declaração do STF ou da PF sobre o novo registro.
 
 ## A linha do tempo
 
@@ -59,7 +61,7 @@ No vídeo, Flávio contestou a decisão. Segundo o Brasil de Fato e o Metrópole
 
 ### Segunda-feira, 26 de outubro, noite: o jato em Puerto Iguazú
 
-Segundo dados do Flightradar24, consultados pelo UOL e citados por outros veículos, um jato Gulfstream G400 de matrícula argentina **LV-JQW**, da empresa **Baires Fly**, decolou de Buenos Aires às 22h14 e pousou em Puerto Iguazú, na Argentina, às 23h45. Depois disso, a aeronave deixou de aparecer nos sistemas consultados. **Não há registro público de decolagem posterior rumo aos Estados Unidos.**
+Segundo dados do Flightradar24, consultados pelo UOL e citados por outros veículos, um jato Gulfstream G400 de matrícula argentina **LV-JQW**, da empresa **Baires Fly**, decolou de Buenos Aires às 22h14 e pousou em Puerto Iguazú, na Argentina, às 23h45. Na terça, vários veículos relataram que a aeronave seguia parada no aeroporto. **Na madrugada de quarta, o avião decolou de lá**, como detalhado mais abaixo.
 
 ### Terça-feira, 27 de outubro, madrugada: a reportagem do Infobae
 
@@ -143,17 +145,49 @@ Pontos de atenção: **nenhuma fonte identificada** confirmou a viagem, e os rel
 
 Pontos de atenção: a única fonte do visto é uma **autoridade anônima** do Departamento de Estado, e mesmo ela falou em futuro. Os relatos de que Flávio **já chegou** aos Estados Unidos vêm de fontes anônimas, de um advogado privado ligado a Trump e de veículos que não identificam a fonte. Até a noite de terça, não encontramos uma declaração de Flávio, da defesa ou de um porta-voz americano nomeado confirmando que ele está no país.
 
+### Quarta-feira, 28 de outubro, madrugada: a Argentina muda a versão
+
+Na madrugada de quarta, a Direção Nacional de Migrações da Argentina publicou um comunicado na rede X (@Migraciones_AR), segundo o Ámbito, a CNN Brasil e a CartaCapital. Os pontos do comunicado, como relatados por esses veículos:
+
+- **Entrada:** às **22h50 de terça (27)**, pela Ponte Internacional Tancredo Neves, na província de Misiones, na fronteira com Foz do Iguaçu (PR).
+- **Quem:** Flavio Nantes Bolsonaro, Fernanda Antunes Figueira Bolsonaro, Carolina Figueira Bolsonaro e Luiza Figueira Bolsonaro.
+- **Documentos:** o órgão disse que os quatro apresentaram documentos de viagem válidos, sem impedimento legal para entrar e sem incidentes.
+- **Voo:** às **23h30**, embarque em um voo privado da **Baires Fly S.A.**, com destino declarado, no plano de voo, a **Guayaquil, no Equador**.
+
+Dois pontos de atenção. Primeiro, **o mesmo governo havia dito na terça que não tinha registro de entrada de Flávio**. A CNN Brasil relata que o órgão "mudou de posição" e não explica o motivo. Segundo, os horários dos veículos divergem: o comunicado fala em embarque às 23h30, e o Flightradar24, segundo o Metrópoles e a CNN Brasil, mostra a decolagem de Puerto Iguazú às 0h21 de quarta. Nenhum dos textos explica a diferença.
+
+O comunicado **não diz** que o destino final seria os Estados Unidos. Isso vem de fontes ouvidas pela CNN Brasil, que não são identificadas.
+
+### Quarta-feira, 28 de outubro, manhã: escala no Equador e voo rumo a Miami
+
+Segundo a CNN Brasil, o Metrópoles e O Tempo, com base em sites de rastreamento (Flightradar24 e FlightAware):
+
+- o jato de matrícula **LV-JQW**, que estava parado em Puerto Iguazú desde segunda, pousou em **Guayaquil por volta das 5h46**;
+- cerca de 35 minutos depois, segundo O Tempo (6h22), decolou rumo ao **aeroporto de Opa-locka, em Miami**;
+- a **previsão de pouso** era por volta de **10h30 a 10h39**, horário de Brasília, segundo os rastreadores.
+
+Capturas de tela do FlightAware circulam nas redes e mostram esse trecho (Guayaquil para Opa-locka) para o LV-JQW. Elas são compatíveis com o que a CNN Brasil e a CartaCapital descrevem, mas **mostram a rota de uma aeronave, e não quem está a bordo**. Não conseguimos conferir a imagem diretamente no site de rastreamento. Os veículos divergem sobre o modelo: a CNN Brasil e O Tempo falam em Gulfstream G400, e o The Guardian em Gulfstream IV.
+
+O que **não** está confirmado nos textos que consultamos:
+
+- **O pouso em Opa-locka.** Os textos, publicados entre 6h e 8h50, falam só em previsão. Não encontramos, até o fechamento, uma reportagem com o pouso confirmado.
+- **Que Flávio esteja no trecho Guayaquil-Miami.** O registro argentino cobre a entrada no país e o embarque rumo a Guayaquil. A CNN Brasil diz que não há confirmação de que ele esteja no voo para Miami. A imprensa local relatou números diferentes de ocupantes, de um a oito, e a TN, afiliada da CNN na Argentina, disse que o avião levou o senador, a esposa e as filhas, sem identificar as fontes.
+- **O motivo da escala em Guayaquil**, que não foi explicado oficialmente.
+
+Segundo a CartaCapital, o presidente **Donald Trump** disse que aprovaria a entrada da família e também disse não saber onde Flávio estava naquele momento. Segundo O Tempo e o The Guardian, ele chamou a família de "boas pessoas". O Tempo registra que ele também questionou a eleição sem apresentar evidências. O Guardian lembra que o Departamento de Estado, por meio de um funcionário anônimo, já havia dito que concederia vistos.
+
+**O que isso muda no que o artigo dizia antes:** os relatos de terça de que Flávio "já estava nos EUA" ficaram **sem sustentação** nos horários em que foram publicados, porque o registro argentino o coloca em Puerto Iguazú às 22h50 de terça e no ar a partir da madrugada de quarta, segundo O Tempo. A informação do Infobae sobre a travessia pela Argentina e o jato de Puerto Iguazú, contestada na terça, foi **parcialmente confirmada** pelo registro oficial, embora os horários e a rota publicados na madrugada de terça não batam com o que o comunicado indica. Já as versões sobre o nome de Flávio fora do manifesto do jato (Iguazú Ahora) **não batem** com o registro argentino.
+
 ## O que ainda não se sabe
 
-- **Se ele já está nos Estados Unidos.** A Reuters e outros veículos relatam isso com fontes anônimas, e a autoridade americana falou em vistos futuros. Até a noite de 27 de outubro, o próprio Flávio, a defesa, o STF e o governo brasileiro não haviam confirmado de forma identificada.
+- **Se ele está no voo para Miami e se já chegou aos Estados Unidos.** O registro argentino cobre a saída até Guayaquil. O trecho até Opa-locka aparece nos rastreadores, mas sem confirmação de quem está a bordo e, até onde encontramos, sem pouso confirmado. O próprio Flávio, a defesa, o STF e o governo brasileiro não haviam se manifestado de forma identificada.
 - **Que tipo de visto será emitido e quando.** A autoridade americana não informou.
-- **Como ele teria saído do Brasil.** O Infobae fala em travessia por terra até a Argentina, mas a Argentina diz que ele não entrou. Nenhuma rota foi confirmada.
+- **Como ele saiu do Brasil.** O registro argentino diz que ele entrou pela Ponte Internacional Tancredo Neves. A PF não divulgou registro brasileiro de saída, e não foi explicado por que a Argentina negou a entrada na terça.
 - **Se ele pedirá ou receberá asilo.** Aliados dizem que sim, segundo o Metrópoles e a Jovem Pan, e um advogado ligado a Trump disse que foi autorizado. Não há confirmação oficial, e o Departamento de Estado falou apenas de vistos.
 - **Se a entrevista coletiva em Washington vai acontecer.** Ela aparece só em relatos de aliados anônimos.
-- **Quem estava no avião de Puerto Iguazú.** As versões divergem e todas vêm de fontes anônimas: uma diz que o nome de Flávio não consta no manifesto, outra fala em passageiro "presumido", outra em nome na lista com o documento em branco. Nenhuma lista oficial foi divulgada.
-- **Por que o voo não saiu.** O Clarín fala em plano de voo cancelado e "problema" com um passageiro. Outros relatos falam em decolagem barrada ou em voo marcado para as 17h. Nenhuma versão foi confirmada oficialmente.
-- **Onde Flávio está neste momento.** Segundo o Money Times, a própria PF disse desconhecer a localização do senador na manhã de terça. Depois disso vieram os relatos de fontes anônimas sobre os EUA.
-- **Se ele embarcou naquele jato.** A alegação nasceu no Infobae e é contestada pelo governo argentino. Um portal argentino diz que o nome dele não está no manifesto, e outro canal fala em passageiro "presumido".
+- **Quem está no avião no trecho até Miami.** Na terça, as versões sobre a lista de passageiros divergiam e vinham de fontes anônimas. O registro argentino cita Flávio e a família no embarque até Guayaquil. Para o trecho seguinte, não há lista divulgada.
+- **Por que a Argentina negou a entrada na terça e mudou de versão na quarta**, e por que o voo só saiu na madrugada. Nenhuma explicação oficial foi divulgada.
+- **Onde Flávio está neste momento.** Segundo o Money Times, a própria PF disse desconhecer a localização do senador na manhã de terça. O último registro oficial o coloca embarcando em Puerto Iguazú na noite de terça.
 - **O que Moraes fará.** Segundo o Terra, a PF vai comunicar o descumprimento a Moraes. Segundo o Metrópoles, aliados e advogados de Flávio apostavam na tarde de terça que ele decretaria a prisão preventiva, e deputados do PT pediram a medida ao STF. Até o fechamento deste texto, não encontramos nenhuma nova decisão dele.
 - **O conteúdo completo da decisão.** O processo é sigiloso, e a defesa e a PF ainda não divulgaram o texto.
 - **Se a PF apresentará algum registro.** A PF não divulgou, até agora, registro formal de saída do país.
@@ -178,18 +212,21 @@ Este espaço não vai dar uma resposta pronta.
 - Segundo O Globo, a PF pediu a apreensão do passaporte de Flávio Bolsonaro às 21h16 de 25 de outubro de 2026, sete minutos depois da confirmação do resultado pelo TSE.
 - Alexandre de Moraes atendeu ao pedido, cancelou os passaportes, determinou a entrega em 24 horas e proibiu Flávio de deixar o país. O inquérito é sigiloso.
 - Flávio Bolsonaro nega ter dito que sairia do Brasil e afirmou, em vídeo, que cumpriria a ordem. Ele e Willer Tomaz negam irregularidades.
-- O Infobae afirmou que Flávio teria seguido para os Estados Unidos em um jato saído de Puerto Iguazú. Isso não foi confirmado por nenhuma autoridade e é negado pelo governo argentino e por aliados do senador.
+- O Infobae afirmou que Flávio teria seguido para os Estados Unidos em um jato saído de Puerto Iguazú. Isso não foi confirmado por nenhuma autoridade e era negado na terça pelo governo argentino e por aliados do senador. Na madrugada de quarta, a Argentina divulgou um registro oficial de entrada e de embarque em voo privado (veja a seção da madrugada de 28 de outubro).
 - A PF verifica fronteiras e voos. Fontes da PF dizem que ele não passou por posto regular de migração brasileiro.
-- Na tarde de 27 de outubro, o Iguazú Ahora disse que o nome de Flávio não consta no manifesto do jato, e o canal TN disse que o avião está retido e que um passageiro "presumivelmente" seria Flávio. As versões divergem e nenhuma foi confirmada oficialmente.
-- Segundo o Poder360 e o Money Times, o paradeiro de Flávio era desconhecido na manhã de 27 de outubro, e a PF disse não saber onde ele está. Segundo a coluna de Mônica Bergamo, a PF identificou que ele não passou oficialmente pela fronteira regular. O governo argentino nega que ele tenha entrado no país.
+- Na tarde de 27 de outubro, o Iguazú Ahora disse que o nome de Flávio não constava no manifesto do jato, e o canal TN disse que o avião estava retido. Na madrugada de 28 de outubro, o registro oficial da Argentina e os rastreadores mostraram que o avião decolou.
+- Segundo o Poder360 e o Money Times, o paradeiro de Flávio era desconhecido na manhã de 27 de outubro, e a PF disse não saber onde ele está. Segundo a coluna de Mônica Bergamo, a PF identificou que ele não passou oficialmente pela fronteira regular. Na terça, o governo argentino negava que ele tivesse entrado no país; na madrugada de quarta, a Direção Nacional de Migrações disse o contrário.
 - Segundo duas fontes da PF ouvidas pela Reuters, Flávio descumpriu o prazo para entregar os passaportes, que terminou às 11h de 27 de outubro. Segundo o Terra, não há mandado de prisão contra ele.
 - Segundo o relato de um piloto à Folha, repassado por um funcionário anônimo do aeroporto argentino, o nome de Flávio constava na lista do jato, com o campo do documento em branco. O piloto não viu Flávio, e o relato não tem confirmação independente. O portal Iguazú Ahora disse o contrário, que o nome não consta.
-- Segundo a Reuters, que cita duas fontes não identificadas (um aliado próximo e uma fonte do governo americano), Flávio viajou aos Estados Unidos. A CNN Brasil e o Metrópoles citam aliados, que dizem que ele foi com a família e pedirá asilo. Nenhuma fonte identificada confirmou a viagem, e o governo argentino diz que ele não entrou na Argentina.
+- Segundo a Reuters, que cita duas fontes não identificadas (um aliado próximo e uma fonte do governo americano), Flávio viajou aos Estados Unidos. A CNN Brasil e o Metrópoles citam aliados, que dizem que ele foi com a família e pedirá asilo. Esses relatos de terça diziam que ele já estava nos EUA. O registro argentino de quarta indica que ele só embarcou de Puerto Iguazú na noite de terça.
 - A Gazeta do Povo diz que a PF confirmou que ele deixou o país, informação que os outros veículos consultados não reproduzem de forma identificada.
 - Deputados do PT pediram ao STF a prisão preventiva de Flávio e a inclusão dele na Interpol. Até o fechamento deste texto, não havia decisão de Moraes.
 - Segundo a AP, o Axios e o Metrópoles, uma autoridade anônima do Departamento de Estado dos EUA disse que o governo americano emitirá vistos para Flávio e a família e permitirá a entrada deles. A autoridade não disse se ele já saiu do Brasil. Visto não é asilo, e não há confirmação oficial de pedido ou concessão de asilo.
-- Até a noite de 27 de outubro, não encontramos declaração de Flávio, da defesa ou de um porta-voz americano nomeado confirmando que ele está nos Estados Unidos, nem decisão de Moraes sobre prisão.
-- Este artigo não afirma que Flávio fugiu, nem que está nos Estados Unidos, nem que está no Brasil. Ele reúne o que foi publicado até a noite de 27 de outubro de 2026 e atribui cada informação à sua fonte.
+- Segundo a Direção Nacional de Migrações da Argentina, Flávio, a esposa e as duas filhas entraram no país às 22h50 de 27 de outubro e embarcaram às 23h30 em voo privado da Baires Fly com destino declarado a Guayaquil, no Equador.
+- Segundo sites de rastreamento citados pela imprensa, o jato LV-JQW pousou em Guayaquil por volta das 5h46 de 28 de outubro e seguiu para Opa-locka, em Miami, com previsão de pouso por volta das 10h30. Não há confirmação de quem está a bordo nesse trecho.
+- Segundo CartaCapital e The Guardian, Donald Trump disse que aprovaria a entrada da família.
+- Até a manhã de 28 de outubro, não encontramos declaração de Flávio, da defesa ou de um porta-voz americano nomeado confirmando que ele está nos Estados Unidos, nem decisão de Moraes sobre prisão.
+- Este artigo não afirma que Flávio fugiu, nem que está nos Estados Unidos, nem que está no Brasil. Ele reúne o que foi publicado até a manhã de 28 de outubro de 2026 e atribui cada informação à sua fonte.
 
 ## Fontes consultadas para este artigo
 
@@ -231,6 +268,10 @@ Este espaço não vai dar uma resposta pronta.
 - NC News, "Flávio Bolsonaro chega aos EUA e encontra Eduardo na Flórida" (27 de outubro de 2026)
 - Revista Fórum, "Marcon confirma fuga de Flávio Bolsonaro" (27 de outubro de 2026, com base em publicação do deputado na rede X que não conseguimos abrir)
 - Bloomberg, título de reportagem que cita O Globo sobre a chegada a Miami (27 de outubro de 2026; texto não consultado)
+- CNN Brasil, reportagens sobre o comunicado da Direção Nacional de Migrações da Argentina e o voo rumo a Miami (28 de outubro de 2026)
+- CartaCapital, Metrópoles e O Tempo, reportagens sobre o registro argentino, o rastreamento do jato LV-JQW e as declarações de Donald Trump (28 de outubro de 2026)
+- The Guardian e Ámbito, reportagens sobre a saída do avião e o comunicado de Migrações (28 de outubro de 2026)
+- Direção Nacional de Migrações da Argentina (@Migraciones_AR), comunicado citado pelos veículos acima; não consultamos a publicação original
 - Infobae, TN e Iguazú Ahora (Argentina), reportagens citadas pelos veículos acima
 
 Veja também: [Linha do tempo: a corrida eleitoral de 2026](/blog/linha-do-tempo-eleicao-2026) e [A virada no segundo turno de 2026](/blog/virada-segundo-turno-2026).
