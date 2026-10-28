@@ -1,6 +1,6 @@
 ---
 title: 'Linha do tempo: o passaporte de Flávio Bolsonaro e a viagem aos EUA relatada pela imprensa'
-description: 'Do pedido da PF sete minutos após o resultado à reportagem da Reuters sobre uma viagem aos EUA. Veja o que está confirmado oficialmente, o que vem de fontes anônimas e o que ninguém sabe ainda.'
+description: 'Do pedido da PF sete minutos após o resultado ao anúncio de que os EUA darão visto a Flávio Bolsonaro e à família. Veja o que está confirmado oficialmente, o que vem de fontes anônimas e o que ninguém sabe ainda.'
 pubDate: 'Oct 27 2026'
 updatedDate: 'Oct 27 2026'
 category: 'Linha do Tempo'
@@ -9,17 +9,18 @@ heroImage: '../../assets/capa-flavio-passaporte-paradeiro-2026.jpg'
 
 Poucas horas depois do fim do segundo turno, o senador Flávio Bolsonaro (PL-RJ) se viu no centro de uma história que mistura uma decisão judicial sigilosa, uma reportagem de um site argentino, várias negativas e, depois, relatos de que ele teria viajado aos Estados Unidos. Em 27 de outubro de 2026, a pergunta que circulava nas redes era: **onde está Flávio Bolsonaro?**
 
-Este artigo organiza os fatos em ordem cronológica e separa três coisas que costumam se misturar: o que **está confirmado**, o que é **relato de fontes anônimas** e o que **ainda não se sabe**. A história continua em andamento, então tudo aqui reflete as informações publicadas até o fim da tarde de 27 de outubro.
+Este artigo organiza os fatos em ordem cronológica e separa três coisas que costumam se misturar: o que **está confirmado**, o que é **relato de fontes anônimas** e o que **ainda não se sabe**. A história continua em andamento, então tudo aqui reflete as informações publicadas até a noite de 27 de outubro.
 
 ## Resumo rápido
 
 - **Confirmado:** o ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), cancelou os passaportes de Flávio, mandou que ele entregasse os documentos à Polícia Federal (PF) em 24 horas e o proibiu de deixar o país. A decisão atende a um pedido da PF.
 - **Confirmado:** a PF verificou fronteiras e voos para saber se ele saiu do Brasil. Até o fim da tarde, a PF não havia divulgado registro formal de saída.
 - **Confirmado por fontes da PF (Reuters):** o prazo para entregar os passaportes venceu às 11h de 27 de outubro e Flávio não os entregou. A PF cancelou os documentos no sistema. Não há mandado de prisão contra ele.
+- **Visto, segundo autoridade anônima dos EUA:** a Associated Press, o Axios e o Metrópoles informam que uma autoridade do Departamento de Estado americano, que não se identificou, disse que os EUA **emitirão vistos** para Flávio e a família e permitirão a entrada deles. A autoridade não disse se ele já saiu do Brasil. Visto não é asilo, e **não há confirmação oficial de pedido ou concessão de asilo**.
 - **Relatado por fontes anônimas:** a Reuters publicou, às 15h18 segundo o texto republicado, que Flávio viajou aos Estados Unidos, com base em duas fontes não identificadas: um aliado próximo e uma fonte do governo americano. A CNN Brasil e o Metrópoles também citam aliados, que dizem que ele foi com a família.
 - **Divergência sobre a PF:** a Gazeta do Povo diz que a PF confirmou à reportagem que ele deixou o país. A Reuters e a CNN Brasil, nos textos que consultamos, não trazem confirmação oficial e identificada da PF.
 - **Alegação sobre a rota:** o site argentino Infobae disse que ele cruzou a fronteira e embarcou em um jato em Puerto Iguazú. O governo argentino diz que ele **não entrou** no país, e a rota segue sem confirmação.
-- **Sem declaração oficial e identificada** da defesa, do próprio Flávio, do STF, do governo brasileiro ou do governo americano sobre a viagem até o fim da tarde de 27 de outubro.
+- **Sem declaração oficial e identificada** da defesa, do próprio Flávio, do STF, do governo brasileiro ou de um porta-voz americano nomeado sobre a viagem, até a noite de 27 de outubro. Não houve decisão de Moraes sobre prisão.
 
 ## A linha do tempo
 
@@ -127,11 +128,26 @@ Dois pontos de atenção: as versões sobre a lista de passageiros se contradize
 
 Pontos de atenção: **nenhuma fonte identificada** confirmou a viagem, e os relatos vêm de aliados anônimos, de uma fonte anônima do governo americano e, segundo a Gazeta do Povo, de uma confirmação da PF que os outros veículos não reproduzem com identificação. A rota (Argentina ou outra) e o jato de Puerto Iguazú **não foram ligados** à viagem por nenhuma fonte oficial.
 
+### Terça-feira, 27 de outubro, noite: os EUA dizem que darão visto
+
+- **Associated Press e Axios:** segundo a AP, uma autoridade sênior do Departamento de Estado, falando sob anonimato "por causa das leis de privacidade de vistos", disse que o departamento "emitirá vistos para Flávio Bolsonaro e sua família e permitirá a entrada deles nos Estados Unidos". A frase usa o futuro, e a AP informa que a autoridade não disse se ele já saiu do Brasil nem se está a caminho. Nenhum porta-voz do Departamento de Estado foi citado com nome.
+- **Metrópoles (18h28) e Gazeta do Povo (18h59):** reproduzem a informação, com a mesma fonte anônima do Departamento de Estado. A Gazeta do Povo diz que fontes ligadas à PF confirmaram a viagem aos EUA com a família, sem identificação, e que uma fonte próxima ao senador disse que o destino era Miami. O tipo de visto e a data de entrada não foram informados.
+- **Visto não é asilo:** o Metrópoles destaca que são procedimentos diferentes. O advogado mexicano Simón Levy, descrito como aliado de Trump e sem cargo oficial, escreveu no X que o governo teria autorizado asilo político a Flávio e que ele "chegou em segurança aos Estados Unidos". Isso não foi confirmado por nenhuma autoridade, e a declaração oficial tratou apenas de vistos.
+- **Deputado Maurício Marcon (PL-RS):** segundo a Revista Fórum, que cita uma publicação dele na rede X que não conseguimos abrir, Marcon afirmou que Flávio saiu do país rumo aos EUA, onde seguirá sendo líder da oposição. Ele é aliado de Flávio, e a fala dele não é confirmação oficial.
+- **Entrevista coletiva e encontro com Eduardo:** segundo o Metrópoles e o ND Mais, aliados anônimos dizem que Flávio planeja dar uma entrevista coletiva em Washington na quarta-feira (28) para explicar a viagem e a decisão judicial. O NC News (20h36) diz, sem citar fonte, que ele encontrou Eduardo Bolsonaro na Flórida. A data, o horário e o local da entrevista não foram confirmados oficialmente.
+- **Bloomberg:** o título de uma reportagem da Bloomberg, citando O Globo, diz que ele chegou a Miami. Não conseguimos abrir o texto, então não incluímos nenhum detalhe além do título.
+- **Lula:** em declaração na tarde de terça, segundo a Gazeta do Povo, o presidente chamou a saída de Flávio de "vergonhosa" e disse que "o cidadão que sai escondido desse país deve alguma coisa". São opiniões dele, não fatos apurados.
+- **PGR, STF e Moraes:** não encontramos nenhuma decisão de Moraes sobre prisão preventiva nem sobre o pedido do PT até o fechamento deste texto.
+
+Pontos de atenção: a única fonte do visto é uma **autoridade anônima** do Departamento de Estado, e mesmo ela falou em futuro. Os relatos de que Flávio **já chegou** aos Estados Unidos vêm de fontes anônimas, de um advogado privado ligado a Trump e de veículos que não identificam a fonte. Até a noite de terça, não encontramos uma declaração de Flávio, da defesa ou de um porta-voz americano nomeado confirmando que ele está no país.
+
 ## O que ainda não se sabe
 
-- **Se ele realmente está nos Estados Unidos.** A Reuters e outros veículos relatam isso com fontes anônimas. Até o fim da tarde de 27 de outubro, o próprio Flávio, a defesa, o STF e o governo brasileiro não haviam confirmado de forma identificada.
+- **Se ele já está nos Estados Unidos.** A Reuters e outros veículos relatam isso com fontes anônimas, e a autoridade americana falou em vistos futuros. Até a noite de 27 de outubro, o próprio Flávio, a defesa, o STF e o governo brasileiro não haviam confirmado de forma identificada.
+- **Que tipo de visto será emitido e quando.** A autoridade americana não informou.
 - **Como ele teria saído do Brasil.** O Infobae fala em travessia por terra até a Argentina, mas a Argentina diz que ele não entrou. Nenhuma rota foi confirmada.
-- **Se ele pedirá asilo.** Aliados dizem que sim, segundo o Metrópoles e a Jovem Pan. O governo argentino diz que não há pedido de asilo lá, e não há confirmação sobre os EUA.
+- **Se ele pedirá ou receberá asilo.** Aliados dizem que sim, segundo o Metrópoles e a Jovem Pan, e um advogado ligado a Trump disse que foi autorizado. Não há confirmação oficial, e o Departamento de Estado falou apenas de vistos.
+- **Se a entrevista coletiva em Washington vai acontecer.** Ela aparece só em relatos de aliados anônimos.
 - **Quem estava no avião de Puerto Iguazú.** As versões divergem e todas vêm de fontes anônimas: uma diz que o nome de Flávio não consta no manifesto, outra fala em passageiro "presumido", outra em nome na lista com o documento em branco. Nenhuma lista oficial foi divulgada.
 - **Por que o voo não saiu.** O Clarín fala em plano de voo cancelado e "problema" com um passageiro. Outros relatos falam em decolagem barrada ou em voo marcado para as 17h. Nenhuma versão foi confirmada oficialmente.
 - **Onde Flávio está neste momento.** Segundo o Money Times, a própria PF disse desconhecer a localização do senador na manhã de terça. Depois disso vieram os relatos de fontes anônimas sobre os EUA.
@@ -169,7 +185,9 @@ Este espaço não vai dar uma resposta pronta.
 - Segundo a Reuters, que cita duas fontes não identificadas (um aliado próximo e uma fonte do governo americano), Flávio viajou aos Estados Unidos. A CNN Brasil e o Metrópoles citam aliados, que dizem que ele foi com a família e pedirá asilo. Nenhuma fonte identificada confirmou a viagem, e o governo argentino diz que ele não entrou na Argentina.
 - A Gazeta do Povo diz que a PF confirmou que ele deixou o país, informação que os outros veículos consultados não reproduzem de forma identificada.
 - Deputados do PT pediram ao STF a prisão preventiva de Flávio e a inclusão dele na Interpol. Até o fechamento deste texto, não havia decisão de Moraes.
-- Este artigo não afirma que Flávio fugiu, nem que está nos Estados Unidos, nem que está no Brasil. Ele reúne o que foi publicado até o fim da tarde de 27 de outubro de 2026 e atribui cada informação à sua fonte.
+- Segundo a AP, o Axios e o Metrópoles, uma autoridade anônima do Departamento de Estado dos EUA disse que o governo americano emitirá vistos para Flávio e a família e permitirá a entrada deles. A autoridade não disse se ele já saiu do Brasil. Visto não é asilo, e não há confirmação oficial de pedido ou concessão de asilo.
+- Até a noite de 27 de outubro, não encontramos declaração de Flávio, da defesa ou de um porta-voz americano nomeado confirmando que ele está nos Estados Unidos, nem decisão de Moraes sobre prisão.
+- Este artigo não afirma que Flávio fugiu, nem que está nos Estados Unidos, nem que está no Brasil. Ele reúne o que foi publicado até a noite de 27 de outubro de 2026 e atribui cada informação à sua fonte.
 
 ## Fontes consultadas para este artigo
 
@@ -203,6 +221,14 @@ Este espaço não vai dar uma resposta pronta.
 - Jovem Pan, "Flávio planeja asilo político nos EUA e se encontrará com Eduardo nesta quarta-feira" (27 de outubro de 2026)
 - CNN Brasil, "O que se sabe sobre a fuga de Flávio Bolsonaro do Brasil" e "Fuga de Flávio pode motivar prisão preventiva, dizem especialistas" (27 de outubro de 2026)
 - Revista Fórum, "Flávio Bolsonaro na mira: deputados do PT pedem prisão preventiva e inclusão na Interpol" (27 de outubro de 2026)
+- Associated Press, "Brazil's Flávio Bolsonaro and family will get US visas after election loss, State Department says" (27 de outubro de 2026), e Axios, "U.S. granting visas to Flávio Bolsonaro and family" (27 de outubro de 2026)
+- Metrópoles, "Governo Trump confirma emissão de vistos para Flávio Bolsonaro e família" (27 de outubro de 2026)
+- Gazeta do Povo, "Governo Trump vai conceder vistos a Flávio Bolsonaro e sua família, diz imprensa dos EUA" e "Lula chama viagem de Flávio de 'vergonhosa'" (27 de outubro de 2026)
+- O Liberal, "Após deixar o Brasil, Flávio Bolsonaro já está nos EUA e irá pedir 'asilo'" (27 de outubro de 2026)
+- ND Mais e Metrópoles (coluna de Igor Gadelha), reportagens sobre a entrevista coletiva planejada nos EUA (27 de outubro de 2026)
+- NC News, "Flávio Bolsonaro chega aos EUA e encontra Eduardo na Flórida" (27 de outubro de 2026)
+- Revista Fórum, "Marcon confirma fuga de Flávio Bolsonaro" (27 de outubro de 2026, com base em publicação do deputado na rede X que não conseguimos abrir)
+- Bloomberg, título de reportagem que cita O Globo sobre a chegada a Miami (27 de outubro de 2026; texto não consultado)
 - Infobae, TN e Iguazú Ahora (Argentina), reportagens citadas pelos veículos acima
 
 Veja também: [Linha do tempo: a corrida eleitoral de 2026](/blog/linha-do-tempo-eleicao-2026) e [A virada no segundo turno de 2026](/blog/virada-segundo-turno-2026).
