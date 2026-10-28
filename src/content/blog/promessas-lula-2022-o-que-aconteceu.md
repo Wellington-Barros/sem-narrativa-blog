@@ -1,6 +1,6 @@
 ---
 title: 'O que Lula prometeu em 2022 e o que aconteceu no mandato: o que foi cumprido, o que mudou e o que ficou de fora'
-description: 'Dois levantamentos independentes contam as promessas de campanha de Lula em 2022 de formas diferentes. Veja 14 promessas com data, fonte e dados oficiais, o que foi cumprido, o que mudou e o que a checagem não consegue medir.'
+description: 'Dois levantamentos independentes contam as promessas de campanha de Lula em 2022 de formas diferentes. Veja 15 promessas com data, fonte e dados oficiais, o que foi cumprido, o que mudou e o que a checagem não consegue medir.'
 pubDate: 'Oct 28 2026'
 category: 'Fato ou Narrativa'
 heroImage: '../../assets/capa-promessas-lula-2022-o-que-aconteceu.jpg'
@@ -30,7 +30,7 @@ Para cada item, separamos três coisas: **o que foi dito** em 2022, **o que acon
 - **Não cumprida:** não encontramos ação concluída.
 - **Sem como medir:** a promessa não tinha meta ou prazo que permita checar.
 
-## Visão geral das 14 promessas
+## Visão geral das 15 promessas
 
 <div class="promessas-lista">
 <div class="promessa-card">
@@ -86,6 +86,12 @@ Para cada item, separamos três coisas: **o que foi dito** em 2022, **o que acon
 <div class="promessa-bloco"><span class="promessa-rotulo">O que aconteceu</span><p>Queda de cerca de metade desde 2022, meta ainda não atingida</p></div>
 <div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Situação</span><p><span class="selo selo-parcial">Em andamento</span></p></div>
 <div class="promessa-bloco promessa-fonte"><span class="promessa-rotulo">Fonte</span><p>Prodes/INPE (Olhar Digital)</p><span class="promessa-rotulo">Classificação externa</span><p>Folha (jan/2025): "não deslancharam"</p></div>
+</div>
+<div class="promessa-card">
+<div class="promessa-bloco"><span class="promessa-rotulo">Promessa (2022)</span><p>Zerar as filas do SUS acumuladas na pandemia</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">O que aconteceu</span><p>Programa "Agora Tem Especialistas"; o tamanho real da fila não é conhecido, segundo o Conasems</p></div>
+<div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Situação</span><p><span class="selo selo-parcial">Em parte</span></p></div>
+<div class="promessa-bloco promessa-fonte"><span class="promessa-rotulo">Fonte</span><p>Ministério da Saúde e Conasems, citados em coluna de opinião da Gazeta do Povo, não conferida de forma independente</p><span class="promessa-rotulo">Classificação externa</span><p>G1: cumprida em parte</p></div>
 </div>
 <div class="promessa-card">
 <div class="promessa-bloco"><span class="promessa-rotulo">Promessa (2022)</span><p>Valorizar o salário mínimo</p></div>
