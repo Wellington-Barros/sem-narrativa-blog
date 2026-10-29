@@ -6,6 +6,8 @@ category: 'Fato ou Narrativa'
 heroImage: '../../assets/capa-urnas-zeradas-segundo-turno-2026.jpg'
 ---
 
+Este artigo nasceu de uma sugestão do nosso seguidor **Guilherme Cândido** ([@guiiicandido](https://www.instagram.com/guiiicandido/) no Instagram), que pediu que olhássemos de perto o caso das urnas sem voto para um dos candidatos. Obrigado pela pauta, Guilherme.
+
 Nos últimos dias, grupos de mensagens e redes sociais passaram a repetir que existem dezenas de urnas em que Lula teria "quase 100%" dos votos e Flávio Bolsonaro teria zero. A informação tem uma origem real, mas costuma circular sem o contexto que permite entender o que ela significa e o que não significa.
 
 Este artigo parte do levantamento original e **refaz a conta nos dados oficiais do TSE**, urna por urna. Ele mostra o que foi confirmado, compara com o segundo turno de 2022, lista o que não se sabe e **não afirma nem descarta irregularidade**: apresenta o que os boletins registram.
