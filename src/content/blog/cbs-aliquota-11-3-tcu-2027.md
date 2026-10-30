@@ -1,6 +1,6 @@
 ---
 title: 'CBS de 11,3% em 2027: o que o TCU decidiu, como a alíquota foi calculada e o que ainda falta definir'
-description: 'O TCU calculou a alíquota de referência da CBS em 11,3% para 2027, acima das estimativas de cerca de 9% que circulavam. Entenda o que isso significa, como o número foi calculado, o que o Senado ainda decide e o que as fontes não esclarecem.'
+description: 'O TCU calculou a alíquota de referência da CBS em 11,3% para 2027, acima das estimativas de cerca de 9% que circulavam. Somada ao IBS estimado, a alíquota total ficaria perto de 30%, a maior do mundo entre as comparações encontradas. Veja as condições, o que o Senado decide e o que as fontes não esclarecem.'
 pubDate: 'Oct 30 2026'
 category: 'Como Funciona'
 heroImage: '../../assets/capa-cbs-aliquota-11-3-tcu-2027.jpg'
@@ -8,11 +8,14 @@ heroImage: '../../assets/capa-cbs-aliquota-11-3-tcu-2027.jpg'
 
 Em 28 de outubro de 2026, o Tribunal de Contas da União (TCU) aprovou o cálculo da **alíquota de referência da CBS para 2027: 11,3%**. A notícia foi destaque na Agência Senado, na CNN Brasil, na Forbes e em vários outros veículos, e levantou a dúvida sobre o que muda para empresas e consumidores.
 
+**Um dos pontos que mais circulou é a comparação internacional:** somada ao IBS estimado, a alíquota total do novo IVA brasileiro ficaria em cerca de 30%, acima da Hungria (27%), hoje a maior nas listas consultadas. Isso depende de condições, e a seção "Seria o maior IVA do mundo?" separa o que está confirmado do que é projeção.
+
 Este artigo explica o que a CBS é, o que o TCU de fato decidiu, como o número foi calculado, o que o Senado ainda precisa fazer e onde as fontes divergem. Ele **não defende nem critica a reforma tributária** e **não recomenda voto** em ninguém.
 
 ## Resumo rápido
 
 - **A decisão:** em sessão extraordinária do plenário, em 28 de outubro, o TCU aprovou a alíquota de referência da CBS de **11,3%** para 2027 (o valor exato, segundo a CNN Brasil e a Gazeta do Povo, é 11,3468%, arredondado). O relator foi o presidente do TCU, ministro Vital do Rêgo.
+- **Comparação internacional, com condições:** os 11,3% valem só para a parte federal (CBS). Somados à estimativa de **18,7% do IBS** (Comitê Gestor do IBS, não oficial), o IVA brasileiro chegaria a cerca de **30%**. Segundo PwC e Tax Foundation, citadas por veículos, a maior alíquota padrão hoje é a da **Hungria, 27%**. Se essa soma se confirmar, o Brasil passaria a ter a maior do mundo nesses rankings. A comparação usa a alíquota padrão, e o IBS ainda não foi fixado.
 - **O que a CBS é:** a Contribuição sobre Bens e Serviços é o tributo federal que passa a substituir o **PIS/Pasep e a Cofins**. A cobrança começa de forma efetiva em 2027.
 - **O que "alíquota de referência" quer dizer:** é o percentual calculado para que a União **arrecade o mesmo** que arrecadava com os tributos substituídos. Segundo o próprio TCU, é uma referência, não necessariamente a alíquota que cada contribuinte vai pagar.
 - **Por que chamou atenção:** estimativas anteriores eram menores. O Comitê Gestor do IBS havia indicado **9,21%** em julho, e o Ministério da Fazenda havia falado em **8,8%** em 2024. A diferença para o número do TCU é de cerca de 2,1 pontos percentuais.
@@ -70,6 +73,36 @@ Esta é a parte em que as fontes explicam o número de formas diferentes, e vale
 
 **A preocupação de contadores.** O contador Jorge Henrique, também ouvido por O Povo, diz que a alíquota maior preocupa em relação à carga tributária. Ele cita as alíquotas atuais de PIS/Cofins de 3,65% (lucro presumido) e 9,25% (lucro real). A comparação direta com os 11,3% não é simples: os regimes atuais e o novo têm regras de crédito, exceções e bases diferentes, e a nota do TCU não traz uma conta setor a setor.
 
+## Seria o maior IVA do mundo?
+
+Esta é a pergunta que mais circula desde a decisão do TCU, e a resposta curta é: **segundo vários veículos, sim, se a soma das duas partes se confirmar**. Mas há condições importantes, e elas ficam fora das manchetes.
+
+<div class="promessas-lista">
+<div class="promessa-card">
+<div class="promessa-bloco"><span class="promessa-rotulo">O que é comparado</span><p>Os 11,3% são só a **CBS** (parte federal). O que se compara com outros países é o IVA inteiro: **CBS + IBS**</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">A conta que circula</span><p>CBS 11,3% (TCU) + IBS 18,7% (projeção metodológica do Comitê Gestor do IBS) = cerca de **30%**</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">O ranking atual</span><p>Hungria **27%**, Dinamarca, Noruega, Suécia e Croácia **25%**, Finlândia **24% a 25,5%** (conforme a fonte). Média da OCDE entre 19% e 19,7%</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">Resultado da comparação</span><p>Com 30%, o Brasil passaria a Hungria em cerca de 3 pontos percentuais e ficaria em primeiro lugar</p></div>
+<div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Situação</span><p><span class="selo selo-parcial">Verdadeiro se a soma se confirmar, ainda é projeção</span></p></div>
+<div class="promessa-bloco promessa-fonte"><span class="promessa-rotulo">Fonte</span><p>Portal da Reforma Tributária (ranking da PwC), Brazil Journal, Gazeta do Povo, SBT News (Tax Foundation 2026), Assertif</p></div>
+</div>
+</div>
+
+**O que cada fonte diz.** O Portal da Reforma Tributária, que cita ranking da PwC, afirma que o Brasil terá o maior IVA do mundo se a CBS permanecer em 11,3%, e fala em cerca de 30% somando o IBS. A Gazeta do Povo diz que, segundo a PwC, o Brasil passaria a ter o IVA mais alto do mundo, com 30%. O Brazil Journal escreve, no título, "IVA de pelo menos 30%", mas, no corpo do texto, que ele "deverá ficar próximo de 30%". O SBT News, apoiado em dados da Tax Foundation de 2026, diz que o Brasil teria a maior alíquota padrão entre os países da OCDE. Uma página de ranking que consultamos (taxratesbycountry.com, que cita a base da OCDE e o FMI) não lista nenhum país acima de 27%.
+
+**A comparação ficaria assim com cada estimativa.** Antes da decisão do TCU, o Comitê Gestor do IBS trabalhava com 27,91% (9,21% de CBS e 18,7% de IBS), o que já colocaria o Brasil acima dos 27% da Hungria, por pouco. A proposta inicial da Secretaria Especial da Reforma Tributária, de 26,5%, deixaria o Brasil em segundo lugar, atrás da Hungria. Com os 11,3% do TCU, a soma sobe para perto de 30%.
+
+### O que precisa ser lido junto
+
+- **Os 11,3% sozinhos não são o maior do mundo.** A CBS é só uma parte. A comparação só vale com o IBS somado.
+- **O IBS ainda é estimativa.** Os 18,7% são uma projeção do Comitê Gestor do IBS. A alíquota será fixada em 2028 e, em 2027, o IBS será cobrado só a 0,1%, em caráter de teste. O valor final pode ficar acima ou abaixo disso. O Brazil Journal chega a descrever um cenário hipotético de 34,2%, que é projeção do próprio texto e não estimativa oficial.
+- **O topo do ranking só aparece quando o novo modelo estiver completo.** A comparação mistura uma estimativa para o fim da transição (2033) com alíquotas que já estão em vigor em outros países, segundo a Assertif.
+- **A CBS ainda pode mudar.** O Senado tem até 15 de dezembro para fixar a alíquota, e o TCU voltará a calcular o número todos os anos. A Gazeta do Povo informa ainda que, em 2027, a lei prevê um desconto de 0,1 ponto percentual na CBS para testes, o que deixaria a alíquota efetiva daquele ano em 11,2%.
+- **É a alíquota padrão, não a que o consumidor paga em tudo.** O Brasil terá produtos com alíquota reduzida ou zerada, como itens da cesta básica e alguns medicamentos, além de devolução de imposto (cashback) para famílias de baixa renda. O SBT News detalha que alíquotas zeradas e reduzidas diminuem a receita estimada da CBS em R$ 126,3 bilhões e R$ 61,89 bilhões, e que isso empurra a alíquota geral para cima.
+- **O Brasil funde cinco tributos em um.** Segundo a Assertif, o IVA dual ocupa o lugar de ICMS, ISS, PIS, Cofins e IPI, que somaram cerca de 12,3% do PIB em 2025. Em muitos países, o IVA convive com outros impostos sobre vendas. Esse é um dos motivos pelos quais a comparação pode ser incompleta.
+- **A carga total não é só o IVA.** O Brazil Journal ressalva que a comparação "não é totalmente justa", porque o Imposto de Renda efetivo europeu é bem superior ao brasileiro. Ele comenta ainda que, em países como Dinamarca e Suécia, a carga alta está ligada a serviços públicos. O texto não compara a qualidade dos serviços, e este artigo também não.
+- **Não achamos um ranking mundial completo.** Os rankings encontrados cobrem países da OCDE, da União Europeia e grandes economias. Todos colocam a Hungria no topo, e nenhum lista país acima de 27%, mas não localizamos uma tabela com todos os países do mundo.
+
 ## O que isso significa para quem paga
 
 Aqui está o limite do que os dados mostram. **11,3% não é o imposto que será embutido em cada compra.** As reportagens consultadas apontam por quê:
@@ -115,7 +148,7 @@ Nenhuma dessas divergências muda a decisão em si: todas as fontes concordam qu
 ## O que ainda não se sabe
 
 - **A alíquota final:** ela depende da resolução do Senado, que pode confirmar o cálculo do TCU ou, segundo reportagens, alterá-lo.
-- **A alíquota do IBS:** de estados e municípios, ainda sem número oficial.
+- **A alíquota do IBS:** de estados e municípios, ainda sem número oficial. É dela que depende a comparação internacional: com 18,7%, o IVA total fica perto de 30%, e qualquer valor diferente muda o resultado.
 - **O Imposto Seletivo:** o projeto de lei ainda não tinha sido enviado ao Congresso, segundo o UOL, e a arrecadação projetada dele entra no cálculo da alíquota. Segundo a Forbes, o tributo precisa de lei própria e só pode ser cobrado 90 dias depois de criado.
 - **O impacto por setor e por produto:** nenhuma fonte consultada traz esse levantamento.
 - **O efeito da redução da sonegação:** o TCU diz que incluiu essa expectativa no cálculo, mas não detalha o quanto ela reduziu a alíquota.
@@ -126,6 +159,7 @@ Nenhuma dessas divergências muda a decisão em si: todas as fontes concordam qu
 
 - **"Alíquota de referência" não é o preço final.** É o ponto de partida para manter a arrecadação equivalente.
 - **Número maior não prova aumento de carga, e número menor não prova redução.** A neutralidade da reforma depende de como as exceções, os créditos e o IBS se combinam.
+- **"Maior do mundo" é uma conclusão condicional.** Ela vale se CBS e IBS ficarem perto de 11,3% e 18,7% e se a comparação considerar só a alíquota padrão. Não diz nada sobre quanto cada pessoa vai pagar no fim do mês.
 - **Estimativa não oficial não é meta do governo.** Os 9,21% e os 18,7% circularam como referência, mas não foram decisão de nenhum órgão.
 - **Opinião de especialista é opinião.** Dotoli, Henrique, Andrade e os advogados citados falam por si, e há leituras diferentes entre eles.
 - **O blog não toma partido.** Há quem defenda a reforma pela simplificação e quem critique a carga e a previsibilidade. Este artigo apresenta o que foi decidido e o que ainda está aberto.
@@ -147,6 +181,7 @@ Nenhuma dessas divergências muda a decisão em si: todas as fontes concordam qu
 - Estimativas anteriores, não oficiais, indicavam 9,21% (Comitê Gestor do IBS, julho de 2026) e 8,8% (Fazenda, 2024).
 - A receita estimada da CBS em 2027 é de R$ 636,8 bilhões no projeto de orçamento, e a do Imposto Seletivo, de R$ 41,9 bilhões.
 - O Senado fixa a alíquota por resolução até 15 de dezembro de 2026 (22 de dezembro na Agência Senado). Sem resolução, vale o cálculo do TCU.
+- Somada à estimativa de 18,7% do IBS, a CBS de 11,3% levaria o IVA brasileiro a cerca de 30%, acima da Hungria (27%), a maior alíquota padrão nos rankings consultados (PwC, Tax Foundation, OCDE). A comparação é condicional: o IBS ainda não foi fixado e o ranking usa a alíquota padrão, sem considerar alíquotas reduzidas, isenções e a fusão de cinco tributos.
 - Advogados apontam possível disputa judicial sobre a noventena, ainda sem decisão de tribunal.
 - Este artigo não defende nem critica a reforma tributária e não recomenda voto.
 
@@ -164,6 +199,12 @@ Nenhuma dessas divergências muda a decisão em si: todas as fontes concordam qu
 - Sindifisco-MS, "Alíquota da Reforma Tributária: por que a definição só sai em 15 de dezembro"
 - Migalhas, "CBS: fixação da alíquota para 2027" (artigo de opinião de Ronaldo Corrêa Martins)
 - Capital Aberto, "Noventena da CBS e dupla alíquota elevam risco em 2027" (junho de 2026)
+- Portal da Reforma Tributária, "Brasil deve ter o maior IVA do mundo se CBS permanecer em 11,3%", Gabriel Benevides (28 de outubro de 2026, cita ranking da PwC)
+- Brazil Journal, "Prepare o bolso e o caixa: vem aí o IVA de (pelo menos) 30%" (28 de outubro de 2026)
+- Gazeta do Povo, "CBS inflado pelo governo frustra empresas e pode elevar impostos", Vandré Kramer (29 de outubro de 2026)
+- SBT News, "Brasil pode ter o maior imposto sobre consumo do mundo" (28 de outubro de 2026, com dados da Tax Foundation 2026)
+- Assertif, "Maior IVA do mundo? Brasil e a alíquota de 27,91%" (atualizada em 26 de outubro de 2026)
+- Taxratesbycountry.com, ranking de maiores alíquotas de IVA em 2026 (base citada: OCDE, FMI e autoridades fiscais)
 - Lei Complementar nº 214/2025, que regulamenta a reforma tributária sobre o consumo (consultada por meio das reportagens, não do texto integral)
 
 Veja também: [Linha do tempo: a Reforma Tributária, do projeto à implementação](/blog/linha-do-tempo-reforma-tributaria), [Carga tributária no Brasil](/blog/carga-tributaria-brasil) e [Como funciona uma PEC](/blog/pec-como-funciona).
