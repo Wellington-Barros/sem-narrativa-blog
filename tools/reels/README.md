@@ -5,7 +5,8 @@ Esta pasta guarda os arquivos usados para gerar os reels e as capas do blog. Ela
 ## Reels
 - reel11.html: reel das 106 urnas (com pausa de cerca de 3 s por cena).
 - reel12.html: reel da CBS de 11,3%. Use este como modelo para reels novos.
-- render11.py e render12.py: renderizam o HTML correspondente.
+- reel13.html: reel do fim da escala 6x1 (Emenda 141).
+- render11.py, render12.py e render13.py: renderizam o HTML correspondente.
 
 Render completo (de 4 a 10 minutos, rodar em segundo plano):
 python3 render12.py /caminho/saida.mp4

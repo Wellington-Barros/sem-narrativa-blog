@@ -1,0 +1,230 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{width:1080px;height:1920px;background:#09090f;overflow:hidden;font-family:'Inter',sans-serif;color:#fff}
+#bg{position:absolute;inset:0;background:radial-gradient(900px 700px at 50% 104%,rgba(80,56,170,.6),transparent 70%),radial-gradient(700px 600px at 92% 0%,rgba(54,38,130,.5),transparent 70%)}
+#glow{position:absolute;left:0;top:0;width:1100px;height:1100px;border-radius:50%;background:radial-gradient(closest-side,rgba(110,84,230,.16),transparent);opacity:1}
+#pc{position:absolute;left:0;top:0}
+.brand{position:absolute;top:150px;left:0;right:0;text-align:center;font-weight:800;font-size:46px;letter-spacing:1px;opacity:0}
+.brand u{text-decoration-thickness:4px;text-underline-offset:7px}
+#prog{position:absolute;top:238px;left:90px;width:900px;height:10px;display:flex;gap:8px;opacity:0}
+#prog i{flex:1;background:rgba(255,255,255,.14);border-radius:6px;overflow:hidden;display:block}
+#prog b{display:block;height:100%;width:0;background:#8c78ff;border-radius:6px}
+.scene{position:absolute;left:0;right:0;top:300px;bottom:340px;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:0 90px;opacity:0}
+.h{font-weight:800;line-height:1.06;letter-spacing:-2px}
+.row{display:block;white-space:nowrap}
+.w{display:inline-block;position:relative;margin:0 14px;opacity:0}
+.w .g{position:absolute;left:0;top:0;opacity:0;pointer-events:none}
+.p{color:#9a88ff}.s{color:#e6e6f2}.m{color:#a8a8c4}.amb{color:#f6b848}
+.num{font-weight:800;letter-spacing:-4px;line-height:1;white-space:nowrap;transform-origin:left center}
+.numc{transform-origin:center center}
+.lbl{font-size:58px;font-weight:600;color:#e6e6f2;line-height:1.15}
+.cap{font-size:50px;font-weight:600;color:#d2d2e6;line-height:1.25}
+.tag{display:inline-block;padding:12px 28px;border-radius:16px;font-weight:800;font-size:34px;letter-spacing:1.5px;background:#463ca0;color:#fff}
+.bar{flex:none;height:62px;border-radius:16px;width:0;background:#8c78ff}
+.pill{display:block;padding:14px 38px;border-radius:44px;background:rgba(140,120,255,.22);border:5px solid #8c78ff;font-weight:800;font-size:64px;margin:14px 0}
+.cardbox{flex:1;background:rgba(255,255,255,.07);border:3px solid rgba(255,255,255,.14);border-radius:36px;padding:34px 20px;text-align:center}
+.yr{font-weight:800;font-size:54px;color:#a8a8c4;letter-spacing:3px;margin-bottom:10px}
+#flash{position:absolute;inset:0;background:#a898ff;opacity:0;pointer-events:none}
+#sweep{position:absolute;left:0;top:0;width:520px;height:1920px;background:linear-gradient(90deg,transparent,rgba(150,128,255,.55),transparent);opacity:0;pointer-events:none}
+</style></head><body>
+<div id="bg"></div><div id="glow"></div><canvas id="pc" width="1080" height="1920"></canvas>
+<div class="brand" id="brand">SEM <u>NARRATIVA</u></div>
+<div id="prog"></div>
+
+
+<div class="scene" id="s1">
+ <span class="tag" id="tg1" style="margin-bottom:30px">EMENDA CONSTITUCIONAL 141</span>
+ <div class="num numc p" id="n1" style="font-size:300px;letter-spacing:-10px">44h</div>
+ <div class="h" style="font-size:100px;margin-top:10px"><span class="row" id="r11"></span><span class="row p" id="r12"></span><span class="row p" id="r13"></span></div>
+ <div class="amb" id="sub1" style="font-size:66px;font-weight:800;margin-top:60px;line-height:1.2">E o governo recuou?<br>Entenda.</div>
+</div>
+
+<div class="scene" id="s2">
+ <div class="h" style="font-size:112px"><span class="row" id="r21"></span><span class="row p" id="r22"></span></div>
+ <div style="width:900px;margin-top:70px;text-align:left">
+  <div id="a2a" style="margin:34px 0"><div class="num p" style="font-size:100px;letter-spacing:-2px">2 folgas</div><div class="lbl" style="font-size:60px">remuneradas por semana,<br>uma de preferência<br>no domingo</div></div>
+  <div id="a2b" style="margin:34px 0"><div class="num" style="font-size:100px;letter-spacing:-2px">40 horas</div><div class="lbl" style="font-size:60px">no máximo por semana,<br>e 8 horas por dia</div></div>
+  <div id="a2c" style="margin:34px 0"><div class="num amb" style="font-size:100px;letter-spacing:-2px">Sem corte</div><div class="lbl" style="font-size:60px">de salário, inclusive<br>nos pisos salariais</div></div>
+ </div>
+</div>
+
+<div class="scene" id="s3">
+ <div class="h" style="font-size:112px"><span class="row" id="r31"></span><span class="row p" id="r32"></span></div>
+ <div style="width:900px;margin-top:70px;text-align:left">
+  <div id="b3a" style="margin:20px 0 40px"><div class="lbl m" style="margin-bottom:12px;font-size:52px">Até dezembro de 2026</div><div style="display:flex;align-items:center"><div class="bar" id="bar3a" style="background:#6e6e8a;height:90px"></div><span class="num m" id="c3a" style="font-size:120px;margin-left:24px">0</span></div></div>
+  <div id="b3b" style="margin:20px 0 40px"><div class="lbl" style="margin-bottom:12px;font-size:52px">Dezembro de 2026</div><div style="display:flex;align-items:center"><div class="bar" id="bar3b" style="height:90px"></div><span class="num p" id="c3b" style="font-size:120px;margin-left:24px">0</span></div></div>
+  <div id="b3c" style="margin:20px 0"><div class="lbl amb" style="margin-bottom:12px;font-size:52px">Dezembro de 2027</div><div style="display:flex;align-items:center"><div class="bar" id="bar3c" style="background:#f6b848;box-shadow:0 0 28px 4px rgba(246,184,72,.5);height:90px"></div><span class="num amb" id="c3c" style="font-size:120px;margin-left:24px">0</span></div></div>
+ </div>
+ <div class="cap" id="cap3" style="margin-top:50px;font-size:50px">As 2 folgas também começam<br>na primeira etapa*</div>
+ <div class="m" id="n3" style="font-size:40px;font-weight:600;margin-top:26px;line-height:1.3">*a emenda diz "2 meses após a publicação":<br>15 ou 16/12, conforme a fonte</div>
+</div>
+
+<div class="scene" id="s4">
+ <div class="h" style="font-size:112px"><span class="row" id="r41"></span><span class="row p" id="r42"></span></div>
+ <div style="width:900px;margin-top:70px;text-align:left">
+  <div id="a4a" style="margin:34px 0"><div class="num p" style="font-size:88px;letter-spacing:-2px">Servidores</div><div class="lbl" style="font-size:56px">públicos, segundo<br>a Agência Senado</div></div>
+  <div id="a4b" style="margin:34px 0"><div class="num" style="font-size:88px;letter-spacing:-2px">Autônomos</div><div class="lbl" style="font-size:56px">a emenda trata<br>de empregados</div></div>
+  <div id="a4c" style="margin:34px 0"><div class="num p" style="font-size:88px;letter-spacing:-2px">Alta renda</div><div class="lbl" style="font-size:56px">diploma e 2,5 tetos do INSS<br>(~R$ 21,2 mil): sem controle de<br>jornada, mas com as 2 folgas</div></div>
+ </div>
+</div>
+
+<div class="scene" id="s5">
+ <div class="h" style="font-size:112px"><span class="row" id="r51"></span><span class="row p" id="r52"></span></div>
+ <div style="width:900px;margin-top:70px;text-align:left">
+  <div id="e5a" style="margin:22px 0"><div class="lbl" style="font-size:52px">Câmara, 1º turno (maio)</div><div class="num p" id="c5a" style="font-size:140px">0</div></div>
+  <div id="e5b" style="margin:22px 0"><div class="lbl" style="font-size:52px">Câmara, 2º turno (maio)</div><div class="num p" id="c5b" style="font-size:140px">0</div></div>
+  <div id="e5c" style="margin:22px 0"><div class="lbl amb" style="font-size:52px">Senado, nos 2 turnos (14/10)</div><div class="num amb" id="c5c" style="font-size:160px">0</div></div>
+ </div>
+ <div class="cap" id="cap5" style="margin-top:40px;font-size:52px">Promulgada em <span class="amb">16 de outubro</span></div>
+</div>
+
+<div class="scene" id="s6">
+ <span class="tag" id="tg6" style="margin-bottom:26px;font-size:30px">CHECAGEM</span>
+ <div class="h" style="font-size:108px"><span class="row" id="r61"></span><span class="row p" id="r62"></span></div>
+ <span class="pill" id="pl6" style="margin-top:40px;background:rgba(230,80,90,.22);border-color:#ff6b74;color:#ff8a92;font-size:96px;padding:14px 64px">FALSO</span>
+ <div style="width:900px;margin-top:40px;text-align:left">
+  <div id="k6a" style="margin:22px 0"><div class="lbl" style="font-size:52px">A emenda segue valendo,<br>com o mesmo calendário</div></div>
+  <div id="k6b" style="margin:22px 0"><div class="lbl" style="font-size:52px">Emenda promulgada não pode<br>ser vetada pelo presidente</div></div>
+  <div id="k6c" style="margin:22px 0"><div class="lbl" style="font-size:52px">Secom: nenhuma proposta<br>que retire direitos</div></div>
+ </div>
+ <div class="m" id="cap6" style="margin-top:30px;font-size:44px;font-weight:600">Conclusão da Lupa e de outros checadores</div>
+</div>
+
+<div class="scene" id="s7">
+ <div class="h" style="font-size:104px"><span class="row" id="r71"></span><span class="row amb" id="r72"></span></div>
+ <div style="width:900px;margin-top:56px;text-align:left">
+  <div id="k7a" style="margin:26px 0"><div class="num p" style="font-size:64px;letter-spacing:-1px">Quem prepara</div><div class="lbl" style="font-size:48px;color:#c8c8dc">senadores, com Eduardo Braga<br>(MDB-AM) à frente</div></div>
+  <div id="k7b" style="margin:26px 0"><div class="num p" style="font-size:64px;letter-spacing:-1px">Para quem</div><div class="lbl" style="font-size:48px;color:#c8c8dc">escalas especiais: petroleiros<br>embarcados, aeroviários, caminhoneiros</div></div>
+  <div id="k7c" style="margin:26px 0"><div class="num p" style="font-size:64px;letter-spacing:-1px">Situação</div><div class="lbl" style="font-size:48px;color:#c8c8dc">ainda não foi apresentada</div></div>
+  <div id="k7d" style="margin:26px 0"><div class="num p" style="font-size:64px;letter-spacing:-1px">Para valer</div><div class="lbl" style="font-size:48px;color:#c8c8dc">precisa de 3/5 dos votos,<br>em 2 turnos, nas 2 Casas</div></div>
+ </div>
+</div>
+
+<div class="scene" id="s8">
+ <div class="h" style="font-size:112px"><span class="row" id="r81"></span><span class="row p" id="r82"></span></div>
+ <div style="width:900px;margin-top:70px;text-align:left">
+  <div id="a8a" style="margin:34px 0"><div class="num p" id="c8a" style="font-size:130px;letter-spacing:-3px">0</div><div class="lbl" style="font-size:54px">trabalhadores na escala 6x1,<br>segundo o Ministério<br>do Trabalho</div></div>
+  <div id="a8b" style="margin:34px 0"><div class="num" id="c8b" style="font-size:130px;letter-spacing:-3px">0</div><div class="lbl" style="font-size:56px">por ano de custo extra para as<br>empresas, estimativa da CNI</div></div>
+ </div>
+ <div class="cap" id="cap8" style="margin-top:40px;font-size:52px">Uma é contagem, a outra<br>é <span class="amb">projeção</span>. O efeito real<br>ainda não foi medido</div>
+</div>
+
+<div class="scene" id="s9">
+ <div class="h" style="font-size:118px"><span class="row" id="r91"></span><span class="row p" id="r92"></span></div>
+ <div class="s" id="t91" style="font-size:56px;font-weight:600;margin-top:60px;line-height:1.28">Calendário, exceções,<br>PEC paralela e fontes</div>
+ <div class="s" id="t92" style="font-size:56px;font-weight:600;margin-top:36px;line-height:1.28">Artigo completo<br>no link da bio</div>
+ <div class="p" id="url9" style="font-size:84px;font-weight:800;margin-top:50px">semnarrativa.com.br</div>
+ <div class="m" id="t93" style="font-size:52px;font-weight:700;margin-top:44px">Sem recomendar voto. Só fatos.</div>
+</div>
+
+<div id="sweep"></div><div id="flash"></div>
+
+<script>
+const E={out:t=>1-Math.pow(1-t,3),io:t=>t<.5?4*t*t*t:1-Math.pow(-2*t+2,3)/2,lin:t=>t,back:t=>{const c=1.7;return 1+(c+1)*Math.pow(t-1,3)+c*Math.pow(t-1,2)}};
+const $=id=>document.getElementById(id);
+const TW=[];
+function st(el){if(!el._s)el._s={o:+getComputedStyle(el).opacity,y:0,x:0,s:1,b:0,w:null};return el._s}
+function wr(el){const s=st(el);el.style.opacity=s.o;el.style.transform=`translate(${s.x}px,${s.y}px) scale(${s.s})`;el.style.filter=s.b>0.1?`blur(${s.b}px)`:'none';if(s.w!==null)el.style.width=s.w+'px'}
+function tw(el,from,to,start,dur,ease='out',hold=true){TW.push({k:'t',el,from,to,start,dur,ease:E[ease],hold})}
+function cnt(el,a,b,fmt,start,dur){TW.push({k:'c',el,a,b,fmt,start,dur,ease:E.out})}
+function words(row,text,start,gap=.14){
+  const r=$(row);text.split(' ').forEach((t,i)=>{
+    const w=document.createElement('span');w.className='w';
+    const tx=document.createElement('span');tx.textContent=t;w.appendChild(tx);
+    for(let k=0;k<2;k++){const g=document.createElement('span');g.className='g';g.textContent=t;w.appendChild(g);
+      tw(g,{o:.32-k*.1,y:130+k*60,b:8},{o:0,y:50-k*20,b:2},start+i*gap+k*.06,.55,'out')}
+    r.appendChild(w);
+    tw(w,{o:0,y:80,b:16},{o:1,y:0,b:0},start+i*gap,.6,'out');
+  })
+}
+function reveal(id,start,dy=44){tw($(id),{o:0,y:dy},{o:1,y:0},start,.55)}
+function pop(id,start,from=1.22){tw($(id),{s:from},{s:1},start,.55,'back')}
+function inScene(id,start,end,last=false){const e=$(id);tw(e,{o:0,y:0,b:0,s:1},{o:1,y:0,b:0,s:1},start,.35,'out');if(!last)tw(e,{o:1,y:0,b:0,s:1},{o:0,y:-40,b:10,s:.97},end-.4,.4,'io',false)}
+const fmtN=v=>String(Math.round(v)).replace(/\B(?=(\d{3})+(?!\d))/g,'.');
+const fmtP=v=>v.toFixed(2).replace('.',',')+'%';
+
+const fmtD1=v=>v.toFixed(1).replace('.',',')+'%';
+const fmtD2=v=>v.toFixed(2).replace('.',',')+'%';
+const fmtI=v=>String(Math.round(v))+'%';
+const fmtC=v=>'~'+String(Math.round(v))+'%';
+const fmtH=v=>Math.round(v)+'h';
+const fmtV=(a,b)=>v=>Math.round(a*v)+' a '+Math.round(b*v);
+const BR=$('brand');tw(BR,{o:0},{o:1},0.2,.6,'out');
+const PROG=$('prog');tw(PROG,{o:0},{o:1},7.5,.5,'out');
+const STARTS=[7.7,15.6,24.2,32.0,40.6,49.6,58.5,66.3],ENDV=74.2;
+STARTS.forEach(()=>{const i=document.createElement('i');const b=document.createElement('b');i.appendChild(b);PROG.appendChild(i)});
+const PB=[...PROG.querySelectorAll('b')];
+function boundary(T){tw($('flash'),{o:.26},{o:0},T-.05,.4,'out',false);tw($('sweep'),{o:1,x:-560},{o:1,x:1120},T-.2,.7,'io',false)}
+STARTS.forEach(boundary);
+
+inScene('s1',0,7.7);
+reveal('tg1',.3);
+reveal('n1',.3,30);cnt($('n1'),44,40,fmtH,.9,1.4);pop('n1',2.3,1.18);
+words('r11','Fim da escala 6x1',2.1,.1);words('r12','já está na',2.6,.1);words('r13','Constituição',2.9,.1);
+reveal('sub1',3.8);
+
+inScene('s2',7.7,15.6);
+words('r21','O que',8.0,.1);words('r22','muda?',8.4,.1);
+reveal('a2a',9.2,36);reveal('a2b',10.4,36);reveal('a2c',11.6,36);
+
+inScene('s3',15.6,24.2);
+words('r31','O limite',15.9,.1);words('r32','cai em 2 etapas',16.3,.1);
+reveal('b3a',16.9);tw($('bar3a'),{w:0},{w:44*10},17.0,1,'out');cnt($('c3a'),0,44,fmtH,17.0,1);
+reveal('b3b',18.0);tw($('bar3b'),{w:0},{w:42*10},18.1,1,'out');cnt($('c3b'),0,42,fmtH,18.1,1);
+reveal('b3c',19.1);tw($('bar3c'),{w:0},{w:40*10},19.2,1,'out');cnt($('c3c'),0,40,fmtH,19.2,1);pop('c3c',20.2,1.1);
+reveal('cap3',20.2);reveal('n3',20.6);
+
+inScene('s4',24.2,32.0);
+words('r41','Quem fica',24.5,.1);words('r42','de fora?',24.9,.1);
+reveal('a4a',25.6,36);reveal('a4b',26.8,36);reveal('a4c',28.0,36);
+
+inScene('s5',32.0,40.6);
+words('r51','Aprovação',32.3,.1);words('r52','nas duas Casas',32.7,.1);
+reveal('e5a',33.4,30);cnt($('c5a'),0,1,fmtV(472,22),33.5,.9);
+reveal('e5b',34.5,30);cnt($('c5b'),0,1,fmtV(461,19),34.6,.9);
+reveal('e5c',35.6,30);cnt($('c5c'),0,1,fmtV(75,1),35.7,.9);pop('c5c',36.6,1.12);
+reveal('cap5',36.8);
+
+inScene('s6',40.6,49.6);
+reveal('tg6',40.8);words('r61','"O governo',41.0,.1);words('r62','recuou"?',41.4,.1);
+reveal('pl6',42.0,20);pop('pl6',42.0,1.3);
+reveal('k6a',42.9,30);reveal('k6b',43.9,30);reveal('k6c',44.9,30);
+reveal('cap6',45.9);
+
+inScene('s7',49.6,58.5);
+words('r71','O que existe:',49.9,.1);words('r72','a PEC paralela',50.3,.1);
+reveal('k7a',50.9,30);reveal('k7b',52.1,30);reveal('k7c',53.3,30);reveal('k7d',54.5,30);
+
+inScene('s8',58.5,66.3);
+words('r81','Os dois lados',58.8,.1);words('r82','em números',59.2,.1);
+reveal('a8a',59.8,36);cnt($('c8a'),0,14.9,v=>v.toFixed(1).replace('.',',')+' milhões',59.9,1.1);
+reveal('a8b',61.0,36);cnt($('c8b'),0,267,v=>'até R$ '+Math.round(v)+' bi',61.1,1.1);
+reveal('cap8',62.4);
+
+inScene('s9',66.3,74.2,true);
+words('r91','Leia o',66.6,.1);words('r92','artigo completo',67.0,.1);
+reveal('t91',67.8);reveal('t92',68.9);reveal('url9',69.8);pop('url9',69.8,1.1);reveal('t93',70.7);
+
+const pc=$('pc'),px=pc.getContext('2d');const P=[];let sd=11;const rnd=()=>{sd=(sd*16807)%2147483647;return sd/2147483647};
+for(let i=0;i<46;i++)P.push({x:rnd()*1080,y:rnd()*1920,v:14+rnd()*34,r:2+rnd()*4.5,a:.07+rnd()*.2});
+function drawP(t){px.clearRect(0,0,1080,1920);P.forEach(p=>{const y=((p.y-t*p.v)%1920+1920)%1920;px.globalAlpha=p.a;px.fillStyle='#b0a6ff';px.beginPath();px.arc(p.x+Math.sin(t*.45+p.y)*16,y,p.r,0,6.2832);px.fill()});px.globalAlpha=1}
+
+function drawGrid(){}
+window.DUR=ENDV;
+window.seek=function(t){
+  for(const q of TW){
+    if(t<q.start){
+      if(q.hold){if(q.k==='t'){const s=st(q.el);for(const key in q.to){s[key]=q.from[key]!==undefined?q.from[key]:(key==='s'?1:0)}wr(q.el)}else{q.el.textContent=q.fmt(q.a)}}
+      continue;
+    }
+    const p=q.ease(Math.min(1,(t-q.start)/q.dur));
+    if(q.k==='t'){const s=st(q.el);for(const key in q.to){const a=q.from[key]!==undefined?q.from[key]:(key==='s'?1:0);s[key]=a+(q.to[key]-a)*p}wr(q.el)}
+    else{q.el.textContent=q.fmt(q.a+(q.b-q.a)*p)}
+  }
+  PB.forEach((b,i)=>{const a=i===0?STARTS[0]:STARTS[i],e=(i<STARTS.length-1?STARTS[i+1]:ENDV);b.style.width=(100*Math.min(1,Math.max(0,(t-a)/(e-a))))+'%'});
+  $('glow').style.transform=`translate(${-200+260*Math.sin(t*.45)}px,${300+420*Math.sin(t*.31+1)}px)`;
+  drawP(t);
+};
+document.querySelectorAll('.scene,.brand,#prog,#flash,#sweep').forEach(e=>st(e));
+seek(0);
+</script></body></html>
