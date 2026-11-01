@@ -1,0 +1,260 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{width:1080px;height:1920px;background:#09090f;overflow:hidden;font-family:'Inter',sans-serif;color:#fff}
+#bg{position:absolute;inset:0;background:radial-gradient(900px 700px at 50% 104%,rgba(80,56,170,.6),transparent 70%),radial-gradient(700px 600px at 92% 0%,rgba(54,38,130,.5),transparent 70%)}
+#glow{position:absolute;left:0;top:0;width:1100px;height:1100px;border-radius:50%;background:radial-gradient(closest-side,rgba(110,84,230,.16),transparent);opacity:1}
+#pc{position:absolute;left:0;top:0}
+.brand{position:absolute;top:150px;left:0;right:0;text-align:center;font-weight:800;font-size:46px;letter-spacing:1px;opacity:0}
+.brand u{text-decoration-thickness:4px;text-underline-offset:7px}
+#prog{position:absolute;top:238px;left:90px;width:900px;height:10px;display:flex;gap:8px;opacity:0}
+#prog i{flex:1;background:rgba(255,255,255,.14);border-radius:6px;overflow:hidden;display:block}
+#prog b{display:block;height:100%;width:0;background:#8c78ff;border-radius:6px}
+.scene{position:absolute;left:0;right:0;top:300px;bottom:340px;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:0 90px;opacity:0}
+.h{font-weight:800;line-height:1.06;letter-spacing:-2px}
+.row{display:block;white-space:nowrap}
+.w{display:inline-block;position:relative;margin:0 14px;opacity:0}
+.w .g{position:absolute;left:0;top:0;opacity:0;pointer-events:none}
+.p{color:#9a88ff}.s{color:#e6e6f2}.m{color:#a8a8c4}.amb{color:#f6b848}
+.num{font-weight:800;letter-spacing:-4px;line-height:1;white-space:nowrap;transform-origin:left center}
+.numc{transform-origin:center center}
+.lbl{font-size:58px;font-weight:600;color:#e6e6f2;line-height:1.15}
+.cap{font-size:50px;font-weight:600;color:#d2d2e6;line-height:1.25}
+.tag{display:inline-block;padding:12px 28px;border-radius:16px;font-weight:800;font-size:34px;letter-spacing:1.5px;background:#463ca0;color:#fff}
+.bar{flex:none;height:62px;border-radius:16px;width:0;background:#8c78ff}
+.pill{display:block;padding:14px 38px;border-radius:44px;background:rgba(140,120,255,.22);border:5px solid #8c78ff;font-weight:800;font-size:64px;margin:14px 0}
+.cardbox{flex:1;background:rgba(255,255,255,.07);border:3px solid rgba(255,255,255,.14);border-radius:36px;padding:34px 20px;text-align:center}
+.yr{font-weight:800;font-size:54px;color:#a8a8c4;letter-spacing:3px;margin-bottom:10px}
+#flash{position:absolute;inset:0;background:#a898ff;opacity:0;pointer-events:none}
+#sweep{position:absolute;left:0;top:0;width:520px;height:1920px;background:linear-gradient(90deg,transparent,rgba(150,128,255,.55),transparent);opacity:0;pointer-events:none}
+</style></head><body>
+<div id="bg"></div><div id="glow"></div><canvas id="pc" width="1080" height="1920"></canvas>
+<div class="brand" id="brand">SEM <u>NARRATIVA</u></div>
+<div id="prog"></div>
+
+<div class="scene" id="s1">
+ <span class="tag" id="tg1" style="margin-bottom:30px">O QUE ESTÁ CIRCULANDO NOS GRUPOS</span>
+ <div class="num numc p" id="n1" style="font-size:400px;letter-spacing:-12px">0</div>
+ <div class="h" style="font-size:132px"><span class="row" id="r11"></span></div>
+ <div class="h s" style="font-size:78px;margin-top:10px"><span class="row" id="r12"></span><span class="row" id="r13"></span></div>
+ <div class="p" id="sub1" style="font-size:72px;font-weight:800;margin-top:56px">Verdade? Vamos conferir.</div>
+</div>
+
+<div class="scene" id="s2">
+ <span class="tag" id="tg2" style="margin-bottom:34px">BOLETINS DE URNA DO TSE · 2º TURNO</span>
+ <div class="h" style="font-size:104px"><span class="row" id="r21"></span><span class="row p" id="r22"></span></div>
+ <div style="width:900px;margin-top:56px;text-align:left">
+  <div id="st2a" style="margin:26px 0"><div class="num" id="c2a" style="font-size:172px">0</div><div class="lbl">urnas lidas no país inteiro</div></div>
+  <div id="st2b" style="margin:26px 0"><div class="num p" id="c2b" style="font-size:172px">0</div><div class="lbl">sem nenhum voto para Flávio</div></div>
+  <div id="st2c" style="margin:26px 0"><div class="num" id="c2c" style="font-size:172px">0</div><div class="lbl">votos de Lula nessas urnas</div></div>
+ </div>
+</div>
+
+<div class="scene" id="s3">
+ <div class="h" style="font-size:104px"><span class="row" id="r31"></span><span class="row p" id="r32"></span></div>
+ <canvas id="cv" width="720" height="720" style="margin-top:36px"></canvas>
+ <div class="cap" id="cap3a" style="margin-top:36px;font-size:60px">Se o Brasil tivesse<br>10 mil urnas,</div>
+ <div class="h" id="cap3b" style="font-size:96px;margin-top:6px">seriam só <span class="amb">2</span></div>
+</div>
+
+<div class="scene" id="s4">
+ <div class="h" style="font-size:112px"><span class="row" id="r41"></span><span class="row p" id="r42"></span></div>
+ <div style="width:900px;margin-top:66px;text-align:left">
+  <div id="b4a" style="margin:20px 0 46px"><div class="lbl m" style="margin-bottom:14px">Todas as urnas do país</div><div style="display:flex;align-items:center"><div class="bar" id="bar4a" style="background:#6e6e8a;height:100px"></div><span class="num" id="c4a" style="font-size:140px;margin-left:24px">0</span></div></div>
+  <div id="b4b" style="margin:20px 0"><div class="lbl" style="margin-bottom:14px">As 106 sem voto para Flávio</div><div style="display:flex;align-items:center"><div class="bar" id="bar4b" style="height:100px"></div><span class="num p" id="c4b" style="font-size:140px;margin-left:24px">0</span></div></div>
+  <div class="m" id="u4" style="font-size:44px;font-weight:600;margin-top:6px">eleitores que compareceram (mediana)</div>
+ </div>
+ <div class="cap" id="cap4" style="margin-top:50px;font-size:56px">A maior tem 365 eleitores.<br>A menor, 10.</div>
+</div>
+
+<div class="scene" id="s5">
+ <span class="tag" id="tg5" style="margin-bottom:26px;font-size:30px">PELO NOME DO LOCAL NO CADASTRO DO TSE</span>
+ <div class="h" style="font-size:112px"><span class="row p" id="r51"></span></div>
+ <div style="width:900px;margin-top:34px;text-align:left">
+  <div id="w5a" style="margin:18px 0"><div class="lbl" style="font-size:46px">Indicação indígena no local</div><div style="display:flex;align-items:center"><div class="bar" id="br5a"></div><span class="num p" id="c5a" style="font-size:82px;margin-left:20px">0</span></div></div>
+  <div id="w5b" style="margin:18px 0"><div class="lbl" style="font-size:46px">Povoado ou comunidade no nome</div><div style="display:flex;align-items:center"><div class="bar" id="br5b"></div><span class="num" id="c5b" style="font-size:82px;margin-left:20px">0</span></div></div>
+  <div id="w5c" style="margin:18px 0"><div class="lbl" style="font-size:46px">Zona rural, sem outra indicação</div><div style="display:flex;align-items:center"><div class="bar" id="br5c"></div><span class="num" id="c5c" style="font-size:82px;margin-left:20px">0</span></div></div>
+  <div id="w5d" style="margin:18px 0"><div class="lbl" style="font-size:46px">Locais quilombolas</div><div style="display:flex;align-items:center"><div class="bar" id="br5d"></div><span class="num" id="c5d" style="font-size:82px;margin-left:20px">0</span></div></div>
+  <div id="w5e" style="margin:18px 0"><div class="lbl" style="font-size:46px">Assentamentos</div><div style="display:flex;align-items:center"><div class="bar" id="br5e"></div><span class="num" id="c5e" style="font-size:82px;margin-left:20px">0</span></div></div>
+  <div id="w5f" style="margin:18px 0"><div class="lbl" style="font-size:46px">Presídios</div><div style="display:flex;align-items:center"><div class="bar" id="br5f"></div><span class="num" id="c5f" style="font-size:82px;margin-left:20px">0</span></div></div>
+ </div>
+</div>
+
+<div class="scene" id="s6">
+ <div class="h" style="font-size:112px"><span class="row" id="r61"></span><span class="row p" id="r62"></span></div>
+ <div style="display:flex;gap:34px;margin-top:60px;width:900px">
+  <div class="cardbox" id="cb6a"><div class="yr">2022</div><div class="num numc" id="c6a" style="font-size:210px">0</div><div class="lbl" style="font-size:44px;margin-top:14px">urnas com zero para Bolsonaro</div></div>
+  <div class="cardbox" id="cb6b"><div class="yr">2026</div><div class="num numc p" id="c6b" style="font-size:210px">0</div><div class="lbl" style="font-size:44px;margin-top:14px">urnas com zero para Flávio</div></div>
+ </div>
+ <div class="cap" id="cap6" style="margin-top:56px;font-size:54px">Das 106 urnas, 61 existiam<br>em 2022. Em <span class="amb">56</span>, Bolsonaro<br>já tinha menos de 5%.</div>
+</div>
+
+<div class="scene" id="s7">
+ <div class="h" style="font-size:112px"><span class="row" id="r71"></span><span class="row p" id="r72"></span></div>
+ <div style="width:760px;margin-top:56px">
+  <div class="pill" id="pl1">Jacareacanga (PA)</div>
+  <div class="pill" id="pl2">Chaves (PA)</div>
+  <div class="pill" id="pl3">Cândido Godói (RS)</div>
+  <div class="pill" id="pl4">Arroio do Padre (RS)</div>
+ </div>
+ <div class="cap" id="cap7" style="margin-top:50px;font-size:54px">Flávio somou 296 votos nelas.<br>Em 2022, essas seções deram<br><span class="amb">de 91% a 100%</span> a Bolsonaro.</div>
+</div>
+
+<div class="scene" id="s8">
+ <div class="h" style="font-size:112px"><span class="row" id="r81"></span><span class="row p" id="r82"></span></div>
+ <div class="num numc p" id="c8" style="font-size:268px;margin-top:50px;letter-spacing:-8px">0,00%</div>
+ <div class="lbl" id="l8" style="margin-top:12px;font-size:56px">da diferença de 4.430.191 votos<br>entre os candidatos</div>
+ <div id="trk" style="width:900px;height:34px;border-radius:18px;background:rgba(255,255,255,.14);margin-top:50px;opacity:0;text-align:left"><div class="bar" id="trf" style="height:34px;border-radius:2px;background:#f6b848;box-shadow:0 0 22px 6px rgba(246,184,72,.85)"></div></div><div class="amb" id="mk8" style="width:900px;text-align:left;font-size:40px;font-weight:800;margin-top:10px">▲ 0,34% da barra</div>
+ <div class="m" id="n8" style="font-size:48px;font-weight:600;margin-top:34px;line-height:1.3">É o peso dos 14.860 votos<br>de Lula nas 106 urnas.<br>As 106 urnas são 0,02% de todas.</div>
+</div>
+
+<div class="scene" id="s9">
+ <div class="h" style="font-size:112px"><span class="row" id="r91"></span><span class="row p" id="r92"></span></div>
+ <div class="s" id="t91" style="font-size:70px;font-weight:700;margin-top:64px;line-height:1.2">Por que cada comunidade<br>votou assim?</div>
+ <div class="cap" id="t92" style="margin-top:44px;font-size:62px">O boletim registra<br>o resultado, <span class="amb">não o motivo</span>.</div>
+ <div class="m" id="t93" style="font-size:44px;font-weight:600;margin-top:56px;line-height:1.3">Este vídeo não afirma nem descarta<br>irregularidade. Mostra o que está nos dados.</div>
+</div>
+
+<div class="scene" id="s10">
+ <div class="h" style="font-size:118px"><span class="row" id="r101"></span><span class="row p" id="r102"></span></div>
+ <div class="s" id="t101" style="font-size:56px;font-weight:600;margin-top:60px;line-height:1.28">Os boletins de urna são públicos<br>no Portal de Dados<br>Abertos do TSE</div>
+ <div class="s" id="t102" style="font-size:56px;font-weight:600;margin-top:36px;line-height:1.28">Artigo completo, com fontes,<br>no link da bio</div>
+ <div class="p" id="url10" style="font-size:84px;font-weight:800;margin-top:50px">semnarrativa.com.br</div>
+ <div class="m" id="t103" style="font-size:52px;font-weight:700;margin-top:44px">Sem recomendar voto. Só fatos.</div>
+</div>
+
+<div id="sweep"></div><div id="flash"></div>
+
+<script>
+const E={out:t=>1-Math.pow(1-t,3),io:t=>t<.5?4*t*t*t:1-Math.pow(-2*t+2,3)/2,lin:t=>t,back:t=>{const c=1.7;return 1+(c+1)*Math.pow(t-1,3)+c*Math.pow(t-1,2)}};
+const $=id=>document.getElementById(id);
+const TW=[];
+function st(el){if(!el._s)el._s={o:+getComputedStyle(el).opacity,y:0,x:0,s:1,b:0,w:null};return el._s}
+function wr(el){const s=st(el);el.style.opacity=s.o;el.style.transform=`translate(${s.x}px,${s.y}px) scale(${s.s})`;el.style.filter=s.b>0.1?`blur(${s.b}px)`:'none';if(s.w!==null)el.style.width=s.w+'px'}
+function tw(el,from,to,start,dur,ease='out',hold=true){TW.push({k:'t',el,from,to,start,dur,ease:E[ease],hold})}
+function cnt(el,a,b,fmt,start,dur){TW.push({k:'c',el,a,b,fmt,start,dur,ease:E.out})}
+function words(row,text,start,gap=.14){
+  const r=$(row);text.split(' ').forEach((t,i)=>{
+    const w=document.createElement('span');w.className='w';
+    const tx=document.createElement('span');tx.textContent=t;w.appendChild(tx);
+    for(let k=0;k<2;k++){const g=document.createElement('span');g.className='g';g.textContent=t;w.appendChild(g);
+      tw(g,{o:.32-k*.1,y:130+k*60,b:8},{o:0,y:50-k*20,b:2},start+i*gap+k*.06,.55,'out')}
+    r.appendChild(w);
+    tw(w,{o:0,y:80,b:16},{o:1,y:0,b:0},start+i*gap,.6,'out');
+  })
+}
+function reveal(id,start,dy=44){tw($(id),{o:0,y:dy},{o:1,y:0},start,.55)}
+function pop(id,start,from=1.22){tw($(id),{s:from},{s:1},start,.55,'back')}
+function inScene(id,start,end,last=false){const e=$(id);tw(e,{o:0,y:0,b:0,s:1},{o:1,y:0,b:0,s:1},start,.35,'out');if(!last)tw(e,{o:1,y:0,b:0,s:1},{o:0,y:-40,b:10,s:.97},end-.4,.4,'io',false)}
+const fmtN=v=>String(Math.round(v)).replace(/\B(?=(\d{3})+(?!\d))/g,'.');
+const fmtP=v=>v.toFixed(2).replace('.',',')+'%';
+const BR=$('brand');tw(BR,{o:0},{o:1},0.2,.6,'out');
+const PROG=$('prog');tw(PROG,{o:0},{o:1},5.2,.5,'out');
+const STARTS=[5.4,12,19,26,35,43,49,55.5,61],ENDV=67;
+STARTS.forEach(()=>{const i=document.createElement('i');const b=document.createElement('b');i.appendChild(b);PROG.appendChild(i)});
+const PB=[...PROG.querySelectorAll('b')];
+function boundary(T){tw($('flash'),{o:.26},{o:0},T-.05,.4,'out',false);tw($('sweep'),{o:1,x:-560},{o:1,x:1120},T-.2,.7,'io',false)}
+STARTS.forEach(boundary);
+
+inScene('s1',0,5.4);
+reveal('tg1',.3);
+reveal('n1',.3,30);cnt($('n1'),0,106,fmtN,.4,1.5);pop('n1',1.9,1.22);
+words('r11','urnas',2.0,.1);
+words('r12','sem nenhum voto',2.3,.12);words('r13','para Flávio Bolsonaro',2.8,.1);
+reveal('sub1',3.7);
+
+inScene('s2',5.4,12);
+reveal('tg2',5.6);words('r21','Conferimos',5.8,.1);words('r22','urna por urna',6.2,.1);
+reveal('st2a',6.9);cnt($('c2a'),0,499205,fmtN,6.9,1.2);pop('c2a',8.1,1.08);
+reveal('st2b',8.3);cnt($('c2b'),0,106,fmtN,8.3,.8);pop('c2b',9.1,1.15);
+reveal('st2c',9.7);cnt($('c2c'),0,14860,fmtN,9.7,1.1);pop('c2c',10.8,1.08);
+
+inScene('s3',12,19);
+words('r31','106 entre',12.3,.1);words('r32','499 mil urnas',12.7,.1);
+const T0=12.9,TH=15.2;
+reveal('cap3a',14.0);
+reveal('cap3b',TH);pop('cap3b',TH,1.12);
+
+inScene('s4',19,26);
+words('r41','São urnas',19.3,.1);words('r42','pequenas',19.7,.1);
+reveal('b4a',20.4);tw($('bar4a'),{w:0},{w:520},20.5,1,'out');cnt($('c4a'),0,263,fmtN,20.5,1);
+reveal('b4b',22.0);tw($('bar4b'),{w:0},{w:253},22.1,.9,'out');cnt($('c4b'),0,128,fmtN,22.1,.9);pop('c4b',23,1.12);
+reveal('u4',23.0,20);
+reveal('cap4',23.9);
+
+inScene('s5',26,35);
+reveal('tg5',26.2);words('r51','Onde ficam?',26.4,.1);
+[['a',63],['b',18],['c',17],['d',4],['e',2],['f',2]].forEach(([k,n],i)=>{const t=27.3+i*.72;reveal('w5'+k,t,30);tw($('br5'+k),{w:0},{w:Math.max(14,n/63*560)},t+.1,.7,'out');cnt($('c5'+k),0,n,fmtN,t+.1,.7)});
+pop('c5a',28.0,1.14);
+
+inScene('s6',35,43);
+words('r61','Já aconteceu',35.3,.1);words('r62','em 2022',35.8,.1);
+reveal('cb6a',36.5);cnt($('c6a'),0,143,fmtN,36.5,.9);pop('c6a',37.4,1.1);
+reveal('cb6b',37.9);cnt($('c6b'),0,106,fmtN,37.9,.8);pop('c6b',38.7,1.1);
+reveal('cap6',39.8);
+
+inScene('s7',43,49);
+words('r71','Lula também',43.3,.1);words('r72','zerou em 4',43.8,.1);
+reveal('pl1',44.4,30);reveal('pl2',44.8,30);reveal('pl3',45.2,30);reveal('pl4',45.6,30);
+reveal('cap7',46.4);
+
+inScene('s8',49,55.5);
+words('r81','Isso muda',49.3,.1);words('r82','o resultado?',49.7,.1);
+reveal('c8',50.4,30);cnt($('c8'),0,0.34,fmtP,50.5,1.3);pop('c8',51.8,1.08);
+reveal('l8',51.2);
+reveal('trk',52.2);reveal('mk8',52.9,20);tw($('trf'),{w:0},{w:3.1},52.4,.8,'out');
+reveal('n8',53.2);
+
+inScene('s9',55.5,61);
+words('r91','O que os dados',55.8,.1);words('r92','não mostram',56.3,.1);
+reveal('t91',57.0);reveal('t92',58.0);reveal('t93',59.2);
+
+inScene('s10',61,67,true);
+words('r101','Confira',61.3,.1);words('r102','você mesmo',61.7,.1);
+reveal('t101',62.5);reveal('t102',63.6);reveal('url10',64.5);pop('url10',64.5,1.1);reveal('t103',65.3);
+
+const cv=$('cv'),cx=cv.getContext('2d');const G=100,SP=7.2,R=2.45;const HL=[[61,38],[27,70]];
+function drawGrid(t,rt){
+  cx.clearRect(0,0,720,720);
+  for(let j=0;j<G;j++)for(let i=0;i<G;i++){
+    const d=(i+j)/(2*G-2);const a=Math.min(1,Math.max(0,(t-T0-d*1.4)/.35));
+    if(a<=0)continue;cx.globalAlpha=a*.85;cx.fillStyle='#a8a8d0';
+    cx.beginPath();cx.arc(i*SP+SP/2,j*SP+SP/2,R,0,6.2832);cx.fill();
+  }
+  HL.forEach(([i,j],k)=>{
+    const a=Math.min(1,Math.max(0,(t-TH-k*.25)/.4));if(a<=0)return;
+    const x=i*SP+SP/2,y=j*SP+SP/2;const ph=(((rt-PULSE0-k*.25)%1.3)+1.3)%1.3/1.3;
+    cx.globalAlpha=a*(1-ph)*.9;cx.strokeStyle='#f6b848';cx.lineWidth=5;cx.beginPath();cx.arc(x,y,14+ph*95,0,6.2832);cx.stroke();
+    cx.globalAlpha=a*.35;cx.fillStyle='#f6b848';cx.beginPath();cx.arc(x,y,R*9*a,0,6.2832);cx.fill();
+    cx.globalAlpha=a;cx.fillStyle='#f6b848';cx.beginPath();cx.arc(x,y,R*3.8*a,0,6.2832);cx.fill();
+  });
+  cx.globalAlpha=1;
+}
+const pc=$('pc'),px=pc.getContext('2d');const P=[];let sd=11;const rnd=()=>{sd=(sd*16807)%2147483647;return sd/2147483647};
+for(let i=0;i<46;i++)P.push({x:rnd()*1080,y:rnd()*1920,v:14+rnd()*34,r:2+rnd()*4.5,a:.07+rnd()*.2});
+function drawP(t){px.clearRect(0,0,1080,1920);P.forEach(p=>{const y=((p.y-t*p.v)%1920+1920)%1920;px.globalAlpha=p.a;px.fillStyle='#b0a6ff';px.beginPath();px.arc(p.x+Math.sin(t*.45+p.y)*16,y,p.r,0,6.2832);px.fill()});px.globalAlpha=1}
+const EXTRA=[2.25,2.75,.15,1.85,0,.75,1.35,1.65,2.15,1.85];
+const HOLDAT=[...STARTS.map(s=>s-.45),67];
+const TOTX=EXTRA.reduce((a,b)=>a+b,0);
+const NEWSTARTS=STARTS.map((s,i)=>s+EXTRA.slice(0,i+1).reduce((a,b)=>a+b,0));
+const NEWEND=67+TOTX;
+const PULSE0=TH+EXTRA[0]+EXTRA[1];
+function toOld(t){let acc=0;for(let i=0;i<EXTRA.length;i++){const nh=HOLDAT[i]+acc;if(t<nh)return t-acc;if(t<nh+EXTRA[i])return HOLDAT[i];acc+=EXTRA[i]}return t-acc}
+window.DUR=NEWEND;
+window.seek=function(rt){
+  const t=toOld(rt);
+  for(const q of TW){
+    if(t<q.start){
+      if(q.hold){if(q.k==='t'){const s=st(q.el);for(const key in q.to){s[key]=q.from[key]!==undefined?q.from[key]:(key==='s'?1:0)}wr(q.el)}else{q.el.textContent=q.fmt(q.a)}}
+      continue;
+    }
+    const p=q.ease(Math.min(1,(t-q.start)/q.dur));
+    if(q.k==='t'){const s=st(q.el);for(const key in q.to){const a=q.from[key]!==undefined?q.from[key]:(key==='s'?1:0);s[key]=a+(q.to[key]-a)*p}wr(q.el)}
+    else{q.el.textContent=q.fmt(q.a+(q.b-q.a)*p)}
+  }
+  PB.forEach((b,i)=>{const a=NEWSTARTS[i],e=(i<NEWSTARTS.length-1?NEWSTARTS[i+1]:NEWEND);b.style.width=(100*Math.min(1,Math.max(0,(rt-a)/(e-a))))+'%'});
+  $('glow').style.transform=`translate(${-200+260*Math.sin(rt*.45)}px,${300+420*Math.sin(rt*.31+1)}px)`;
+  drawP(rt);drawGrid(t,rt);
+};
+document.querySelectorAll('.scene,.brand,#prog,#flash,#sweep').forEach(e=>st(e));
+seek(0);
+</script></body></html>
