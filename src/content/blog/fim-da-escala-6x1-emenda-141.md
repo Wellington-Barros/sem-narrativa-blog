@@ -24,7 +24,7 @@ O texto explica o que a emenda diz, quando cada regra começa a valer, quem fica
 
 ## O que a Emenda 141 diz
 
-A emenda altera o artigo 7º da Constituição, que lista os direitos dos trabalhadores, e traz regras de transição. Pelo resumo do texto publicado no Diário Oficial (edição extra de 16 de outubro) e pelas reportagens da Agência Câmara, da Agência Senado e da Agência Brasil:
+A emenda altera o artigo 7º da Constituição, que lista os direitos dos trabalhadores, e traz regras de transição. Pelo texto oficial, publicado no Diário Oficial da União em edição extra de 16 de outubro e disponível no site do Planalto, e pelas reportagens da Agência Câmara, da Agência Senado e da Agência Brasil:
 
 <div class="promessas-lista">
 <div class="promessa-card">
@@ -35,11 +35,11 @@ A emenda altera o artigo 7º da Constituição, que lista os direitos dos trabal
 <div class="promessa-bloco"><span class="promessa-rotulo">Acordos coletivos antigos</span><p>Cláusulas incompatíveis com a emenda perdem efeito dois meses após a publicação</p></div>
 <div class="promessa-bloco"><span class="promessa-rotulo">Pequenos negócios</span><p>Lei complementar poderá criar medidas de transição para MEI, microempresas e empresas de pequeno porte, condicionadas à manutenção dos empregos</p></div>
 <div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Situação</span><p><span class="selo selo-ok">Promulgada em 16 de outubro de 2026</span></p></div>
-<div class="promessa-bloco promessa-fonte"><span class="promessa-rotulo">Fonte</span><p>Emenda Constitucional 141/2026 (resumo publicado pela Normas Legais), Agência Câmara, Agência Senado, Agência Brasil</p></div>
+<div class="promessa-bloco promessa-fonte"><span class="promessa-rotulo">Fonte</span><p>Emenda Constitucional 141/2026 (texto oficial no site do Planalto), Agência Câmara, Agência Senado, Agência Brasil</p></div>
 </div>
 </div>
 
-A emenda também diz que uma **lei** poderá prever outros regimes de duração e descanso, desde que respeite o limite de 40 horas semanais e os dois dias de repouso. Segundo a Agência Brasil, categorias com jornadas especiais podem compensar sábados ou domingos trabalhados, desde que a média continue em duas folgas por semana dentro do mesmo mês.
+A emenda também diz que uma **lei** poderá prever outros regimes de duração e descanso, desde que respeite o limite de 40 horas semanais e os dois dias de repouso. E permite, "excepcionalmente", que convenção ou acordo coletivo crie um **regime de compensação**, inclusive para categorias com regimes diferenciados: a média tem de ser de dois dias de descanso por semana dentro do mês, com pelo menos um dia de folga no período máximo de uma semana de trabalho.
 
 ## O calendário da transição
 
@@ -57,13 +57,13 @@ A mudança não acontece toda de uma vez. Pelo texto, são duas etapas:
 </div>
 </div>
 
-**Sobre a data exata da primeira etapa.** O texto da emenda fala em **"dois meses"** depois da publicação, que foi em 16 de outubro. A Lupa conta até **16 de dezembro de 2026** (e 16 de dezembro de 2027 para as 40 horas). A Agência Senado e a Agência Brasil falam em **60 dias**, o que leva a **15 de dezembro**. A diferença é de um dia e vem da forma de contar o prazo. Não encontramos manifestação oficial do Ministério do Trabalho fixando o dia.
+**Sobre a data exata da primeira etapa.** O texto oficial fala em **"2 (dois) meses após a publicação"**, e a publicação no Diário Oficial foi em 16 de outubro, em edição extra. Não há dia do calendário escrito na emenda. A Lupa conta até **16 de dezembro de 2026** (e 16 de dezembro de 2027 para as 40 horas). A Agência Senado e a Agência Brasil falam em **60 dias**, o que leva a **15 de dezembro**. A diferença é de um dia e vem da forma de contar o prazo. Não encontramos manifestação oficial do Ministério do Trabalho fixando o dia.
 
 ## Quem fica de fora ou tem regra diferente
 
-- **Servidores públicos:** segundo a Agência Senado, a emenda não altera a jornada dos servidores da União, dos estados, do Distrito Federal e dos municípios.
+- **Servidores públicos:** o texto da emenda não trata deles diretamente. Segundo a Agência Senado, ela não altera a jornada dos servidores da União, dos estados, do Distrito Federal e dos municípios.
 - **Autônomos:** a emenda trata de empregados. A reportagem do A Tarde cita autônomos entre os que não são alcançados. Isso inclui, por exemplo, quem trabalha por conta própria em aplicativos sem vínculo de emprego.
-- **"Hipersuficientes":** empregados com **diploma de nível superior** e salário igual ou maior que **2,5 vezes o teto do INSS** podem ter as regras de duração e controle de jornada afastadas, salvo se o empregador ou o acordo coletivo disser o contrário. Com o teto de 2026 (R$ 8.475,55), isso dá cerca de **R$ 21,2 mil**. Segundo a Agência Brasil, a escala 5x2 continua valendo para eles. A regra não vale para empregados públicos.
+- **"Hipersuficientes":** empregados com **diploma de nível superior** e salário igual ou maior que **2,5 vezes o teto do INSS** podem ter as regras de duração e controle de jornada afastadas, salvo se o empregador ou o acordo coletivo disser o contrário. Com o teto de 2026 (R$ 8.475,55), isso dá cerca de **R$ 21,2 mil**. O próprio texto ressalva que os dois dias de descanso continuam valendo para eles. A regra não vale para empregados públicos.
 - **Quem já trabalha até 40 horas:** não tem a jornada reduzida em proporção.
 
 ## O que é a "PEC paralela"
@@ -74,7 +74,7 @@ Aqui está a parte que mais gera confusão. Segundo a **Exame** (30 de outubro),
 <div class="promessa-card">
 <div class="promessa-bloco"><span class="promessa-rotulo">Quem prepara</span><p>Uma ala do Senado. O texto deve ser apresentado pelo líder do MDB, senador <strong>Eduardo Braga</strong> (MDB-AM), com apoio da consultoria jurídica da Casa, segundo técnicos</p></div>
 <div class="promessa-bloco"><span class="promessa-rotulo">Para quem</span><p>Categorias com escalas próprias e longos períodos de folga seguidos, como <strong>petroleiros embarcados</strong>, <strong>aeroviários</strong> e <strong>caminhoneiros</strong>, e jornadas abaixo de 40 horas ou de até 5 horas diárias</p></div>
-<div class="promessa-bloco"><span class="promessa-rotulo">Por quê</span><p>Técnicos dizem que a exigência de média de duas folgas por semana e de pelo menos uma folga a cada sete dias pode inviabilizar escalas como as de plataformas de petróleo</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">Por quê</span><p>Técnicos dizem que a exigência de média de duas folgas por semana e de pelo menos uma folga a cada sete dias pode inviabilizar escalas como as de plataformas de petróleo. Essa exigência está no próprio texto da emenda, que pede pelo menos um dia de descanso no período máximo de uma semana de trabalho, mesmo nos regimes de compensação</p></div>
 <div class="promessa-bloco"><span class="promessa-rotulo">Contexto</span><p>Segundo a Exame, a proposta faz parte de um acordo com o presidente do Senado, Davi Alcolumbre, para aprovar a PEC principal sem mudanças antes do segundo turno</p></div>
 <div class="promessa-bloco"><span class="promessa-rotulo">Andamento</span><p>Previsão de texto pronto em <strong>3 de novembro</strong>, quando começaria a coleta de assinaturas. Até a publicação deste artigo, não encontramos o texto protocolado</p></div>
 <div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Situação</span><p><span class="selo selo-neutro">Em elaboração, ainda não apresentada</span></p></div>
@@ -169,7 +169,7 @@ Nenhuma dessas divergências muda o essencial: todas as fontes concordam que a e
 
 ## Fontes consultadas para este artigo
 
-- Emenda Constitucional nº 141, de 16 de outubro de 2026 (resumo do texto publicado pela Normas Legais, com referência ao DOU de 16 de outubro de 2026, edição extra)
+- Emenda Constitucional nº 141, de 16 de outubro de 2026, texto oficial no site do Planalto (planalto.gov.br), publicado no DOU de 16 de outubro de 2026, edição extra
 - Agência Câmara, "Congresso promulga emenda que acaba com escala 6x1 e estabelece jornada máxima de 40 horas semanais" (16 de outubro de 2026)
 - Agência Câmara, "Câmara aprova em dois turnos fim da escala 6x1 com jornada máxima de 40 horas semanais" (27 de maio de 2026)
 - Agência Senado, "Senado aprova fim da escala 6x1" (14 de outubro de 2026)
