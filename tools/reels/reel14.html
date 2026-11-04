@@ -1,0 +1,228 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{width:1080px;height:1920px;background:#09090f;overflow:hidden;font-family:'Inter',sans-serif;color:#fff}
+#bg{position:absolute;inset:0;background:radial-gradient(900px 700px at 50% 104%,rgba(80,56,170,.6),transparent 70%),radial-gradient(700px 600px at 92% 0%,rgba(54,38,130,.5),transparent 70%)}
+#glow{position:absolute;left:0;top:0;width:1100px;height:1100px;border-radius:50%;background:radial-gradient(closest-side,rgba(110,84,230,.16),transparent);opacity:1}
+#pc{position:absolute;left:0;top:0}
+.brand{position:absolute;top:150px;left:0;right:0;text-align:center;font-weight:800;font-size:46px;letter-spacing:1px;opacity:0}
+.brand u{text-decoration-thickness:4px;text-underline-offset:7px}
+#prog{position:absolute;top:238px;left:90px;width:900px;height:10px;display:flex;gap:8px;opacity:0}
+#prog i{flex:1;background:rgba(255,255,255,.14);border-radius:6px;overflow:hidden;display:block}
+#prog b{display:block;height:100%;width:0;background:#8c78ff;border-radius:6px}
+.scene{position:absolute;left:0;right:0;top:300px;bottom:340px;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:0 90px;opacity:0}
+.h{font-weight:800;line-height:1.06;letter-spacing:-2px}
+.row{display:block;white-space:nowrap}
+.w{display:inline-block;position:relative;margin:0 14px;opacity:0}
+.w .g{position:absolute;left:0;top:0;opacity:0;pointer-events:none}
+.p{color:#9a88ff}.s{color:#e6e6f2}.m{color:#a8a8c4}.amb{color:#f6b848}
+.num{font-weight:800;letter-spacing:-4px;line-height:1;white-space:nowrap;transform-origin:left center}
+.numc{transform-origin:center center}
+.lbl{font-size:58px;font-weight:600;color:#e6e6f2;line-height:1.15}
+.cap{font-size:50px;font-weight:600;color:#d2d2e6;line-height:1.25}
+.tag{display:inline-block;padding:12px 28px;border-radius:16px;font-weight:800;font-size:34px;letter-spacing:1.5px;background:#463ca0;color:#fff}
+.bar{flex:none;height:62px;border-radius:16px;width:0;background:#8c78ff}
+.pill{display:block;padding:14px 38px;border-radius:44px;background:rgba(140,120,255,.22);border:5px solid #8c78ff;font-weight:800;font-size:64px;margin:14px 0}
+.cardbox{flex:1;background:rgba(255,255,255,.07);border:3px solid rgba(255,255,255,.14);border-radius:36px;padding:34px 20px;text-align:center}
+.yr{font-weight:800;font-size:54px;color:#a8a8c4;letter-spacing:3px;margin-bottom:10px}
+#flash{position:absolute;inset:0;background:#a898ff;opacity:0;pointer-events:none}
+#sweep{position:absolute;left:0;top:0;width:520px;height:1920px;background:linear-gradient(90deg,transparent,rgba(150,128,255,.55),transparent);opacity:0;pointer-events:none}
+</style></head><body>
+<div id="bg"></div><div id="glow"></div><canvas id="pc" width="1080" height="1920"></canvas>
+<div class="brand" id="brand">SEM <u>NARRATIVA</u></div>
+<div id="prog"></div>
+
+
+<div class="scene" id="s1">
+ <span class="tag" id="tg1" style="margin-bottom:24px">LINHA DO TEMPO</span>
+ <div class="num numc p" id="n1" style="font-size:280px;letter-spacing:-10px">0</div>
+ <div class="lbl m" id="l1" style="font-size:48px;margin-top:6px;line-height:1.2">registros de entrada na Argentina,<br>segundo o Fantástico</div>
+ <div class="h" style="font-size:96px;margin-top:40px"><span class="row" id="r11"></span><span class="row p" id="r12"></span><span class="row p" id="r13"></span></div>
+ <div class="amb" id="sub1" style="font-size:60px;font-weight:800;margin-top:44px;line-height:1.2">O que é confirmado<br>e o que não é</div>
+</div>
+
+<div class="scene" id="s2">
+ <span class="tag" id="tg2" style="margin-bottom:22px;font-size:30px">25 E 26 DE OUTUBRO</span>
+ <div class="h" style="font-size:108px"><span class="row" id="r21"></span><span class="row p" id="r22"></span></div>
+ <div style="width:900px;margin-top:56px;text-align:left">
+  <div id="a2a" style="margin:30px 0"><div class="num p" style="font-size:92px;letter-spacing:-2px">21h16</div><div class="lbl" style="font-size:52px">PF pede a apreensão, 7 minutos<br>após o TSE confirmar o resultado</div></div>
+  <div id="a2b" style="margin:30px 0"><div class="num" style="font-size:92px;letter-spacing:-2px">26/10</div><div class="lbl" style="font-size:52px">Passaportes brasileiros cancelados<br>e proibição de deixar o país</div></div>
+  <div id="a2c" style="margin:30px 0"><div class="num amb" style="font-size:92px;letter-spacing:-2px">Em vídeo</div><div class="lbl" style="font-size:52px">Flávio diz que cumpriria a ordem<br>e nega ter dito que sairia</div></div>
+ </div>
+</div>
+
+<div class="scene" id="s3">
+ <span class="tag" id="tg3" style="margin-bottom:22px;font-size:30px">27 DE OUTUBRO</span>
+ <div class="h" style="font-size:108px"><span class="row" id="r31"></span><span class="row p" id="r32"></span></div>
+ <div style="width:900px;margin-top:56px;text-align:left">
+  <div id="a3a" style="margin:28px 0"><div class="num p" style="font-size:88px;letter-spacing:-2px">Descumprido</div><div class="lbl" style="font-size:50px">segundo duas fontes da PF<br>ouvidas pela Reuters</div></div>
+  <div id="a3b" style="margin:28px 0"><div class="num" style="font-size:88px;letter-spacing:-2px">Cancelados</div><div class="lbl" style="font-size:50px">a PF cancela os passaportes<br>comum e diplomático, diz o Terra</div></div>
+  <div id="a3c" style="margin:28px 0"><div class="num amb" style="font-size:88px;letter-spacing:-2px">Sem mandado</div><div class="lbl" style="font-size:50px">de prisão contra Flávio,<br>lembra o Terra</div></div>
+ </div>
+ <div class="m" id="cap3" style="margin-top:20px;font-size:42px;font-weight:600;line-height:1.3">Relatos de que ele já estava nos EUA<br>vinham de fontes anônimas</div>
+</div>
+
+<div class="scene" id="s4">
+ <span class="tag" id="tg4" style="margin-bottom:22px;font-size:30px">28 DE OUTUBRO, MADRUGADA</span>
+ <div class="h" style="font-size:108px"><span class="row" id="r41"></span><span class="row p" id="r42"></span></div>
+ <div style="width:900px;margin-top:56px;text-align:left">
+  <div id="a4a" style="margin:28px 0"><div class="num p" style="font-size:92px;letter-spacing:-2px">22h50</div><div class="lbl" style="font-size:50px">Entrada pela Ponte Tancredo Neves,<br>de Flávio, da esposa e das filhas,<br>diz o comunicado de Migrações</div></div>
+  <div id="a4b" style="margin:28px 0"><div class="num" style="font-size:92px;letter-spacing:-2px">23h30</div><div class="lbl" style="font-size:50px">Embarque em voo privado da<br>Baires Fly, com destino declarado<br>a Guayaquil, no Equador</div></div>
+  <div id="a4c" style="margin:28px 0"><div class="num amb" style="font-size:92px;letter-spacing:-2px">Na véspera</div><div class="lbl" style="font-size:50px">o mesmo governo dizia não ter<br>registro de entrada dele</div></div>
+ </div>
+</div>
+
+<div class="scene" id="s5">
+ <span class="tag" id="tg5" style="margin-bottom:22px;font-size:30px">28 DE OUTUBRO, MANHÃ</span>
+ <div class="h" style="font-size:108px"><span class="row" id="r51"></span><span class="row p" id="r52"></span></div>
+ <div style="width:900px;margin-top:56px;text-align:left">
+  <div id="a5a" style="margin:30px 0"><div class="num p" style="font-size:92px;letter-spacing:-2px">Guayaquil</div><div class="lbl" style="font-size:52px">O jato LV-JQW pousa por volta<br>das 5h46, segundo rastreadores</div></div>
+  <div id="a5b" style="margin:30px 0"><div class="num" style="font-size:92px;letter-spacing:-2px">10h25</div><div class="lbl" style="font-size:52px">Pouso em Miami, segundo a CNN<br>Brasil, com imagens da Reuters</div></div>
+  <div id="a5c" style="margin:30px 0"><div class="num amb" style="font-size:92px;letter-spacing:-2px">Vistos</div><div class="lbl" style="font-size:52px">Funcionários dos EUA, sem se<br>identificar, falam em vistos.<br>Asilo não foi confirmado</div></div>
+ </div>
+</div>
+
+<div class="scene" id="s6">
+ <span class="tag" id="tg6" style="margin-bottom:22px;font-size:30px">29 E 31 DE OUTUBRO</span>
+ <div class="h" style="font-size:92px"><span class="row" id="r61"></span><span class="row p" id="r62"></span></div>
+ <div style="width:900px;margin-top:56px;text-align:left">
+  <div id="a6a" style="margin:30px 0"><div class="num p" style="font-size:88px;letter-spacing:-2px">New York Times</div><div class="lbl" style="font-size:50px">Fonte anônima diz que Jason Miller,<br>da Casa Branca, providenciou o jato.<br>Miller não quis comentar</div></div>
+  <div id="a6b" style="margin:30px 0"><div class="num" style="font-size:88px;letter-spacing:-2px">Rubio</div><div class="lbl" style="font-size:50px">Diz que o governo dos EUA não<br>facilitou nada e não participou<br>dos arranjos da saída</div></div>
+  <div id="a6c" style="margin:30px 0"><div class="num amb" style="font-size:88px;letter-spacing:-2px">Sem conciliar</div><div class="lbl" style="font-size:50px">As duas versões não foram<br>conciliadas publicamente</div></div>
+ </div>
+</div>
+
+<div class="scene" id="s7">
+ <span class="tag" id="tg7" style="margin-bottom:22px;font-size:30px">1º DE NOVEMBRO</span>
+ <div class="h" style="font-size:96px"><span class="row" id="r71"></span><span class="row p" id="r72"></span></div>
+ <div style="width:900px;margin-top:50px;text-align:left">
+  <div id="a7a" style="margin:26px 0"><div class="num p" id="c7a" style="font-size:90px;letter-spacing:-2px">0</div><div class="lbl" style="font-size:48px">de entrada na noite de 27/10:<br>22h37, 22h40 e 23h11</div></div>
+  <div id="a7b" style="margin:26px 0"><div class="num" id="c7b" style="font-size:90px;letter-spacing:-2px">0</div><div class="lbl" style="font-size:48px">cancelados depois: os de<br>documentos brasileiros</div></div>
+  <div id="a7c" style="margin:26px 0"><div class="num amb" id="c7c" style="font-size:90px;letter-spacing:-2px">0</div><div class="lbl" style="font-size:48px">o custo do voo, disse o dono da<br>Baires Fly à AFP. Ele não sabe<br>quem era o contratante final</div></div>
+ </div>
+ <div class="m" id="cap7" style="margin-top:14px;font-size:40px;font-weight:600;line-height:1.3">Com base em veículos que<br>resumiram a reportagem</div>
+</div>
+
+<div class="scene" id="s8">
+ <div class="h" style="font-size:104px"><span class="row" id="r81"></span><span class="row amb" id="r82"></span></div>
+ <div style="width:900px;margin-top:44px;text-align:left">
+  <div id="k8a" style="margin:20px 0"><div class="num p" style="font-size:62px;letter-spacing:-1px">Como chegou</div><div class="lbl" style="font-size:44px;color:#c8c8dc">a Puerto Iguazú: por terra, como<br>diz o comunicado, ou de avião?</div></div>
+  <div id="k8b" style="margin:20px 0"><div class="num p" style="font-size:62px;letter-spacing:-1px">Quem pagou</div><div class="lbl" style="font-size:44px;color:#c8c8dc">e quem organizou o voo:<br>o programa deixou em aberto</div></div>
+  <div id="k8c" style="margin:20px 0"><div class="num p" style="font-size:62px;letter-spacing:-1px">O israelense</div><div class="lbl" style="font-size:44px;color:#c8c8dc">o papel do ex-oficial citado<br>pelo programa não está comprovado</div></div>
+  <div id="k8d" style="margin:20px 0"><div class="num p" style="font-size:62px;letter-spacing:-1px">Fuga?</div><div class="lbl" style="font-size:44px;color:#c8c8dc">Flávio: "Não saí do Brasil, saí<br>pelo Brasil". A defesa nega fuga</div></div>
+ </div>
+ <div class="m" id="cap8" style="margin-top:16px;font-size:38px;font-weight:600;line-height:1.3">Até 4/11: sem decisão de Moraes sobre prisão<br>nem do STF sobre o recurso da defesa</div>
+</div>
+
+<div class="scene" id="s9">
+ <div class="h" style="font-size:118px"><span class="row" id="r91"></span><span class="row p" id="r92"></span></div>
+ <div class="s" id="t91" style="font-size:56px;font-weight:600;margin-top:60px;line-height:1.28">Linha do tempo completa,<br>versões e fontes</div>
+ <div class="s" id="t92" style="font-size:56px;font-weight:600;margin-top:36px;line-height:1.28">Artigo completo<br>no link da bio</div>
+ <div class="p" id="url9" style="font-size:84px;font-weight:800;margin-top:50px">semnarrativa.com.br</div>
+ <div class="m" id="t93" style="font-size:52px;font-weight:700;margin-top:44px">Sem recomendar voto. Só fatos.</div>
+</div>
+
+<div id="sweep"></div><div id="flash"></div>
+
+<script>
+const E={out:t=>1-Math.pow(1-t,3),io:t=>t<.5?4*t*t*t:1-Math.pow(-2*t+2,3)/2,lin:t=>t,back:t=>{const c=1.7;return 1+(c+1)*Math.pow(t-1,3)+c*Math.pow(t-1,2)}};
+const $=id=>document.getElementById(id);
+const TW=[];
+function st(el){if(!el._s)el._s={o:+getComputedStyle(el).opacity,y:0,x:0,s:1,b:0,w:null};return el._s}
+function wr(el){const s=st(el);el.style.opacity=s.o;el.style.transform=`translate(${s.x}px,${s.y}px) scale(${s.s})`;el.style.filter=s.b>0.1?`blur(${s.b}px)`:'none';if(s.w!==null)el.style.width=s.w+'px'}
+function tw(el,from,to,start,dur,ease='out',hold=true){TW.push({k:'t',el,from,to,start,dur,ease:E[ease],hold})}
+function cnt(el,a,b,fmt,start,dur){TW.push({k:'c',el,a,b,fmt,start,dur,ease:E.out})}
+function words(row,text,start,gap=.14){
+  const r=$(row);text.split(' ').forEach((t,i)=>{
+    const w=document.createElement('span');w.className='w';
+    const tx=document.createElement('span');tx.textContent=t;w.appendChild(tx);
+    for(let k=0;k<2;k++){const g=document.createElement('span');g.className='g';g.textContent=t;w.appendChild(g);
+      tw(g,{o:.32-k*.1,y:130+k*60,b:8},{o:0,y:50-k*20,b:2},start+i*gap+k*.06,.55,'out')}
+    r.appendChild(w);
+    tw(w,{o:0,y:80,b:16},{o:1,y:0,b:0},start+i*gap,.6,'out');
+  })
+}
+function reveal(id,start,dy=44){tw($(id),{o:0,y:dy},{o:1,y:0},start,.55)}
+function pop(id,start,from=1.22){tw($(id),{s:from},{s:1},start,.55,'back')}
+function inScene(id,start,end,last=false){const e=$(id);tw(e,{o:0,y:0,b:0,s:1},{o:1,y:0,b:0,s:1},start,.35,'out');if(!last)tw(e,{o:1,y:0,b:0,s:1},{o:0,y:-40,b:10,s:.97},end-.4,.4,'io',false)}
+const fmtN=v=>String(Math.round(v)).replace(/\B(?=(\d{3})+(?!\d))/g,'.');
+const fmtP=v=>v.toFixed(2).replace('.',',')+'%';
+
+const fmtD1=v=>v.toFixed(1).replace('.',',')+'%';
+const fmtD2=v=>v.toFixed(2).replace('.',',')+'%';
+const fmtI=v=>String(Math.round(v))+'%';
+const fmtC=v=>'~'+String(Math.round(v))+'%';
+const fmtH=v=>Math.round(v)+'h';
+const fmtV=(a,b)=>v=>Math.round(a*v)+' a '+Math.round(b*v);
+const BR=$('brand');tw(BR,{o:0},{o:1},0.2,.6,'out');
+const PROG=$('prog');tw(PROG,{o:0},{o:1},7.5,.5,'out');
+const STARTS=[7.7,15.6,23.8,31.8,39.8,48.0,56.8,66.2],ENDV=74.2;
+STARTS.forEach(()=>{const i=document.createElement('i');const b=document.createElement('b');i.appendChild(b);PROG.appendChild(i)});
+const PB=[...PROG.querySelectorAll('b')];
+function boundary(T){tw($('flash'),{o:.26},{o:0},T-.05,.4,'out',false);tw($('sweep'),{o:1,x:-560},{o:1,x:1120},T-.2,.7,'io',false)}
+STARTS.forEach(boundary);
+
+inScene('s1',0,7.7);
+reveal('tg1',.3);
+reveal('n1',.3,30);cnt($('n1'),0,3,v=>String(Math.round(v)),.9,1.0);pop('n1',2.0,1.18);
+reveal('l1',2.0);
+words('r11','Flávio Bolsonaro:',2.6,.1);words('r12','do passaporte',3.1,.1);words('r13','a Miami',3.5,.1);
+reveal('sub1',4.4);
+
+inScene('s2',7.7,15.6);
+reveal('tg2',7.9);words('r21','A PF pede',8.1,.1);words('r22','o passaporte',8.5,.1);
+reveal('a2a',9.3,36);reveal('a2b',10.5,36);reveal('a2c',11.7,36);
+
+inScene('s3',15.6,23.8);
+reveal('tg3',15.8);words('r31','O prazo',16.0,.1);words('r32','vence',16.4,.1);
+reveal('a3a',17.0,36);reveal('a3b',18.2,36);reveal('a3c',19.4,36);reveal('cap3',20.4);
+
+inScene('s4',23.8,31.8);
+reveal('tg4',24.0);words('r41','A Argentina',24.2,.1);words('r42','confirma',24.6,.1);
+reveal('a4a',25.2,36);reveal('a4b',26.4,36);reveal('a4c',27.6,36);
+
+inScene('s5',31.8,39.8);
+reveal('tg5',32.0);words('r51','Do Equador',32.2,.1);words('r52','a Miami',32.6,.1);
+reveal('a5a',33.2,36);reveal('a5b',34.4,36);reveal('a5c',35.6,36);
+
+inScene('s6',39.8,48.0);
+reveal('tg6',40.0);words('r61','Quem providenciou',40.2,.1);words('r62','o voo?',40.8,.1);
+reveal('a6a',41.4,36);reveal('a6b',42.6,36);reveal('a6c',43.8,36);
+
+inScene('s7',48.0,56.8);
+reveal('tg7',48.2);words('r71','O que o',48.4,.1);words('r72','Fantástico mostrou',48.8,.1);
+reveal('a7a',49.6,36);cnt($('c7a'),0,3,v=>Math.round(v)+' registros',49.7,.9);
+reveal('a7b',50.8,36);cnt($('c7b'),0,2,v=>Math.round(v)+' registros',50.9,.9);
+reveal('a7c',52.0,36);cnt($('c7c'),0,150,v=>'US$ '+Math.round(v)+' mil',52.1,1.1);pop('c7c',53.2,1.1);
+reveal('cap7',53.6);
+
+inScene('s8',56.8,66.2);
+words('r81','O que ainda',57.1,.1);words('r82','não se sabe',57.6,.1);
+reveal('k8a',58.4,30);reveal('k8b',59.6,30);reveal('k8c',60.8,30);reveal('k8d',62.0,30);reveal('cap8',63.2);
+
+inScene('s9',66.2,74.2,true);
+words('r91','Leia o',66.5,.1);words('r92','artigo completo',66.9,.1);
+reveal('t91',67.7);reveal('t92',68.8);reveal('url9',69.7);pop('url9',69.7,1.1);reveal('t93',70.6);
+
+const pc=$('pc'),px=pc.getContext('2d');const P=[];let sd=11;const rnd=()=>{sd=(sd*16807)%2147483647;return sd/2147483647};
+for(let i=0;i<46;i++)P.push({x:rnd()*1080,y:rnd()*1920,v:14+rnd()*34,r:2+rnd()*4.5,a:.07+rnd()*.2});
+function drawP(t){px.clearRect(0,0,1080,1920);P.forEach(p=>{const y=((p.y-t*p.v)%1920+1920)%1920;px.globalAlpha=p.a;px.fillStyle='#b0a6ff';px.beginPath();px.arc(p.x+Math.sin(t*.45+p.y)*16,y,p.r,0,6.2832);px.fill()});px.globalAlpha=1}
+
+function drawGrid(){}
+window.DUR=ENDV;
+window.seek=function(t){
+  for(const q of TW){
+    if(t<q.start){
+      if(q.hold){if(q.k==='t'){const s=st(q.el);for(const key in q.to){s[key]=q.from[key]!==undefined?q.from[key]:(key==='s'?1:0)}wr(q.el)}else{q.el.textContent=q.fmt(q.a)}}
+      continue;
+    }
+    const p=q.ease(Math.min(1,(t-q.start)/q.dur));
+    if(q.k==='t'){const s=st(q.el);for(const key in q.to){const a=q.from[key]!==undefined?q.from[key]:(key==='s'?1:0);s[key]=a+(q.to[key]-a)*p}wr(q.el)}
+    else{q.el.textContent=q.fmt(q.a+(q.b-q.a)*p)}
+  }
+  PB.forEach((b,i)=>{const a=i===0?STARTS[0]:STARTS[i],e=(i<STARTS.length-1?STARTS[i+1]:ENDV);b.style.width=(100*Math.min(1,Math.max(0,(t-a)/(e-a))))+'%'});
+  $('glow').style.transform=`translate(${-200+260*Math.sin(t*.45)}px,${300+420*Math.sin(t*.31+1)}px)`;
+  drawP(t);
+};
+document.querySelectorAll('.scene,.brand,#prog,#flash,#sweep').forEach(e=>st(e));
+seek(0);
+</script></body></html>
