@@ -1,29 +1,39 @@
 ---
-title: 'Linha do tempo: o passaporte de Flávio Bolsonaro, a saída pela Argentina e a chegada a Miami'
-description: 'Do pedido da PF sete minutos após o resultado ao registro oficial da Argentina e à chegada a Miami relatada pela imprensa. Veja o que está confirmado oficialmente, o que vem de fontes anônimas e o que ninguém sabe ainda.'
+title: 'Linha do tempo: o passaporte de Flávio Bolsonaro, a saída pela Argentina, a chegada a Miami e o que o Fantástico revelou'
+description: 'Do pedido da PF sete minutos após o resultado à chegada a Miami, com os registros da Argentina, a reportagem do Fantástico, o New York Times e o secretário de Estado Marco Rubio. Veja o que está confirmado, o que vem de fontes anônimas e o que ninguém sabe ainda.'
 pubDate: 'Oct 27 2026'
-updatedDate: 'Oct 28 2026'
+updatedDate: 'Nov 04 2026'
 category: 'Linha do Tempo'
 heroImage: '../../assets/capa-flavio-passaporte-paradeiro-2026.jpg'
 ---
 
-Poucas horas depois do fim do segundo turno, o senador Flávio Bolsonaro (PL-RJ) se viu no centro de uma história que mistura uma decisão judicial sigilosa, uma reportagem de um site argentino, várias negativas e, depois, relatos de que ele teria viajado aos Estados Unidos. Em 27 de outubro de 2026, a pergunta que circulava nas redes era: **onde está Flávio Bolsonaro?** Na madrugada de 28 de outubro, a Argentina divulgou um registro oficial que respondeu parte dela.
+Poucas horas depois do fim do segundo turno, o senador Flávio Bolsonaro (PL-RJ) se viu no centro de uma história que mistura uma decisão judicial sigilosa, uma reportagem de um site argentino, várias negativas e, depois, relatos de que ele teria viajado aos Estados Unidos. Em 27 de outubro de 2026, a pergunta que circulava nas redes era: **onde está Flávio Bolsonaro?** Na madrugada de 28 de outubro, a Argentina divulgou um registro oficial que respondeu parte dela. Nos dias seguintes, o Fantástico, o New York Times e o secretário de Estado americano trouxeram novos documentos e declarações.
 
-Este artigo organiza os fatos em ordem cronológica e separa três coisas que costumam se misturar: o que **está confirmado**, o que é **relato de fontes anônimas** e o que **ainda não se sabe**. A história continua em andamento, então tudo aqui reflete as informações publicadas até a tarde de 28 de outubro.
+Este artigo organiza os fatos em ordem cronológica e separa três coisas que costumam se misturar: o que **está confirmado**, o que é **relato de fontes anônimas** e o que **ainda não se sabe**. A história continua em andamento, então tudo aqui reflete as informações publicadas até a manhã de 4 de novembro de 2026.
 
 ## Resumo rápido
+
+**O que há de novo desde 28 de outubro**
+
+- **Fantástico (1º de novembro):** com base em documentos do sistema de imigração argentino, o programa diz que Flávio teve **três registros de entrada** na Argentina na noite de 27 de outubro (22h37, 22h40 e 23h11) e que os dois feitos com documentos brasileiros foram **cancelados depois**. A reportagem mostra uma agência de turismo cuja sede cadastrada é um estacionamento e cita um israelense apontado como ex-oficial de inteligência, cujo papel **não está comprovado**. O programa deixa em aberto o trajeto até Puerto Iguazú, o motivo dos três registros e quem pagou o voo. Os documentos são da apuração do programa, e o governo argentino disse a ele não ter nada a declarar.
+- **Quem pagou o voo:** o dono da empresa do jato disse à agência AFP que o voo custou US$ 150 mil, pagos por um intermediário nos EUA, e que não sabe quem era o contratante final. O New York Times, com base em uma fonte anônima, disse que o jato foi providenciado por Jason Miller, funcionário de comunicação da Casa Branca. Nenhuma autoridade confirmou isso.
+- **Marco Rubio (31 de outubro):** o secretário de Estado disse, em público, que o governo americano não participou dos arranjos da saída, que Flávio já tinha visto e que o presidente Donald Trump decidiu permitir a entrada, com **parole** (autorização condicional) na chegada. A fonte americana, que antes era anônima, passou a ter uma declaração pública.
+- **Flávio (1º de novembro):** em "Nota ao Brasil", ele escreveu "Não saí do Brasil, saí pelo Brasil" e disse que a decisão judicial foi tomada "com base em mentiras". A nota não explica como ele deixou o país. As matérias que consultamos não trazem resposta da Globo à acusação dele de que a emissora desistiu de uma entrevista sem cortes.
+- **Defesa e STF:** o advogado Frederick Wassef disse ao Fantástico que nenhuma informação sobre o trajeto é oficial ou confirmada e negou que tenha sido fuga. A defesa recorreu em 30 de outubro ao presidente do STF, Edson Fachin, pedindo a revogação das medidas e o afastamento de Moraes do caso. Não encontramos decisão sobre o recurso.
+
+**O que já estava no artigo**
 
 - **Confirmado:** o ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), cancelou os passaportes de Flávio, mandou que ele entregasse os documentos à Polícia Federal (PF) em 24 horas e o proibiu de deixar o país. A decisão atende a um pedido da PF.
 - **Confirmado:** a PF verificou fronteiras e voos para saber se ele saiu do Brasil. Até a noite de 27 de outubro, a PF não havia divulgado registro formal de saída.
 - **Confirmado por fontes da PF (Reuters):** o prazo para entregar os passaportes venceu às 11h de 27 de outubro e Flávio não os entregou. A PF cancelou os documentos no sistema. Não há mandado de prisão contra ele.
-- **Visto, segundo autoridade anônima dos EUA:** a Associated Press, o Axios e o Metrópoles informam que uma autoridade do Departamento de Estado americano, que não se identificou, disse que os EUA **emitirão vistos** para Flávio e a família e permitirão a entrada deles. Visto não é asilo, e **não há confirmação oficial de pedido ou concessão de asilo**. O presidente Donald Trump disse que aprovaria a entrada da família, segundo a CartaCapital e o The Guardian.
+- **Vistos e entrada nos EUA:** em 27 de outubro, a Associated Press, o Axios e o Metrópoles informaram, com base em uma autoridade anônima do Departamento de Estado, que os EUA **emitiriam vistos** para Flávio e a família. Em 31 de outubro, o secretário de Estado **Marco Rubio** disse publicamente que Flávio já tinha visto e que Trump decidiu permitir a entrada, com parole na chegada. Visto e parole não são asilo, e **não há confirmação oficial de pedido ou concessão de asilo**. Trump disse que aprovaria a entrada da família, segundo a CartaCapital e o The Guardian.
 - **Relatado por fontes anônimas:** a Reuters publicou, às 15h18 segundo o texto republicado, que Flávio viajou aos Estados Unidos, com base em duas fontes não identificadas: um aliado próximo e uma fonte do governo americano. A CNN Brasil e o Metrópoles também citam aliados, que dizem que ele foi com a família.
 - **Divergência sobre a PF:** a Gazeta do Povo diz que a PF confirmou à reportagem que ele deixou o país. A Reuters e a CNN Brasil, nos textos que consultamos, não trazem confirmação oficial e identificada da PF.
 - **Confirmado pela Argentina (28 de outubro):** em comunicado na madrugada de quarta, a Direção Nacional de Migrações disse que Flávio, a esposa Fernanda e as filhas Carolina e Luiza **entraram no país às 22h50 de terça** pela Ponte Internacional Tancredo Neves e **embarcaram às 23h30** em um voo privado da empresa Baires Fly S.A., com destino declarado a **Guayaquil, no Equador**. O órgão disse que os quatro tinham documentos de viagem válidos. Isso **muda a versão** que o próprio governo argentino tinha dado na terça, quando disse não ter registro de entrada.
 - **Segundo sites de rastreamento de voos:** o jato de matrícula LV-JQW pousou em Guayaquil por volta das 5h46 de quarta e seguiu para o aeroporto de Opa-locka, em Miami.
-- **Pouso em Miami, segundo a imprensa (28 de outubro, cerca de 10h25 a 10h30):** a CNN Brasil e a Gazeta do Povo informam que Flávio chegou com a família ao aeroporto Miami-Opa Locka. Os dois veículos citam imagens da agência Reuters que mostram o senador desembarcando. A Gazeta diz que a família saiu do jato acompanhada de autoridades americanas. **Não vimos as imagens diretamente**, e as matérias não trazem declaração de Flávio, da defesa ou de autoridade americana identificada sobre a chegada.
-- **Não confirmado:** se ele pedirá ou receberá asilo (visto não é asilo), por que a Argentina mudou de versão e o motivo da escala em Guayaquil. A defesa e o PL não haviam respondido à CNN Brasil até a publicação.
-- **Sem decisão de Moraes sobre prisão**, segundo o que encontramos até a tarde de 28 de outubro, e sem declaração do STF ou da PF sobre a viagem. O descumprimento da ordem de entregar os passaportes pode gerar novos desdobramentos, segundo a Jovem Pan, mas nenhum havia sido publicado.
+- **Pouso em Miami, segundo a imprensa (28 de outubro, cerca de 10h25 a 10h30):** a CNN Brasil e a Gazeta do Povo informam que Flávio chegou com a família ao aeroporto Miami-Opa Locka. Os dois veículos citam imagens da agência Reuters que mostram o senador desembarcando. A Gazeta diz que a família saiu do jato acompanhada de autoridades americanas. **Não vimos as imagens diretamente.** A chegada foi confirmada, em termos gerais, por Rubio em 31 de outubro, quando ele disse que Flávio recebeu a autorização de entrada.
+- **Não confirmado:** se ele pedirá asilo (Rubio falou em visto e em parole), por que a Argentina mudou de versão, o motivo da escala em Guayaquil, quem organizou e pagou o voo e como ele chegou a Puerto Iguazú.
+- **Sem decisão de Moraes sobre prisão**, segundo o que encontramos até 4 de novembro. A defesa de Flávio recorreu ao STF contra as medidas, e a PF investiga as circunstâncias da viagem e o descumprimento das medidas, segundo O Tempo.
 
 ## A linha do tempo
 
@@ -178,7 +188,7 @@ Sobre a situação depois do pouso, segundo a CNN Brasil:
 
 O que **não** está confirmado nos textos que consultamos:
 
-- **Declaração de Flávio, da defesa ou do PL.** As matérias de quarta não trazem manifestação deles sobre a viagem. O último texto do senador que encontramos é o vídeo de segunda (26), em que disse que entregaria os documentos e que não pretendia deixar o país.
+- **Declaração de Flávio, da defesa ou do PL** (até 28 de outubro). As matérias de quarta não traziam manifestação deles sobre a viagem. O último texto do senador que encontramos então era o vídeo de segunda (26), em que disse que entregaria os documentos e que não pretendia deixar o país. Ele só voltou a se manifestar em 1º de novembro (veja abaixo).
 - **Asilo.** Aliados falaram em asilo na terça, sob anonimato. Os funcionários americanos citados falam em vistos.
 - **O motivo da escala em Guayaquil**, que não foi explicado oficialmente.
 - **O número de ocupantes do avião nos trechos anteriores.** A imprensa local relatou números diferentes, de um a oito.
@@ -187,19 +197,93 @@ Segundo a CartaCapital, o presidente **Donald Trump** disse que aprovaria a entr
 
 **O que isso muda no que o artigo dizia antes:** os relatos de terça de que Flávio "já estava nos EUA" ficaram **sem sustentação** nos horários em que foram publicados, porque o registro argentino o coloca em Puerto Iguazú às 22h50 de terça e no ar a partir da madrugada de quarta, segundo O Tempo. A chegada aos EUA só aparece em reportagens de quarta de manhã. A informação do Infobae sobre a travessia pela Argentina e o jato de Puerto Iguazú, contestada na terça, foi **parcialmente confirmada** pelo registro oficial, embora os horários e a rota publicados na madrugada de terça não batam com o que o comunicado indica. Já as versões sobre o nome de Flávio fora do manifesto do jato (Iguazú Ahora) **não batem** com o registro argentino.
 
+### Quinta-feira, 29 de outubro: o New York Times e o parole
+
+Segundo a CNN Brasil, que resume a reportagem do New York Times, o jato foi providenciado por **Jason Miller**, funcionário de comunicação da Casa Branca. O jornal teria dito, com base em uma fonte anônima que conhece a logística, que o plano foi posto em prática na segunda-feira (26) e que Eduardo Bolsonaro manteve contato com Miller.
+
+- **Resposta:** a CNN Brasil informou que a Casa Branca encaminhou as perguntas a Miller e que aguardava retorno dele e do Departamento de Estado. Segundo o Times Brasil, que cita o jornal, Miller se recusou a comentar.
+- **Permanência nos EUA:** a CNN Brasil informa que Flávio e a família receberam uma autorização condicional para ficar por até um ano, até outubro de 2027, concedida em situações como a de urgência humanitária. Segundo o New York Times, ele deve pedir o green card "em algum momento".
+
+Ponto de atenção: a origem da informação sobre Miller é **uma fonte anônima**, e a Casa Branca não a confirmou nos textos que consultamos. Rubio negaria depois a participação do governo nos arranjos.
+
+### Sexta-feira, 30 de outubro: a defesa recorre ao STF
+
+Segundo O Tempo e a CartaCapital, que publicaram em 2 de novembro, a defesa protocolou na sexta um recurso dirigido ao presidente do STF, Edson Fachin. Os pedidos:
+
+- revogar as medidas cautelares de Moraes, entre elas a apreensão dos passaportes, a proibição de deixar o país e a de contato com outros investigados;
+- declarar Moraes impedido de atuar no inquérito ou, se isso não for aceito, reconhecer a suspeição dele, e transferir o caso ao ministro André Mendonça;
+- se as restrições forem mantidas, que o senador só precise comunicar antes as viagens ao exterior.
+
+Segundo a CartaCapital, a defesa argumenta que a decisão se apoiou em elementos que não mostrariam participação em atividades ilícitas nem risco concreto de fuga, que o Ministério Público não foi ouvido antes e que uma resposta do Santander anexada aos autos diria que Flávio não era sócio das empresas Alcazar nem usuário das contas. Para pedir o afastamento de Moraes, cita um contrato do escritório da esposa do ministro com o Banco Master e uma proposta de honorários em participação societária que, segundo o próprio escritório, não avançou. A petição diz que não atribui crime ao ministro, à esposa ou ao escritório.
+
+Não encontramos decisão sobre o recurso.
+
+### Sábado, 31 de outubro: Rubio e Trump
+
+Segundo O Tempo, o Metrópoles e a Al Jazeera, o secretário de Estado Marco Rubio falou à imprensa e disse que:
+
+- o governo americano **não facilitou nada** e não estava envolvido diretamente nos arranjos para Flávio sair do Brasil;
+- Flávio já tinha um visto, e Trump deixou claro que, se ele chegasse a uma alfândega dos EUA, receberia parole para entrar, o que de fato aconteceu.
+
+Segundo o Metrópoles e a Al Jazeera, Trump disse que Flávio foi tratado muito mal e que pode ficar nos EUA o tempo que quiser. Segundo o Metrópoles, disse também não ter planos de encontrá-lo.
+
+Ponto de atenção: a negativa de Rubio e a informação do New York Times, de que um funcionário da Casa Branca providenciou o jato, **não foram conciliadas publicamente** nos textos que consultamos. Rubio falou do governo dos EUA e da participação nos arranjos da saída, e a informação do jornal vem de fonte anônima.
+
+### Domingo, 1º de novembro: a nota de Flávio e o Fantástico
+
+**A "Nota ao Brasil".** Antes da exibição do programa, Flávio publicou uma nota nas redes, segundo o BNews e o ND Mais. Pelo que eles relatam:
+
+- ele escreveu "Não saí do Brasil, saí pelo Brasil" e disse que, sete minutos depois do resultado da eleição, já havia uma decisão judicial contra ele "com base em mentiras". Segundo O Globo, como vimos acima, os sete minutos foram o intervalo entre a confirmação do resultado e o pedido da PF, e Moraes decidiu depois, ainda na noite de domingo;
+- disse que a Globo o convidou para uma entrevista exclusiva, que ele aceitou com a condição de ser exibida na íntegra, sem cortes e sem temas proibidos, e que a emissora não seguiu adiante. É a versão dele, e as matérias que consultamos não trazem resposta da Globo;
+- disse que dará entrevistas a veículos do Brasil e do exterior "nos próximos dias";
+- a nota não descreve como ele deixou o país, segundo o BNews.
+
+**O que o Fantástico mostrou.** Segundo O Tempo e o Times Brasil, a reportagem se baseia em documentos do sistema de imigração argentino, obtidos em uma apuração com cooperação internacional, além de depoimentos de um motorista, de um jornalista argentino e de uma deputada argentina. **Não consultamos a reportagem original do programa**, e o que segue vem de veículos que a resumiram.
+
+- **Três registros de entrada.** O sistema argentino teria registrado Flávio três vezes na noite de 27 de outubro, ligadas à mesma van: às 22h37, com passaporte italiano; às 22h40, com carteira de motorista; e às 23h11, com passaporte brasileiro. Os dois registros feitos com documentos brasileiros foram cancelados depois, e só o do passaporte italiano ficou válido. A reportagem não explica a sequência, e o ICL Notícias diz que não se sabe quem os cancelou.
+- **A família.** A esposa e as filhas teriam ido de avião a Cascavel (PR) e embarcado, às 20h02, em uma van no hangar do aeroporto. A van pertence à Iguaçu Dallas Travel Turismo Ltda., de Foz do Iguaçu.
+- **A agência.** Segundo o programa, o endereço da empresa na Receita Federal é um estacionamento, e trabalhadores locais disseram que a agência nunca funcionou ali. A empresa negou, em nota, ter transportado o candidato. O programa diz que documentos mostram que duas vans da empresa cruzaram a fronteira naquela noite.
+- **A segunda van.** Cruzou a fronteira cerca de sete minutos antes. Nela estavam o motorista, o advogado Roberto Jorge Alexandre, que já atuou na defesa de Jair Bolsonaro, e Menachem Booky Halevy, apontado pelo programa como ex-oficial do serviço de inteligência de Israel. O motorista disse ao programa que foi contratado para levar duas pessoas de um posto em Foz do Iguaçu ao aeroporto de Puerto Iguazú e que não viu integrantes da família Bolsonaro. Os registros mostram quem estava na van, e não o que cada um fez.
+- **O israelense.** Segundo o programa, Halevy entrou no Brasil em 19 de outubro, por Guarulhos, e já havia passado pelo país em fevereiro e abril. Segundo o NSC Total e a Gazeta Brasil, na quinta-feira (29) ele foi abordado pela PF em Guarulhos ao se preparar para embarcar para Bogotá, prestou depoimento, foi liberado e comprou passagem para os EUA. Não encontramos manifestação dele nem de defesa. O papel dele na saída de Flávio **não está comprovado**: o NSC Total diz que ainda não se sabe exatamente qual foi e fala em suspeita, embora o título dessa matéria use afirmações mais fortes.
+- **O avião até Puerto Iguazú.** Segundo o programa, uma hipótese investigada é que Flávio saiu de Brasília às 5h05 de 27 de outubro em um Cessna Citation Excel ligado ao advogado Willer Tomaz e pousou às 8h40 em San Fernando, na região de Buenos Aires. A suspeita principal, segundo o Norte Online, é que ele chegou a Puerto Iguazú de avião, vindo de Buenos Aires, e esperou horas dentro da aeronave, na pista, pela família. A assessoria de Willer Tomaz disse em nota que é falso que aeronave dele ou de empresas da família tenha sido usada.
+- **A escolta.** Segundo o jornalista argentino Nicolás Munafó, do canal C5N, que estava no aeroporto, a comitiva tinha à frente uma caminhonete da Polícia de Segurança Aeroportuária, seguida de duas caminhonetes com placas brasileiras e duas argentinas, uma delas com placa diplomática. A deputada argentina Marcela Pagano disse haver "irregularidade" na passagem pelo controle de imigração, na escolta e no transporte em carros diplomáticos do Ministério das Relações Exteriores, e pediu explicações à Justiça. A Justiça argentina mandou preservar as imagens das câmeras da fronteira e do aeroporto, e o governo argentino disse ao programa não ter nada a declarar.
+- **O jato e o custo.** O jato foi um Gulfstream G400 (LV-JQW) da Baires Fly, com escala em Guayaquil e pouso em Opa-locka. O dono da empresa, Luis Grande, disse à AFP que o voo custou US$ 150 mil (cerca de R$ 800 mil), pagos por um intermediário do setor de aviação baseado nos EUA, em transferência de uma conta empresarial americana para um banco argentino, e que não sabe quem era o contratante final. A empresa não respondeu ao programa.
+- **Respostas.** Segundo o Times Brasil e O Tempo, Frederick Wassef, advogado de Flávio, disse ao programa que nenhuma informação sobre o trajeto é oficial ou confirmada e negou que tenha sido fuga.
+
+**O que o programa deixou em aberto**, segundo o Norte Online: o trajeto exato até Puerto Iguazú, o motivo dos três registros e quem contratou e pagou o voo.
+
+### Terça-feira, 3 de novembro, e quarta, 4: o que continua sem resposta
+
+Segundo o ICL Notícias (3 de novembro), cerca de uma semana depois da saída, Flávio ainda não havia explicado como deixou o país, quem o ajudou ou quanto a viagem custou. Até a manhã de 4 de novembro, não encontramos decisão de Moraes sobre prisão preventiva nem sobre o pedido do PT, decisão do STF sobre o recurso da defesa ou resposta da Globo à nota de Flávio.
+
+### Onde as versões não batem
+
+- **A entrada na Argentina.** O comunicado de Migrações, de 28 de outubro, fala em entrada às 22h50 pela Ponte Internacional Tancredo Neves, com a esposa e as duas filhas. Os documentos do Fantástico mostram três registros de Flávio entre 22h37 e 23h11, com documentos diferentes.
+- **Como ele chegou a Puerto Iguazú.** O comunicado descreve uma entrada por terra. A suspeita principal citada a partir do Fantástico é que ele já estava em Puerto Iguazú, de avião, esperando a família. A reportagem não resolve a diferença.
+- **O intervalo dos registros.** Os veículos falam em três registros "em 40 minutos". Pelos horários que eles próprios informam (22h37, 22h40 e 23h11), o intervalo entre o primeiro e o último é de 34 minutos.
+- **Quem providenciou o voo.** O New York Times, com fonte anônima, cita Jason Miller. Rubio diz que o governo americano não participou dos arranjos. O dono da empresa fala em um intermediário nos EUA e diz não saber quem era o contratante final.
+- **O avião de Willer Tomaz.** O programa apresenta como hipótese investigada, e a assessoria dele nega.
+- **Título e texto.** Alguns veículos usam "fuga" ou "ajudou a fugir" no título. O advogado Frederick Wassef nega que tenha sido fuga, e Flávio diz que "saiu pelo Brasil". Em matérias como a do NSC Total, o corpo do texto fala em suspeita.
+
+### O que as novas informações mudam
+
+- **A fonte americana.** O que em 27 de outubro era uma autoridade anônima falando em vistos agora tem uma declaração pública de Rubio, que fala em visto prévio e em parole, e não em asilo.
+- **O registro argentino.** O comunicado de 28 de outubro, com entrada às 22h50 e embarque às 23h30, convive agora com um detalhamento diferente nos documentos mostrados pelo Fantástico. As duas versões ainda não foram conciliadas.
+- **Quem organizou e pagou.** A pergunta passou a ter versões em disputa, entre o New York Times, Rubio e o dono da empresa do jato, sem confirmação oficial.
+
 ## O que ainda não se sabe
 
-- **O que Flávio, a defesa e o PL dizem.** Até onde encontramos, nenhum deles se manifestou sobre a viagem depois do pouso, e o STF e a PF também não.
-- **Que tipo de visto será emitido e quando.** A autoridade americana não informou.
-- **Como ele saiu do Brasil.** O registro argentino diz que ele entrou pela Ponte Internacional Tancredo Neves. A PF não divulgou registro brasileiro de saída, e não foi explicado por que a Argentina negou a entrada na terça.
-- **Se ele pedirá ou receberá asilo.** Aliados dizem que sim, segundo o Metrópoles e a Jovem Pan, e um advogado ligado a Trump disse que foi autorizado. Não há confirmação oficial, e o Departamento de Estado falou apenas de vistos.
-- **Se a entrevista coletiva em Washington vai acontecer.** Ela aparece só em relatos de aliados anônimos.
-- **Se haverá pedido de asilo e que tipo de visto será usado.** Os funcionários americanos, anônimos, falam em vistos para ele e a família.
-- **Por que a Argentina negou a entrada na terça e mudou de versão na quarta**, e por que o voo só saiu na madrugada. Nenhuma explicação oficial foi divulgada.
-- **Onde Flávio está neste momento.** Segundo o Money Times, a própria PF disse desconhecer a localização do senador na manhã de terça. O último registro oficial o coloca embarcando em Puerto Iguazú na noite de terça.
-- **O que Moraes fará.** Segundo o Terra, a PF vai comunicar o descumprimento a Moraes. Segundo o Metrópoles, aliados e advogados de Flávio apostavam na tarde de terça que ele decretaria a prisão preventiva, e deputados do PT pediram a medida ao STF. Até o fechamento deste texto, não encontramos nenhuma nova decisão dele.
-- **O conteúdo completo da decisão.** O processo é sigiloso, e a defesa e a PF ainda não divulgaram o texto.
-- **Se a PF apresentará algum registro.** A PF não divulgou, até agora, registro formal de saída do país.
+- **Como Flávio chegou a Puerto Iguazú e por que há três registros de entrada.** O Fantástico não explicou o trajeto nem o motivo. Segundo o ICL Notícias, não se sabe quem cancelou os dois registros feitos com documentos brasileiros.
+- **Quem organizou e pagou o voo.** O dono da empresa do jato fala em um intermediário nos EUA e diz não saber quem era o contratante final. O New York Times cita Jason Miller, da Casa Branca, com fonte anônima, e Rubio diz que o governo americano não participou dos arranjos. Flávio não explicou.
+- **O papel do israelense e das outras pessoas nas vans.** Nas matérias que consultamos, nenhum deles se manifestou. Halevy foi liberado depois de prestar depoimento à PF, segundo o NSC Total e a Gazeta Brasil.
+- **Se houve participação de autoridades argentinas.** A deputada Marcela Pagano fala em irregularidades, a Justiça argentina mandou preservar imagens e o governo disse não ter nada a declarar. Nada foi confirmado oficialmente.
+- **Por que a Argentina negou a entrada na terça e mudou de versão na quarta**, e como o comunicado (entrada às 22h50) se concilia com os registros mostrados pelo Fantástico.
+- **Quando Flávio dará as entrevistas que anunciou e se volta ao Brasil.** A nota diz que ele falará com veículos "nos próximos dias" e não fala em retorno.
+- **O que Moraes e o STF decidirão.** Há o recurso da defesa e o pedido de prisão preventiva feito por deputados do PT. Não encontramos decisão sobre nenhum dos dois.
+- **O que a PF apurou.** Segundo O Tempo, ela investiga as circunstâncias da viagem e o descumprimento das medidas. Não há resultado público.
+- **Se Flávio pedirá asilo ou residência permanente.** O New York Times, segundo a CNN Brasil, diz que ele deve pedir o green card em algum momento. Não há confirmação oficial.
+- **O conteúdo completo da decisão de Moraes.** O processo é sigiloso, e a defesa e a PF não divulgaram o texto.
+- **A resposta da Globo à nota de Flávio.** Não encontramos.
 
 ## Como ler esse tipo de notícia
 
@@ -207,12 +291,17 @@ Segundo a CartaCapital, o presidente **Donald Trump** disse que aprovaria a entr
 - **Negativa também não é prova.** A declaração de um aliado político, em qualquer direção, é um posicionamento, não uma checagem.
 - **Pedido da PF não é condenação.** A decisão de Moraes é uma medida cautelar dentro de uma investigação. Ela não decide culpa nem inocência.
 - **Horários importam.** Nesse tipo de história, a informação muda a cada hora. Confira sempre a data e a hora das matérias.
+- **Documento mostrado na TV ainda é reportagem.** Os registros do Fantástico vêm da apuração do programa. Quando um órgão oficial publica uma versão diferente, as duas precisam ser comparadas, e vale ver quem confirmou o quê.
+- **Título forte, texto cauteloso.** Alguns veículos usam "fuga", "ajudou a fugir" ou "montou a rota" no título, enquanto o corpo da matéria fala em suspeita. Leia o texto inteiro.
+- **Citar uma fonte não é confirmar.** O New York Times diz o que uma fonte anônima disse. Rubio disse outra coisa em público.
 
 ## Perguntas para pensar
 
 - Que tipo de prova seria suficiente para confirmar a saída do país, além de fontes que não se identificam?
 - Por que uma informação de um único site estrangeiro se espalhou tão rápido antes de ser confirmada?
 - Como separar a discussão sobre a decisão judicial da discussão sobre o paradeiro?
+- Quando um registro oficial e uma reportagem com documentos dão horários diferentes, o que precisaria ser divulgado para saber qual vale?
+- Uma pessoa citada em documentos deve ser tratada como envolvida ou apenas como citada?
 
 Este espaço não vai dar uma resposta pronta.
 
@@ -236,8 +325,15 @@ Este espaço não vai dar uma resposta pronta.
 - Segundo a CNN Brasil e a Gazeta do Povo, Flávio chegou com a família a Miami por volta das 10h25 a 10h30 de 28 de outubro, com imagens da Reuters que mostram o desembarque.
 - Segundo dois funcionários americanos ouvidos pela CNN Brasil, que não se identificam, vistos estão sendo emitidos para Flávio, a esposa e as duas filhas.
 - Segundo CartaCapital e The Guardian, Donald Trump disse que aprovaria a entrada da família.
-- Até a tarde de 28 de outubro, não encontramos declaração de Flávio, da defesa ou de um porta-voz americano nomeado sobre a chegada, nem decisão de Moraes sobre prisão.
-- Este artigo não afirma que Flávio fugiu nem avalia a decisão dele. Ele reúne o que foi publicado até a tarde de 28 de outubro de 2026 e atribui cada informação à sua fonte.
+- Segundo o Fantástico (1º de novembro), com base em documentos do sistema de imigração argentino, Flávio teve três registros de entrada na noite de 27 de outubro (22h37 com passaporte italiano, 22h40 com carteira de motorista e 23h11 com passaporte brasileiro). Os dois feitos com documentos brasileiros foram cancelados depois. O programa deixou em aberto o trajeto até Puerto Iguazú, o motivo dos três registros e quem pagou o voo.
+- O Fantástico mostrou uma agência de turismo de Foz do Iguaçu, dona da van da família, cujo endereço na Receita Federal é um estacionamento. A empresa negou, em nota, ter transportado o candidato.
+- Segundo o programa, uma segunda van, que cruzou a fronteira cerca de sete minutos antes, levava um advogado que já defendeu Jair Bolsonaro e Menachem Booky Halevy, apontado como ex-oficial da inteligência de Israel. O papel dele na saída de Flávio não está comprovado, e não encontramos manifestação dele.
+- Luis Grande, dono da Baires Fly, disse à AFP que o voo custou US$ 150 mil, pagos por um intermediário do setor de aviação baseado nos EUA, e que não sabe quem era o contratante final.
+- Segundo o New York Times, com fonte anônima, o jato foi providenciado por Jason Miller, funcionário de comunicação da Casa Branca. Em 31 de outubro, Rubio disse que o governo americano não participou dos arranjos da saída, que Flávio já tinha visto e que Trump decidiu permitir a entrada, com parole.
+- Em "Nota ao Brasil", Flávio escreveu "Não saí do Brasil, saí pelo Brasil" e disse que a decisão judicial foi tomada "com base em mentiras". Segundo ele, a Globo desistiu de uma entrevista que ele aceitou dar sem cortes. As matérias que consultamos não trazem resposta da emissora.
+- Frederick Wassef disse ao Fantástico que nenhuma informação sobre o trajeto é oficial ou confirmada e negou que tenha sido fuga. A assessoria de Willer Tomaz disse ser falso que aeronave dele ou de empresas da família tenha sido usada.
+- A defesa recorreu em 30 de outubro ao presidente do STF, Edson Fachin, pedindo a revogação das medidas e o afastamento de Moraes. Até a manhã de 4 de novembro, não encontramos decisão sobre o recurso nem decisão de Moraes sobre prisão.
+- Este artigo não afirma que Flávio fugiu nem avalia a decisão dele. Ele reúne o que foi publicado até a manhã de 4 de novembro de 2026 e atribui cada informação à sua fonte.
 
 ## Fontes consultadas para este artigo
 
@@ -286,5 +382,12 @@ Este espaço não vai dar uma resposta pronta.
 - The Guardian e Ámbito, reportagens sobre a saída do avião e o comunicado de Migrações (28 de outubro de 2026)
 - Direção Nacional de Migrações da Argentina (@Migraciones_AR), comunicado citado pelos veículos acima; não consultamos a publicação original
 - Infobae, TN e Iguazú Ahora (Argentina), reportagens citadas pelos veículos acima
+- Fantástico (TV Globo), reportagem exibida em 1º de novembro de 2026. Não consultamos a reportagem original; usamos os veículos que a resumiram: O Tempo, "Fuga de Flávio para EUA envolveu ex-agente israelense e carros diplomáticos argentinos, revela TV" (1º de novembro de 2026); Times Brasil, "Fuga de Flávio teve participação de agência 'fantasma' e ex-oficial de inteligência de Israel" (2 de novembro de 2026, com Estadão Conteúdo); TV Prime, do Correio Braziliense, "Estes são os detalhes da fuga de Flávio Bolsonaro revelados pelo Fantástico" (1º de novembro de 2026); Brasil 247, sobre o israelense citado (2 de novembro de 2026); 96FM, resumo da reportagem (2 de novembro de 2026); O Norte Online, "Fantástico detalha fuga de Flávio, revela versões conflitantes e não aborda impasse sobre entrevista" (novembro de 2026)
+- NSC Total, "Chegou antes do 2º turno e montou rota: quem é o ex-espião que ajudou Flávio Bolsonaro a fugir do Brasil" (1º de novembro de 2026), e Gazeta Brasil, "Quem é Menachem Booky Halevy, o ex-agente do Mossad citado no caso Flávio Bolsonaro" (2 de novembro de 2026)
+- CNN Brasil, "Assessor de Trump providenciou jato para Flávio ir aos EUA, diz NYT" (29 de outubro de 2026), que resume a reportagem do New York Times, não consultada diretamente
+- O Tempo, "Rubio nega ajuda dos EUA na saída de Flávio Bolsonaro" (31 de outubro de 2026); Metrópoles, "Trump diz não ter planos para se encontrar com Flávio Bolsonaro nos EUA" (31 de outubro de 2026, atualizada em 1º de novembro); Al Jazeera, "Rubio says Trump administration did not help Bolsonaro flee Brazil to US" (1º de novembro de 2026)
+- BNews, "Flávio Bolsonaro acusa Globo de desistir de entrevista após exigência" (1º de novembro de 2026), e ND Mais, "Fantástico revela bastidores da saída de Flávio Bolsonaro do Brasil e senador acusa emissora" (2 de novembro de 2026); a "Nota ao Brasil" foi publicada por Flávio na rede X, e não consultamos a publicação original
+- O Tempo, "Flávio Bolsonaro recorre ao STF contra apreensão de passaportes" (2 de novembro de 2026), e CartaCapital, "Flávio Bolsonaro recorre contra ordem de apreensão de passaportes e pede impedimento de Moraes no caso" (2 de novembro de 2026)
+- ICL Notícias, "Fuga milionária de Flávio Bolsonaro ainda tem rota e cúmplices sob investigação" (3 de novembro de 2026)
 
 Veja também: [Linha do tempo: a corrida eleitoral de 2026](/blog/linha-do-tempo-eleicao-2026) e [A virada no segundo turno de 2026](/blog/virada-segundo-turno-2026).

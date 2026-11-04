@@ -23,4 +23,4 @@ Requisitos: Python com playwright (Chromium) e ffmpeg.
 4. O vídeo tem 1080x1920, 30 fps, sem áudio (faixa muda).
 
 ## Capas
-- mkcapa_urnas.py, mkcapa_cbs.py, mkcapa_6x1.py e mkcapa_espectro.py: capas 1200x600 com PIL e fonte Inter (/usr/share/fonts/opentype/inter/). Os caminhos de saída e de referência estão no início de cada script e precisam ser ajustados ao ambiente.
+- mkcapa_urnas.py, mkcapa_cbs.py, mkcapa_6x1.py, mkcapa_espectro.py e mkcapa_flavio.py: capas 1200x600 com PIL e fonte Inter (/usr/share/fonts/opentype/inter/). Os caminhos de saída e de referência estão no início de cada script e precisam ser ajustados ao ambiente.
