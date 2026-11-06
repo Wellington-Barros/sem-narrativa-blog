@@ -1,14 +1,14 @@
 ---
-title: 'O que aconteceu no Paraguai: o banco que foi tomado, o presidente que anunciou a renúncia e o impeachment explicado em palavras simples'
-description: 'Em 3 de novembro de 2026 o Ueno Bank foi tomado pelo banco central do Paraguai, e milhões de pessoas ficaram sem acesso às contas. Dois dias depois, o presidente Santiago Peña anunciou a renúncia e a Câmara votou o impeachment. Entenda tudo passo a passo, como se fosse para uma criança, com o que está confirmado e o que não está.'
+title: 'O que aconteceu no Paraguai: a crise do Ueno Bank, a renúncia anunciada por Santiago Peña e o impeachment'
+description: 'Em 3 de novembro de 2026 o Ueno Bank foi tomado pelo banco central do Paraguai, e milhões de pessoas ficaram sem acesso às contas. Dois dias depois, o presidente Santiago Peña anunciou a renúncia e a Câmara votou o impeachment. Veja a linha do tempo, o que está confirmado, o que são acusações e o que ainda não se sabe.'
 pubDate: 'Nov 06 2026'
-category: 'Como Funciona'
+category: 'Linha do Tempo'
 heroImage: '../../assets/capa-paraguai-ueno-bank-crise-2026.jpg'
 ---
 
 Em 3 de novembro de 2026, o banco central do Paraguai tomou o controle de um banco digital chamado **Ueno Bank**. Milhões de pessoas ficaram sem conseguir usar suas contas, e o dinheiro de aposentadorias também ficou preso. Dois dias depois, o problema do banco virou um problema do governo: na quinta-feira, 5 de novembro, o presidente **Santiago Peña** anunciou que renunciaria, e a Câmara dos Deputados aprovou, por unanimidade, a abertura de um processo de impeachment contra ele.
 
-Este artigo conta essa história em palavras simples, como se estivéssemos explicando para uma criança, mas sem deixar de lado os fatos. Quando uma explicação for uma **comparação** para ajudar a entender, o texto avisa. Quando uma informação vier de uma única fonte, ou for uma acusação que ninguém provou, o texto também avisa. A história continua em andamento, então tudo aqui reflete o que foi publicado até a manhã de 6 de novembro de 2026.
+Este artigo organiza os fatos em ordem cronológica e separa o que **está confirmado**, o que é **acusação** e o que **ainda não se sabe**. Quando uma informação vem de uma única fonte, o texto avisa. A história continua em andamento, então tudo aqui reflete o que foi publicado até a manhã de 6 de novembro de 2026.
 
 ## Resumo rápido
 
@@ -18,26 +18,9 @@ Este artigo conta essa história em palavras simples, como se estivéssemos expl
 - **O que é acusação, e não prova:** parlamentares dizem que há conflito de interesses, porque Peña teve ações de uma empresa ligada ao dono do Ueno e nomeou para o banco central um ex-dirigente do Ueno. Isso é o que a oposição afirma e o que o impeachment vai analisar. Não há condenação.
 - **O que ainda vem:** o Senado precisa julgar o impeachment, e a renúncia ainda precisa ser votada pelo Congresso. Peña pediu 72 horas a mais para se defender, e não encontramos a decisão sobre esse pedido.
 
-## Palavras difíceis, explicadas
-
-- **Banco central:** é o "fiscal" dos bancos de um país. Ele confere se os bancos estão guardando o dinheiro direitinho. No Paraguai, a sigla é BCP. (Fiscal é uma comparação; o BCP também tem outras funções.)
-- **Intervenção:** quando o banco central entra em um banco e assume o comando, porque acha que ele não consegue mais funcionar sozinho.
-- **Fundo de garantia de depósitos:** uma espécie de seguro. Se o banco quebra, esse fundo devolve parte do dinheiro dos clientes, até um limite.
-- **Impeachment:** é o processo para tirar um presidente do cargo. No Paraguai é chamado de "juicio político", ou julgamento político.
-- **Renúncia:** quando a pessoa decide sair do cargo por vontade própria.
-- **Quórum:** o número mínimo de pessoas que precisam estar presentes para uma votação valer.
-- **Libelo:** o documento com as acusações que são entregues ao Senado.
-- **Senador vitalício:** no Paraguai, ex-presidentes viram senadores pelo resto da vida, com direito a falar mas sem voto, e com proteção legal, a não ser que tenham sido condenados em um impeachment, segundo a Agência Brasil e a Reuters.
-
-## Para começar: o que um banco faz com o dinheiro?
-
-Imagine que você e seus vizinhos guardam suas moedas em um grande cofre da rua. Essa é a ideia de um banco: ele guarda o dinheiro das pessoas. Só que o banco não deixa tudo parado. Ele **empresta** uma parte para outras pessoas e empresas, que depois devolvem com um valor a mais. É assim que o banco ganha dinheiro. (Essa é uma comparação simplificada.)
-
-Isso funciona enquanto os empréstimos são pagos e as contas do banco estão registradas do jeito certo. Se muita gente deixa de pagar, ou se o banco anota as contas de forma errada, pode faltar dinheiro para devolver a quem guardou. É para evitar isso que existe o banco central, que fiscaliza.
-
 ## Quem é o Ueno Bank
 
-O Ueno é um **banco digital**, sem agências como as dos bancos antigos, que funciona por aplicativo. Segundo a AP e a Euronews, ele cresceu a partir de uma financeira chamada Financiera Ueno e ganhou licença de banco em 2023.
+O Ueno é um **banco digital**, que funciona por aplicativo, e era fiscalizado pelo banco central do Paraguai (BCP). Segundo a AP e a Euronews, ele cresceu a partir de uma financeira chamada Financiera Ueno e ganhou licença de banco em 2023.
 
 O tamanho exato do banco é um ponto em que as fontes **não batem** (veja mais abaixo). A AP diz que o Ueno afirmava ter mais de 60% dos adultos do país como clientes. A Reuters, citada pela Al Jazeera, fala em cerca de 3 milhões de clientes em um país de 6,5 milhões de habitantes, e diz que esse número é o que o próprio banco afirmava. A Agência Brasil fala em 2,9 milhões de correntistas. O BCP, segundo o ABC Color, calcula que o adiantamento do fundo de garantia alcançaria cerca de 1,9 milhão de clientes.
 
@@ -60,7 +43,7 @@ O banco central anunciou que tomou o Ueno. Segundo a Euronews, o aplicativo, os 
 - **A lei do fundo de garantia:** o Congresso aprovou uma lei para que o fundo devolva o dinheiro dos clientes em até cinco dias úteis, começando pelas contas pequenas, de até cerca de US$ 1,6 mil, segundo a AP. O fundo cobre até cerca de US$ 36 mil por cliente, segundo a AP. A Agência Brasil fala em US$ 38 mil.
 - **As acusações contra os donos e dirigentes:** a Procuradoria acusou formalmente 27 pessoas ligadas ao Ueno de quebra de confiança e tentativa de fraude, segundo a AP, e pediu prisão preventiva para Federico Miguel Vázquez Villasanti (o ABC Color lista também outros crimes, como violação de livros comerciais).
 - **Aplicativos de outros bancos travaram:** segundo a Euronews, houve uma corrida para abrir contas em outros bancos, e os aplicativos deles caíram.
-- **O pedido de impeachment:** deputados de oposição e alguns dissidentes apresentaram um libelo contra Peña e contra o vice, Pedro Alliana, com 35 assinaturas, segundo o ABC Color.
+- **O pedido de impeachment:** deputados de oposição e alguns dissidentes apresentaram um libelo (documento com as acusações) contra Peña e contra o vice, Pedro Alliana, com 35 assinaturas, segundo o ABC Color.
 - **Protestos:** milhares de pessoas marcharam até o Congresso, segundo a AP.
 
 ### Quinta-feira, 5 de novembro: o presidente anuncia a renúncia
@@ -100,9 +83,9 @@ Segundo as reportagens, Peña não é dono do Ueno. As acusações dos parlament
 
 Importante: **são acusações, e não condenações.** A AP não registrou nenhuma acusação formal contra Peña na Justiça, só investigações.
 
-## O que é um impeachment, em palavras simples?
+## Como funciona o impeachment no Paraguai
 
-Pense em uma escola (é uma comparação). Um grupo de alunos leva uma queixa à direção sobre o comportamento do representante da turma. A direção precisa decidir se a queixa tem fundamento e, depois, se o representante perde o cargo. No Paraguai, quem faz a acusação é a **Câmara dos Deputados**, e quem julga é o **Senado**.
+No Paraguai, o impeachment é chamado de "juicio político" (julgamento político). Quem faz a acusação é a **Câmara dos Deputados**, e quem julga é o **Senado**. Ex-presidentes paraguaios viram senadores vitalícios, com direito a falar mas sem voto, e com proteção legal, a não ser que tenham sido condenados em um impeachment, segundo a Agência Brasil e a Reuters.
 
 Segundo o El Argentino Diario, para tirar o presidente do cargo são necessários os votos de 30 dos 45 senadores (dois terços). A Câmara usou como base o artigo 225 da Constituição, que trata de mau desempenho, segundo o mesmo texto, e as acusações envolvem conflito de interesses com o grupo dono do Ueno.
 
@@ -155,7 +138,6 @@ Segundo o El Argentino Diario, o juiz Rodrigo Estigarribia proibiu a venda ou a 
 - **Renúncia anunciada não é renúncia aceita.** Neste caso, a diferença muda tudo: quem assume, se haverá julgamento e quais proteções legais ficam.
 - **Número de uma fonte pode não ser número de outra.** Cheque o que está sendo contado (pessoas, dinheiro, clientes, depósitos).
 - **Título forte, texto cauteloso.** Leia a matéria inteira antes de concluir quem assumiu, quem foi preso ou o que foi decidido.
-- **Comparações ajudam, mas simplificam.** O cofre, a escola e o fiscal servem para entender a ideia, mas a lei paraguaia tem regras próprias.
 - **Confira a data e a hora.** A situação mudou a cada poucas horas entre 3 e 6 de novembro.
 
 ## Perguntas para pensar
