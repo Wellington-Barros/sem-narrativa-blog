@@ -1,0 +1,344 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{width:1080px;height:1920px;background:#09090f;overflow:hidden;font-family:'Inter',sans-serif;color:#fff}
+#bg{position:absolute;inset:0;background:radial-gradient(900px 700px at 50% 104%,rgba(80,56,170,.6),transparent 70%),radial-gradient(700px 600px at 92% 0%,rgba(54,38,130,.5),transparent 70%)}
+#glow{position:absolute;left:0;top:0;width:1100px;height:1100px;border-radius:50%;background:radial-gradient(closest-side,rgba(110,84,230,.16),transparent)}
+#pc{position:absolute;left:0;top:0}
+.brand{position:absolute;top:150px;left:0;right:0;text-align:center;font-weight:800;font-size:46px;letter-spacing:1px;opacity:0}
+.brand u{text-decoration-thickness:4px;text-underline-offset:7px}
+#prog{position:absolute;top:238px;left:90px;width:900px;height:10px;display:flex;gap:8px;opacity:0}
+#prog i{flex:1;background:rgba(255,255,255,.14);border-radius:6px;overflow:hidden;display:block}
+#prog b{display:block;height:100%;width:0;background:#8c78ff;border-radius:6px}
+.scene{position:absolute;left:0;right:0;top:290px;height:960px;opacity:0}
+.kb{position:absolute;inset:0}
+.tagw{position:absolute;top:18px;left:0;right:0;text-align:center}
+.tag{display:inline-block;padding:12px 28px;border-radius:16px;font-weight:800;font-size:32px;letter-spacing:1.5px;background:#463ca0;color:#fff;opacity:0}
+.beat{position:absolute;left:90px;right:90px;top:110px;bottom:0;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;opacity:0}
+.stack{position:absolute;left:90px;right:90px;top:100px;bottom:40px;display:flex;flex-direction:column;align-items:stretch;justify-content:center}
+.h{font-weight:800;line-height:1.06;letter-spacing:-2px}
+.row{display:block;white-space:nowrap}
+.w{display:inline-block;position:relative;margin:0 12px;opacity:0}
+.w .g{position:absolute;left:0;top:0;opacity:0;pointer-events:none}
+.p{color:#9a88ff}.s{color:#e6e6f2}.m{color:#a8a8c4}.amb{color:#f6b848}.red{color:#ff8a92}
+.num{font-weight:800;letter-spacing:-6px;line-height:1;white-space:nowrap}
+.lbl{font-size:56px;font-weight:600;color:#e6e6f2;line-height:1.18}
+.small{font-size:40px;font-weight:600;color:#a8a8c4;line-height:1.3}
+.op0{opacity:0}
+.card{background:rgba(255,255,255,.07);border:3px solid rgba(255,255,255,.14);border-radius:36px;padding:34px 40px}
+.stamp{display:inline-block;border:8px solid #ff6b74;color:#ff8a92;border-radius:22px;padding:10px 34px;font-weight:900;letter-spacing:2px;line-height:1.05;background:rgba(230,80,90,.12);opacity:0}
+.pill{display:inline-block;padding:16px 46px;border-radius:60px;background:rgba(140,120,255,.22);border:5px solid #8c78ff;font-weight:800;opacity:0}
+.icon{display:block;margin:0 auto}
+.bar{height:84px;border-radius:18px;width:0}
+.chk{display:flex;align-items:center;text-align:left;margin:18px 0;opacity:0}
+.chk .q{flex:none;width:92px;height:92px;border-radius:50%;border:5px solid #8c78ff;color:#b3a6ff;font-weight:900;font-size:58px;display:flex;align-items:center;justify-content:center;margin-right:30px;background:rgba(140,120,255,.14)}
+.chk .t{font-size:54px;font-weight:700;line-height:1.15;color:#ececf6}
+.strike{position:absolute;left:-10px;top:52%;height:9px;background:#ff6b74;border-radius:6px;width:0}
+#caps{position:absolute;left:0;right:0;top:1272px;height:250px}
+.cl{position:absolute;left:0;right:0;top:0;text-align:center;opacity:0}
+.cl span.box{display:inline-block;max-width:880px;background:rgba(12,10,28,.62);border:2px solid rgba(255,255,255,.08);border-radius:26px;padding:16px 30px;font-size:58px;font-weight:800;line-height:1.18;letter-spacing:-.5px}
+.cw{opacity:.38;transition:none}
+#flash{position:absolute;inset:0;background:#a898ff;opacity:0;pointer-events:none}
+#iris{position:absolute;left:440px;top:860px;width:200px;height:200px;border-radius:50%;background:radial-gradient(circle,#2a1f6b 0%,#3b2d93 55%,#6a55e0 100%);opacity:0;pointer-events:none}
+#dot{position:absolute;left:522px;top:742px;width:36px;height:36px;border-radius:50%;background:#b3a6ff;opacity:0}
+#ring{position:absolute;left:490px;top:710px;width:100px;height:100px;border-radius:50%;border:6px solid #b3a6ff;opacity:0}
+</style></head><body>
+<div id="bg"></div><div id="glow"></div><canvas id="pc" width="1080" height="1920"></canvas>
+<div class="brand" id="brand">SEM <u>NARRATIVA</u></div>
+<div id="prog"></div>
+
+<div class="scene" id="s1"><div class="kb" id="kb1">
+ <div class="tagw"><span class="tag" id="tg1">PARAGUAI · NOVEMBRO DE 2026</span></div>
+ <div class="beat" id="b10">
+  <div class="card" id="c10" style="width:880px;display:flex;align-items:center;text-align:left">
+   <svg width="170" height="170" viewBox="0 0 100 100" style="flex:none;margin-right:36px"><path d="M50 8 L92 30 L8 30 Z" fill="#9a88ff"/><rect x="14" y="36" width="10" height="38" rx="2" fill="#9a88ff"/><rect x="34" y="36" width="10" height="38" rx="2" fill="#9a88ff"/><rect x="56" y="36" width="10" height="38" rx="2" fill="#9a88ff"/><rect x="76" y="36" width="10" height="38" rx="2" fill="#9a88ff"/><rect x="6" y="80" width="88" height="10" rx="3" fill="#9a88ff"/></svg>
+   <div><div style="font-size:96px;font-weight:800;letter-spacing:-3px;line-height:1">Ueno Bank</div><div class="m" style="font-size:52px;font-weight:600;margin-top:12px">banco digital do Paraguai</div></div>
+  </div>
+  <div style="margin-top:70px"><span class="stamp" id="st10" style="font-size:78px">TOMADO PELO<br>BANCO CENTRAL</span></div>
+ </div>
+ <div class="beat" id="b11">
+  <svg class="icon" id="ic11" width="230" height="230" viewBox="0 0 100 100"><rect x="18" y="44" width="64" height="48" rx="10" fill="#f6b848"/><path d="M32 44 V30 a18 18 0 0 1 36 0 V44" fill="none" stroke="#f6b848" stroke-width="10"/><circle cx="50" cy="64" r="7" fill="#1a1530"/><rect x="47" y="66" width="6" height="14" rx="3" fill="#1a1530"/></svg>
+  <div class="num red" id="n11" style="font-size:128px;letter-spacing:-4px;margin-top:40px">SEM ACESSO</div>
+  <div class="lbl" id="l11" style="font-size:72px;font-weight:700;margin-top:14px">às contas</div>
+  <div class="small" id="m11" style="margin-top:34px">milhões de clientes afetados</div>
+ </div>
+ <div class="beat" id="b12">
+  <div class="num p" id="n12" style="font-size:300px;letter-spacing:-10px">0</div>
+  <div class="h" style="font-size:104px;margin-top:4px"><span class="row" id="r12"></span></div>
+  <div class="card" id="c12" style="margin-top:60px;width:880px"><div class="lbl" style="font-size:64px;font-weight:700">o presidente anuncia<br>que vai <span class="amb">renunciar</span></div></div>
+ </div>
+ <div class="beat" id="b13">
+  <span class="pill" id="pl13" style="font-size:132px;padding:22px 80px;letter-spacing:4px">ENTENDA</span>
+  <div class="h s" style="font-size:84px;margin-top:50px"><span class="row" id="r13"></span></div>
+ </div>
+</div></div>
+
+<div class="scene" id="s2"><div class="kb" id="kb2">
+ <div class="tagw"><span class="tag" id="tg2">3 DE NOVEMBRO</span></div>
+ <div class="beat" id="b20">
+  <div class="card" id="c20a" style="width:860px;background:rgba(140,120,255,.2);border-color:#8c78ff"><div style="font-size:70px;font-weight:800;line-height:1.1">Banco central<br>do Paraguai</div></div>
+  <svg id="ar20" width="120" height="170" viewBox="0 0 60 85" style="margin:18px 0"><rect x="25" y="0" width="10" height="58" rx="5" fill="#f6b848"/><path d="M8 52 L30 82 L52 52 Z" fill="#f6b848"/></svg>
+  <div class="amb" id="l20" style="font-size:54px;font-weight:800;margin:-10px 0 18px">assume o controle</div>
+  <div class="card" id="c20b" style="width:860px"><div style="font-size:84px;font-weight:800">Ueno Bank</div></div>
+ </div>
+ <div class="beat" id="b21" style="align-items:stretch;text-align:left">
+  <div class="h" id="h21" style="font-size:84px;margin-bottom:46px">O capital do banco</div>
+  <div id="g21a" style="margin-bottom:36px"><div class="lbl m" style="font-size:46px;margin-bottom:12px">Mínimo exigido pela lei</div><div style="position:relative;width:900px"><div class="bar" id="bar21a" style="background:#6e6e8a"></div></div></div>
+  <div id="g21b"><div class="lbl" style="font-size:46px;margin-bottom:12px">Capital do Ueno</div><div style="position:relative;width:900px;height:84px"><div class="bar" id="bar21b" style="background:#8c78ff;position:absolute;left:0;top:0"></div><div id="mk21" style="position:absolute;left:448px;top:-200px;width:6px;height:300px;background:repeating-linear-gradient(#f6b848 0 16px,transparent 16px 28px);opacity:0"></div></div></div>
+  <div class="amb" id="t21" style="font-size:76px;font-weight:800;margin-top:44px;text-align:center">abaixo da metade<br>do mínimo</div>
+  <div class="small" id="f21" style="font-size:34px;margin-top:22px;text-align:center">Barras ilustrativas. Fonte: banco central, via AP</div>
+ </div>
+ <div class="beat" id="b22">
+  <div id="x22a" style="position:relative;display:inline-block;margin:22px 0;opacity:0"><span style="font-size:104px;font-weight:800">Aplicativo</span><div class="strike" id="sk22a"></div></div>
+  <div id="x22b" style="position:relative;display:inline-block;margin:22px 0;opacity:0"><span style="font-size:104px;font-weight:800">Cartões</span><div class="strike" id="sk22b"></div></div>
+  <div id="x22c" style="position:relative;display:inline-block;margin:22px 0;opacity:0"><span style="font-size:104px;font-weight:800">Transferências</span><div class="strike" id="sk22c"></div></div>
+  <div class="amb" id="t22" style="font-size:72px;font-weight:800;margin-top:46px">pararam de funcionar</div>
+ </div>
+</div></div>
+
+<div class="scene" id="s3"><div class="kb" id="kb3">
+ <div class="tagw"><span class="tag" id="tg3">O DINHEIRO</span></div>
+ <div class="beat" id="b30">
+  <div class="small" id="m30" style="font-size:46px">segundo a Associated Press</div>
+  <div class="num p" id="n30" style="font-size:200px;margin-top:20px">US$ 0</div>
+  <div class="h" id="h30" style="font-size:130px;margin-top:-6px">milhões</div>
+  <div class="lbl" id="l30" style="font-size:64px;margin-top:40px">em dinheiro público<br>estavam no banco</div>
+ </div>
+ <div class="beat" id="b31">
+  <div class="p" id="h31" style="font-size:76px;font-weight:800">Fundo de garantia</div>
+  <div class="small" id="m31" style="font-size:42px;margin-top:8px">lei aprovada pelo Congresso</div>
+  <div style="display:flex;gap:22px;margin-top:56px" id="d31">
+   <div class="dy" id="d31a" style="width:140px;height:140px;border-radius:26px;border:5px solid #8c78ff;opacity:0"></div>
+   <div class="dy" id="d31b" style="width:140px;height:140px;border-radius:26px;border:5px solid #8c78ff;opacity:0"></div>
+   <div class="dy" id="d31c" style="width:140px;height:140px;border-radius:26px;border:5px solid #8c78ff;opacity:0"></div>
+   <div class="dy" id="d31d" style="width:140px;height:140px;border-radius:26px;border:5px solid #8c78ff;opacity:0"></div>
+   <div class="dy" id="d31e" style="width:140px;height:140px;border-radius:26px;border:5px solid #8c78ff;opacity:0"></div>
+  </div>
+  <div class="num" id="n31" style="font-size:118px;margin-top:44px;letter-spacing:-3px">até 5 dias úteis</div>
+  <div class="amb" id="t31" style="font-size:64px;font-weight:800;margin-top:40px">contas pequenas primeiro</div>
+ </div>
+</div></div>
+
+<div class="scene" id="s4"><div class="kb" id="kb4">
+ <div class="tagw"><span class="tag" id="tg4">A ACUSAÇÃO</span></div>
+ <div class="beat" id="b40">
+  <div class="small" id="m40" style="font-size:48px;margin-bottom:30px">acusação de parlamentares</div>
+  <div class="h" style="font-size:136px"><span class="row" id="r40a"></span><span class="row amb" id="r40b"></span></div>
+ </div>
+ <div class="beat" id="b41">
+  <span class="pill" id="pl41" style="font-size:72px">Santiago Peña</span>
+  <div class="card" id="c41a" style="width:900px;margin-top:50px;text-align:left;border-left:12px solid #8c78ff"><div class="lbl" style="font-size:54px">Teve ações de uma empresa<br>ligada ao Ueno</div></div>
+  <div class="card" id="c41b" style="width:900px;margin-top:30px;text-align:left;border-left:12px solid #8c78ff"><div class="lbl" style="font-size:54px">Escolheu para o banco central<br>um ex-dirigente da<br>financeira do banco</div></div>
+ </div>
+ <div class="beat" id="b42">
+  <div class="small" id="m42" style="font-size:46px;margin-bottom:30px">a versão dele</div>
+  <div class="card" id="c42" style="width:900px;border-left:12px solid #f6b848;text-align:left"><div class="lbl" style="font-size:66px;font-weight:700">Peña diz que vendeu<br>a parte dele em <span class="amb">2025</span></div></div>
+ </div>
+ <div class="beat" id="b43">
+  <span class="stamp" id="st43" style="font-size:96px;border-color:#f6b848;color:#f6b848;background:rgba(246,184,72,.1)">AINDA NÃO<br>JULGADA</span>
+  <div class="small" id="m43" style="font-size:50px;margin-top:60px">acusação não é condenação</div>
+ </div>
+</div></div>
+
+<div class="scene" id="s5"><div class="kb" id="kb5">
+ <div class="tagw"><span class="tag" id="tg5">5 DE NOVEMBRO</span></div>
+ <div class="beat" id="b50">
+  <div id="v50" style="width:860px;height:480px;border-radius:36px;background:linear-gradient(160deg,#241c52,#120f2a);border:3px solid rgba(255,255,255,.16);display:flex;align-items:center;justify-content:center;position:relative">
+   <svg id="pl50" width="190" height="190" viewBox="0 0 100 100"><circle cx="50" cy="50" r="46" fill="rgba(255,255,255,.14)" stroke="#fff" stroke-width="4"/><path d="M40 30 L72 50 L40 70 Z" fill="#fff"/></svg>
+   <div style="position:absolute;left:30px;bottom:24px;font-size:38px;font-weight:700;color:#c8c8dc">anúncio em vídeo</div>
+  </div>
+  <div class="h" id="h50" style="font-size:88px;margin-top:56px">Peña anuncia<br>a <span class="amb">renúncia</span></div>
+ </div>
+ <div class="beat" id="b51" style="align-items:stretch">
+  <div id="k51a" style="display:flex;align-items:center;text-align:left;margin:20px 0;opacity:0"><svg width="120" height="120" viewBox="0 0 100 100" style="flex:none;margin-right:34px"><circle cx="50" cy="50" r="46" fill="rgba(140,120,255,.22)" stroke="#8c78ff" stroke-width="6"/><path d="M28 52 L44 67 L73 36" fill="none" stroke="#fff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/></svg><div class="lbl" style="font-size:66px;font-weight:700">Pediu desculpas</div></div>
+  <div id="k51b" style="display:flex;align-items:center;text-align:left;margin:20px 0;opacity:0"><svg width="120" height="120" viewBox="0 0 100 100" style="flex:none;margin-right:34px"><circle cx="50" cy="50" r="46" fill="rgba(230,80,90,.2)" stroke="#ff6b74" stroke-width="6"/><path d="M33 33 L67 67 M67 33 L33 67" stroke="#fff" stroke-width="10" stroke-linecap="round"/></svg><div class="lbl" style="font-size:58px;font-weight:700">Não assumiu a<br>responsabilidade<br>pela crise</div></div>
+  <div class="small" id="m51" style="font-size:40px;margin-top:30px;text-align:center">segundo a Associated Press</div>
+ </div>
+ <div class="beat" id="b52">
+  <svg id="ic52" width="200" height="200" viewBox="0 0 100 100"><circle cx="42" cy="42" r="26" fill="none" stroke="#9a88ff" stroke-width="9"/><path d="M61 61 L86 86" stroke="#9a88ff" stroke-width="12" stroke-linecap="round"/></svg>
+  <div class="h" style="font-size:96px;margin-top:40px"><span class="row" id="r52a"></span><span class="row p" id="r52b" style="font-size:74px;margin-top:10px"></span></div>
+  <div class="small" id="m52" style="font-size:44px;margin-top:36px">é o que ele diz</div>
+ </div>
+</div></div>
+
+<div class="scene" id="s6"><div class="kb" id="kb6">
+ <div class="tagw"><span class="tag" id="tg6">NO MESMO DIA</span></div>
+ <div class="beat" id="b60">
+  <div class="lbl m" id="m60" style="font-size:58px">Câmara dos Deputados</div>
+  <div class="num p" id="n60" style="font-size:290px;letter-spacing:-10px;margin-top:10px">0 a 0</div>
+  <div class="lbl" id="l60" style="font-size:66px;margin-top:20px">pela abertura<br>do <span class="amb">impeachment</span></div>
+ </div>
+ <div class="beat" id="b61">
+  <div class="h" id="h61" style="font-size:130px">Renúncia</div>
+  <div style="margin-top:50px"><span class="stamp" id="st61" style="font-size:100px">NÃO VOTADA</span></div>
+  <div class="amb" id="t61" style="font-size:66px;font-weight:800;margin-top:60px">faltou quórum<br>no Congresso</div>
+ </div>
+ <div class="beat" id="b62">
+  <span class="pill" id="pl62" style="font-size:104px;padding:22px 64px">SEGUE NO CARGO</span>
+  <div class="small" id="m62" style="font-size:44px;margin-top:50px">pelas últimas informações,<br>manhã de 6 de novembro</div>
+ </div>
+</div></div>
+
+<div class="scene" id="s7"><div class="kb" id="kb7">
+ <div class="tagw"><span class="tag" id="tg7">POR QUE IMPORTA</span></div>
+ <div class="stack">
+  <div class="card" id="c70" style="opacity:0;border-left:12px solid #8c78ff"><div class="p" style="font-size:56px;font-weight:800">Se a renúncia for aceita</div><div class="lbl" style="font-size:54px;margin-top:14px">o vice, Pedro Alliana, assume<br>sem julgamento no Senado</div></div>
+  <div class="card" id="c71" style="opacity:0;margin-top:26px;border-left:12px solid #f6b848"><div class="amb" style="font-size:56px;font-weight:800">Se Peña for removido</div><div class="lbl" style="font-size:54px;margin-top:14px">perde a proteção de<br>senador vitalício</div></div>
+  <div id="c72" style="opacity:0;margin-top:36px;text-align:center"><span style="display:inline-block;font-size:62px;font-weight:800;padding:18px 44px;border-radius:28px;background:rgba(140,120,255,.22);border:4px solid #8c78ff">Renunciar ≠ ser removido</span></div>
+ </div>
+</div></div>
+
+<div class="scene" id="s8"><div class="kb" id="kb8">
+ <div class="tagw"><span class="tag" id="tg8">O QUE AINDA FALTA</span></div>
+ <div class="stack">
+  <div class="chk" id="k80"><div class="q">?</div><div class="t">Julgamento no Senado</div></div>
+  <div class="chk" id="k81"><div class="q">?</div><div class="t">Pedido de mais <span class="amb">72 horas</span><br>para a defesa</div></div>
+  <div class="chk" id="k82"><div class="q">?</div><div class="t">Acusação formal na Justiça:<br>não encontrada</div></div>
+  <div class="chk" id="k83"><div class="q">?</div><div class="t">Quanto dinheiro<br>será recuperado</div></div>
+ </div>
+</div></div>
+
+<div class="scene" id="s9"><div class="kb" id="kb9">
+ <div class="beat" id="b90" style="top:40px">
+  <div class="h" style="font-size:116px"><span class="row" id="r90a"></span><span class="row p" id="r90b"></span></div>
+  <span class="pill" id="pl90" style="font-size:66px;margin-top:56px">Link na bio</span>
+  <div class="p" id="u90" style="font-size:84px;font-weight:800;margin-top:56px;opacity:0">semnarrativa.com.br</div>
+  <div class="m" id="t90" style="font-size:54px;font-weight:700;margin-top:50px;opacity:0">Sem recomendar voto. Só fatos.</div>
+ </div>
+</div></div>
+
+<div id="caps"></div>
+<div id="iris"></div><div id="flash"></div><div id="dot"></div><div id="ring"></div>
+
+<script>
+const DATA=__DATA__;
+const E={out:t=>1-Math.pow(1-t,3),io:t=>t<.5?4*t*t*t:1-Math.pow(-2*t+2,3)/2,lin:t=>t,back:t=>{const c=1.7;return 1+(c+1)*Math.pow(t-1,3)+c*Math.pow(t-1,2)}};
+const $=id=>document.getElementById(id);
+const TW=[];
+function st(el){if(!el._s)el._s={o:+getComputedStyle(el).opacity,y:0,x:0,s:1,b:0,r:0,w:null};return el._s}
+function wr(el){const s=st(el);el.style.opacity=s.o;el.style.transform=`translate(${s.x}px,${s.y}px) scale(${s.s}) rotate(${s.r}deg)`;el.style.filter=s.b>0.1?`blur(${s.b}px)`:'none';if(s.w!==null)el.style.width=s.w+'px'}
+function tw(el,from,to,start,dur,ease='out',hold=true){TW.push({k:'t',el,from,to,start,dur,ease:E[ease],hold})}
+function cnt(el,a,b,fmt,start,dur){TW.push({k:'c',el,a,b,fmt,start,dur,ease:E.out})}
+function words(row,text,start,gap=.12){
+  const r=$(row);text.split(' ').forEach((t,i)=>{
+    const w=document.createElement('span');w.className='w';
+    const tx=document.createElement('span');tx.textContent=t;w.appendChild(tx);
+    for(let k=0;k<2;k++){const g=document.createElement('span');g.className='g';g.textContent=t;w.appendChild(g);
+      tw(g,{o:.32-k*.1,y:130+k*60,b:8},{o:0,y:50-k*20,b:2},start+i*gap+k*.06,.55,'out')}
+    r.appendChild(w);
+    tw(w,{o:0,y:80,b:16},{o:1,y:0,b:0},start+i*gap,.6,'out');
+  })
+}
+function reveal(id,start,dy=44){tw($(id),{o:0,y:dy,b:10},{o:1,y:0,b:0},start,.5)}
+function pop(id,start,from=1.22){tw($(id),{s:from},{s:1},start,.5,'back')}
+function stamp(id,start,rot=-6){tw($(id),{o:0,s:2.4,r:rot-10,b:12},{o:1,s:1,r:rot,b:0},start,.32,'out')}
+function inScene(id,start,end,last=false){const e=$(id);tw(e,{o:0},{o:1},start,.3,'out');if(!last)tw(e,{o:1},{o:0},end-.3,.3,'io',false)}
+function beat(id,start,end,last=false){const e=$(id);tw(e,{o:0,y:70,b:14,s:.96},{o:1,y:0,b:0,s:1},start,.45,'out');if(!last)tw(e,{o:1,y:0,b:0,s:1},{o:0,y:-60,b:12,s:.97},end-.28,.28,'io',false)}
+function kw(si,ci,w){const L=DATA.WT[si][ci];for(const [q,t] of L){if(q.toLowerCase().replace(/[,.]/g,'').startsWith(w.toLowerCase()))return t}throw new Error('kw '+w)}
+const C=(si,ci)=>DATA.TL.scenes[si].cues[ci];
+const SC=DATA.TL.scenes;
+const fmtN=v=>String(Math.round(v)).replace(/\B(?=(\d{3})+(?!\d))/g,'.');
+
+tw($('brand'),{o:0},{o:1},0.15,.5,'out');
+const PROG=$('prog');tw(PROG,{o:0},{o:1},0.3,.5,'out');
+SC.forEach(()=>{const i=document.createElement('i');const b=document.createElement('b');i.appendChild(b);PROG.appendChild(i)});
+const PB=[...PROG.querySelectorAll('b')];
+
+tw($('dot'),{o:0,s:0},{o:1,s:1.5},0,.14,'out',false);
+tw($('dot'),{o:1,s:1.5},{o:0,s:.2},.14,.18,'out',false);
+tw($('ring'),{o:.9,s:.3},{o:0,s:16},.12,.6,'out',false);
+tw($('flash'),{o:.22},{o:0},.12,.35,'out',false);
+
+function boundary(T,k){
+  tw($('iris'),{o:.95,s:0},{o:.95,s:13},T-.3,.3,'io',false);
+  tw($('iris'),{o:.95,s:13},{o:0,s:13},T,.32,'out',false);
+  tw($('flash'),{o:.18},{o:0},T,.3,'out',false);
+}
+SC.forEach((s,k)=>{
+  const id='s'+(k+1);
+  inScene(id,s.start,s.end,k===SC.length-1);
+  tw($('kb'+(k+1)),{s:1},{s:1.035},s.start,s.end-s.start,'lin');
+  if(k>0)boundary(s.start,k);
+  const tg=$('tg'+(k+1));if(tg)reveal(tg.id,s.start+.12,24);
+});
+
+let c;
+c=C(0,0);beat('b10',.22,C(0,1)[0]);pop('c10',.22,1.12);stamp('st10',kw(0,0,'tomado')+.1);
+c=C(0,1);beat('b11',c[0],C(0,2)[0]);pop('ic11',c[0]+.1,1.4);reveal('n11',kw(0,1,'sem'),30);pop('n11',kw(0,1,'sem'),1.15);reveal('l11',kw(0,1,'acesso')+.2);reveal('m11',c[0]+.3);
+c=C(0,2);beat('b12',c[0],C(0,3)[0]);cnt($('n12'),0,2,v=>String(Math.round(v)),kw(0,2,'dois')-.05,.5);pop('n12',kw(0,2,'dois')+.4,1.15);words('r12','dias depois',kw(0,2,'dias'),.12);reveal('c12',kw(0,2,'presidente'),40);
+c=C(0,3);beat('b13',c[0],SC[0].end,true);reveal('pl13',c[0]+.05,20);pop('pl13',c[0]+.05,1.35);words('r13','o que aconteceu',kw(0,3,'que'),.1);
+
+c=C(1,0);beat('b20',c[0],C(1,1)[0]);reveal('c20a',kw(1,0,'banco'),30);reveal('ar20',kw(1,0,'tomou')-.1,-30);reveal('l20',kw(1,0,'tomou'),20);reveal('c20b',kw(1,0,'ueno'),30);pop('c20b',kw(1,0,'ueno'),1.12);
+c=C(1,1);beat('b21',c[0],C(1,2)[0]);
+tw($('bar21a'),{w:0},{w:900},c[0]+.3,.8,'out');tw($('bar21b'),{w:0},{w:900},c[0]+.5,.8,'out');
+tw($('mk21'),{o:0},{o:1},kw(1,1,'abaixo')-.2,.3,'out');tw($('bar21b'),{w:900},{w:360},kw(1,1,'abaixo'),1.1,'io');
+reveal('t21',kw(1,1,'metade'),30);reveal('f21',kw(1,1,'metade')+.4,10);
+c=C(1,2);beat('b22',c[0],SC[1].end,true);
+[['x22a','sk22a','aplicativo'],['x22b','sk22b','cartões'],['x22c','sk22c','transferências']].forEach(([x,sk,w])=>{const t=kw(1,2,w);reveal(x,t-.05,30);const el=$(x);const wd=el.offsetWidth+20;tw($(sk),{w:0},{w:wd},t+.35,.3,'out')});
+reveal('t22',kw(1,2,'pararam'),30);
+
+c=C(2,0);beat('b30',c[0],C(2,1)[0]);reveal('m30',c[0]+.1,20);reveal('n30',c[0]+.4,20);cnt($('n30'),0,800,v=>'US$ '+Math.round(v),kw(2,0,'800')-.05,.9);pop('n30',kw(2,0,'800')+.85,1.1);reveal('h30',kw(2,0,'milhões'),30);reveal('l30',kw(2,0,'dinheiro'),30);
+c=C(2,1);beat('b31',c[0],SC[2].end,true);reveal('h31',kw(2,1,'fundo')-.1,30);reveal('m31',kw(2,1,'congresso'),20);
+['d31a','d31b','d31c','d31d','d31e'].forEach((d,i)=>{const t=kw(2,1,'5')-.3+i*.16;tw($(d),{o:0,s:.4},{o:1,s:1},t,.35,'back');TW.push({k:'f',el:$(d),start:t+.2})});
+reveal('n31',kw(2,1,'5')-.1,30);reveal('t31',kw(2,1,'começando'),30);
+
+c=C(3,0);beat('b40',c[0],C(3,1)[0]);reveal('m40',c[0]+.05,20);words('r40a','Conflito de',kw(3,0,'conflito')-.05,.12);words('r40b','interesses?',kw(3,0,'interesses')-.05,.12);
+c=C(3,1);beat('b41',c[0],C(3,2)[0]);reveal('pl41',c[0]+.05,20);pop('pl41',c[0]+.05,1.2);reveal('c41a',kw(3,1,'ações')-.1,40);reveal('c41b',kw(3,1,'escolheu')-.1,40);
+c=C(3,2);beat('b42',c[0],C(3,3)[0]);reveal('m42',c[0]+.05,20);reveal('c42',c[0]+.15,40);
+c=C(3,3);beat('b43',c[0],SC[3].end,true);stamp('st43',kw(3,3,'ainda'),-5);reveal('m43',kw(3,3,'julgada'),20);
+
+c=C(4,0);beat('b50',c[0],C(4,1)[0]);reveal('v50',c[0]+.05,40);pop('pl50',kw(4,0,'anunciou'),1.5);reveal('h50',kw(4,0,'renúncia')-.2,30);
+c=C(4,1);beat('b51',c[0],C(4,2)[0]);reveal('k51a',c[0]+.05,30);reveal('k51b',kw(4,1,'não')-.05,30);reveal('m51',kw(4,1,'segundo'),15);
+c=C(4,2);beat('b52',c[0],SC[4].end,true);pop('ic52',c[0]+.05,1.4);words('r52a','Vai colaborar',kw(4,2,'vai')-.05,.12);words('r52b','com as investigações',kw(4,2,'com')-.05,.1);reveal('m52',kw(4,2,'investigações')+.3,15);
+
+c=C(5,0);beat('b60',c[0],C(5,1)[0]);reveal('m60',kw(5,0,'câmara')-.1,20);reveal('n60',c[0]+.3,20);cnt($('n60'),0,78,v=>Math.round(v)+' a 0',kw(5,0,'78')-.05,.75);pop('n60',kw(5,0,'0')-.05,1.18);reveal('l60',kw(5,0,'abertura')-.1,30);
+c=C(5,1);beat('b61',c[0],C(5,2)[0]);reveal('h61',kw(5,1,'renúncia')-.15,30);stamp('st61',kw(5,1,'não'),-4);reveal('t61',kw(5,1,'faltou'),30);
+c=C(5,2);beat('b62',c[0],SC[5].end,true);reveal('m62',c[0]+.1,15);reveal('pl62',kw(5,2,'segue')-.1,20);pop('pl62',kw(5,2,'segue')-.1,1.3);
+
+reveal('c70',C(6,0)[0]+.05,60);pop('c70',C(6,0)[0]+.05,1.04);
+reveal('c71',C(6,1)[0]+.05,60);pop('c71',C(6,1)[0]+.05,1.04);
+reveal('c72',C(6,2)[0]+.1,40);pop('c72',kw(6,2,'diferença'),1.15);
+
+reveal('k80',C(7,0)[0]+.05,40);reveal('k81',C(7,1)[0]+.05,40);reveal('k82',C(7,2)[0]+.05,40);reveal('k83',C(7,3)[0]+.05,40);
+
+c=C(8,0);beat('b90',c[0]-.1,SC[8].end,true);words('r90a','Leia o',c[0]+.02,.12);words('r90b','artigo completo',kw(8,0,'artigo')-.05,.12);reveal('pl90',kw(8,0,'link')-.1,20);pop('pl90',kw(8,0,'link')-.1,1.25);
+reveal('u90',C(8,1)[0],20);pop('u90',C(8,1)[0],1.12);reveal('t90',C(8,2)[0],20);
+
+const CAPS=$('caps');
+DATA.CH.forEach(ch=>{
+  const d=document.createElement('div');d.className='cl';const b=document.createElement('span');b.className='box';
+  ch.w.forEach(([q,t],i)=>{const s=document.createElement('span');s.className='cw';s.textContent=q;s._t=t;b.appendChild(s);if(i<ch.w.length-1)b.appendChild(document.createTextNode(' '))});
+  d.appendChild(b);CAPS.appendChild(d);ch.el=d;ch.ws=[...b.querySelectorAll('.cw')];
+});
+
+const pc=$('pc'),px=pc.getContext('2d');const P=[];let sd=11;const rnd=()=>{sd=(sd*16807)%2147483647;return sd/2147483647};
+for(let i=0;i<46;i++)P.push({x:rnd()*1080,y:rnd()*1920,v:14+rnd()*34,r:2+rnd()*4.5,a:.07+rnd()*.2});
+function drawP(t){px.clearRect(0,0,1080,1920);P.forEach(p=>{const y=((p.y-t*p.v)%1920+1920)%1920;px.globalAlpha=p.a;px.fillStyle='#b0a6ff';px.beginPath();px.arc(p.x+Math.sin(t*.45+p.y)*16,y,p.r,0,6.2832);px.fill()});px.globalAlpha=1}
+
+window.DUR=DATA.TL.total;
+window.seek=function(t){
+  for(const q of TW){
+    if(q.k==='f'){q.el.style.background=t>=q.start?'rgba(140,120,255,.55)':'transparent';continue}
+    if(t<q.start){
+      if(q.hold){if(q.k==='t'){const s=st(q.el);for(const key in q.to){s[key]=q.from[key]!==undefined?q.from[key]:(key==='s'?1:0)}wr(q.el)}else{q.el.textContent=q.fmt(q.a)}}
+      continue;
+    }
+    const p=q.ease(Math.min(1,(t-q.start)/q.dur));
+    if(q.k==='t'){const s=st(q.el);for(const key in q.to){const a=q.from[key]!==undefined?q.from[key]:(key==='s'?1:0);s[key]=a+(q.to[key]-a)*p}wr(q.el)}
+    else{q.el.textContent=q.fmt(q.a+(q.b-q.a)*p)}
+  }
+  DATA.CH.forEach(ch=>{
+    const vis=t>=ch.s&&t<ch.e;
+    if(!vis){ch.el.style.opacity=0;return}
+    const a=Math.min(1,(t-ch.s)/.12),b=Math.min(1,(ch.e-t)/.12);
+    ch.el.style.opacity=Math.min(a,b);
+    ch.el.style.transform=`translateY(${(1-a)*18}px)`;
+    let last=-1;ch.ws.forEach((w,i)=>{if(t>=w._t-.04)last=i});
+    ch.ws.forEach((w,i)=>{if(i<last){w.style.opacity=1;w.style.color='#fff'}else if(i===last){w.style.opacity=1;w.style.color='#f6b848'}else{w.style.opacity=.38;w.style.color='#fff'}});
+  });
+  PB.forEach((b,i)=>{const s=SC[i];b.style.width=(100*Math.min(1,Math.max(0,(t-s.start)/(s.end-s.start))))+'%'});
+  $('glow').style.transform=`translate(${-200+260*Math.sin(t*.45)}px,${300+420*Math.sin(t*.31+1)}px)`;
+  drawP(t);
+};
+document.querySelectorAll('.scene,.brand,#prog,#flash,#iris,#dot,#ring').forEach(e=>st(e));
+seek(0);
+</script></body></html>

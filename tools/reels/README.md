@@ -7,7 +7,10 @@ Esta pasta guarda os arquivos usados para gerar os reels e as capas do blog. Ela
 - reel12.html: reel da CBS de 11,3%. Use este como modelo para reels novos.
 - reel13.html: reel do fim da escala 6x1 (Emenda 141).
 - reel14.html: linha do tempo de Flávio Bolsonaro (passaporte, Argentina, Miami e Fantástico).
-- render11.py, render12.py, render13.py e render14.py: renderizam o HTML correspondente.
+- reel15.html: primeiro reel com narração (crise do Ueno Bank no Paraguai). Os tempos das cenas e das legendas vêm de reel15-data.json, gerado a partir dos áudios.
+- render11.py a render14.py: renderizam o HTML correspondente (vídeo mudo).
+- render15.py: renderiza o reel15 com a trilha de áudio: python3 render15.py saida.mp4 /caminho/audio.wav (imagens de teste: python3 render15.py PREFIXO 6.5 14.5). Os áudios de voz não ficam no repositório.
+- voz/: scripts usados no reel15 (transcrição com Whisper turbo em ONNX, corte de pausas, tempos das legendas e efeitos sonoros). São referência: os caminhos estão fixos no início de cada arquivo e precisam ser ajustados.
 
 Render completo (de 4 a 10 minutos, rodar em segundo plano):
 python3 render12.py /caminho/saida.mp4
