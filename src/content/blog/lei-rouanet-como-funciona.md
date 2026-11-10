@@ -2,6 +2,7 @@
 title: 'Lei Rouanet: como funciona, quanto movimenta, o que dizem os críticos e o que dizem os defensores'
 description: 'A Lei Rouanet aparece em quase toda discussão política, mas pouca gente sabe como ela funciona. Veja o passo a passo do incentivo fiscal, quanto dinheiro passa por ela, para onde vai, o que os órgãos de controle encontraram, as mudanças de regra entre governos e os argumentos de quem critica e de quem defende.'
 pubDate: 'Nov 09 2026'
+updatedDate: 'Nov 10 2026'
 category: 'Como Funciona'
 heroImage: '../../assets/capa-lei-rouanet-como-funciona.jpg'
 ---
@@ -16,10 +17,27 @@ Este artigo explica **como a lei funciona na prática**, **quanto dinheiro passa
 - **O governo não manda o dinheiro direto para o artista (na parte principal da lei).** O projeto é aprovado, ganha autorização para buscar patrocínio e o patrocinador abate o valor do imposto. Por isso se chama **renúncia fiscal**: é imposto que o governo deixa de arrecadar.
 - **Então é dinheiro público?** Em boa parte, sim, porque o valor abatido deixaria de entrar nos cofres públicos. Mas quem escolhe qual projeto patrocinar é a empresa ou a pessoa, não o governo.
 - **Quanto movimenta:** os projetos captaram **R$ 3,41 bilhões em 2025**, recorde, segundo o Ministério da Cultura. De janeiro a outubro de 2026, foi captado **R$ 1,67 bilhão**, e as propostas inscritas chegaram a **25.650**, o maior número desde 1991.
+- **Autorizado não é captado:** depois de aprovado, o projeto recebe um teto que pode tentar captar. Em 2024, os projetos foram autorizados a captar até **R$ 16,9 bilhões**, mas captaram cerca de **R$ 3 bilhões**. Os dois números são verdadeiros, mas medem coisas diferentes. Veja o quadro logo abaixo.
 - **Qual o tamanho perto de outras renúncias:** o governo estimou o incentivo à cultura (Pronac) em cerca de **R$ 3,08 bilhões em 2026**, o que dá **0,5%** de todas as renúncias fiscais federais previstas para o ano (R$ 620,8 bilhões).
 - **Para onde vai:** em 2025, o **Sudeste ficou com cerca de 72%** do valor captado. Norte, Nordeste e Centro-Oeste cresceram, mas seguem com uma fatia pequena.
 - **Fiscalização:** em 2026, o TCU apontou um acúmulo de cerca de **30 mil processos de prestação de contas**, que somam mais de **R$ 22 bilhões** na área da cultura, e risco de perder o direito de cobrar parte desse dinheiro.
 - **Os dois lados:** críticos falam em dinheiro público decidido pelo marketing das empresas, concentração em poucas regiões e instituições e fiscalização fraca. Defensores falam em projetos que não existiriam sem a lei, empregos e um estudo da FGV, encomendado pelo ministério, que diz que a cadeia cultural gerou mais impostos do que a renúncia custou em 2024.
+
+## Autorizado x captado: a confusão mais comum
+
+Muita gente vê números como "R$ 16 bilhões" e "R$ 3 bilhões" sobre o mesmo ano e acha que um deles é falso. Os dois podem ser verdadeiros, porque medem coisas diferentes:
+
+<div class="promessas-lista">
+<div class="promessa-card">
+<div class="promessa-bloco"><span class="promessa-rotulo">Valor autorizado (aprovado)</span><p>É o teto. Depois de aprovar o projeto, o Ministério da Cultura autoriza o proponente a tentar captar até aquele valor. Não é dinheiro entregue a ninguém</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">Valor captado</span><p>É o que empresas e pessoas realmente colocaram nos projetos e podem abater do Imposto de Renda. É esse o número que mais se aproxima do custo para os cofres públicos</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">Exemplo: 2024</span><p>Até R$ 16,9 bilhões autorizados e cerca de R$ 3 bilhões captados, segundo o Aos Fatos e o Ministério da Cultura. A maior parte do valor autorizado nunca vira dinheiro</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">Quantos projetos conseguem captar</span><p>Cerca de 25% dos projetos aprovados no país, segundo reportagem do Diário do Grande ABC</p></div>
+<div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Situação</span><p><span class="selo selo-ressalva">Dois números verdadeiros que medem coisas diferentes</span></p></div>
+</div>
+</div>
+
+Por isso, quando aparecer um número sobre a Rouanet, a primeira pergunta é: **é o valor autorizado ou o valor captado?** Neste artigo, quando não dissermos o contrário, os valores são de captação.
 
 ## O que é a Lei Rouanet
 
@@ -96,7 +114,7 @@ Segundo o Ministério da Cultura (dados do Salic divulgados pela Agência Gov):
 
 Em 2026, até 31 de outubro, foram **25.650 propostas** inscritas, 11,6% a mais que em 2025, e havia **5.084 projetos em execução**, segundo a Gazeta do Povo, com dados do ministério.
 
-**Autorizado não é captado.** Em 2024, segundo o Aos Fatos, os projetos foram autorizados a captar **R$ 16,9 bilhões**, mas conseguiram R$ 2,92 bilhões. Ou seja, a maior parte do valor autorizado nunca vira dinheiro.
+**Lembrete: esses são valores captados, não autorizados.** Em 2024, segundo o Aos Fatos, os projetos foram autorizados a captar até **R$ 16,9 bilhões**, mas captaram cerca de R$ 3 bilhões (veja o quadro "Autorizado x captado", no início do artigo). Não encontramos o total autorizado de 2025 em fonte oficial.
 
 ### Quem patrocina
 
@@ -190,6 +208,7 @@ Governos diferentes já foram acusados de usar a aprovação de projetos de form
 
 <div class="promessas-lista">
 <div class="promessa-card">
+<div class="promessa-bloco"><span class="promessa-rotulo">"A Rouanet custa mais de R$ 15 bilhões por ano"</span><p>Números desse tamanho costumam ser o valor autorizado, não o captado (em 2024, até R$ 16,9 bilhões autorizados e cerca de R$ 3 bilhões captados). Em 2025, o Aos Fatos classificou como falso que o governo destinou R$ 15 bilhões à Rouanet: esse valor era de outra lei, a Aldir Blanc, somando vários anos</p></div>
 <div class="promessa-bloco"><span class="promessa-rotulo">"O governo dá dinheiro para o artista"</span><p>No mecenato, não. O projeto busca patrocínio, e o patrocinador abate do imposto. O governo só repassa dinheiro direto pelo Fundo Nacional da Cultura</p></div>
 <div class="promessa-bloco"><span class="promessa-rotulo">"A Rouanet não usa dinheiro público"</span><p>Usa, de forma indireta. O valor abatido é imposto que deixa de entrar nos cofres públicos. A diferença é que quem escolhe o projeto é o patrocinador</p></div>
 <div class="promessa-bloco"><span class="promessa-rotulo">"O empresário banca do próprio bolso"</span><p>Depende. Nos projetos do artigo 18, a empresa recupera 100% no imposto. Nos do artigo 26, ela abate só 30% a 40%, e o resto sai do caixa dela</p></div>
@@ -203,7 +222,7 @@ Governos diferentes já foram acusados de usar a aprovação de projetos de form
 
 ## Onde as versões não batem
 
-- **Captação de 2024:** R$ 3,04 bilhões (ministério, janeiro de 2026), R$ 2,93 bilhões (Salic, citado em abril de 2025), R$ 2,92 bilhões (Aos Fatos) e R$ 2,4 bilhões (título do Poder360). A diferença parece vir da data em que os dados foram consultados, porque a captação é atualizada depois do fim do ano.
+- **Captação de 2024:** R$ 3,04 bilhões (ministério, janeiro de 2026), R$ 2,93 bilhões (Salic, citado em abril de 2025), R$ 2,92 bilhões e R$ 2,97 bilhões (dois textos do Aos Fatos) e R$ 2,4 bilhões (título do Poder360). A diferença parece vir da data em que os dados foram consultados, porque a captação é atualizada depois do fim do ano.
 - **Concentração regional:** cerca de 72% do valor captado no Sudeste em 2025 (nosso cálculo com dados do ministério); 86% dos projetos no Sul e Sudeste em 2024 (FGV); "quase 90%" do dinheiro no Sul e Sudeste (senador Petecão, com dados do Salic); cerca de 80% em São Paulo e Rio (Observatório da Cultura do Brasil). As medidas são diferentes: valor, número de projetos, regiões ou estados.
 - **Acúmulo de prestações de contas:** cerca de 30 mil processos e mais de R$ 22 bilhões (TCU); 26.583 projetos e R$ 22,1 bilhões (O Liberal); mais de 10 mil casos pendentes no fim de 2025 (ministério, segundo o Portal Tela). Os recortes não são os mesmos: o TCU inclui Ancine e outros programas.
 - **Operação Boca Livre:** na época da operação, a Gazeta do Povo noticiou fraude de R$ 180 milhões; a sentença de 2020, segundo o Money Times, fala em cerca de R$ 21 milhões desviados, conforme o MPF.
@@ -213,6 +232,7 @@ Governos diferentes já foram acusados de usar a aprovação de projetos de form
 ## O que ainda não se sabe
 
 - **Quanto foi a renúncia efetiva de 2025 e 2026:** o ministério diz que o valor que o governo de fato deixou de arrecadar só é conhecido depois da análise dos investimentos.
+- **O total autorizado para captação em 2025:** não encontramos esse número em fonte oficial. Circulam valores perto de R$ 20 bilhões, mas não conseguimos confirmar.
 - **Se o ministério cumpriu as determinações do TCU** de março de 2026. Não encontramos informação sobre isso.
 - **Quanto já foi desviado ao longo de 35 anos:** não existe um número consolidado.
 - **Quanto da atividade econômica existiria sem a lei:** o estudo da FGV mede o que os projetos movimentaram, mas não o que aconteceria sem o incentivo.
@@ -221,7 +241,7 @@ Governos diferentes já foram acusados de usar a aprovação de projetos de form
 
 ## Como ler
 
-- **Autorizado, captado e recebido são coisas diferentes.** Um projeto "aprovado em R$ 5 milhões" pode nunca receber um real.
+- **Autorizado, captado e recebido são coisas diferentes.** Um projeto "aprovado em R$ 5 milhões" pode nunca receber um real. Antes de comparar números, confira se os dois são do mesmo tipo.
 - **Rouanet não é sinônimo de dinheiro para cultura.** Show de prefeitura, emenda parlamentar, Lei Paulo Gustavo e Lei Aldir Blanc são outros caminhos, com outras regras.
 - **Estudo encomendado tem interesse, e crítico também.** O estudo da FGV foi pago pelo ministério que administra a lei. O Observatório da Cultura do Brasil defende uma reforma da lei. Os dois trazem dados úteis, mas é bom ler sabendo de onde vêm.
 - **Caso isolado não é regra, e regra não apaga caso.** A Operação Boca Livre não prova que todo projeto é fraude, e os milhares de projetos regulares não apagam as falhas que o TCU encontrou.
@@ -244,6 +264,7 @@ Governos diferentes já foram acusados de usar a aprovação de projetos de form
 - A Rouanet não financia longas-metragens nem shows contratados por prefeituras.
 - Pelas regras de 2023, o cachê de artista solo tem teto de R$ 25 mil por apresentação, e o limite por proponente é de R$ 6 milhões ou R$ 10 milhões. Pelo menos 10% dos ingressos precisam ser gratuitos.
 - A captação foi de R$ 2,35 bilhões em 2023, R$ 3,04 bilhões em 2024 e R$ 3,41 bilhões em 2025, segundo o ministério. De janeiro a outubro de 2026, foi de R$ 1,67 bilhão, com 25.650 propostas, recorde desde 1991.
+- Valor autorizado é o teto que o projeto pode tentar captar; valor captado é o que de fato foi patrocinado. Em 2024, foram até R$ 16,9 bilhões autorizados e cerca de R$ 3 bilhões captados.
 - O governo estimou a renúncia do Pronac em R$ 3,08 bilhões em 2026, cerca de 0,5% dos R$ 620,8 bilhões de renúncias federais previstas.
 - Em 2025, o Sudeste ficou com cerca de 72% do valor captado. A maior patrocinadora foi a Petrobras, com R$ 307,3 milhões.
 - Em março de 2026, o TCU apontou cerca de 30 mil prestações de contas pendentes na área da cultura, somando mais de R$ 22 bilhões, e falta de controle dos prazos de prescrição. Em junho, outro relatório disse que 95,21% das prestações analisadas podem ter sido aprovadas sem verificação financeira detalhada.
@@ -260,6 +281,8 @@ Governos diferentes já foram acusados de usar a aprovação de projetos de form
 - Gazeta do Povo, "Lei Rouanet registra recorde de propostas e capta R$ 1,67 bilhão em 2026" (novembro de 2026)
 - CNN Brasil, "O Agente Secreto usou a Rouanet? Entenda como a lei funciona" (12 de janeiro de 2026)
 - Aos Fatos, "Como funciona a Lei Rouanet e outras leis de apoio à cultura"
+- Aos Fatos, "É falso que governo Lula destinou R$ 15 bilhões para a Lei Rouanet" (14 de fevereiro de 2025)
+- Diário do Grande ABC, "Um a cada 10 projetos aprovados na Rouanet consegue captar verba" (2026)
 - Correio Braziliense, matéria sobre incentivos fiscais à cultura (12 de junho de 2026)
 - Brasil de Fato, "Lei Rouanet gera empregos e impacto bilionário, mas Sul e Sudeste ainda concentram 86% dos projetos" (13 de janeiro de 2026), sobre o estudo da FGV
 - Times Brasil, "Quais empresas mais patrocinaram a Lei Rouanet em 2025? Veja ranking" (janeiro de 2026)
