@@ -1,0 +1,229 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{width:1080px;height:1920px;background:#09090f;overflow:hidden;font-family:'Inter',sans-serif;color:#fff}
+#bg{position:absolute;inset:0;background:radial-gradient(900px 700px at 50% 104%,rgba(80,56,170,.6),transparent 70%),radial-gradient(700px 600px at 92% 0%,rgba(54,38,130,.5),transparent 70%)}
+#glow{position:absolute;left:0;top:0;width:1100px;height:1100px;border-radius:50%;background:radial-gradient(closest-side,rgba(110,84,230,.16),transparent);opacity:1}
+#pc{position:absolute;left:0;top:0}
+.brand{position:absolute;top:150px;left:0;right:0;text-align:center;font-weight:800;font-size:46px;letter-spacing:1px;opacity:0}
+.brand u{text-decoration-thickness:4px;text-underline-offset:7px}
+#prog{position:absolute;top:238px;left:90px;width:900px;height:10px;display:flex;gap:8px;opacity:0}
+#prog i{flex:1;background:rgba(255,255,255,.14);border-radius:6px;overflow:hidden;display:block}
+#prog b{display:block;height:100%;width:0;background:#8c78ff;border-radius:6px}
+.scene{position:absolute;left:0;right:0;top:300px;bottom:340px;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:0 90px;opacity:0}
+.h{font-weight:800;line-height:1.06;letter-spacing:-2px}
+.row{display:block;white-space:nowrap}
+.w{display:inline-block;position:relative;margin:0 14px;opacity:0}
+.w .g{position:absolute;left:0;top:0;opacity:0;pointer-events:none}
+.p{color:#9a88ff}.s{color:#e6e6f2}.m{color:#a8a8c4}.amb{color:#f6b848}
+.num{font-weight:800;letter-spacing:-4px;line-height:1;white-space:nowrap;transform-origin:left center}
+.numc{transform-origin:center center}
+.lbl{font-size:58px;font-weight:600;color:#e6e6f2;line-height:1.15}
+.cap{font-size:50px;font-weight:600;color:#d2d2e6;line-height:1.25}
+.tag{display:inline-block;padding:12px 28px;border-radius:16px;font-weight:800;font-size:34px;letter-spacing:1.5px;background:#463ca0;color:#fff}
+.bar{flex:none;height:56px;border-radius:16px;width:0;background:#8c78ff}
+.pill{display:block;padding:14px 38px;border-radius:44px;background:rgba(140,120,255,.22);border:5px solid #8c78ff;font-weight:800;font-size:64px;margin:14px 0}
+.cardbox{flex:1;background:rgba(255,255,255,.07);border:3px solid rgba(255,255,255,.14);border-radius:36px;padding:34px 20px;text-align:center}
+.yr{font-weight:800;font-size:54px;color:#a8a8c4;letter-spacing:3px;margin-bottom:10px}
+#flash{position:absolute;inset:0;background:#a898ff;opacity:0;pointer-events:none}
+#sweep{position:absolute;left:0;top:0;width:520px;height:1920px;background:linear-gradient(90deg,transparent,rgba(150,128,255,.55),transparent);opacity:0;pointer-events:none}
+</style></head><body>
+<div id="bg"></div><div id="glow"></div><canvas id="pc" width="1080" height="1920"></canvas>
+<div class="brand" id="brand">SEM <u>NARRATIVA</u></div>
+<div id="prog"></div>
+
+
+<style>
+.it{margin:26px 0}
+.it .num{font-size:84px;letter-spacing:-2px}
+.it .lbl{font-size:48px}
+.rg{display:flex;align-items:center;margin:20px 0;gap:22px}
+.rg .nm{width:330px;white-space:nowrap;text-align:right;font-size:46px;font-weight:700;color:#e6e6f2}
+.rg .val{font-size:46px;font-weight:800;min-width:150px;text-align:left}
+.rk{display:flex;align-items:baseline;gap:26px;margin:18px 0;font-size:54px;font-weight:700;color:#e6e6f2}
+.rk b{color:#9a88ff;font-weight:800;width:56px;text-align:right}
+</style>
+
+<div class="scene" id="s1">
+ <span class="tag" id="tg1" style="margin-bottom:24px">COMO FUNCIONA</span>
+ <div class="num numc p" id="n1" style="font-size:186px;letter-spacing:-7px">R$ 0,00 bi</div>
+ <div class="lbl m" id="l1" style="font-size:46px;margin-top:10px;line-height:1.2">captados pela Lei Rouanet em 2025,<br>recorde segundo o Ministério da Cultura</div>
+ <div class="h" style="font-size:100px;margin-top:44px"><span class="row" id="r11"></span><span class="row p" id="r12"></span></div>
+ <div class="amb" id="sub1" style="font-size:58px;font-weight:800;margin-top:44px;line-height:1.2">E o que dizem<br>os dois lados</div>
+</div>
+
+<div class="scene" id="s2">
+ <span class="tag" id="tg2" style="margin-bottom:22px;font-size:30px">PASSO A PASSO</span>
+ <div class="h" style="font-size:108px"><span class="row" id="r21"></span><span class="row p" id="r22"></span></div>
+ <div style="width:900px;margin-top:50px;text-align:left">
+  <div class="it" id="a2a"><div class="num p">1. Aprovação</div><div class="lbl">O Ministério da Cultura aprova<br>o projeto e autoriza a buscar<br>patrocínio. Ainda não é dinheiro</div></div>
+  <div class="it" id="a2b"><div class="num">2. Patrocínio</div><div class="lbl">Uma empresa ou uma pessoa<br>coloca dinheiro no projeto</div></div>
+  <div class="it" id="a2c"><div class="num amb">3. Desconto</div><div class="lbl">O patrocinador abate esse valor<br>do Imposto de Renda</div></div>
+ </div>
+</div>
+
+<div class="scene" id="s3">
+ <span class="tag" id="tg3" style="margin-bottom:22px;font-size:30px">RENÚNCIA FISCAL</span>
+ <div class="h" style="font-size:104px"><span class="row" id="r31"></span><span class="row p" id="r32"></span></div>
+ <div style="width:900px;margin-top:50px;text-align:left">
+  <div class="it" id="a3a"><div class="num p">Indiretamente, sim</div><div class="lbl">O valor abatido é imposto que<br>deixa de entrar nos cofres públicos</div></div>
+  <div class="it" id="a3b"><div class="num">Quem escolhe</div><div class="lbl">é a empresa ou a pessoa que<br>patrocina, não o governo</div></div>
+  <div class="it" id="a3c"><div class="num amb">Depende</div><div class="lbl">Em alguns projetos, 100% volta<br>no imposto. Em outros, a empresa<br>abate só 30% a 40%</div></div>
+ </div>
+</div>
+
+<div class="scene" id="s4">
+ <span class="tag" id="tg4" style="margin-bottom:22px;font-size:30px">ESTIMATIVA PARA 2026</span>
+ <div class="h" style="font-size:104px"><span class="row" id="r41"></span><span class="row p" id="r42"></span></div>
+ <div class="num numc p" id="n4" style="font-size:260px;letter-spacing:-8px;margin-top:40px">0,0%</div>
+ <div class="lbl" id="l4" style="font-size:50px;margin-top:10px">de tudo o que o governo federal<br>deixa de arrecadar com incentivos</div>
+ <div class="m" id="cap4" style="margin-top:44px;font-size:44px;font-weight:600;line-height:1.3">Cerca de R$ 3,08 bilhões<br>de R$ 620,8 bilhões previstos</div>
+</div>
+
+<div class="scene" id="s5">
+ <span class="tag" id="tg5" style="margin-bottom:22px;font-size:30px">CAPTAÇÃO EM 2025</span>
+ <div class="h" style="font-size:104px"><span class="row" id="r51"></span><span class="row p" id="r52"></span></div>
+ <div style="width:940px;margin-top:50px">
+  <div class="rg" id="g1"><span class="nm">Sudeste</span><div class="bar" id="b1"></div><span class="val p" id="v1">0%</span></div>
+  <div class="rg" id="g2"><span class="nm">Sul</span><div class="bar" id="b2"></div><span class="val" id="v2">0%</span></div>
+  <div class="rg" id="g3"><span class="nm">Nordeste</span><div class="bar" id="b3"></div><span class="val" id="v3">0%</span></div>
+  <div class="rg" id="g4"><span class="nm">Centro-Oeste</span><div class="bar" id="b4"></div><span class="val" id="v4">0%</span></div>
+  <div class="rg" id="g5"><span class="nm">Norte</span><div class="bar" id="b5"></div><span class="val" id="v5">0%</span></div>
+ </div>
+ <div class="m" id="cap5" style="margin-top:40px;font-size:42px;font-weight:600;line-height:1.3">Maior patrocinadora em 2025:<br>Petrobras, com R$ 307,3 milhões</div>
+</div>
+
+<div class="scene" id="s6">
+ <span class="tag" id="tg6" style="margin-bottom:22px;font-size:30px">MAIORES CAPTADORES DE 2024</span>
+ <div class="h" style="font-size:104px"><span class="row" id="r61"></span><span class="row p" id="r62"></span></div>
+ <div style="width:880px;margin-top:46px;text-align:left">
+  <div class="rk" id="k1"><b>1</b>MASP</div>
+  <div class="rk" id="k2"><b>2</b>Fundação Bienal de SP</div>
+  <div class="rk" id="k3"><b>3</b>Osesp (orquestra)</div>
+  <div class="rk" id="k4"><b>4</b>Instituto IDG</div>
+  <div class="rk" id="k5"><b>5</b>Orquestra Sinfônica Brasileira</div>
+ </div>
+ <div class="m" id="cap6" style="margin-top:34px;font-size:40px;font-weight:600;line-height:1.3">Depois: TV Cultura, Inhotim, T4F,<br>Fundação Roberto Marinho e Itaú Cultural.<br>Segundo o Observatório da Cultura do Brasil</div>
+</div>
+
+<div class="scene" id="s7">
+ <span class="tag" id="tg7" style="margin-bottom:22px;font-size:30px">LADO 1</span>
+ <div class="h" style="font-size:104px"><span class="row" id="r71"></span><span class="row p" id="r72"></span></div>
+ <div style="width:900px;margin-top:50px;text-align:left">
+  <div class="it" id="a7a"><div class="num p">Marketing decide</div><div class="lbl">Dinheiro público escolhido pelo<br>interesse de imagem das empresas</div></div>
+  <div class="it" id="a7b"><div class="num">Concentração</div><div class="lbl">Cerca de 72% do valor captado<br>em 2025 ficou no Sudeste</div></div>
+  <div class="it" id="a7c"><div class="num amb">Fiscalização</div><div class="lbl">TCU: cerca de 30 mil prestações<br>de contas pendentes na cultura</div></div>
+ </div>
+</div>
+
+<div class="scene" id="s8">
+ <span class="tag" id="tg8" style="margin-bottom:22px;font-size:30px">LADO 2</span>
+ <div class="h" style="font-size:104px"><span class="row" id="r81"></span><span class="row p" id="r82"></span></div>
+ <div style="width:900px;margin-top:50px;text-align:left">
+  <div class="it" id="a8a"><div class="num p">Projetos caros</div><div class="lbl">Museus, orquestras e patrimônio<br>não se pagariam só com bilheteria</div></div>
+  <div class="it" id="a8b"><div class="num">Impostos</div><div class="lbl">Estudo da FGV, pago pelo ministério:<br>R$ 3,9 bi gerados em 2024, mais<br>que a renúncia de cerca de R$ 3 bi</div></div>
+  <div class="it" id="a8c"><div class="num amb">Quem escolhe</div><div class="lbl">Não é o governo que escolhe<br>o artista a ser patrocinado</div></div>
+ </div>
+</div>
+
+<div class="scene" id="s9">
+ <span class="tag" id="tg9" style="margin-bottom:22px;font-size:30px">CONFERIDO</span>
+ <div class="h" style="font-size:104px"><span class="row" id="r91"></span><span class="row amb" id="r92"></span></div>
+ <div style="width:900px;margin-top:46px;text-align:left">
+  <div class="it" id="a9a"><div class="num p" style="font-size:64px;letter-spacing:-1px">"Show milionário"</div><div class="lbl" style="font-size:44px;color:#c8c8dc">Os cachês da polêmica de 2022<br>foram pagos por prefeituras.<br>Não é Rouanet</div></div>
+  <div class="it" id="a9b"><div class="num p" style="font-size:64px;letter-spacing:-1px">"Filme famoso"</div><div class="lbl" style="font-size:44px;color:#c8c8dc">A Rouanet não financia<br>longas-metragens</div></div>
+  <div class="it" id="a9c"><div class="num p" style="font-size:64px;letter-spacing:-1px">"Cachê de milhões"</div><div class="lbl" style="font-size:44px;color:#c8c8dc">Teto de R$ 25 mil por apresentação.<br>Mas projetos de famosos já foram<br>aprovados no passado</div></div>
+ </div>
+</div>
+
+<div class="scene" id="s10">
+ <div class="h" style="font-size:118px"><span class="row" id="r101"></span><span class="row p" id="r102"></span></div>
+ <div class="s" id="t101" style="font-size:54px;font-weight:600;margin-top:60px;line-height:1.28">Regras, números, críticas,<br>defesas e fontes</div>
+ <div class="s" id="t102" style="font-size:54px;font-weight:600;margin-top:36px;line-height:1.28">Artigo completo<br>no link da bio</div>
+ <div class="p" id="url10" style="font-size:84px;font-weight:800;margin-top:50px">semnarrativa.com.br</div>
+ <div class="m" id="t103" style="font-size:52px;font-weight:700;margin-top:44px">Sem recomendar voto. Só fatos.</div>
+</div>
+
+<div id="sweep"></div><div id="flash"></div>
+
+<script>
+const E={out:t=>1-Math.pow(1-t,3),io:t=>t<.5?4*t*t*t:1-Math.pow(-2*t+2,3)/2,lin:t=>t,back:t=>{const c=1.7;return 1+(c+1)*Math.pow(t-1,3)+c*Math.pow(t-1,2)}};
+const $=id=>document.getElementById(id);
+const TW=[];
+function st(el){if(!el._s)el._s={o:+getComputedStyle(el).opacity,y:0,x:0,s:1,b:0,w:null};return el._s}
+function wr(el){const s=st(el);el.style.opacity=s.o;el.style.transform=`translate(${s.x}px,${s.y}px) scale(${s.s})`;el.style.filter=s.b>0.1?`blur(${s.b}px)`:'none';if(s.w!==null)el.style.width=s.w+'px'}
+function tw(el,from,to,start,dur,ease='out',hold=true){TW.push({k:'t',el,from,to,start,dur,ease:E[ease],hold})}
+function cnt(el,a,b,fmt,start,dur){TW.push({k:'c',el,a,b,fmt,start,dur,ease:E.out})}
+function words(row,text,start,gap=.14){
+  const r=$(row);text.split(' ').forEach((t,i)=>{
+    const w=document.createElement('span');w.className='w';
+    const tx=document.createElement('span');tx.textContent=t;w.appendChild(tx);
+    for(let k=0;k<2;k++){const g=document.createElement('span');g.className='g';g.textContent=t;w.appendChild(g);
+      tw(g,{o:.32-k*.1,y:130+k*60,b:8},{o:0,y:50-k*20,b:2},start+i*gap+k*.06,.55,'out')}
+    r.appendChild(w);
+    tw(w,{o:0,y:80,b:16},{o:1,y:0,b:0},start+i*gap,.6,'out');
+  })
+}
+function reveal(id,start,dy=44){tw($(id),{o:0,y:dy},{o:1,y:0},start,.55)}
+function pop(id,start,from=1.22){tw($(id),{s:from},{s:1},start,.55,'back')}
+function inScene(id,start,end,last=false){const e=$(id);tw(e,{o:0,y:0,b:0,s:1},{o:1,y:0,b:0,s:1},start,.35,'out');if(!last)tw(e,{o:1,y:0,b:0,s:1},{o:0,y:-40,b:10,s:.97},end-.4,.4,'io',false)}
+const fmtN=v=>String(Math.round(v)).replace(/\B(?=(\d{3})+(?!\d))/g,'.');
+const fmtP=v=>v.toFixed(2).replace('.',',')+'%';
+
+const fmtD1=v=>v.toFixed(1).replace('.',',')+'%';
+const fmtD2=v=>v.toFixed(2).replace('.',',')+'%';
+const fmtI=v=>String(Math.round(v))+'%';
+const fmtC=v=>'~'+String(Math.round(v))+'%';
+const fmtH=v=>Math.round(v)+'h';
+const fmtV=(a,b)=>v=>Math.round(a*v)+' a '+Math.round(b*v);
+const BR=$('brand');tw(BR,{o:0},{o:1},0.2,.6,'out');
+const DURS=[7.6,9.4,9.6,7.4,9.4,9.0,9.0,9.6,10.2,8.0];
+const T=[0];DURS.forEach(d=>T.push(+(T[T.length-1]+d).toFixed(2)));
+const STARTS=T.slice(1,-2),ENDV=T[T.length-1];
+const PROG=$('prog');tw(PROG,{o:0},{o:1},T[1]-.2,.5,'out');
+STARTS.forEach(()=>{const i=document.createElement('i');const b=document.createElement('b');i.appendChild(b);PROG.appendChild(i)});
+const PB=[...PROG.querySelectorAll('b')];
+function boundary(x){tw($('flash'),{o:.26},{o:0},x-.05,.4,'out',false);tw($('sweep'),{o:1,x:-560},{o:1,x:1120},x-.2,.7,'io',false)}
+T.slice(1,-1).forEach(boundary);
+function sc(i){inScene('s'+(i+1),T[i],T[i+1],i===DURS.length-1);return T[i]}
+function three(n,t0){reveal('a'+n+'a',t0+1.2,36);reveal('a'+n+'b',t0+2.6,36);reveal('a'+n+'c',t0+4.0,36)}
+let t;
+t=sc(0);reveal('tg1',t+.3);reveal('n1',t+.3,30);cnt($('n1'),0,3.41,v=>'R$ '+v.toFixed(2).replace('.',',')+' bi',t+.9,1.2);pop('n1',t+2.1,1.15);
+reveal('l1',t+1.9);words('r11','Lei Rouanet:',t+2.6,.1);words('r12','como funciona',t+3.0,.1);reveal('sub1',t+4.0);
+t=sc(1);reveal('tg2',t+.2);words('r21','De onde vem',t+.4,.1);words('r22','o dinheiro',t+.8,.1);three(2,t);
+t=sc(2);reveal('tg3',t+.2);words('r31','É dinheiro',t+.4,.1);words('r32','público?',t+.8,.1);three(3,t);
+t=sc(3);reveal('tg4',t+.2);words('r41','Quanto pesa',t+.4,.1);words('r42','no total',t+.8,.1);
+reveal('n4',t+1.3,30);cnt($('n4'),0,.5,v=>v.toFixed(1).replace('.',',')+'%',t+1.5,1.1);pop('n4',t+2.6,1.15);reveal('l4',t+2.4);reveal('cap4',t+3.6);
+t=sc(4);reveal('tg5',t+.2);words('r51','Para onde',t+.4,.1);words('r52','vai',t+.8,.1);
+[[71.9,'Sudeste'],[14.1],[6.9],[3.8],[3.4]].forEach((r,i)=>{const k=i+1,s0=t+1.2+i*.5;reveal('g'+k,s0,30);tw($('b'+k),{w:0},{w:Math.max(8,r[0]*5.9)},s0+.1,1.0,'out');cnt($('v'+k),0,r[0],v=>v.toFixed(1).replace('.',',')+'%',s0+.1,1.0)});
+reveal('cap5',t+4.4);
+t=sc(5);reveal('tg6',t+.2);words('r61','Quem mais',t+.4,.1);words('r62','capta',t+.8,.1);
+[1,2,3,4,5].forEach(k=>reveal('k'+k,t+1.2+(k-1)*.45,30));reveal('cap6',t+3.9);
+t=sc(6);reveal('tg7',t+.2);words('r71','O que dizem',t+.4,.1);words('r72','os críticos',t+.8,.1);three(7,t);
+t=sc(7);reveal('tg8',t+.2);words('r81','O que dizem',t+.4,.1);words('r82','os defensores',t+.8,.1);three(8,t);
+t=sc(8);reveal('tg9',t+.2);words('r91','Frases que',t+.4,.1);words('r92','circulam',t+.8,.1);three(9,t);
+t=sc(9);words('r101','Leia o',t+.3,.1);words('r102','artigo completo',t+.7,.1);
+reveal('t101',t+1.5);reveal('t102',t+2.6);reveal('url10',t+3.5);pop('url10',t+3.5,1.1);reveal('t103',t+4.4);
+
+const pc=$('pc'),px=pc.getContext('2d');const P=[];let sd=11;const rnd=()=>{sd=(sd*16807)%2147483647;return sd/2147483647};
+for(let i=0;i<46;i++)P.push({x:rnd()*1080,y:rnd()*1920,v:14+rnd()*34,r:2+rnd()*4.5,a:.07+rnd()*.2});
+function drawP(t){px.clearRect(0,0,1080,1920);P.forEach(p=>{const y=((p.y-t*p.v)%1920+1920)%1920;px.globalAlpha=p.a;px.fillStyle='#b0a6ff';px.beginPath();px.arc(p.x+Math.sin(t*.45+p.y)*16,y,p.r,0,6.2832);px.fill()});px.globalAlpha=1}
+
+function drawGrid(){}
+window.DUR=ENDV;
+window.seek=function(t){
+  for(const q of TW){
+    if(t<q.start){
+      if(q.hold){if(q.k==='t'){const s=st(q.el);for(const key in q.to){s[key]=q.from[key]!==undefined?q.from[key]:(key==='s'?1:0)}wr(q.el)}else{q.el.textContent=q.fmt(q.a)}}
+      continue;
+    }
+    const p=q.ease(Math.min(1,(t-q.start)/q.dur));
+    if(q.k==='t'){const s=st(q.el);for(const key in q.to){const a=q.from[key]!==undefined?q.from[key]:(key==='s'?1:0);s[key]=a+(q.to[key]-a)*p}wr(q.el)}
+    else{q.el.textContent=q.fmt(q.a+(q.b-q.a)*p)}
+  }
+  PB.forEach((b,i)=>{const a=i===0?STARTS[0]:STARTS[i],e=(i<STARTS.length-1?STARTS[i+1]:ENDV);b.style.width=(100*Math.min(1,Math.max(0,(t-a)/(e-a))))+'%'});
+  $('glow').style.transform=`translate(${-200+260*Math.sin(t*.45)}px,${300+420*Math.sin(t*.31+1)}px)`;
+  drawP(t);
+};
+document.querySelectorAll('.scene,.brand,#prog,#flash,#sweep').forEach(e=>st(e));
+seek(0);
+</script></body></html>
