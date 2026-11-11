@@ -1,0 +1,205 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{width:1080px;height:1920px;background:#09090f;overflow:hidden;font-family:'Inter',sans-serif;color:#fff}
+#bg{position:absolute;inset:0;background:radial-gradient(900px 700px at 50% 104%,rgba(80,56,170,.6),transparent 70%),radial-gradient(700px 600px at 92% 0%,rgba(54,38,130,.5),transparent 70%)}
+#glow{position:absolute;left:0;top:0;width:1100px;height:1100px;border-radius:50%;background:radial-gradient(closest-side,rgba(110,84,230,.16),transparent);opacity:1}
+#pc{position:absolute;left:0;top:0}
+.brand{position:absolute;top:150px;left:0;right:0;text-align:center;font-weight:800;font-size:46px;letter-spacing:1px;opacity:0}
+.brand u{text-decoration-thickness:4px;text-underline-offset:7px}
+#prog{position:absolute;top:238px;left:90px;width:900px;height:10px;display:flex;gap:8px;opacity:0}
+#prog i{flex:1;background:rgba(255,255,255,.14);border-radius:6px;overflow:hidden;display:block}
+#prog b{display:block;height:100%;width:0;background:#8c78ff;border-radius:6px}
+.scene{position:absolute;left:0;right:0;top:300px;bottom:340px;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:0 90px;opacity:0}
+.h{font-weight:800;line-height:1.06;letter-spacing:-2px}
+.row{display:block;white-space:nowrap}
+.w{display:inline-block;position:relative;margin:0 14px;opacity:0}
+.w .g{position:absolute;left:0;top:0;opacity:0;pointer-events:none}
+.p{color:#9a88ff}.s{color:#e6e6f2}.m{color:#a8a8c4}.amb{color:#f6b848}
+.num{font-weight:800;letter-spacing:-4px;line-height:1;white-space:nowrap;transform-origin:left center}
+.numc{transform-origin:center center}
+.lbl{font-size:58px;font-weight:600;color:#e6e6f2;line-height:1.15}
+.cap{font-size:50px;font-weight:600;color:#d2d2e6;line-height:1.25}
+.tag{display:inline-block;padding:12px 28px;border-radius:16px;font-weight:800;font-size:34px;letter-spacing:1.5px;background:#463ca0;color:#fff}
+.bar{flex:none;height:62px;border-radius:16px;width:0;background:#8c78ff}
+.pill{display:block;padding:14px 38px;border-radius:44px;background:rgba(140,120,255,.22);border:5px solid #8c78ff;font-weight:800;font-size:64px;margin:14px 0}
+.cardbox{flex:1;background:rgba(255,255,255,.07);border:3px solid rgba(255,255,255,.14);border-radius:36px;padding:34px 20px;text-align:center}
+.yr{font-weight:800;font-size:54px;color:#a8a8c4;letter-spacing:3px;margin-bottom:10px}
+#flash{position:absolute;inset:0;background:#a898ff;opacity:0;pointer-events:none}
+#sweep{position:absolute;left:0;top:0;width:520px;height:1920px;background:linear-gradient(90deg,transparent,rgba(150,128,255,.55),transparent);opacity:0;pointer-events:none}
+</style></head><body>
+<div id="bg"></div><div id="glow"></div><canvas id="pc" width="1080" height="1920"></canvas>
+<div class="brand" id="brand">SEM <u>NARRATIVA</u></div>
+<div id="prog"></div>
+
+
+<style>
+.scene{top:270px;bottom:330px}
+.hook{font-weight:900;font-size:330px;letter-spacing:-14px;line-height:.9;color:#f6b848;text-shadow:0 0 80px rgba(246,184,72,.35)}
+.sub{font-size:60px;font-weight:700;line-height:1.18;color:#f2f2fa}
+.sub b{color:#f6b848}
+.score{display:flex;gap:40px;align-items:flex-end;justify-content:center;margin-top:30px}
+.sc{display:flex;flex-direction:column;align-items:center}
+.sc .n{font-weight:900;font-size:230px;letter-spacing:-8px;line-height:1}
+.sc .t{font-size:42px;font-weight:700;color:#d2d2e6;margin-top:6px;line-height:1.15}
+.vs{font-size:80px;font-weight:800;color:#6c6c8c;margin-bottom:110px}
+#dots{position:relative;width:900px;height:330px;margin-top:40px}
+.dot{position:absolute;width:44px;height:44px;border-radius:50%;opacity:0}
+.sen{display:flex;align-items:center;gap:30px;width:920px;background:rgba(255,255,255,.07);border:3px solid rgba(255,255,255,.14);border-radius:36px;padding:30px 34px;margin:16px 0;text-align:left}
+.av{flex:none;width:130px;height:130px;border-radius:50%;background:#2c2660;border:5px solid #8c78ff;display:flex;align-items:center;justify-content:center;font-weight:900;font-size:52px;color:#cfc6ff}
+.sen .nm{font-size:54px;font-weight:800;line-height:1.05}
+.sen .pt{font-size:36px;font-weight:600;color:#a8a8c4;margin-top:4px}
+.st{display:inline-block;margin-top:12px;padding:8px 20px;border-radius:14px;font-size:34px;font-weight:800}
+.st.a{background:#5c4216;color:#f6b848}.st.g{background:#3a3858;color:#d2d2e6}
+.why{font-size:36px;color:#d2d2e6;margin-top:10px;line-height:1.2}
+.chip{display:block;width:940px;padding:26px 30px;margin:14px 0;border-radius:30px;background:rgba(140,120,255,.16);border:4px solid #8c78ff;font-size:52px;font-weight:800;line-height:1.12;text-align:left}
+.chip span{color:#f6b848}
+.stamp{display:inline-block;margin-top:34px;padding:14px 34px;border:6px solid #f6b848;border-radius:22px;color:#f6b848;font-weight:900;font-size:62px;letter-spacing:2px;transform:rotate(-4deg)}
+.big{font-weight:900;font-size:150px;letter-spacing:-6px;line-height:1}
+.yn{display:flex;gap:40px;justify-content:center;margin-top:50px}
+.yn div{width:380px;padding:34px 0;border-radius:40px;font-size:100px;font-weight:900}
+</style>
+
+<div class="scene" id="s1">
+ <div class="hook" id="hk"><span style="display:block">2</span><span style="display:block;font-size:220px;letter-spacing:-8px">VOTOS</span></div>
+ <div class="sub" id="hs1" style="margin-top:60px">de diferença tiraram a<br><b>redução da maioridade penal</b><br>da PEC da Segurança</div>
+</div>
+
+<div class="scene" id="s2">
+ <span class="tag" id="tg2">SENADO, 3 DE NOVEMBRO</span>
+ <div class="sub" id="q2" style="margin-top:30px">Separar o tema da PEC?</div>
+ <div class="score">
+  <div class="sc" id="c2a"><div class="n p" id="n2a">0</div><div class="t">a favor<br>de separar</div></div>
+  <div class="vs" id="vs2">x</div>
+  <div class="sc" id="c2b"><div class="n amb" id="n2b">0</div><div class="t">contra</div></div>
+ </div>
+ <div id="dots"></div>
+ <div class="cap" id="cap2" style="margin-top:26px">e <b style="color:#fff">1 abstenção</b></div>
+</div>
+
+<div class="scene" id="s3">
+ <div class="sub" id="h3" style="font-size:56px;margin-bottom:26px">3 senadores do <b>PL</b>, partido que<br>queria votar a redução na PEC,<br>não votaram contra:</div>
+ <div class="sen" id="p1"><div class="av">CP</div><div><div class="nm">Carlos Portinho</div><div class="pt">PL-RJ, líder do PL no Senado</div><span class="st a">ABSTENÇÃO</span><div class="why">Disse que apertou o botão errado</div></div></div>
+ <div class="sen" id="p2"><div class="av">MM</div><div><div class="nm">Magno Malta</div><div class="pt">PL-ES</div><span class="st g">NÃO VOTOU</span><div class="why">Disse que estava em um voo</div></div></div>
+ <div class="sen" id="p3"><div class="av">JS</div><div><div class="nm">Jorge Seif</div><div class="pt">PL-SC</div><span class="st g">NÃO VOTOU</span><div class="why">Senado registra ausência por<br>atividade política/cultural</div></div></div>
+</div>
+
+<div class="scene" id="s4">
+ <div class="sub" id="h4">Se os 3 votassem contra:</div>
+ <div class="big amb" id="n4" style="margin-top:30px;font-size:230px">38 a 39</div>
+ <div class="sub" id="t4a" style="margin-top:40px;font-size:54px">o tema continuaria na PEC</div>
+ <div class="cap" id="t4b" style="margin-top:40px;font-size:46px">Mas isso não aprovaria a redução:<br>ela ainda precisaria de 49 votos no<br>Senado e de nova votação na Câmara</div>
+</div>
+
+<div class="scene" id="s5">
+ <div class="sub" id="h5" style="font-size:58px;margin-bottom:24px">E o que a PEC <b>aprovada</b> muda?</div>
+ <div class="chip" id="k1">Facções e milícias: <span>regras mais duras</span></div>
+ <div class="chip" id="k2">Cidades podem criar <span>polícia municipal</span></div>
+ <div class="chip" id="k3"><span>30%</span> do dinheiro das bets vai para a segurança</div>
+ <div class="chip" id="k4">Preso provisório <span>perde direitos políticos</span></div>
+ <div class="chip" id="k5">Polícia Federal com <span>mais poder</span> contra o crime organizado</div>
+ <div class="stamp" id="stp">75 A 0 NO SENADO</div>
+</div>
+
+<div class="scene" id="s6">
+ <div class="big" id="h6">E agora?</div>
+ <div class="chip" id="j1" style="margin-top:50px">Promulgação da PEC: <span>em cerca de 15 dias</span>, segundo Alcolumbre</div>
+ <div class="chip" id="j2">Maioridade penal: comissão da Câmara <span>vota até o fim de novembro</span></div>
+</div>
+
+<div class="scene" id="s7">
+ <div class="big" id="h7" style="font-size:130px">E você?</div>
+ <div class="sub" id="q7" style="margin-top:40px;font-size:56px">A maioridade penal deveria<br>ter sido votada <b>dentro</b> da PEC?</div>
+ <div class="yn" id="yn"><div style="background:#463ca0">SIM</div><div style="background:#5c4216;color:#f6b848">NÃO</div></div>
+ <div class="sub" id="c7" style="margin-top:44px;font-size:52px">Comenta aqui embaixo</div>
+ <div class="m" id="u7" style="margin-top:50px;font-size:44px;font-weight:700;line-height:1.3">Artigo completo no link da bio<br><span style="color:#9a88ff;font-size:58px;font-weight:800">semnarrativa.com.br</span></div>
+</div>
+
+<div id="sweep"></div><div id="flash"></div>
+
+<script>
+const E={out:t=>1-Math.pow(1-t,3),io:t=>t<.5?4*t*t*t:1-Math.pow(-2*t+2,3)/2,lin:t=>t,back:t=>{const c=1.7;return 1+(c+1)*Math.pow(t-1,3)+c*Math.pow(t-1,2)}};
+const $=id=>document.getElementById(id);
+const TW=[];
+function st(el){if(!el._s)el._s={o:+getComputedStyle(el).opacity,y:0,x:0,s:1,b:0,w:null};return el._s}
+function wr(el){const s=st(el);el.style.opacity=s.o;el.style.transform=`translate(${s.x}px,${s.y}px) scale(${s.s})`;el.style.filter=s.b>0.1?`blur(${s.b}px)`:'none';if(s.w!==null)el.style.width=s.w+'px'}
+function tw(el,from,to,start,dur,ease='out',hold=true){TW.push({k:'t',el,from,to,start,dur,ease:E[ease],hold})}
+function cnt(el,a,b,fmt,start,dur){TW.push({k:'c',el,a,b,fmt,start,dur,ease:E.out})}
+function words(row,text,start,gap=.14){
+  const r=$(row);text.split(' ').forEach((t,i)=>{
+    const w=document.createElement('span');w.className='w';
+    const tx=document.createElement('span');tx.textContent=t;w.appendChild(tx);
+    for(let k=0;k<2;k++){const g=document.createElement('span');g.className='g';g.textContent=t;w.appendChild(g);
+      tw(g,{o:.32-k*.1,y:130+k*60,b:8},{o:0,y:50-k*20,b:2},start+i*gap+k*.06,.55,'out')}
+    r.appendChild(w);
+    tw(w,{o:0,y:80,b:16},{o:1,y:0,b:0},start+i*gap,.6,'out');
+  })
+}
+function reveal(id,start,dy=44){tw($(id),{o:0,y:dy},{o:1,y:0},start,.55)}
+function pop(id,start,from=1.22){tw($(id),{s:from},{s:1},start,.55,'back')}
+function inScene(id,start,end,last=false){const e=$(id);tw(e,{o:0,y:0,b:0,s:1},{o:1,y:0,b:0,s:1},start,.35,'out');if(!last)tw(e,{o:1,y:0,b:0,s:1},{o:0,y:-40,b:10,s:.97},end-.4,.4,'io',false)}
+const fmtN=v=>String(Math.round(v)).replace(/\B(?=(\d{3})+(?!\d))/g,'.');
+const fmtP=v=>v.toFixed(2).replace('.',',')+'%';
+
+const fmtD1=v=>v.toFixed(1).replace('.',',')+'%';
+const fmtD2=v=>v.toFixed(2).replace('.',',')+'%';
+const fmtI=v=>String(Math.round(v))+'%';
+const fmtC=v=>'~'+String(Math.round(v))+'%';
+const fmtH=v=>Math.round(v)+'h';
+const fmtV=(a,b)=>v=>Math.round(a*v)+' a '+Math.round(b*v);
+const BR=$('brand');tw(BR,{o:0},{o:1},0,.3,'out');
+const T=[0,4.6,10.6,20.4,25.6,34.2,38.6,45.0];
+const STARTS=T.slice(0,-1),ENDV=T[T.length-1];
+const PROG=$('prog');tw(PROG,{o:0},{o:1},0,.3,'out');
+STARTS.forEach(()=>{const i=document.createElement('i');const b=document.createElement('b');i.appendChild(b);PROG.appendChild(i)});
+const PB=[...PROG.querySelectorAll('b')];
+function boundary(x){tw($('flash'),{o:.3},{o:0},x-.05,.35,'out',false);tw($('sweep'),{o:1,x:-560},{o:1,x:1120},x-.2,.6,'io',false)}
+T.slice(1,-1).forEach(boundary);
+function sc(i){inScene('s'+(i+1),T[i],T[i+1],i===T.length-2);return T[i]}
+const FX=[];
+function shake(id,t0,dur,amp){const e=$(id);FX.push(t=>{if(t<t0||t>t0+dur){if(t>t0+dur&&!e._sk){e.style.translate='0px 0px';e._sk=1}if(t<t0){e._sk=0;e.style.translate='0px 0px'}return}e._sk=0;const k=1-(t-t0)/dur;e.style.translate=`${Math.sin(t*90)*amp*k}px ${Math.cos(t*77)*amp*.6*k}px`})}
+let t;
+t=sc(0);
+tw($('hk'),{o:0,s:2.4,b:30},{o:1,s:1,b:0},t+.05,.35,'out');shake('hk',t+.4,.5,22);tw($('flash'),{o:.55},{o:0},t+.38,.4,'out',false);
+reveal('hs1',t+.9,40);
+FX.push(tt=>{const e=$('hk');if(tt>1.4&&tt<4.6){const k=1+.035*Math.sin((tt-1.4)*5.2);e.style.scale=k}else e.style.scale=1});
+t=sc(1);reveal('tg2',t+.2);reveal('q2',t+.45);
+reveal('c2a',t+.8,30);reveal('vs2',t+.9,30);reveal('c2b',t+1.0,30);
+cnt($('n2a'),0,38,v=>String(Math.round(v)),t+1.0,2.0);cnt($('n2b'),0,36,v=>String(Math.round(v)),t+1.0,2.0);
+(function(){const box=$('dots');const cols=15;const order=[];for(let i=0;i<38;i++)order.push('#8c78ff');for(let i=0;i<36;i++)order.push('#f6b848');order.push('#6c6c8c');
+order.forEach((c,i)=>{const d=document.createElement('div');d.className='dot';const r=Math.floor(i/cols),q=i%cols;d.style.left=(q*60+6)+'px';d.style.top=(r*64+8)+'px';d.style.background=c;box.appendChild(d);tw(d,{o:0,s:.2},{o:1,s:1},t+1.0+i*.026,.3,'back')})})();
+reveal('cap2',t+3.2);pop('n2a',t+3.05,1.18);
+t=sc(2);reveal('h3',t+.2);
+['p1','p2','p3'].forEach((id,i)=>{tw($(id),{o:0,x:-900},{o:1,x:0},t+1.4+i*2.3,.5,'out');tw($('flash'),{o:.18},{o:0},t+1.6+i*2.3,.3,'out',false);shake(id,t+1.85+i*2.3,.25,10)});
+t=sc(3);reveal('h4',t+.2);tw($('n4'),{o:0,s:2,b:20},{o:1,s:1,b:0},t+.7,.4,'out');shake('n4',t+1.1,.4,16);tw($('flash'),{o:.4},{o:0},t+1.05,.35,'out',false);
+reveal('t4a',t+1.6);reveal('t4b',t+2.6);
+t=sc(4);reveal('h5',t+.2);
+['k1','k2','k3','k4','k5'].forEach((id,i)=>{tw($(id),{o:0,x:700,s:.9},{o:1,x:0,s:1},t+.9+i*1.15,.35,'out')});
+tw($('stp'),{o:0,s:3},{o:1,s:1},t+7.0,.3,'out');shake('stp',t+7.3,.3,14);tw($('flash'),{o:.35},{o:0},t+7.25,.3,'out',false);
+t=sc(5);tw($('h6'),{o:0,s:1.8,b:16},{o:1,s:1,b:0},t+.15,.35,'out');reveal('j1',t+1.0);reveal('j2',t+2.1);
+t=sc(6);tw($('h7'),{o:0,s:1.8,b:16},{o:1,s:1,b:0},t+.15,.35,'out');reveal('q7',t+.8);reveal('yn',t+1.8,60);pop('yn',t+1.8,1.2);reveal('c7',t+2.6);reveal('u7',t+3.6);
+FX.push(tt=>{const e=$('c7');if(tt>T[6]+3.2){e.style.translate=`0px ${Math.abs(Math.sin((tt-T[6])*4))*-14}px`}else e.style.translate='0px 0px'});
+
+const pc=$('pc'),px=pc.getContext('2d');const P=[];let sd=11;const rnd=()=>{sd=(sd*16807)%2147483647;return sd/2147483647};
+for(let i=0;i<46;i++)P.push({x:rnd()*1080,y:rnd()*1920,v:14+rnd()*34,r:2+rnd()*4.5,a:.07+rnd()*.2});
+function drawP(t){px.clearRect(0,0,1080,1920);P.forEach(p=>{const y=((p.y-t*p.v)%1920+1920)%1920;px.globalAlpha=p.a;px.fillStyle='#b0a6ff';px.beginPath();px.arc(p.x+Math.sin(t*.45+p.y)*16,y,p.r,0,6.2832);px.fill()});px.globalAlpha=1}
+
+function drawGrid(){}
+window.DUR=ENDV;
+window.seek=function(t){
+  for(const q of TW){
+    if(t<q.start){
+      if(q.hold){if(q.k==='t'){const s=st(q.el);for(const key in q.to){s[key]=q.from[key]!==undefined?q.from[key]:(key==='s'?1:0)}wr(q.el)}else{q.el.textContent=q.fmt(q.a)}}
+      continue;
+    }
+    const p=q.ease(Math.min(1,(t-q.start)/q.dur));
+    if(q.k==='t'){const s=st(q.el);for(const key in q.to){const a=q.from[key]!==undefined?q.from[key]:(key==='s'?1:0);s[key]=a+(q.to[key]-a)*p}wr(q.el)}
+    else{q.el.textContent=q.fmt(q.a+(q.b-q.a)*p)}
+  }
+  PB.forEach((b,i)=>{const a=i===0?STARTS[0]:STARTS[i],e=(i<STARTS.length-1?STARTS[i+1]:ENDV);b.style.width=(100*Math.min(1,Math.max(0,(t-a)/(e-a))))+'%'});
+  $('glow').style.transform=`translate(${-200+260*Math.sin(t*.45)}px,${300+420*Math.sin(t*.31+1)}px)`;
+  drawP(t);
+  FX.forEach(f=>f(t));
+};
+document.querySelectorAll('.scene,.brand,#prog,#flash,#sweep').forEach(e=>st(e));
+seek(0);
+</script></body></html>
