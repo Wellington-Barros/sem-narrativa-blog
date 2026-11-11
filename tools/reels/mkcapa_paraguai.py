@@ -23,12 +23,12 @@ F='/usr/share/fonts/opentype/inter/'
 bold=lambda s: ImageFont.truetype(F+'Inter-Bold.otf',s)
 med=lambda s: ImageFont.truetype(F+'Inter-Medium.otf',s)
 white=(255,255,255); amber=(246,184,72)
-d.text((650,64),'3 A 6 DE NOVEMBRO DE 2026',font=med(17),fill=(200,200,225))
+d.text((650,64),'3 A 7 DE NOVEMBRO DE 2026',font=med(17),fill=(200,200,225))
 rows=[('3/11','BANCO CENTRAL','ind','Ueno Bank é tomado e as contas ficam bloqueadas','w'),
-      ('4/11','CONGRESSO','ind','Lei manda o fundo de garantia devolver o dinheiro','w'),
-      ('5/11','PRESIDENTE','amb','Peña anuncia a renúncia em vídeo','a'),
+      ('5/11','PRESIDENTE','ind','Peña anuncia a renúncia em vídeo','w'),
       ('5/11','CÂMARA','ind','Deputados votam 78 a 0 pelo impeachment','w'),
-      ('Em aberto','SEM DECISÃO','gry','Renúncia não foi aceita nem rejeitada','g')]
+      ('6/11','SENADO','amb','Peña é destituído por 44 a 0; Alliana assume','a'),
+      ('7/11','JUSTIÇA','gry','Prisão preventiva; ele nega irregularidades','g')]
 cols={'ind':((70,60,160),white),'amb':((92,66,22),amber),'gry':((62,60,92),(196,196,214))}
 dot={'w':(236,234,248),'a':amber,'g':(120,118,150)}
 y0=130; step=84

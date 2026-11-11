@@ -1,22 +1,25 @@
 ---
-title: 'O que aconteceu no Paraguai: a crise do Ueno Bank, a renúncia anunciada por Santiago Peña e o impeachment'
-description: 'Em 3 de novembro de 2026 o Ueno Bank foi tomado pelo banco central do Paraguai, e milhões de pessoas ficaram sem acesso às contas. Dois dias depois, o presidente Santiago Peña anunciou a renúncia e a Câmara votou o impeachment. Veja a linha do tempo, o que está confirmado, o que são acusações e o que ainda não se sabe.'
+title: 'O que aconteceu no Paraguai: a crise do Ueno Bank, a destituição de Santiago Peña e a prisão do ex-presidente'
+description: 'Em 3 de novembro de 2026 o Ueno Bank foi tomado pelo banco central do Paraguai, e milhões de pessoas ficaram sem acesso às contas. Em quatro dias, o presidente Santiago Peña anunciou a renúncia, foi destituído pelo Senado por 44 a 0 e teve a prisão preventiva decretada. Veja a linha do tempo, o que está confirmado, o que são acusações e o que ainda não se sabe.'
 pubDate: 'Nov 06 2026'
+updatedDate: 'Nov 11 2026'
 category: 'Linha do Tempo'
 heroImage: '../../assets/capa-paraguai-ueno-bank-crise-2026.jpg'
 ---
 
-Em 3 de novembro de 2026, o banco central do Paraguai tomou o controle de um banco digital chamado **Ueno Bank**. Milhões de pessoas ficaram sem conseguir usar suas contas, e o dinheiro de aposentadorias também ficou preso. Dois dias depois, o problema do banco virou um problema do governo: na quinta-feira, 5 de novembro, o presidente **Santiago Peña** anunciou que renunciaria, e a Câmara dos Deputados aprovou, por unanimidade, a abertura de um processo de impeachment contra ele.
+> **Atualização (11 de novembro de 2026):** na sexta-feira, 6 de novembro, o Senado destituiu Santiago Peña por 44 votos a 0, e o vice, Pedro Alliana, assumiu a Presidência. No sábado, 7, um juiz decretou a prisão preventiva de Peña, que foi formalmente acusado (imputado) pelo Ministério Público. O artigo foi reescrito para incluir esses fatos.
 
-Este artigo organiza os fatos em ordem cronológica e separa o que **está confirmado**, o que é **acusação** e o que **ainda não se sabe**. Quando uma informação vem de uma única fonte, o texto avisa. A história continua em andamento, então tudo aqui reflete o que foi publicado até a manhã de 6 de novembro de 2026.
+Em 3 de novembro de 2026, o banco central do Paraguai tomou o controle de um banco digital chamado **Ueno Bank**. Milhões de pessoas ficaram sem conseguir usar suas contas, e o dinheiro de aposentadorias também ficou preso. Em quatro dias, o problema do banco virou a maior crise política do país em anos: o presidente **Santiago Peña** anunciou que renunciaria, a Câmara aprovou o impeachment, o Senado o tirou do cargo e a Justiça mandou prendê-lo de forma preventiva.
+
+Este artigo organiza os fatos em ordem cronológica e separa o que **está confirmado**, o que é **acusação** e o que **ainda não se sabe**. Quando uma informação vem de uma única fonte, o texto avisa. Tudo aqui reflete o que foi publicado até 10 de novembro de 2026.
 
 ## Resumo rápido
 
-- **O que está confirmado:** o banco central do Paraguai (BCP) tomou o Ueno Bank, as contas foram bloqueadas, o Congresso aprovou uma lei para o fundo de garantia devolver o dinheiro dos clientes, e a Câmara dos Deputados votou 78 a 0 pela abertura do impeachment de Peña, segundo a Associated Press (AP).
-- **O que Peña fez:** anunciou a renúncia em um vídeo, na quinta (5), pediu desculpas "se falhou", mas não assumiu a responsabilidade pela crise, segundo a AP. Ele diz que vai colaborar com as investigações.
-- **O que não aconteceu:** o Congresso **não aceitou nem rejeitou** a renúncia. A sessão ficou sem quórum (número mínimo de presentes) depois que parlamentares do partido do presidente saíram do plenário. Por isso, até onde encontramos, Peña seguia no cargo.
-- **O que é acusação, e não prova:** parlamentares dizem que há conflito de interesses, porque Peña teve ações de uma empresa ligada ao dono do Ueno e nomeou para o banco central um ex-dirigente do Ueno. Isso é o que a oposição afirma e o que o impeachment vai analisar. Não há condenação.
-- **O que ainda vem:** o Senado precisa julgar o impeachment, e a renúncia ainda precisa ser votada pelo Congresso. Peña pediu 72 horas a mais para se defender, e não encontramos a decisão sobre esse pedido.
+- **O que está confirmado:** o banco central do Paraguai (BCP) tomou o Ueno Bank, as contas foram bloqueadas e o fundo de garantia começou a devolver o dinheiro. A Câmara votou 78 a 0 pelo impeachment de Peña, e o **Senado o destituiu por 44 a 0** em 6 de novembro. **Pedro Alliana**, que era o vice, assumiu e governa até agosto de 2028.
+- **A renúncia não valeu:** Peña anunciou a renúncia em vídeo no dia 5, mas o Congresso nunca a votou. Como foi destituído, ele **perdeu o direito a ser senador vitalício** e a proteção legal que vem com o cargo.
+- **A Justiça:** em 7 de novembro, o juiz Humberto Otazú decretou a **prisão preventiva** de Peña, que está detido numa unidade militar em Assunção. O Ministério Público o acusa formalmente (imputação) de lesão de confiança e administração em proveito próprio. O ex-presidente do banco central, Carlos Carvallo, também está preso.
+- **O que Peña diz:** nega qualquer irregularidade, segundo a MercoPress, e não quis depor. A defesa afirma que ele não participou das operações do banco e que não há risco de fuga.
+- **Importante:** prisão preventiva e acusação formal **não são condenação**. Peña ainda não foi julgado pela Justiça.
 
 ## Quem é o Ueno Bank
 
@@ -55,9 +58,35 @@ O banco central anunciou que tomou o Ueno. Segundo a Euronews, o aplicativo, os 
 - **Prisões:** um juiz mandou prender, até o julgamento, seis dirigentes do Ueno, incluindo o fundador Miguel Vázquez e o presidente do banco, Juan Manuel Gustale, e colocou outros dois em prisão domiciliar, segundo a AP. O advogado de Gustale, José Fernández Zacur, contesta as acusações e diz que os dirigentes confiavam nos funcionários para decidir os empréstimos.
 - **Funcionários:** ex-funcionários protestaram em frente ao Ministério do Trabalho, pedindo salários atrasados e indenização. O ministério estima que cerca de 7 mil empregos, diretos e indiretos, foram afetados, segundo a AP.
 
-### Sexta-feira, 6 de novembro: o Senado
+### Sexta-feira, 6 de novembro: o Senado tira Peña do cargo
 
-Segundo o El Argentino Diario, o Senado havia marcado a audiência para as 10h, com defesa, apresentação de provas, alegações e votação ao longo do dia. Peña pediu 72 horas a mais, em uma carta ao presidente do Congresso, Basilio "Bachi" Núñez, dizendo que recebeu o libelo (15 páginas, mais cerca de 300 folhas de anexos) às 22h15 de quinta e que precisava escolher um advogado. Núñez disse que ia avaliar o pedido e reconheceu que o direito de defesa é um argumento válido. **Não encontramos a decisão sobre o pedido nem o resultado do julgamento.**
+- **O pedido de prazo:** Peña pediu 72 horas a mais para se defender, dizendo que recebeu as acusações na noite anterior. O Senado **rejeitou** o pedido, segundo a MercoPress e o Congresso em Foco.
+- **O julgamento:** durou cerca de dez horas. Peña não compareceu e mandou os advogados Adolfo Ferreiro e Ricardo Preda, que disseram não ter tido tempo para preparar a defesa e que o processo tinha perdido o sentido com a renúncia. O Senado rejeitou os argumentos, segundo a MercoPress.
+- **A votação:** às 18h55 no horário local, os **44 senadores presentes**, de um total de 45, votaram pela destituição por "mau desempenho de suas funções", incluindo senadores do Partido Colorado, o partido de Peña, segundo a MercoPress. Ele é o segundo presidente paraguaio afastado por julgamento político desde a volta da democracia, depois de Fernando Lugo, em 2012, segundo o Congresso em Foco.
+- **A posse de Alliana:** minutos depois, Pedro Alliana tomou posse no Congresso. Ele tem 52 anos, foi governador do departamento de Ñeembucú e presidente do Partido Colorado, segundo a MercoPress. O Congresso escolheu **Antonio Barrios** como novo vice-presidente, segundo a Revista E&N, com informações da EFE.
+- **A oposição:** aceitou a sucessão com ressalvas. O senador Rafael Filizzola chamou Alliana de "cúmplice" do que aconteceu, mas disse que a oposição aceitava a situação "para garantir a continuidade institucional", segundo a MercoPress.
+- **A detenção:** horas depois, a Promotoria mandou deter Peña. Ele ficou primeiro em casa e, por causa de protestos em frente à residência, foi levado para o Regimento Escolta Presidencial, uma unidade militar em Assunção, segundo a BBC News Mundo e a EFE.
+- **A defesa:** o advogado Adolfo Ferreiro contestou a legalidade do julgamento e disse que pode recorrer à Suprema Corte do Paraguai e a tribunais internacionais, segundo o Congresso em Foco.
+
+### Sábado, 7 de novembro: prisão preventiva
+
+- **A decisão:** o juiz Humberto Otazú, de crimes econômicos, decretou a prisão preventiva de Peña, que continua no Regimento Escolta Presidencial, segundo a BBC News Mundo.
+- **A acusação:** o Ministério Público imputou Peña por **lesão de confiança** e **administração em proveito próprio**. Segundo os promotores, ele teria participado das decisões de colocar e manter dinheiro público e de aposentadorias no Ueno, banco com o qual teria tido relações econômicas e societárias.
+- **Carvallo:** o ex-presidente do banco central, Carlos Carvallo, também foi preso. Ele responde pelos mesmos crimes e ainda por produção de documentos públicos falsos, segundo o Minuto60. Segundo a Reuters, citada pelo O Liberal, ele teria sabido de problemas nas contas do banco desde junho e omitido alertas em relatórios enviados ao Senado em outubro.
+- **Bens bloqueados:** a Justiça proibiu Peña e Carvallo de vender bens e bloqueou as contas bancárias dos dois, segundo o O Liberal.
+- **O que diz a defesa:** o advogado Ricardo Preda afirmou que Peña não participou das operações do banco, que não há risco de fuga nem de atrapalhar a investigação e que ele sempre disse que se submeteria a qualquer investigação, segundo a BBC News Mundo. Peña não quis depor.
+
+### Domingo, 8 de novembro: busca na casa e prejuízo estimado
+
+- **Busca e apreensão:** o Ministério Público fez buscas na casa de Peña em San Bernardino, a cerca de 50 km de Assunção, segundo a Folha de Pernambuco, com informações de agências. A reportagem não diz o que foi levado.
+- **Prejuízo:** o Ministério Público estimou um prejuízo **preliminar de US$ 809,5 milhões**, somando depósitos em moeda local e recursos em dólar de órgãos públicos, como o instituto de previdência (IPS), Itaipu, Yacyretá e a estatal de energia ANDE, segundo o O Liberal, com informações do ABC Color.
+
+## O novo governo e o dinheiro dos clientes
+
+- Alliana prometeu ressarcir os clientes afetados, com atenção aos mais vulneráveis, segundo a EFE.
+- Segundo o governo e o banco central, cerca de **1,196 milhão de pessoas** já tinham recebido dinheiro do fundo de garantia até o fim da semana, somando cerca de **US$ 160 milhões**, segundo a BBC News Mundo. O banco central disse que mais de 50% dos clientes afetados já receberam, segundo o Minuto60.
+- Alliana determinou que contribuintes afetados pela quebra não paguem multas, juros ou encargos por atraso ligados ao Ueno, segundo a Folha de Pernambuco.
+- O instituto de previdência (IPS) informou que cerca de 32 mil aposentados recebiam pela conta do Ueno e que as aposentadorias e o 13º serão pagos em 17 de novembro, por outros bancos, segundo a EFE.
 
 ## Por que o dinheiro do governo estava no Ueno?
 
@@ -81,7 +110,15 @@ Segundo as reportagens, Peña não é dono do Ueno. As acusações dos parlament
 - **O que Peña diz:** pediu desculpas "se falhou", mas não aceitou a responsabilidade pela crise, segundo a AP. Disse que vai colaborar com os investigadores e que quer garantir a devolução dos fundos e a proteção do dinheiro público.
 - **Antes da crise:** dois dias antes do pedido de renúncia, o presidente do Congresso, Bachi Núñez, havia dito que Peña não poderia ser responsabilizado, porque o banco central tem autonomia, segundo a Agência Brasil. Depois disso, o partido do presidente, o Colorado, passou a apoiar o julgamento político. O líder do partido, o ex-presidente Horacio Cartes, disse que a legenda não ficará ao lado do "roubo" de recursos públicos, privados e dos aposentados, segundo a Reuters.
 
-Importante: **são acusações, e não condenações.** A AP não registrou nenhuma acusação formal contra Peña na Justiça, só investigações.
+### O que a acusação formal diz
+
+Depois da destituição, o Ministério Público trouxe novos pontos, que são **acusações ainda não julgadas**, segundo o O Liberal e a Folha de Pernambuco:
+
+- **Empréstimos:** em 13 de maio de 2024, o Ueno teria dado a Peña dois financiamentos, somando cerca de US$ 500 mil, para construir uma casa em San Bernardino. As parcelas mensais seriam cerca de seis vezes o salário de presidente.
+- **Envelopes com dinheiro:** a investigação apura a guarda de dois envelopes com US$ 100 mil cada na residência oficial, entre outubro de 2024 e fevereiro de 2025.
+- **Reuniões:** os promotores investigam encontros reservados entre Peña e Miguel Vázquez, controlador do Grupo Vázquez, dono do Ueno.
+
+Importante: **são acusações, e não condenações.** Peña nega irregularidades, segundo a MercoPress. Não encontramos manifestação da defesa sobre esses pontos específicos.
 
 ## Como funciona o impeachment no Paraguai
 
@@ -89,22 +126,23 @@ No Paraguai, o impeachment é chamado de "juicio político" (julgamento polític
 
 Segundo o El Argentino Diario, para tirar o presidente do cargo são necessários os votos de 30 dos 45 senadores (dois terços). A Câmara usou como base o artigo 225 da Constituição, que trata de mau desempenho, segundo o mesmo texto, e as acusações envolvem conflito de interesses com o grupo dono do Ueno.
 
-Se o presidente for **removido**, ele perde a cadeira de senador vitalício e pode ser investigado pela Justiça sem precisar passar por um processo para perder a proteção do cargo (o "desafuero"), segundo o El Argentino Diario. É por isso que a diferença entre renunciar e ser removido importa tanto.
+Se o presidente for **removido**, ele perde a cadeira de senador vitalício e pode ser investigado pela Justiça sem precisar passar por um processo para perder a proteção do cargo (o "desafuero"), segundo o El Argentino Diario. É por isso que a diferença entre renunciar e ser removido importa tanto. No caso de Peña, foram 44 votos, acima dos 30 necessários.
 
-## E a renúncia? Por que o Congresso não aceitou?
+## E a renúncia? Por que ela não valeu?
 
-Uma renúncia de presidente não vale só porque ele disse em vídeo. Segundo o El Argentino Diario, a aceitação depende do Congresso, em sessão conjunta das duas Casas. Como os parlamentares colorados saíram e faltou quórum, a renúncia não foi aceita nem rejeitada, e Peña seguia no cargo.
+Uma renúncia de presidente não vale só porque ele disse em vídeo. Segundo o El Argentino Diario, a aceitação depende do Congresso, em sessão conjunta das duas Casas. Na quinta-feira, 5, os parlamentares colorados saíram, faltou quórum e a renúncia não foi votada. No dia seguinte, o Senado julgou e destituiu Peña antes de qualquer votação da renúncia.
 
-O que está em jogo, segundo a AP:
+A diferença importa, segundo a AP e a MercoPress:
 
-- Se a renúncia for aceita, o vice, Pedro Alliana, toma posse **sem passar por julgamento no Senado**.
-- Senadores de oposição querem que Peña seja removido, e não que renuncie, argumentando que a renúncia poderia preservar o direito dele a uma cadeira vitalícia, com proteção legal que poderia protegê-lo de processos.
-- O constitucionalista Alcibiades Delvalle disse, segundo o O Povo (AFP), que a renúncia não pode ser aceita de imediato enquanto houver um julgamento político em andamento. Segundo ele, se a renúncia for aceita, Peña mantém os foros, e se for condenado, perde.
-- Segundo o El Argentino Diario, alguns parlamentares propõem reconvocar a sessão para aceitar a renúncia, e Núñez disse que, nesse caso, votariam imediatamente o desafuero. Isso é só uma proposta, sem data.
+- Se a renúncia tivesse sido aceita, Peña viraria **senador vitalício**, com imunidade parlamentar, e Alliana assumiria sem julgamento no Senado.
+- Como foi **destituído**, Peña perdeu a cadeira vitalícia e a imunidade. Por isso, pôde ser preso e processado sem que o Congresso precisasse retirar essa proteção antes.
+- Críticos viam a renúncia como uma forma de escapar da Justiça, segundo a BBC News Mundo. A defesa de Peña disse no Senado que o julgamento tinha perdido o sentido com a renúncia, argumento que os senadores rejeitaram.
 
 ## Investigações
 
-Segundo a AP, o procurador-geral, Emiliano Rolón Fernández, mandou abrir três investigações criminais sobre a crise do Ueno. Elas examinam a fiscalização do banco, o tratamento dado à quebra e a aplicação de dinheiro público no banco, e incluem acusações que envolvem Peña e outras autoridades atuais e antigas. **Abrir uma investigação não é o mesmo que acusar alguém formalmente.** A AP diz que acusar Peña dependeria de uma decisão do procurador.
+Segundo a AP, o procurador-geral, Emiliano Rolón Fernández, mandou abrir três investigações criminais sobre a crise do Ueno. Elas examinam a fiscalização do banco, o tratamento dado à quebra e a aplicação de dinheiro público no banco. Depois da destituição, Peña e Carvallo foram **formalmente acusados (imputados)**, e o juiz decretou a prisão preventiva dos dois. Segundo a Folha de Pernambuco, oito dirigentes do banco estão detidos.
+
+**Imputação é o começo do processo, não o fim.** A Justiça ainda vai analisar as provas, e os acusados ainda podem se defender e recorrer.
 
 Segundo o El Argentino Diario, o juiz Rodrigo Estigarribia proibiu a venda ou a oneração de bens de 34 pessoas e empresas ligadas ao banco. Peña não está na lista divulgada.
 
@@ -117,28 +155,31 @@ Segundo o El Argentino Diario, o juiz Rodrigo Estigarribia proibiu a venda ou a 
 - **Quando Peña deixou de ter ações.** "Até o ano passado" (AP), "até março de 2025" (Agência Brasil), e "vendeu em 2025", segundo ele (Reuters, sem verificação da Al Jazeera).
 - **Quantos foram presos.** Seis presos e dois em prisão domiciliar, segundo a AP, e pedido de prisão de oito pessoas, segundo a Agência Brasil.
 - **Título e texto sobre a renúncia.** Alguns títulos dizem que o vice assume ou que o Congresso rejeitou a renúncia. O texto das mesmas matérias mostra que a renúncia não foi votada: a sessão ficou sem quórum.
+- **Quanto dinheiro público estava no banco, segundo a acusação.** A Promotoria fala em mais de US$ 230 milhões de órgãos públicos em setembro (BBC News Mundo) e em US$ 233,4 milhões em recursos em dólar, dentro de um prejuízo preliminar de US$ 809,5 milhões (O Liberal). A AP falava em cerca de US$ 800 milhões em depósitos públicos. Os recortes não são os mesmos.
+- **Os empréstimos a Peña.** Cerca de US$ 510,5 mil, com parcelas de cerca de US$ 34,4 mil (O Liberal), ou cerca de US$ 500 mil, com parcelas de cerca de US$ 38 mil (Folha de Pernambuco). A diferença pode vir da conversão de guaranis para dólares.
+- **Quanto já foi devolvido.** Cerca de US$ 160 milhões (BBC News Mundo e EFE) ou US$ 158 milhões (Folha de Pernambuco), para cerca de 1,2 milhão de pessoas.
 - **Como foi a votação na Câmara.** A Euronews e a Agência Brasil falam em unanimidade na Câmara, e a AP traz 78 a 0. A Al Jazeera diz que o Senado avançou com o processo, sem relatar votação.
 
 ## O que ainda não se sabe
 
-- **Se o Senado concedeu as 72 horas pedidas por Peña** e quando vai julgar o impeachment.
-- **Se Peña será removido, e com quantos votos**, ou se o Congresso aceitará a renúncia antes.
-- **Quando Alliana assumiria o cargo**, se Peña sair.
-- **Se haverá acusação formal contra Peña.** Existem investigações, mas a AP não registrou denúncia contra ele.
+- **Se a defesa vai recorrer** da prisão preventiva ou levar o julgamento político à Suprema Corte e a tribunais internacionais, como disse que poderia fazer. Até 10 de novembro, não encontramos recurso apresentado.
+- **Quanto tempo Peña ficará preso** e quando o processo vai a julgamento.
+- **Se as acusações serão provadas.** A imputação e a prisão preventiva não significam que Peña é culpado.
+- **O que foi apreendido** na casa de San Bernardino.
+- **Quanto do dinheiro dos clientes e do dinheiro público será recuperado**, e em quanto tempo. O prejuízo de US$ 809,5 milhões é uma estimativa preliminar da Promotoria.
 - **Se a informação de que Peña teria descartado alertas sobre o Ueno é exata.** Ela aparece só na Euronews entre os textos que consultamos.
-- **Quanto do dinheiro dos clientes e do dinheiro público será recuperado**, e em quanto tempo, além da primeira etapa.
-- **Qual o valor real dos buracos nas contas do banco.** Os textos falam em empréstimos mal documentados e despesas registradas como bens, mas não trazem o tamanho do rombo.
-- **A resposta de Peña e de Alliana sobre as acusações, dentro do processo**, e a defesa dos dirigentes presos.
+- **Quais mudanças Alliana fará** no governo e no banco central. A MercoPress diz que são esperadas, mas não detalha.
 - **O impacto na economia do país**, como o comércio, os salários e os empregos, que as fontes só descrevem em estimativas.
 
 ## Como ler esse tipo de notícia
 
 - **Acusação não é condenação.** Um impeachment começa com acusações. O Senado é quem decide se elas procedem.
 - **Investigação aberta não é denúncia.** Abrir um caso criminal quer dizer que se vai apurar.
-- **Renúncia anunciada não é renúncia aceita.** Neste caso, a diferença muda tudo: quem assume, se haverá julgamento e quais proteções legais ficam.
+- **Renúncia anunciada não é renúncia aceita.** Neste caso, a diferença mudou tudo: Peña foi destituído e perdeu a proteção de senador vitalício.
+- **Prisão preventiva não é condenação.** Ela serve para garantir o andamento do processo. A culpa só é decidida no julgamento.
 - **Número de uma fonte pode não ser número de outra.** Cheque o que está sendo contado (pessoas, dinheiro, clientes, depósitos).
 - **Título forte, texto cauteloso.** Leia a matéria inteira antes de concluir quem assumiu, quem foi preso ou o que foi decidido.
-- **Confira a data e a hora.** A situação mudou a cada poucas horas entre 3 e 6 de novembro.
+- **Confira a data e a hora.** A situação mudou a cada poucas horas entre 3 e 8 de novembro. Muitas matérias publicadas no dia 5 ou 6 já estão desatualizadas.
 
 ## Perguntas para pensar
 
@@ -158,14 +199,17 @@ Este espaço não vai dar uma resposta pronta.
 - Cerca de US$ 800 milhões em depósitos públicos, um quarto do total, estavam no banco, segundo a AP. A Reuters fala em cerca de US$ 850 milhões.
 - Em 4 de novembro, o Congresso aprovou lei para o fundo de garantia pagar os clientes em até cinco dias úteis, começando pelas contas pequenas. O fundo cobre até cerca de US$ 36 mil por cliente (AP). O BCP estima cobertura total para cerca de 97% dos clientes, e a Moody's, segundo a Agência Brasil, alertou que só 30% dos depósitos estavam dentro do limite.
 - Segundo a AP, a Procuradoria acusou 27 pessoas ligadas ao banco de quebra de confiança e tentativa de fraude. Em 5 de novembro, um juiz mandou prender seis dirigentes e colocou outros dois em prisão domiciliar. O advogado de Gustale contesta as acusações.
-- O procurador-geral Emiliano Rolón mandou abrir três investigações, que incluem acusações envolvendo Peña e outras autoridades. Não há acusação formal contra Peña nos textos que consultamos.
+- O procurador-geral Emiliano Rolón mandou abrir três investigações sobre a crise. Depois da destituição, Peña e Carvallo foram formalmente acusados (imputados).
 - Peña teve ações de uma empresa ligada ao dono do Ueno até o ano passado (AP) e nomeou para o banco central o então presidente da Financiera Ueno, Carlos Carvallo, que renunciou depois da crise. Peña diz que vendeu sua parte em 2025.
-- Em 5 de novembro, Peña anunciou a renúncia em vídeo. Pediu desculpas, mas não aceitou a responsabilidade pela crise, segundo a AP.
+- Em 5 de novembro, Peña anunciou a renúncia em vídeo. Pediu desculpas, mas não aceitou a responsabilidade pela crise, segundo a AP. O Congresso nunca votou a renúncia, porque a sessão ficou sem quórum.
 - A Câmara dos Deputados votou 78 a 0 pela abertura do impeachment contra Peña e rejeitou, por 48 a 30, o processo contra o vice, Pedro Alliana, segundo a AP e o ABC Color.
-- A sessão conjunta do Congresso para votar a renúncia ficou sem quórum depois que parlamentares do Partido Colorado saíram. A renúncia não foi aceita nem rejeitada, segundo a Reuters e o El Argentino Diario.
-- Se a renúncia for aceita, Alliana assume sem julgamento no Senado, segundo a AP. Para remover Peña são necessários 30 dos 45 votos, segundo o El Argentino Diario. Quem for removido perde a cadeira de senador vitalício.
-- Peña pediu 72 horas a mais para se defender no Senado. Não encontramos a decisão sobre o pedido nem o resultado do julgamento até a manhã de 6 de novembro.
-- Este artigo não afirma que Peña cometeu crime nem avalia o mérito das acusações. Ele reúne o que foi publicado até a manhã de 6 de novembro de 2026 e atribui cada informação à sua fonte.
+- Em 6 de novembro, o Senado rejeitou o pedido de 72 horas e destituiu Peña por 44 votos a 0, todos os senadores presentes de um total de 45, por mau desempenho de funções. Com isso, ele perdeu a cadeira de senador vitalício e a imunidade.
+- Pedro Alliana tomou posse na mesma noite e governa até 15 de agosto de 2028. Antonio Barrios foi escolhido vice-presidente.
+- Em 7 de novembro, o juiz Humberto Otazú decretou a prisão preventiva de Peña, imputado por lesão de confiança e administração em proveito próprio. Ele está numa unidade militar em Assunção. Carlos Carvallo, ex-presidente do banco central, também foi preso. Os bens e as contas dos dois foram bloqueados.
+- Peña nega irregularidades e não quis depor. A defesa diz que ele não participou das operações do banco e contesta a legalidade do julgamento político.
+- O Ministério Público estimou prejuízo preliminar de US$ 809,5 milhões e acusa Peña de ter recebido dois empréstimos do Ueno, de cerca de US$ 500 mil, em maio de 2024. São acusações ainda não julgadas.
+- Até o fim da semana, cerca de 1,2 milhão de pessoas receberam cerca de US$ 160 milhões do fundo de garantia, segundo o governo e o banco central.
+- Este artigo não afirma que Peña cometeu crime nem avalia o mérito das acusações. Ele reúne o que foi publicado até 10 de novembro de 2026 e atribui cada informação à sua fonte.
 
 ## Fontes consultadas para este artigo
 
@@ -176,6 +220,13 @@ Este espaço não vai dar uma resposta pronta.
 - ABC Color, "Cronología de una crisis: de la caída de Ueno Bank a la renuncia y el juicio político a Peña" (blog ao vivo, 4 e 5 de novembro de 2026; os horários do blog estão fora de ordem e algumas informações vêm de terceiros)
 - El Argentino Diario, "Peña pide 72 horas ante el Senado: la renuncia sigue sin votarse y avanza el juicio político" (6 de novembro de 2026, com informações do ABC Color, da BBC Mundo e da EFE citadas na reportagem)
 - O Povo, "Senado do Paraguai ignora pedido de renúncia de Peña e segue com processo de impeachment" (6 de novembro de 2026, com texto da AFP, em versão truncada)
+- Congresso em Foco, "Senado do Paraguai aprova impeachment contra Santiago Peña" (6 de novembro de 2026)
+- MercoPress, "Paraguay's Senate removes Santiago Peña, who is placed under arrest, and Pedro Alliana takes office" (7 de novembro de 2026, com informações da AP, do ABC Color e do La Nación citadas na reportagem)
+- Revista E&N, com informações da EFE, "Paraguay: Alliana asume la presidencia y Peña comparece ante la Fiscalía tras su detención" (7 de novembro de 2026)
+- BBC News Mundo, "Juez de Paraguay ordena prisión preventiva para expresidente Peña" (7 de novembro de 2026), na versão publicada pelo Teletica
+- Minuto60, "Expresidente de Paraguay Santiago Peña, en prisión preventiva: ¿qué viene para él?" (novembro de 2026)
+- O Liberal, "Paraguai: MP estima prejuízo de US$ 809 mi em caso Ueno; Justiça bloqueia bens de Peña" (8 de novembro de 2026, com informações do ABC Color e da Reuters)
+- Folha de Pernambuco, "Ministério Público faz busca e apreensão na casa do ex-presidente do Paraguai" (8 de novembro de 2026)
 - A CNN não pôde ser aberta por restrição do próprio site. Reportagens de Infobae, NBC News e UPI apareceram nas buscas, mas não foram abertas para este artigo.
 
 Veja também: [Como funciona um processo de impeachment](/blog/processo-de-impeachment) e [O que é foro privilegiado e por que ele existe](/blog/foro-privilegiado).
