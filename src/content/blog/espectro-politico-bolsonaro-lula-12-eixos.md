@@ -2,6 +2,7 @@
 title: 'Bolsonaro e Lula no espectro político: o que diz o teste dos 12 eixos e o que mostram os votos e os atos de cada um'
 description: 'O teste 12 Axes coloca Bolsonaro na direita e Lula na esquerda, em lados opostos em 8 de 12 eixos. Conferimos cada eixo com os votos dos dois na Câmara e com os atos como presidente, pelo mesmo critério, e mostramos onde os registros confirmam o site e onde apontam outra coisa.'
 pubDate: 'Nov 03 2026'
+updatedDate: 'Nov 11 2026'
 category: 'Fato ou Narrativa'
 heroImage: '../../assets/capa-espectro-politico-bolsonaro-lula-12-eixos.jpg'
 ---
@@ -165,7 +166,7 @@ A leitura é nossa. Os fatos e as fontes estão em cada cartão, para que o leit
 <div class="promessa-bloco"><span class="promessa-rotulo">1. Estrutura (federal × unitário)</span><p>Bolsonaro no site: <strong>Unitário 68%</strong>. Lula no site: <strong>Unitário 70%</strong></p></div>
 <div class="promessa-bloco"><span class="promessa-rotulo">Bolsonaro: o que os registros mostram</span><p>O slogan "Mais Brasil, menos Brasília" virou, em novembro de 2019, uma PEC que prometia repassar de R$ 400 bilhões a R$ 500 bilhões a estados e municípios. Na pandemia, porém, ele entrou em conflito com governadores, e o STF decidiu em 2020 que a União não podia se sobrepor a estados e municípios para reverter medidas de isolamento. Bolsonaro repetiu ao menos 56 vezes que o STF tinha tirado seus poderes, o que a Aos Fatos classificou como falso</p></div>
 <div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Leitura</span><p><span class="selo selo-parcial">Confirmam em parte</span></p></div>
-<div class="promessa-bloco"><span class="promessa-rotulo">Lula: o que os registros mostram</span><p>A PEC da Segurança Pública, enviada pelo governo em 2025, amplia a coordenação federal sobre a segurança. O governador Tarcísio de Freitas disse em dezembro de 2025 que ela "fere de morte" a autonomia dos estados; analistas ouvidos pela Agência Pública disseram que não. A votação da PEC no Senado foi marcada para esta terça-feira (3 de novembro de 2026), e o resultado ainda não tinha saído quando este texto foi publicado</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">Lula: o que os registros mostram</span><p>A PEC da Segurança Pública, enviada pelo governo em 2025, amplia a coordenação federal sobre a segurança. O governador Tarcísio de Freitas disse em dezembro de 2025 que ela "fere de morte" a autonomia dos estados; analistas ouvidos pela Agência Pública disseram que não. Em 3 de novembro de 2026, o Senado aprovou a PEC por 73 a 0 no primeiro turno e 75 a 0 no segundo, sem a redução da maioridade penal, que a oposição queria incluir e que vai ser tratada em outra PEC. Como o texto da Câmara foi mantido, a PEC segue para promulgação</p></div>
 <div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Leitura</span><p><span class="selo selo-parcial">Confirmam em parte</span></p></div>
 <div class="promessa-bloco promessa-fonte"><span class="promessa-rotulo">Fonte</span><p>Agência Senado (5/11/2019), Aos Fatos (12/8/2020), InfoMoney e Agência Pública (dezembro de 2025), Via Certa Natal e TV Senado (3/11/2026)</p></div>
 </div>
@@ -320,7 +321,7 @@ Por isso, a resposta a "qual é o espectro de cada um" muda conforme o período 
 - **Como o site montou o perfil de Lula:** o arquivo com as respostas dele não está no repositório público, ao contrário do de Bolsonaro.
 - **Se os perfis vão mudar:** a documentação do site descreve uma reauditoria em andamento, e os números podem ser atualizados.
 - **Os votos de Bolsonaro antes de 2003:** a base aberta da Câmara não os traz, e dependemos de reportagens.
-- **O resultado da PEC da Segurança Pública:** a votação no Senado foi marcada para esta terça-feira, 3 de novembro de 2026, e ainda não tinha terminado quando este texto foi publicado.
+- **Quando a PEC da Segurança Pública será promulgada:** o Senado aprovou o texto em 3 de novembro de 2026 (73 a 0 e 75 a 0), mas até 10 de novembro não encontramos a data da promulgação. *(Atualizado em 11 de novembro de 2026.)*
 - **O desfecho jurídico de Bolsonaro:** a defesa pediu revisão criminal, que ainda está em análise no STF.
 - **As posições de Lula no quarto mandato,** que começa em janeiro de 2027.
 
@@ -376,6 +377,7 @@ Por isso, a resposta a "qual é o espectro de cada um" muda conforme o período 
 - CNN Brasil, "Na abertura do Foro de São Paulo, Lula diz que ser chamado de 'comunista' é motivo de 'orgulho'" (29 de junho de 2023)
 - InfoMoney, "Tarcísio diz que PEC da Segurança Pública 'fere de morte' autonomia dos Estados" (dezembro de 2025), e Agência Pública, "PEC da segurança não tira autonomia dos estados, dizem analistas" (dezembro de 2025)
 - Via Certa Natal, "Senado retoma PEC da Segurança Pública após impasse sobre maioridade penal" (3 de novembro de 2026), e TV Senado, "Plenário do Senado analisa PEC da Segurança Pública" (3 de novembro de 2026)
+- Congresso em Foco, "Senado aprova PEC da Segurança Pública em dois turnos" (3 de novembro de 2026), Atlas Público, "Senado aprova em 1º turno, por 73 votos a 0, a PEC da Segurança" (3 de novembro de 2026), e Diário de Pernambuco, "Senado aprova em 2º turno PEC da Segurança por 75 a 0" (3 de novembro de 2026)
 - Correio Braziliense, "Lula sobre Venezuela: conceito de democracia é relativo para você e para mim" (29 de junho de 2023) e "Venezuela convoca embaixador no Brasil: entenda a escalada da crise" (30 de outubro de 2024, com BBC News Brasil)
 - O Liberal, "Veja o que muda com o pacote anticrime aprovado pela Câmara" (5 de dezembro de 2019)
 - IstoÉ Dinheiro, "Número de armas registradas por CACs cresce 287% desde 2018 e ultrapassa 1 milhão" (31 de agosto de 2022, com dados dos institutos Igarapé e Sou da Paz)
