@@ -2,6 +2,7 @@
 title: 'PEC da Segurança Pública aprovada: o que muda, o que ficou de fora e o que dizem os críticos e os defensores'
 description: 'O Congresso aprovou a PEC da Segurança Pública, que coloca na Constituição o sistema único de segurança, cria regras mais duras para facções e milícias, permite polícias municipais e reserva dinheiro das apostas para a área. Veja o que muda, o caminho até a aprovação, por que a redução da maioridade penal ficou de fora e os argumentos de cada lado.'
 pubDate: 'Nov 11 2026'
+updatedDate: 'Nov 11 2026'
 category: 'Como Funciona'
 heroImage: '../../assets/capa-pec-seguranca-publica-2026.jpg'
 ---
@@ -71,9 +72,25 @@ A redução da maioridade penal foi o ponto mais disputado no Senado. Segundo o 
 - **A proposta do PT:** o líder do PT, **Camilo Santana (PT-CE)**, propôs reduzir para **16 anos** só em crimes hediondos.
 - **O que o relator disse:** Rogério Carvalho chamou o tema de "jabuti" (assunto estranho ao objetivo da proposta) e lembrou que a Câmara já tinha criado uma comissão especial sobre ele. Disse também que qualquer mudança faria a PEC voltar à Câmara.
 - **O que a oposição disse:** Marinho afirmou que a maioridade penal está diretamente ligada à segurança pública e que separar o tema serve para adiar a discussão.
-- **O resultado:** por **38 votos a 36**, o Senado decidiu separar o tema em propostas paralelas. Alcolumbre prometeu dar rapidez a elas.
+- **O resultado:** por **38 votos a 36**, com **1 abstenção**, o Senado decidiu separar o tema em propostas paralelas. Alcolumbre prometeu dar rapidez a elas.
 
-Em 10 de novembro, Alcolumbre disse que o Senado vota a maioridade penal "se a Câmara votar". Na Câmara, a comissão especial sobre o tema tem como relator Mendonça Filho, que pretende apresentar o parecer até o fim de novembro, com votação prevista para dezembro, segundo a CNN Brasil.
+### Os três votos do PL que não entraram
+
+O PL, partido de oposição que defendia incluir a redução da maioridade penal na PEC, teve três senadores que não votaram contra a separação, segundo o Acesse Política, o Portal Viggo e a Gazeta do Povo:
+
+- **Carlos Portinho (PL-RJ)**, líder do PL no Senado: registrou **abstenção**. Ele disse que "apertou o botão errado", ou seja, que foi um erro ao usar o sistema de votação.
+- **Magno Malta (PL-ES)**: **não votou**. Disse que estava em um voo e não conseguiu registrar o voto.
+- **Jorge Seif (PL-SC)**: **não votou**. O registro do Senado, segundo a Gazeta do Povo, aponta ausência por "atividade política/cultural". Não encontramos explicação pública dele.
+
+Pela conta, se os três tivessem votado contra a separação, o placar seria de 38 a 39, e o tema teria continuado na PEC naquele momento. Integrantes da oposição disseram que os três votos poderiam ter mudado o resultado, segundo o Acesse Política. Isso não quer dizer que a redução seria aprovada: para entrar na Constituição, ela ainda precisaria de pelo menos 49 votos no Senado (três quintos dos 81 senadores) e de nova votação na Câmara, porque o texto teria mudado.
+
+### O que acontece agora com a maioridade penal
+
+- **No Senado:** em 10 de novembro, Alcolumbre disse que o Senado vota a maioridade penal "se a Câmara votar", segundo a CNN Brasil.
+- **Na Câmara:** uma comissão especial analisa uma PEC que reduz a maioridade para 16 anos. O relator, Mendonça Filho (PL-PE), disse em audiência em 10 de novembro que vai apresentar parecer a favor da redução, com os jovens cumprindo pena separados dos adultos. Ele ainda avalia se a mudança vale só para crimes hediondos ou para outros crimes, e não se opõe a um referendo, segundo o Hoje Diário.
+- **Calendário:** a comissão deve votar até o fim de novembro, e o presidente da Câmara, Hugo Motta, teria se comprometido a levar o texto ao plenário na primeira semana de dezembro, segundo o Hoje Diário.
+- **O governo:** disse que o debate é legítimo e que aceita a redução, de forma excepcional, para crimes hediondos, com unidade separada e regime de ressocialização, segundo o Hoje Diário. O secretário nacional de Segurança Pública, Chico Lucas, alertou que uma redução ampla pode piorar o sistema prisional.
+- **Possível questionamento no STF:** a juíza Kate Braun do Prado lembrou, na audiência, que há interpretações de que a idade prevista no artigo 228 da Constituição não pode ser mudada por emenda (seria uma "cláusula pétrea").
 
 ## O que dizem os defensores
 
@@ -127,7 +144,7 @@ Em 10 de novembro, Alcolumbre disse que o Senado vota a maioridade penal "se a C
 - **Quando as mudanças começam a valer na prática.** Vários pontos, como as polícias municipais e as regras para as organizações de alta periculosidade, dependem de leis que ainda precisam ser aprovadas.
 - **Como fica a divisão do dinheiro** entre União, estados e municípios além da regra dos 50%.
 - **Se o STF vai ser chamado a analisar** pontos como a suspensão dos direitos políticos de presos provisórios, que o Ministério Público Federal considera contrária à presunção de inocência.
-- **O futuro da redução da maioridade penal**, que depende da comissão especial da Câmara.
+- **O futuro da redução da maioridade penal**, que depende da votação na comissão especial da Câmara, prevista para o fim de novembro, e de uma possível análise do STF.
 - **A criação do Ministério da Segurança Pública:** segundo a CNN, o governo espera a promulgação para separar a pasta da Justiça.
 - **Se a PEC vai reduzir a criminalidade.** Não há estudo que meça isso antes de as regras entrarem em vigor.
 
@@ -156,7 +173,7 @@ Em 10 de novembro, Alcolumbre disse que o Senado vota a maioridade penal "se a C
 - Facções e milícias passam a ser tratadas como organizações criminosas de alta periculosidade, com penas e regras de progressão mais duras. Presos provisórios têm os direitos políticos suspensos.
 - Os fundos de segurança e penitenciário entram na Constituição, sem bloqueio, com 50% para estados e Distrito Federal. 30% da arrecadação das apostas vai para os fundos.
 - O Congresso pode suspender atos do CNJ, do CNMP e do governo que passem do poder de regulamentar em temas penais e de segurança.
-- A redução da maioridade penal ficou de fora: o Senado separou o tema por 38 a 36. Há propostas da oposição (16 anos, e 14 em crimes graves) e do PT (16 anos em crimes hediondos).
+- A redução da maioridade penal ficou de fora: o Senado separou o tema por 38 a 36, com 1 abstenção. Três senadores do PL não votaram contra a separação: Carlos Portinho (abstenção, que ele atribuiu a erro), Magno Malta (em um voo) e Jorge Seif (ausente). Há propostas da oposição (16 anos, e 14 em crimes graves) e do PT (16 anos em crimes hediondos).
 - Em 10 de novembro, Alcolumbre disse que pretende promulgar a PEC em cerca de 15 dias.
 - O Ministério Público Federal criticou pontos do texto, como a suspensão de direitos políticos de presos provisórios. O governo e o relator na Câmara defendem a integração e o dinheiro garantido.
 - Este artigo não defende nem critica a PEC e não recomenda voto. Ele reúne o que foi publicado até 10 de novembro de 2026 e atribui cada informação à sua fonte.
@@ -173,6 +190,10 @@ Em 10 de novembro, Alcolumbre disse que o Senado vota a maioridade penal "se a C
 - Bahia Notícias, "PEC da Segurança Pública é aprovada em 2º turno e vai ao Senado: entenda os principais pontos da proposta" (março de 2026)
 - Ministério Público Federal, Procuradoria Federal dos Direitos do Cidadão, Nota Técnica nº 26/2026 sobre a PEC 18/2025 (1º de setembro de 2026)
 - Muita Informação, "Tarcísio chama PEC da Segurança Pública de afronta e diz que texto fere de morte autonomia dos estados" (dezembro de 2025)
+- Acesse Política, "Vacilos de três senadores do PL ajudaram governo Lula a barrar redução da maioridade penal" (5 de novembro de 2026)
+- Portal Viggo, "Senadores do PL deixam de votar em sessão sobre maioridade penal" (5 de novembro de 2026)
+- Gazeta do Povo, "Como votou cada senador na PEC da Segurança Pública" (3 de novembro de 2026)
+- Hoje Diário, "Relator da PEC defende redução da maioridade penal com separação de jovens e adultos" (11 de novembro de 2026)
 - Exame (Esfera Brasil), "PEC da Segurança Pública: especialistas divergem sobre eficácia da proposta" (23 de outubro de 2025)
 - A página do PT com críticas da bancada à PEC apareceu nas buscas, mas não pôde ser aberta.
 
