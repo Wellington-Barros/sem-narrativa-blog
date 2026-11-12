@@ -54,7 +54,7 @@ bb=d.textbbox((0,0),t,font=f)
 bx0,by0=62,222; bx1,by1=bx0+bb[2]-bb[0]+34,by0+78
 d.rectangle([bx0,by0,bx1,by1],fill=box)
 d.text((bx0+17,by0+4-bb[1]+8),t,font=f,fill=white)
-for i,s2 in enumerate(['O vídeo viral conferido','com a lei e a Receita,','item por item.']):
+for i,s2 in enumerate(['O vídeo com Nikolas Ferreira','conferido com a lei e a','Receita, item por item.']):
     d.text((72,340+i*42),s2,font=med(31),fill=(235,235,245))
 ov=Image.new('RGBA',(W,H),(0,0,0,0)); od=ImageDraw.Draw(ov)
 pts=[(x,560+14*math.sin(x/190.0)+7*math.sin(x/70.0)) for x in range(0,W+1,4)]

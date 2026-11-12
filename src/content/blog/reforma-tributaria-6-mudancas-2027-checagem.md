@@ -1,5 +1,5 @@
 ---
-title: 'As 6 mudanças da reforma tributária em 2027: o que o vídeo viral diz e o que as regras dizem'
+title: 'As 6 mudanças da reforma tributária em 2027: o que o vídeo com Nikolas Ferreira diz e o que as regras dizem'
 description: 'Um vídeo que viralizou com falas do deputado Nikolas Ferreira lista 6 mudanças que começam em 1º de janeiro de 2027: split payment, CBS, imposto do pecado, Simples Nacional, autônomos e aluguel. Conferimos cada uma com a lei, a Receita Federal e a imprensa. Algumas estão certas, outras precisam de contexto e uma está exagerada para 2027.'
 pubDate: 'Nov 12 2026'
 category: 'Fato ou Narrativa'
@@ -35,7 +35,7 @@ A reforma troca cinco tributos (PIS, Cofins, IPI, ICMS e ISS) por três: a **CBS
 
 <div class="promessas-lista">
 <div class="promessa-card">
-<div class="promessa-bloco"><span class="promessa-rotulo">O que o vídeo diz</span><p>"A partir do ano que vem, você vende 100 reais e o governo pega a parte dele antes do dinheiro cair na sua conta. Sem você escolher." Diz ainda que, com a reforma completa, essa parte "pode passar de 26 reais em cada 100", que o sistema "vê tudo, cada Pix, cada boleto, cada cartão" e que, se ele errar, "quem corre atrás é você"</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">O que o vídeo com Nikolas Ferreira diz</span><p>"A partir do ano que vem, você vende 100 reais e o governo pega a parte dele antes do dinheiro cair na sua conta. Sem você escolher." Diz ainda que, com a reforma completa, essa parte "pode passar de 26 reais em cada 100", que o sistema "vê tudo, cada Pix, cada boleto, cada cartão" e que, se ele errar, "quem corre atrás é você"</p></div>
 <div class="promessa-bloco"><span class="promessa-rotulo">O que as regras dizem</span><p>Em 2027, o split payment começa <strong>opcional</strong>: a empresa escolhe em quais operações usar. Vale só para vendas <strong>entre empresas</strong>. Vendas para pessoa física e pagamentos com <strong>cartão de crédito, débito e vale</strong> ficam de fora nessa primeira etapa, segundo a Receita Federal, citada pela Convergência Digital. A Receita diz que ainda não dá para afirmar quando ele será obrigatório. Outras reportagens falam em previsão de 2028 para vendas entre empresas</p></div>
 <div class="promessa-bloco"><span class="promessa-rotulo">O contexto que falta</span><p>O valor de "26 em cada 100" é a estimativa da alíquota total (CBS mais IBS) quando a reforma estiver completa, em 2033. Em 2027, o IBS será de 0,1%. Além disso, o imposto é pago pelo comprador no preço, e a empresa desconta os créditos do que já pagou nas compras. Não encontramos regra específica sobre quem corrige erros do sistema</p></div>
 <div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Selo</span><p><span class="selo selo-parcial">Exagerado para 2027: começa opcional e só entre empresas</span></p></div>
@@ -53,7 +53,7 @@ A reforma troca cinco tributos (PIS, Cofins, IPI, ICMS e ISS) por três: a **CBS
 
 <div class="promessas-lista">
 <div class="promessa-card">
-<div class="promessa-bloco"><span class="promessa-rotulo">O que o vídeo diz</span><p>Aparece na lista das 6 mudanças, sem detalhes</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">O que o vídeo com Nikolas Ferreira diz</span><p>Aparece na lista das 6 mudanças, sem detalhes</p></div>
 <div class="promessa-bloco"><span class="promessa-rotulo">O que as regras dizem</span><p>A partir de 2027, a CBS substitui o PIS e a Cofins. Em 28 de outubro de 2026, o TCU calculou a alíquota de referência em <strong>11,3%</strong>. O Senado tem até <strong>15 de dezembro</strong> para fixá-la. Se não fizer isso, vale o cálculo do TCU</p></div>
 <div class="promessa-bloco"><span class="promessa-rotulo">O contexto que falta</span><p>A CBS não é cumulativa: o imposto pago nas etapas anteriores vira crédito. Por isso, comparar os 11,3% direto com as alíquotas atuais de PIS e Cofins não mostra o efeito real para cada setor. A Constituição exige que, na transição, a arrecadação federal sobre o consumo seja equivalente à anterior</p></div>
 <div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Selo</span><p><span class="selo selo-ok">Confirmado</span></p></div>
@@ -67,7 +67,7 @@ Explicamos em detalhes como o TCU chegou aos 11,3% no artigo [CBS de 11,3% em 20
 
 <div class="promessas-lista">
 <div class="promessa-card">
-<div class="promessa-bloco"><span class="promessa-rotulo">O que o vídeo diz</span><p>"Cerveja, refrigerante, cigarro e carro ganham um imposto extra, o imposto do pecado"</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">O que o vídeo com Nikolas Ferreira diz</span><p>"Cerveja, refrigerante, cigarro e carro ganham um imposto extra, o imposto do pecado"</p></div>
 <div class="promessa-bloco"><span class="promessa-rotulo">O que as regras dizem</span><p>A Medida Provisória 1.399/2026, publicada em 4 de novembro, define as alíquotas do Imposto Seletivo para 2027. A cobrança começa em <strong>2 de fevereiro de 2027</strong>. Alguns exemplos: bebidas açucaradas, 2,6%; cerveja de malte, 4,2%; a maioria dos vinhos e espumantes, 8%; cigarros, 66,7% mais um valor fixo de R$ 3,50</p></div>
 <div class="promessa-bloco"><span class="promessa-rotulo">O contexto que falta</span><p>Segundo a MP, as alíquotas de 2027 correspondem às atuais do IPI, depois de fatores de conversão. O Imposto Seletivo entra no lugar de parte do IPI, que está sendo extinto. Ou seja, o "imposto extra" não é necessariamente um aumento em 2027. Carros comprados por pessoas com deficiência e por taxistas têm alíquota zero. Os valores definitivos, a partir de 2028, ainda vão ao Congresso</p></div>
 <div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Selo</span><p><span class="selo selo-ressalva">Confirmado, com contexto</span></p></div>
@@ -83,7 +83,7 @@ Explicamos em detalhes como o TCU chegou aos 11,3% no artigo [CBS de 11,3% em 20
 
 <div class="promessas-lista">
 <div class="promessa-card">
-<div class="promessa-bloco"><span class="promessa-rotulo">O que o vídeo diz</span><p>"O valor ainda não está fechado, mas a escolha de como pagar teve que ser feita até setembro." "O governo exige a decisão em setembro e informa o preço em dezembro"</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">O que o vídeo com Nikolas Ferreira diz</span><p>"O valor ainda não está fechado, mas a escolha de como pagar teve que ser feita até setembro." "O governo exige a decisão em setembro e informa o preço em dezembro"</p></div>
 <div class="promessa-bloco"><span class="promessa-rotulo">O que as regras dizem</span><p>Pela Resolução 186/2026 do Comitê Gestor do Simples Nacional, as empresas tiveram de 1º a 30 de setembro para escolher entre o Simples "puro" (IBS e CBS dentro da guia única) e o "híbrido" (IBS e CBS pagos à parte). A alíquota definitiva da CBS não estava fechada, segundo o Brasil 61</p></div>
 <div class="promessa-bloco"><span class="promessa-rotulo">O contexto que falta</span><p>A escolha pode ser <strong>cancelada até o fim de novembro de 2026</strong>, segundo a Legisweb. Mesmo assim, o Senado só fixa a alíquota até 15 de dezembro, então a crítica de decidir sem o número final se mantém. A opção pelo modelo híbrido vale de janeiro a junho de 2027. O MEI não muda: continua pagando o valor fixo mensal</p></div>
 <div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Selo</span><p><span class="selo selo-ressalva">Confirmado, com ressalvas</span></p></div>
@@ -97,7 +97,7 @@ Explicamos em detalhes como o TCU chegou aos 11,3% no artigo [CBS de 11,3% em 20
 
 <div class="promessas-lista">
 <div class="promessa-card">
-<div class="promessa-bloco"><span class="promessa-rotulo">O que o vídeo diz</span><p>"Trabalha por conta própria? Pedreiro, manicure, eletricista. Passou de 3.400 por mês? Entra nos impostos novos, IBS e CBS, em cima do imposto de renda e do INSS de sempre. Quanto vai custar? Ninguém sabe"</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">O que o vídeo com Nikolas Ferreira diz</span><p>"Trabalha por conta própria? Pedreiro, manicure, eletricista. Passou de 3.400 por mês? Entra nos impostos novos, IBS e CBS, em cima do imposto de renda e do INSS de sempre. Quanto vai custar? Ninguém sabe"</p></div>
 <div class="promessa-bloco"><span class="promessa-rotulo">O que as regras dizem</span><p>O <strong>nanoempreendedor</strong>, pessoa física que fatura menos de <strong>R$ 40.500 por ano</strong> (cerca de R$ 3.375 por mês), não é contribuinte do IBS e da CBS, pelo artigo 26 da Lei Complementar 214. Ele também está dispensado de CNPJ e de nota fiscal até o fim de 2028. Para motoristas e entregadores de aplicativo, conta só <strong>25%</strong> do valor bruto recebido. Acima desse limite, a partir de 1º de janeiro de 2027, autônomos e prestadores que precisam emitir nota com CBS e IBS passam a precisar de CNPJ, segundo o Brasil 61</p></div>
 <div class="promessa-bloco"><span class="promessa-rotulo">O contexto que falta</span><p>O CNPJ exigido é um <strong>cadastro para fins tributários</strong>, não a transformação da pessoa em empresa, segundo o Guia Tributário e o Brasil 61. A Receita prepara um cadastro simplificado, parecido com o do MEI. O MEI (até R$ 81 mil por ano) continua existindo, com o valor fixo mensal. O IBS vai substituir aos poucos o ISS que muitos prestadores já pagam. Quanto ao custo, a CBS foi calculada em 11,3%, e profissionais liberais têm alíquota 30% menor</p></div>
 <div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Selo</span><p><span class="selo selo-parcial">Em parte: o limite está certo, mas "virar CNPJ" não é virar empresa</span></p></div>
@@ -111,7 +111,7 @@ Profissões regulamentadas que exigem diploma de nível superior, como advogados
 
 <div class="promessas-lista">
 <div class="promessa-card">
-<div class="promessa-bloco"><span class="promessa-rotulo">O que o vídeo diz</span><p>"Quem tem mais de três imóveis alugados e recebe mais de 240 mil por ano paga imposto novo no aluguel"</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">O que o vídeo com Nikolas Ferreira diz</span><p>"Quem tem mais de três imóveis alugados e recebe mais de 240 mil por ano paga imposto novo no aluguel"</p></div>
 <div class="promessa-bloco"><span class="promessa-rotulo">O que as regras dizem</span><p>A partir de 2027, a pessoa física que, no ano anterior, tinha <strong>mais de 3 imóveis alugados</strong> e recebeu <strong>mais de R$ 240 mil</strong> com aluguel (valor corrigido pela inflação) passa a pagar IBS e CBS sobre o aluguel. Se um único imóvel render mais de R$ 288 mil no ano, o dono também passa a pagar, segundo a Gazeta do Povo</p></div>
 <div class="promessa-bloco"><span class="promessa-rotulo">O contexto que falta</span><p>O aluguel comum tem <strong>redução de 70%</strong>: paga-se 30% da alíquota. Aluguel residencial tem ainda um <strong>desconto de R$ 600 por mês</strong> na base de cálculo. O "CPF do imóvel" é o <strong>Cadastro Imobiliário Brasileiro (CIB)</strong>, um número único para cada imóvel, que reúne dados de cartórios, prefeituras e Receita. Ele não é um imposto, mas facilita o cruzamento de dados</p></div>
 <div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Selo</span><p><span class="selo selo-ressalva">Confirmado, com contexto</span></p></div>
