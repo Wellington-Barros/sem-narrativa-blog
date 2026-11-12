@@ -36,6 +36,7 @@ export default defineConfig({
 	integrations: [
 		mdx(),
 		sitemap({
+			filter: (page) => !/\/loja\/?$/.test(new URL(page).pathname),
 			serialize(item) {
 				const path = new URL(item.url).pathname.replace(/\/$/, '');
 				if (path === '' || path === '/blog') {
