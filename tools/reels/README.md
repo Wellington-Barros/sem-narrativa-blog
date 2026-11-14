@@ -11,7 +11,8 @@ Esta pasta guarda os arquivos usados para gerar os reels e as capas do blog. Ela
 - reel16.html: Lei Rouanet, como funciona, números, críticas e defesas (vídeo mudo, cenas com durações em DURS).
 - reel17.html: PEC da Segurança, estilo de alto engajamento (gancho nos 2 primeiros segundos, placar animado, cards, pergunta final para comentários). Áudio original sintetizado por audio17.py.
 - reel18.html: checagem das 6 mudanças da reforma tributária em 2027, mesmo estilo do reel17. Áudio por audio18.py.
-- render11.py a render14.py, render16.py, render17.py e render18.py: renderizam o HTML correspondente (vídeo mudo).
+- reel19.html: liminar de Flávio Dino sobre o fim da 6x1, com a semana de trabalho animada (folgas, calendário, relógio de 8h24, cabo de guerra e plenário). Áudio por audio19.py.
+- render11.py a render14.py, render16.py, render17.py, render18.py e render19.py: renderizam o HTML correspondente (vídeo mudo).
 - render15.py: renderiza o reel15 com a trilha de áudio: python3 render15.py saida.mp4 /caminho/audio.wav (imagens de teste: python3 render15.py PREFIXO 6.5 14.5). Os áudios de voz não ficam no repositório.
 - voz/: scripts usados no reel15 (transcrição com Whisper turbo em ONNX, corte de pausas, tempos das legendas e efeitos sonoros). São referência: os caminhos estão fixos no início de cada arquivo e precisam ser ajustados.
 
