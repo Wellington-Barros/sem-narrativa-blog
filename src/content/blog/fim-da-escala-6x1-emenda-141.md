@@ -1,10 +1,13 @@
 ---
-title: 'Fim da escala 6x1: o que a Emenda 141 já garante, o que muda em dezembro e se o governo recuou'
-description: 'A Emenda Constitucional 141 acabou com a escala 6x1 e reduz a jornada de 44 para 40 horas em duas etapas. Veja o calendário, quem fica de fora, o que é a "PEC paralela" em preparação no Senado e por que as checagens classificaram como falso o boato de que o governo recuou.'
+title: 'Fim da escala 6x1: o que a Emenda 141 garante, o que o STF decidiu e o que muda em 16 de dezembro'
+description: 'A Emenda Constitucional 141 acabou com a escala 6x1 e reduz a jornada de 44 para 40 horas em duas etapas. Veja o calendário, a liminar do ministro Flávio Dino que manteve 16 de dezembro e flexibilizou as folgas, as críticas dos dois lados, quem fica de fora e por que é falso o boato de que o governo recuou.'
 pubDate: 'Nov 01 2026'
+updatedDate: 'Nov 14 2026'
 category: 'Fato ou Narrativa'
 heroImage: '../../assets/capa-fim-da-escala-6x1-emenda-141.jpg'
 ---
+
+> **Atualização (14 de novembro de 2026):** o ministro Flávio Dino, do STF, negou o pedido de empresários para adiar a mudança, confirmou o início em **16 de dezembro** e deu regras para a transição, como a jornada de 8h24 e mais flexibilidade para as folgas. A decisão está em votação no plenário até 16 de novembro. Veja a seção "O que o STF decidiu".
 
 Em 16 de outubro de 2026, o Congresso Nacional promulgou a **Emenda Constitucional 141**, que acaba com a escala 6x1 (seis dias de trabalho para um de descanso). O texto garante **dois dias de descanso remunerado por semana** e reduz a jornada máxima de **44 para 40 horas semanais**, sem redução de salário, em duas etapas.
 
@@ -16,7 +19,8 @@ O texto explica o que a emenda diz, quando cada regra começa a valer, quem fica
 
 - **A regra já é da Constituição:** a Emenda Constitucional 141, de 16 de outubro de 2026, veio da PEC 221/2019. Ela foi aprovada pela Câmara em maio (472 a 22 no primeiro turno e 461 a 19 no segundo) e pelo Senado em 14 de outubro (75 a 1 nos dois turnos).
 - **O que muda:** dois dias de descanso remunerado por semana, um deles preferencialmente no domingo, e jornada máxima de 40 horas semanais e 8 horas por dia, sem redução de salário.
-- **Primeira etapa, em dezembro de 2026:** dois meses depois da publicação, o limite cai para **42 horas** e passam a valer as duas folgas. A data exata aparece como 15 ou 16 de dezembro, conforme a fonte.
+- **Primeira etapa, em 16 de dezembro de 2026:** o limite cai para **42 horas** e passam a valer as duas folgas. A data foi confirmada pelo STF.
+- **O que o STF decidiu:** o ministro Flávio Dino negou o adiamento pedido pela CNC e pela CNI, permitiu jornadas de 8h24 em cinco dias sem hora extra na transição e deixou a negociação coletiva definir quando a folga é tirada, sem poder suprimi-la. A decisão é criticada por empresários, que acham pouco, e por centrais e pelo Congresso, que acham que ela foi longe demais em alguns pontos. O plenário vota até 16 de novembro.
 - **Segunda etapa, em dezembro de 2027:** um ano depois da primeira etapa, o limite chega a **40 horas**.
 - **Quem fica de fora:** servidores públicos, trabalhadores autônomos e empregados com diploma de nível superior que ganham pelo menos 2,5 vezes o teto do INSS (cerca de R$ 21,2 mil em 2026), nas condições previstas.
 - **"O governo recuou?":** a Agência Lupa e outros checadores classificaram a alegação como **falsa**. A Secom diz, em nota, que "não há nenhuma proposta que retire direitos em discussão no governo". Uma emenda promulgada não pode ser vetada nem alterada pelo presidente.
@@ -48,16 +52,62 @@ A mudança não acontece toda de uma vez. Pelo texto, são duas etapas:
 <div class="promessas-lista">
 <div class="promessa-card">
 <div class="promessa-bloco"><span class="promessa-rotulo">Até dezembro de 2026</span><p>Continua valendo a regra antiga: até <strong>44 horas</strong> semanais</p></div>
-<div class="promessa-bloco"><span class="promessa-rotulo">Dois meses após a publicação (dezembro de 2026)</span><p>Limite de <strong>42 horas</strong> semanais e <strong>duas folgas</strong> por semana. A Lupa indica 16 de dezembro, e a Agência Senado fala em 15 de dezembro</p></div>
-<div class="promessa-bloco"><span class="promessa-rotulo">Durante o ano de transição</span><p>Acordo ou convenção coletiva pode ampliar a jornada diária além de 8 horas para chegar às 42 horas em cinco dias. Dividindo igualmente, segundo a Agência Brasil, dá 8 horas e 24 minutos por dia</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">Dois meses após a publicação (dezembro de 2026)</span><p>Limite de <strong>42 horas</strong> semanais e <strong>duas folgas</strong> por semana, a partir de <strong>16 de dezembro</strong>, data confirmada na decisão do STF</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">Durante o ano de transição</span><p>Acordo ou convenção coletiva pode ampliar a jornada diária além de 8 horas para chegar às 42 horas em cinco dias, o que dá 8 horas e 24 minutos por dia. Pela liminar do STF, sem acordo até 15 de dezembro, a empresa também pode fazer isso, sem hora extra pelos 24 minutos</p></div>
 <div class="promessa-bloco"><span class="promessa-rotulo">Um ano depois (dezembro de 2027)</span><p>Limite de <strong>40 horas</strong> semanais, cerca de 14 meses após a promulgação</p></div>
-<div class="promessa-bloco"><span class="promessa-rotulo">Contratos terceirizados com o poder público</span><p>Têm até <strong>um ano</strong> para serem aditados</p></div>
-<div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Situação</span><p><span class="selo selo-parcial">Primeira etapa ainda não começou</span></p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">Contratos terceirizados com o poder público</span><p>Têm até <strong>um ano</strong> para serem aditados. Para contratos de transporte público, o STF reduziu o prazo para 180 dias</p></div>
+<div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Situação</span><p><span class="selo selo-parcial">Primeira etapa começa em 16 de dezembro</span></p></div>
 <div class="promessa-bloco promessa-fonte"><span class="promessa-rotulo">Fonte</span><p>Emenda Constitucional 141/2026, Agência Brasil, Agência Senado, Agência Lupa, Contábeis</p></div>
 </div>
 </div>
 
-**Sobre a data exata da primeira etapa.** O texto oficial fala em **"2 (dois) meses após a publicação"**, e a publicação no Diário Oficial foi em 16 de outubro, em edição extra. Não há dia do calendário escrito na emenda. A Lupa conta até **16 de dezembro de 2026** (e 16 de dezembro de 2027 para as 40 horas). A Agência Senado e a Agência Brasil falam em **60 dias**, o que leva a **15 de dezembro**. A diferença é de um dia e vem da forma de contar o prazo. Não encontramos manifestação oficial do Ministério do Trabalho fixando o dia.
+**Sobre a data exata da primeira etapa.** O texto oficial fala em **"2 (dois) meses após a publicação"**, e a publicação no Diário Oficial foi em 16 de outubro. Antes, algumas fontes contavam 60 dias e chegavam a 15 de dezembro. A liminar do ministro Flávio Dino resolveu a dúvida: a primeira etapa começa em **16 de dezembro de 2026**, e a segunda, em **16 de dezembro de 2027**.
+
+## O que o STF decidiu
+
+*Seção acrescentada em 14 de novembro de 2026.*
+
+A Confederação Nacional do Comércio (**CNC**) e a Confederação Nacional da Indústria (**CNI**) entraram no Supremo Tribunal Federal contra pontos da Emenda 141, nas ações **ADI 8041 e ADI 8042**. A CNC pediu para adiar a primeira etapa para outubro de 2027 e a segunda para outubro de 2028, dizendo que o prazo de dois meses é "insuficiente para mapear postos, contratar trabalhadores, reestruturar turnos e renegociar convenções coletivas". A CNI pediu, entre outras coisas, que a regra não valesse para contratos e acordos já assinados e para micro e pequenas empresas até haver regulamentação, segundo a Folha de Pernambuco.
+
+O relator, ministro **Flávio Dino**, fez uma audiência de conciliação em 10 de novembro, com confederações, centrais sindicais, governo, Câmara e Senado. Na abertura, disse que "a redução da jornada e a ampliação do repouso semanal não estão em negociação". Em **12 de novembro**, ele deu uma **liminar** (decisão provisória, que já vale) com regras para a transição:
+
+<div class="promessas-lista">
+<div class="promessa-card">
+<div class="promessa-bloco"><span class="promessa-rotulo">Data mantida</span><p>O pedido de adiamento foi <strong>negado</strong>. A primeira etapa começa em <strong>16 de dezembro de 2026</strong> (42 horas e duas folgas), e a segunda, em <strong>16 de dezembro de 2027</strong> (40 horas)</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">8 horas e 24 minutos</span><p>Se não houver acordo coletivo até 15 de dezembro, as empresas podem dividir as 42 horas em cinco dias de até <strong>8h24</strong>, sem pagar hora extra pelos 24 minutos a mais. Isso vale até 15 de dezembro de 2027</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">Folgas</span><p>Dino suspendeu duas exigências da emenda para os regimes de compensação: pelo menos uma folga por semana e média de duas folgas por semana dentro do mês. Agora, acordo ou convenção coletiva pode definir prazos maiores para tirar a folga, em qualquer setor, desde que as duas folgas sejam preservadas. A decisão fala em mudar o momento da folga, "jamais da sua supressão"</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">Sem acordo</span><p>Se a negociação comprovadamente falhar nos primeiros 90 dias, três ministérios (Desenvolvimento, Empreendedorismo e Trabalho) podem editar uma portaria provisória sobre a compensação. Depois disso, vale só a negociação coletiva</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">Acordos e salários</span><p>Sindicatos e empresas têm <strong>90 dias</strong>, a partir de 16 de dezembro, para renegociar benefícios dos acordos antigos. Sem novo acordo, a empresa não pode cortar benefícios por conta própria. A redução da jornada não pode reduzir salários nem pisos</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">Transporte público</span><p>O prazo para adaptar contratos de transporte público caiu de um ano para <strong>180 dias</strong>. Para contratos já em vigor, o limite é 14 de abril de 2027, segundo o Diário do Transporte</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">Congresso</span><p>Tem <strong>180 dias</strong> para regulamentar regimes diferenciados para certas atividades e para micro e pequenas empresas, sem mexer nas 42 horas e nas duas folgas</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">Estatais</span><p>A regra especial dos empregados com diploma e salário alto passa a valer também para empresas públicas e de economia mista que atuam em concorrência</p></div>
+<div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Situação</span><p><span class="selo selo-ressalva">Liminar já vale; o plenário vota até 16 de novembro</span></p></div>
+<div class="promessa-bloco promessa-fonte"><span class="promessa-rotulo">Fonte</span><p>Notícias STF, O Povo (com Agência Brasil), Diário do Transporte, Diário do Centro do Mundo, O Liberal</p></div>
+</div>
+</div>
+
+**O julgamento no plenário.** Como é uma liminar, a decisão foi levada ao plenário virtual do STF, com votação de 13 de novembro até as 11h de **16 de novembro**. Até a manhã de 14 de novembro, havia **4 votos** para manter a decisão (Flávio Dino, Alexandre de Moraes, Cármen Lúcia e Gilmar Mendes), segundo a Jovem Pan e o NC News. São necessários 6 para formar maioria. Os outros ministros podem acompanhar, divergir ou pedir mais tempo.
+
+### Criticada pelos dois lados
+
+A decisão recebeu críticas de empresários, que acham que ela fez pouco, e de sindicatos e do próprio Congresso, que acham que ela foi longe demais em alguns pontos.
+
+**Empresários**, segundo o Jornal de Brasília:
+
+- **CNC:** lamentou que o prazo não tenha sido adiado, mas elogiou a decisão por reduzir a rigidez e reconhecer a negociação coletiva. Alain MacGregor, da CNC, disse que reorganizar escalas em 60 dias no período de Natal vai causar transtornos.
+- **CNI:** chamou a decisão de "um começo", elogiou a jornada de 8h24 sem hora extra e espera uma solução mais ampla no plenário.
+- **Abrasel**, dos bares e restaurantes: Paulo Solmucci disse que a decisão "não flexibilizou nada" e que a segunda folga remunerada eleva a folha de pagamento em 9,1%.
+- **CBIC**, da construção: disse que as medidas são "um passo na direção certa", mas insuficientes.
+
+**Trabalhadores e Congresso**, segundo o Correio Braziliense e a Jovem Pan:
+
+- **Seis centrais sindicais**, entre elas CUT, Força Sindical e UGT, dizem que permitir a divisão das 42 horas sem acordo enfraquece os sindicatos e temem que a compensação de folgas leve a períodos longos de trabalho.
+- **As advocacias da Câmara e do Senado** pediram ao STF que revise parte da decisão e preserve as regras aprovadas pelo Congresso. A Câmara pediu a rejeição de seis pontos e diz que a jornada diária maior deveria depender de negociação coletiva, como prevê a emenda.
+
+**A resposta de Dino.** Em 14 de novembro, o ministro disse que a decisão não autoriza acordos individuais nem cria exceções à nova jornada, e que as adaptações dependem de negociação com os sindicatos: "Não cabe a mim definir essas hipóteses, mas aos sindicatos e às empresas. Sem acordo ou convenção coletiva, prevalecerá a regra geral", segundo o Correio Braziliense. Antes, ele já tinha dito que o STF "não tem pretensão de substituir nem as partes, muito menos o governo, muito menos o Congresso", segundo a Itatiaia.
+
+**O governo.** Segundo pessoas presentes numa reunião com Dino, citadas pelo Jornal de Brasília, o ministro do Trabalho, Luiz Marinho, disse que o decreto de regulamentação está pronto e aguarda a assinatura de Lula.
+
 
 ## Quem fica de fora ou tem regra diferente
 
@@ -120,7 +170,8 @@ O fim da 6x1 foi aprovado com ampla maioria, mas o debate sobre os efeitos conti
 
 <div class="promessas-lista">
 <div class="promessa-card">
-<div class="promessa-bloco"><span class="promessa-rotulo">Data da primeira etapa (42 horas)</span><p>Lupa: 16 de dezembro de 2026. Agência Senado: 15 de dezembro. O texto da emenda diz "dois meses" após a publicação. Agência Brasil e Agência Senado escrevem "60 dias". A Contábeis usa as duas expressões para o mesmo marco</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">Data da primeira etapa (42 horas)</span><p>Lupa: 16 de dezembro de 2026. Agência Senado: 15 de dezembro. <strong>Resolvido:</strong> a liminar do STF confirmou 16 de dezembro</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">O adiamento pedido pela CNC</span><p>Folha de Pernambuco: primeira etapa em 16 de outubro de 2027 e segunda em outubro de 2028. O Tempo: entidades do comércio pediram adiamento para dezembro de 2027. O pedido foi negado nos dois casos</p></div>
 <div class="promessa-bloco"><span class="promessa-rotulo">Salário dos "hipersuficientes"</span><p>Agência Brasil: R$ 21.188,87. A Tarde: R$ 21.888,88. A regra da emenda é 2,5 vezes o teto do INSS, que em 2026 dá cerca de R$ 21.188,88. O número do A Tarde não bate com a conta</p></div>
 <div class="promessa-bloco"><span class="promessa-rotulo">Placares</span><p>A matéria da Agência Câmara sobre a promulgação não traz placares. Os números de maio vêm da Agência Câmara de 27 de maio, e os do Senado, da Agência Senado e da Agência Brasil</p></div>
 <div class="promessa-bloco"><span class="promessa-rotulo">Limite do MEI</span><p>A Agência Brasil cita o aumento do limite de faturamento do MEI junto com a emenda. Esse aumento está em outra lei, a do Prospera MEI, e não no texto da Emenda 141</p></div>
@@ -132,7 +183,9 @@ Nenhuma dessas divergências muda o essencial: todas as fontes concordam que a e
 
 ## O que ainda não se sabe
 
-- **O dia exato da primeira etapa:** 15 ou 16 de dezembro, até que o governo ou a Justiça do Trabalho deixe isso claro.
+- **O resultado no plenário do STF:** a votação termina em 16 de novembro, e os ministros podem manter, mudar ou suspender pontos da liminar.
+- **O texto do decreto do governo:** o ministro do Trabalho teria dito que está pronto, mas ainda não foi publicado.
+- **A regulamentação no Congresso:** o STF deu 180 dias para regras de micro e pequenas empresas e de atividades com escalas diferentes.
 - **O texto da PEC paralela:** quais categorias entram, o que muda para cada uma e se ela terá as assinaturas necessárias.
 - **O decreto e o projeto de lei do governo:** foram citados pela Exame, mas não encontramos os textos.
 - **Como ficam categorias específicas:** domésticas, trabalhadores intermitentes e escalas 12x36 não aparecem de forma direta nas reportagens consultadas.
@@ -142,6 +195,8 @@ Nenhuma dessas divergências muda o essencial: todas as fontes concordam que a e
 ## Como ler
 
 - **Emenda promulgada é regra da Constituição.** Ela não depende de sanção do presidente e só muda com outra emenda.
+- **Liminar já vale, mas é provisória.** A decisão de Dino tem efeito imediato, mas o plenário do STF pode confirmar, mudar ou derrubar pontos dela.
+- **Flexibilizar o momento da folga não é tirar a folga.** A liminar permite negociar quando a segunda folga é tirada, mas diz que ela não pode ser suprimida.
 - **"Em discussão" não é "decidido".** A PEC paralela e as ideias de alongar a transição ainda não foram votadas, nem sequer apresentadas.
 - **Regra por setor não é o mesmo que exclusão.** Uma coisa é adaptar a forma de dar as folgas, outra é tirar o direito. As fontes falam da primeira.
 - **Estimativa de entidade é estimativa.** Vale para os números da CNI e da CNC e também para as projeções otimistas. O efeito real ainda não foi medido.
@@ -151,6 +206,7 @@ Nenhuma dessas divergências muda o essencial: todas as fontes concordam que a e
 
 - Categorias com escalas longas, como petroleiros embarcados, devem ter regra própria por lei ou por negociação coletiva?
 - Uma transição de cerca de 14 meses é curta ou longa para empresas pequenas se adaptarem?
+- O STF deve ajustar regras de transição de uma emenda aprovada pelo Congresso, ou isso cabe só ao Legislativo e à negociação entre sindicatos e empresas?
 - Como separar, nas redes, uma discussão real no Congresso de uma conclusão que ela não sustenta?
 - Que dados seriam mais úteis, daqui a um ano, para avaliar se a mudança funcionou?
 
@@ -159,7 +215,10 @@ Nenhuma dessas divergências muda o essencial: todas as fontes concordam que a e
 - A Emenda Constitucional 141 foi promulgada pelo Congresso em 16 de outubro de 2026 e publicada no Diário Oficial no mesmo dia, em edição extra.
 - Ela veio da PEC 221/2019 (Reginaldo Lopes, PT-MG), analisada com a PEC 8/2025 (Erika Hilton, PSOL-SP). O relator na Câmara foi Leo Prates (Republicanos-BA), e no Senado, Omar Aziz (PSD-AM).
 - A Câmara aprovou em maio de 2026, por 472 a 22 no primeiro turno e 461 a 19 no segundo. O Senado aprovou em 14 de outubro, por 75 a 1 nos dois turnos.
-- A jornada máxima cai de 44 para 42 horas dois meses após a publicação (15 ou 16 de dezembro de 2026, conforme a fonte) e para 40 horas um ano depois.
+- A jornada máxima cai de 44 para 42 horas em 16 de dezembro de 2026 e para 40 horas em 16 de dezembro de 2027.
+- Em 12 de novembro, o ministro Flávio Dino negou o adiamento pedido pela CNC e pela CNI nas ADIs 8041 e 8042, permitiu jornadas de 8h24 em cinco dias sem hora extra na transição, deixou a negociação coletiva definir quando a folga é tirada, deu 90 dias para renegociar acordos e 180 dias para o Congresso regulamentar casos especiais.
+- Até 14 de novembro, quatro ministros votaram para manter a liminar (Dino, Moraes, Cármen Lúcia e Gilmar Mendes). O julgamento no plenário virtual termina em 16 de novembro.
+- Empresários dizem que a decisão fez pouco. Seis centrais sindicais e as advocacias da Câmara e do Senado criticam pontos como a jornada de 8h24 sem acordo e a flexibilização das folgas.
 - O trabalhador passa a ter dois dias de descanso remunerado por semana, um deles preferencialmente no domingo, sem redução de salário.
 - Ficam de fora servidores públicos, autônomos e, nas condições previstas, empregados com diploma superior que ganham ao menos 2,5 vezes o teto do INSS.
 - Segundo o Ministério do Trabalho, cerca de 14,9 milhões de trabalhadores cumprem a escala 6x1.
@@ -183,6 +242,17 @@ Nenhuma dessas divergências muda o essencial: todas as fontes concordam que a e
 - Exame, "Fim da escala 6x1 vai aumentar os preços? Veja o que diz o setor produtivo", André Martins (14 de outubro de 2026)
 - meutudo, "Governo recuou no fim da escala 6x1? Nova PEC deve retirar alguns trabalhadores", Lisandra Pinheiro (30 de outubro de 2026)
 - Contábeis, "Emenda 141 muda jornada e garante mais descanso" (19 de outubro de 2026)
+- Notícias STF, "Escala 5×2: relator decidirá sobre implementação da nova jornada até sexta-feira (13)" (10 de novembro de 2026)
+- Folha de Pernambuco, "Fim da escala 6x1: audiência reúne no STF representantes de..." (11 de novembro de 2026)
+- Itatiaia, "Flávio Dino: STF não substitui Congresso no debate sobre a escala 6x1" (10 de novembro de 2026)
+- O Povo, com Agência Brasil, "Fim da 6x1: entenda a liminar de Flávio Dino em 7 pontos" (13 de novembro de 2026)
+- Diário do Transporte, "Dino mantém fim da escala 6×1 em 16 de dezembro e reduz prazo de adaptação dos contratos de transporte público" (13 de novembro de 2026)
+- Diário do Centro do Mundo, "Folgas podem ser adiadas, mas não anuladas após fim do 6x1; entenda a decisão de Dino" (novembro de 2026)
+- Jornal de Brasília, "Entidades empresariais dizem que medidas de Dino para flexibilizar fim da 6x1 não terão efeito prático" (13 de novembro de 2026)
+- O Liberal, "STF tem 3 votos para manter decisão de Dino que flexibiliza folgas após fim da escala 6x1" (13 de novembro de 2026)
+- O Tempo, "Indústria entra com nova ação no STF contra fim da escala 6x1 e quer limitar Justiça do Trabalho" (6 de novembro de 2026)
+- Jovem Pan, "STF tem 4 votos para manter fim da escala 6×1 em 16 de dezembro" (14 de novembro de 2026), e NC News (14 de novembro de 2026)
+- Correio Braziliense, "Dino defende decisão do fim da 6x1 após críticas: 'Sem acordo, vale a regra'" (14 de novembro de 2026)
 - meutudo, "Teto do INSS em 2026 é de R$ 8.475,55; confira faixas e alíquotas" (valor usado na conta dos 2,5 tetos)
 
 Veja também: [Como funciona uma PEC](/blog/pec-como-funciona), [Prospera MEI: o que muda](/blog/prospera-mei-o-que-muda) e [Fake news políticas](/blog/fake-news-politicas).
