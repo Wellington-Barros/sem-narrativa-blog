@@ -1,0 +1,359 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{width:1080px;height:1920px;overflow:hidden;background:#cdbd9f;font-family:'Inter',sans-serif;color:#1d1b2e}
+#W{position:absolute;left:0;top:0;width:3240px;height:5760px;transform-origin:0 0;background:#d4c4a6}
+.cell{position:absolute;width:1080px;height:1920px}
+.sheet{position:absolute;inset:26px;border-radius:20px;background-color:#fbf7ee;background-image:radial-gradient(rgba(60,45,25,.15) 2.3px,transparent 2.8px);background-size:54px 54px;background-position:13px 13px;box-shadow:0 14px 40px rgba(70,45,10,.22),0 2px 0 rgba(255,255,255,.6) inset}
+.ab{position:absolute}
+.hl{position:absolute;left:90px;right:90px;font-family:'Caladea',serif;font-weight:700;line-height:1.04;letter-spacing:-1.5px;color:#1d1b2e}
+.wd{display:inline-block;will-change:transform}
+.red{color:#d92a2a}
+.note{position:absolute;padding:40px 44px;box-shadow:0 18px 30px rgba(60,40,0,.22),0 2px 4px rgba(60,40,0,.12);border-radius:4px 4px 4px 22px}
+.y{background:#ffe066}.pk{background:#ffc2d1}.bl{background:#b7dcff}.gr{background:#c3ecb6}
+.lab{font-weight:800;font-size:32px;letter-spacing:3px;color:rgba(40,30,0,.6)}
+.tape{position:absolute;left:150px;height:76px;padding:0 34px;display:flex;align-items:center;font-weight:800;font-size:46px;background:rgba(255,224,102,.85);box-shadow:0 6px 12px rgba(60,40,0,.15)}
+.cal{position:absolute;background:#fff;border-radius:14px;box-shadow:0 12px 30px rgba(60,40,10,.18);padding:26px 30px 24px}
+.cal h3{font-weight:900;font-size:50px;letter-spacing:2px;text-align:center;margin-bottom:14px}
+.cal .g{display:grid;grid-template-columns:repeat(7,1fr);text-align:center}
+.cal .wk{font-weight:800;font-size:28px;color:#8a8070;padding-bottom:8px}
+.cal .d{font-weight:700;font-size:40px;display:flex;align-items:center;justify-content:center;border-top:2px solid #eee6d6}
+.col{position:absolute;width:112px;height:540px;border-radius:14px;background:#efe8db;overflow:hidden;border:3px solid #ddd2bf}
+.fill{position:absolute;left:0;right:0;bottom:0;height:0;background:#2d3a8c}
+.over{position:absolute;left:0;right:0;top:0;height:0;background:#f2a51a}
+.hv{position:absolute;left:0;right:0;text-align:center;font-weight:900;font-size:33px;color:#fff;opacity:0}
+.dl{position:absolute;width:112px;text-align:center;font-weight:800;font-size:30px;color:#5a5244}
+.folga{position:absolute;width:112px;height:540px;border-radius:14px;background:#2f9d62;color:#fff;display:flex;align-items:center;justify-content:center;font-weight:900;font-size:30px;writing-mode:vertical-rl;text-orientation:upright;letter-spacing:-4px;box-shadow:0 10px 20px rgba(0,60,20,.25)}
+.strip{position:absolute;left:100px;display:flex;gap:16px}
+.c{width:112px;height:150px;border-radius:14px;display:flex;align-items:center;justify-content:center;font-weight:900;font-size:24px}
+.c.t{background:#dfe3f6;color:#2d3a8c;border:3px solid #c3c9ea}
+.c.f{background:#2f9d62;color:#fff}
+.mv{position:absolute;width:112px;height:150px;border-radius:14px;background:#2f9d62;color:#fff;display:flex;align-items:center;justify-content:center;font-weight:900;font-size:24px;box-shadow:0 10px 20px rgba(0,60,20,.25)}
+.wl{position:absolute;left:100px;font-weight:800;font-size:30px;letter-spacing:3px;color:#8a8070}
+.clip{position:absolute;left:80px;width:920px;background:#fff;padding:0 0 30px;box-shadow:0 14px 30px rgba(60,40,10,.2);clip-path:polygon(0 0,100% 0,100% 92%,97% 100%,92% 94%,86% 100%,80% 95%,73% 100%,66% 94%,59% 100%,52% 95%,45% 100%,38% 94%,31% 100%,24% 95%,17% 100%,10% 94%,4% 100%,0 95%)}
+.clip .hd{background:#1d1b2e;color:#fff;font-weight:900;font-size:40px;padding:20px 34px;letter-spacing:1px}
+.clip .hd small{display:block;font-weight:600;font-size:30px;color:#cfcbe0;letter-spacing:0;margin-top:4px}
+.clip p{font-size:42px;font-weight:700;padding:22px 34px 0;line-height:1.15}
+.clip p i{font-family:'Caladea',serif;font-style:italic;font-size:46px}
+.quote{position:absolute;left:80px;width:920px;background:#1d1b2e;color:#fff;border-radius:26px;padding:34px 40px;box-shadow:0 14px 30px rgba(20,10,40,.3)}
+.quote small{font-weight:800;font-size:30px;letter-spacing:3px;color:#f2a51a}
+.quote p{font-family:'Caladea',serif;font-style:italic;font-weight:700;font-size:54px;line-height:1.1;margin-top:10px}
+.sub{position:absolute;left:90px;right:90px;font-size:42px;font-weight:600;line-height:1.22;color:#4a4436}
+.chip{position:absolute;left:90px;top:250px;padding:12px 26px;border-radius:40px;background:#1d1b2e;color:#fff;font-weight:800;font-size:30px;letter-spacing:2px}
+svg.ink{position:absolute;left:0;top:0;overflow:visible;pointer-events:none}
+#route{position:absolute;left:0;top:0;overflow:visible}
+#vig{position:absolute;inset:0;pointer-events:none;background:radial-gradient(ellipse 80% 70% at 50% 48%,transparent 60%,rgba(60,40,10,.28))}
+#grain{position:absolute;inset:-200px;pointer-events:none;opacity:.07;mix-blend-mode:multiply}
+#brandfix{position:absolute;top:150px;left:0;right:0;text-align:center;font-weight:900;font-size:34px;letter-spacing:4px;color:#1d1b2e;opacity:.85}
+#brandfix u{text-decoration-color:#d92a2a;text-decoration-thickness:5px;text-underline-offset:6px}
+</style></head><body>
+<div id="W">
+<svg id="route" width="3240" height="5760"></svg>
+
+<div class="cell" id="cA" style="left:0;top:0"><div class="sheet"></div>
+<div class="chip">ESCALA 6x1 NO STF</div>
+<div class="hl" id="hA" style="top:340px;font-size:86px">Empresários pediram para <span class="red">adiar</span> o fim da 6x1.</div>
+<div class="note y" id="nA" style="left:210px;top:600px;width:660px;height:470px;transform:rotate(-3deg)">
+<div class="lab">PEDIDO AO STF</div>
+<div style="font-weight:900;font-size:84px;line-height:1.02;margin-top:22px;letter-spacing:-2px">Adiar o fim da 6x1 para 2027</div>
+<div style="font-weight:700;font-size:38px;margin-top:26px;color:rgba(40,30,0,.65)">CNC e CNI</div>
+</div>
+<svg class="ink" id="inkA" width="1080" height="1920"></svg>
+<div class="sub" id="sA" style="top:1320px;font-size:46px;color:#1d1b2e;font-weight:700">Foi a resposta do ministro <span class="red">Flávio Dino</span>, do STF, em 12 de novembro.</div>
+</div>
+
+<div class="cell" id="cB" style="left:1080px;top:0"><div class="sheet"></div>
+<div class="hl" id="hB" style="top:260px;font-size:96px">A data foi mantida.</div>
+<div class="cal" id="calB" style="left:120px;top:420px;width:840px;transform:rotate(-1deg)"><h3>DEZEMBRO 2026</h3><div class="g" id="gB"></div></div>
+<svg class="ink" id="inkB" width="1080" height="1920"></svg>
+<div class="hl red" id="dB" style="top:1035px;font-size:100px;text-align:center">16 de dezembro</div>
+<div class="tape" id="t1" style="top:1180px;transform:rotate(-1.5deg)">42 horas por semana</div>
+<div class="tape" id="t2" style="top:1270px;left:230px;transform:rotate(1deg)">2 folgas por semana</div>
+<div class="tape" id="t3" style="top:1360px;left:170px;transform:rotate(-.6deg)">sem cortar salário</div>
+<div class="sub" id="sB" style="top:1470px;font-size:40px;text-align:center">E em 16/12/2027: <b style="color:#1d1b2e">40 horas por semana</b></div>
+</div>
+
+<div class="cell" id="cC" style="left:2160px;top:0"><div class="sheet"></div>
+<div class="hl" id="hC" style="top:250px;font-size:70px">Sem acordo coletivo até 15/12, a empresa pode fazer:</div>
+<div id="colsC"></div>
+<svg class="ink" id="inkC" width="1080" height="1920"></svg>
+<div class="hl" id="eC" style="top:1190px;font-size:92px;text-align:center">5 × 8h24 = <span class="red">42 horas</span></div>
+<div class="sub" id="sC" style="top:1320px;text-align:center">sem hora extra pelos 24 minutos,<br>até 15/12/2027</div>
+</div>
+
+<div class="cell" id="cC2" style="left:2160px;top:1920px"><div class="sheet"></div>
+<div class="hl" id="hC2" style="top:250px;font-size:74px">Com acordo coletivo, a folga pode <span class="red">mudar de lugar.</span></div>
+<div class="wl" style="top:560px">SEMANA 1</div>
+<div class="strip" id="w1" style="top:605px"></div>
+<div class="wl" style="top:810px">SEMANA 2</div>
+<div class="strip" id="w2" style="top:855px"></div>
+<div class="mv" id="mvF">FOLGA</div>
+<svg class="ink" id="inkC2" width="1080" height="1920"></svg>
+<div class="hl red" id="h2C2" style="top:1090px;font-size:88px;text-align:center">Mas não pode sumir.</div>
+<div class="sub" id="sC2" style="top:1270px;text-align:center">A folga pode ser tirada depois, mas não pode ser cortada.</div>
+</div>
+
+<div class="cell" id="cD" style="left:1080px;top:1920px"><div class="sheet"></div>
+<div class="hl" id="hD" style="top:260px;font-size:100px">E tem mais:</div>
+<div class="note y" id="n1" style="left:80px;top:440px;width:450px;height:360px;transform:rotate(-2.5deg)"><div style="font-weight:900;font-size:50px;line-height:1.08">Salário e piso não podem cair</div></div>
+<div class="note pk" id="n2" style="left:560px;top:470px;width:450px;height:360px;transform:rotate(2deg)"><div style="font-weight:900;font-size:46px;line-height:1.08">90 dias para renegociar acordos antigos</div></div>
+<div class="note bl" id="n3" style="left:90px;top:850px;width:450px;height:380px;transform:rotate(1.6deg)"><div style="font-weight:900;font-size:44px;line-height:1.08">Transporte público: 180 dias para adaptar contratos</div></div>
+<div class="note gr" id="n4" style="left:560px;top:880px;width:450px;height:380px;transform:rotate(-1.8deg)"><div style="font-weight:900;font-size:42px;line-height:1.08">Congresso: 180 dias para regular setores especiais e pequenas empresas</div></div>
+</div>
+
+<div class="cell" id="cE" style="left:0;top:1920px"><div class="sheet"></div>
+<div class="hl" id="hE" style="top:260px;font-size:78px">Criticada pelos <span class="red">dois lados.</span></div>
+<div class="clip" id="k1" style="top:400px;transform:rotate(-1.6deg)"><div class="hd">EMPRESÁRIOS<small>acham que fez pouco</small></div><p>Abrasel: <i>“não flexibilizou nada”</i></p><p>CNI: <i>“um começo”</i></p></div>
+<div class="clip" id="k2" style="top:780px;transform:rotate(1.2deg)"><div class="hd">CENTRAIS E CONGRESSO<small>acham que foi longe demais em pontos</small></div><p>Centrais: enfraquece os sindicatos</p><p>Câmara e Senado pediram revisão</p></div>
+<div class="quote" id="q1" style="top:1190px"><small>DINO RESPONDEU</small><p>“Sem acordo ou convenção coletiva, prevalecerá a regra geral.”</p></div>
+</div>
+
+<div class="cell" id="cF" style="left:0;top:3840px"><div class="sheet"></div>
+<div class="hl" id="hF" style="top:250px;font-size:76px">O plenário do STF vota até <span class="red">segunda, 16/11,</span> às 11h.</div>
+<div class="cal" id="calF" style="left:200px;top:520px;width:680px;transform:rotate(1deg);padding:20px 26px"><h3 style="font-size:42px">NOVEMBRO 2026</h3><div class="g" id="gF"></div></div>
+<svg class="ink" id="inkF" width="1080" height="1920"></svg>
+<div class="sub" id="lF" style="top:1040px;font-size:40px;color:#1d1b2e;font-weight:700">Votos para manter a decisão, até 14/11:</div>
+<div class="hl" id="pF" style="top:1150px;left:640px;right:60px;font-size:74px;line-height:1">precisa<br>de <span class="red">6</span></div>
+<div class="sub" id="nF" style="top:1360px;font-size:36px">Dino, Moraes, Cármen Lúcia e Gilmar Mendes</div>
+</div>
+
+<div class="cell" id="cG" style="left:1080px;top:3840px"><div class="sheet"></div>
+<div class="note y" id="nG" style="left:110px;top:430px;width:860px;height:820px;transform:rotate(-2deg);padding:60px 60px">
+<div style="font-weight:900;font-size:86px;line-height:1.02;letter-spacing:-2px">Você trabalha na escala 6x1?</div>
+<div style="display:flex;gap:70px;margin-top:70px;font-weight:900;font-size:96px;align-items:center">
+<div style="display:flex;align-items:center;gap:22px"><span id="bx1" style="display:inline-block;width:86px;height:86px;border:9px solid #1d1b2e;border-radius:14px"></span>SIM</div>
+<div style="display:flex;align-items:center;gap:22px"><span id="bx2" style="display:inline-block;width:86px;height:86px;border:9px solid #1d1b2e;border-radius:14px"></span>NÃO</div>
+</div>
+<div style="font-weight:700;font-size:46px;margin-top:70px;color:rgba(40,30,0,.75)">Responda nos comentários</div>
+</div>
+<div class="sub" id="sG" style="top:1320px;text-align:center;font-size:38px">Artigo completo, com as fontes:<br><b style="color:#1d1b2e">semnarrativa.com.br</b></div>
+</div>
+
+<div class="cell" id="cH" style="left:2160px;top:3840px"><div class="sheet"></div>
+<div style="position:absolute;left:0;right:0;top:640px;text-align:center;transform:rotate(-4deg)">
+<div style="display:inline-block;border:16px solid #d92a2a;border-radius:40px;padding:40px 60px;color:#d92a2a;font-weight:900;font-size:120px;line-height:.95;letter-spacing:2px">SEM<br>NARRATIVA</div>
+<div style="font-family:'Caladea',serif;font-style:italic;font-size:64px;margin-top:50px;color:#1d1b2e">Só fatos.</div>
+</div></div>
+</div>
+<canvas id="grain" width="740" height="1160"></canvas>
+<div id="vig"></div>
+<div id="brandfix">SEM <u>NARRATIVA</u></div>
+<script>
+const $=id=>document.getElementById(id);
+const NS='http://www.w3.org/2000/svg';
+const cl=(v,a=0,b=1)=>Math.max(a,Math.min(b,v));
+const P=(t,a,d)=>cl((t-a)/d);
+const eio=x=>x<.5?4*x*x*x:1-Math.pow(-2*x+2,3)/2;
+const eo=x=>1-Math.pow(1-x,3);
+const eob=x=>{const c1=1.9,c3=c1+1;return 1+c3*Math.pow(x-1,3)+c1*Math.pow(x-1,2)};
+const lerp=(a,b,p)=>a+(b-a)*p;
+let seed=7;const rnd=()=>{seed=(seed*16807)%2147483647;return seed/2147483647};
+const DUR=60;
+const FX=[];
+const SHAKE=[];
+
+function splitWords(el){
+  const kids=[...el.childNodes];el.innerHTML='';
+  kids.forEach(k=>{
+    if(k.nodeType===3){k.textContent.split(/(\s+)/).forEach(s=>{if(!s)return;if(/^\s+$/.test(s)){el.appendChild(document.createTextNode(' '));return}const w=document.createElement('span');w.className='wd';w.textContent=s;el.appendChild(w)})}
+    else if(k.nodeName==='BR'){el.appendChild(k)}
+    else{const inner=[...k.childNodes];k.innerHTML='';const parts=inner.map(n=>n.textContent).join('').split(/(\s+)/);parts.forEach(s=>{if(!s)return;if(/^\s+$/.test(s)){el.appendChild(document.createTextNode(' '));return}const w=document.createElement('span');w.className='wd '+k.className;w.textContent=s;el.appendChild(w)})}
+  });
+  return [...el.querySelectorAll('.wd')];
+}
+function words(id,t0,st=.07){
+  const ws=splitWords($(id));
+  FX.push(t=>ws.forEach((w,i)=>{const p=eo(P(t,t0+i*st,.45));w.style.opacity=cl(p*1.6);w.style.transform=`translateY(${(1-p)*46}px)`;w.style.filter=p<1?`blur(${(1-p)*10}px)`:'none'}));
+}
+function rise(id,t0,d=.5){
+  const e=$(id);const base=e.style.transform||'';
+  FX.push(t=>{const p=eo(P(t,t0,d));e.style.opacity=p;e.style.transform=`translateY(${(1-p)*50}px) ${base}`});
+}
+function slap(id,t0,amp=5){
+  const e=$(id);const base=e.style.transform||'';
+  SHAKE.push([t0+.2,amp]);
+  FX.push(t=>{const p=P(t,t0,.42);const q=eob(p);e.style.opacity=cl(p*5);e.style.transform=`${base} scale(${lerp(1.45,1,q)}) rotate(${(1-q)*9}deg)`;e.style.filter=`drop-shadow(0 ${lerp(60,0,eo(p))}px ${lerp(40,0,eo(p))}px rgba(60,40,0,${.25*(1-p)}))`});
+}
+function jit(pts,a){return pts.map(([x,y])=>[x+(rnd()-.5)*a,y+(rnd()-.5)*a])}
+function smoothPath(pts){
+  let d=`M${pts[0][0].toFixed(1)},${pts[0][1].toFixed(1)}`;
+  for(let i=0;i<pts.length-1;i++){
+    const p0=pts[Math.max(0,i-1)],p1=pts[i],p2=pts[i+1],p3=pts[Math.min(pts.length-1,i+2)];
+    const c1=[p1[0]+(p2[0]-p0[0])/6,p1[1]+(p2[1]-p0[1])/6],c2=[p2[0]-(p3[0]-p1[0])/6,p2[1]-(p3[1]-p1[1])/6];
+    d+=`C${c1[0].toFixed(1)},${c1[1].toFixed(1)} ${c2[0].toFixed(1)},${c2[1].toFixed(1)} ${p2[0].toFixed(1)},${p2[1].toFixed(1)}`;
+  }
+  return d;
+}
+function stroke(svg,d,t0,dur,w=28,col='#d92a2a',opa=1){
+  const p=document.createElementNS(NS,'path');p.setAttribute('d',d);p.setAttribute('fill','none');p.setAttribute('stroke',col);p.setAttribute('stroke-width',w);p.setAttribute('stroke-linecap','round');p.setAttribute('stroke-linejoin','round');p.setAttribute('opacity',opa);
+  svg.appendChild(p);const L=p.getTotalLength();p.style.strokeDasharray=L+' '+(L+10);
+  FX.push(t=>{const q=P(t,t0,dur);p.style.strokeDashoffset=L*(1-eio(q));p.style.visibility=q>0?'visible':'hidden'});
+  return p;
+}
+function seg(ax,ay,bx,by,n=8,j=6){const pts=[];for(let i=0;i<=n;i++){const u=i/n;pts.push([lerp(ax,bx,u),lerp(ay,by,u)])}return jit(pts,j)}
+function ellipse(cx,cy,rx,ry,turn=1.12,a0=-2.2,j=5){const pts=[];const n=26;for(let i=0;i<=n;i++){const a=a0+turn*2*Math.PI*i/n;const k=1+(i/n)*.08;pts.push([cx+rx*k*Math.cos(a),cy+ry*k*Math.sin(a)])}return jit(pts,j)}
+
+/* CALENDARS */
+function buildCal(gid,first,days,rowH,mark){
+  const g=$(gid);['S','T','Q','Q','S','S','D'].forEach(x=>{const d=document.createElement('div');d.className='wk';d.textContent=x;g.appendChild(d)});
+  const cells=Math.ceil((first+days)/7)*7;
+  for(let i=0;i<cells;i++){const d=document.createElement('div');d.className='d';d.style.height=rowH+'px';const n=i-first+1;d.textContent=(n>=1&&n<=days)?n:'';if(n===mark)d.id=gid+'m';if(i%7>=5)d.style.color='#b04848';g.appendChild(d)}
+}
+buildCal('gB',1,31,82,16);
+buildCal('gF',6,30,60,16);
+document.querySelectorAll('#gF .d').forEach(d=>d.style.fontSize='32px');
+
+/* WEEK COLUMNS */
+const days=['SEG','TER','QUA','QUI','SEX','SÁB','DOM'];
+(function(){
+  const host=$('colsC');const x0=100,top=560,H=540;
+  days.forEach((dn,i)=>{
+    const x=x0+i*128;
+    const l=document.createElement('div');l.className='dl';l.style.left=x+'px';l.style.top=(top+H+16)+'px';l.textContent=dn;host.appendChild(l);
+    if(i<5){
+      const c=document.createElement('div');c.className='col';c.style.left=x+'px';c.style.top=top+'px';
+      const f=document.createElement('div');f.className='fill';const o=document.createElement('div');o.className='over';f.appendChild(o);
+      const hv=document.createElement('div');hv.className='hv';f.appendChild(hv);c.appendChild(f);host.appendChild(c);
+      const t0=15.0+i*.32;
+      FX.push(t=>{const p=eio(P(t,t0,1.0));const hrs=8.4*p;f.style.height=(hrs/10*H)+'px';
+        o.style.height=(hrs>8?(hrs-8)/10*H:0)+'px';hv.style.top='18px';hv.style.opacity=cl(p*3-.4);
+        const m=Math.round(hrs*60);hv.textContent=Math.floor(m/60)+'h'+String(m%60).padStart(2,'0')});
+    }else{
+      const f=document.createElement('div');f.className='folga';f.id='fg'+i;f.style.left=x+'px';f.style.top=top+'px';f.textContent='FOLGA';host.appendChild(f);
+    }
+  });
+  const svg=$('inkC');
+  const y8=top+H-8/10*H;
+  const dl=document.createElementNS(NS,'path');dl.setAttribute('d',`M86,${y8} L740,${y8}`);dl.setAttribute('stroke','#d92a2a');dl.setAttribute('stroke-width',5);dl.setAttribute('stroke-dasharray','16 12');svg.appendChild(dl);
+  const tx=document.createElementNS(NS,'text');tx.setAttribute('x',38);tx.setAttribute('y',y8-12);tx.setAttribute('fill','#d92a2a');tx.setAttribute('font-weight','900');tx.setAttribute('font-size','36');tx.setAttribute('font-family','Inter');tx.setAttribute('font-size','26');tx.textContent='8h';svg.appendChild(tx);
+  FX.push(t=>{const p=P(t,14.6,.5);dl.style.opacity=p;tx.style.opacity=p});
+})();
+slap('fg5',17.5,6);slap('fg6',17.85,6);
+
+/* TWO WEEKS */
+(function(){
+  ['w1','w2'].forEach((id,k)=>{const s=$(id);days.forEach((dn,i)=>{const c=document.createElement('div');const f=i>=5;c.className='c '+(f?'f':'t');c.textContent=f?'FOLGA':'TRAB.';c.id=id+'c'+i;s.appendChild(c)})});
+  $('w1c5').className='c t';$('w1c5').textContent='TRAB.';
+  const mv=$('mvF');const ax=100+5*128,ay=605,bx=100+4*128,by=855;
+  const w2c4=$('w2c4');
+  FX.push(t=>{
+    const lift=eo(P(t,23.5,.4));const fl=P(t,23.95,.85);const fe=eio(fl);const land=P(t,24.8,.3);
+    const x=lerp(ax,bx,fe),y=lerp(ay,by,fe)-Math.sin(Math.PI*fe)*230;
+    const sc=1+.16*lift*(1-land)+(-.06*Math.sin(Math.PI*land));
+    const rot=-7*lift*(1-fe)+ (fe>0&&fe<1?Math.sin(Math.PI*fe)*-14:0);
+    mv.style.left=x+'px';mv.style.top=y+'px';mv.style.transform=`scale(${sc}) rotate(${rot}deg)`;
+    mv.style.boxShadow=`0 ${10+40*lift*(1-land)}px ${20+40*lift*(1-land)}px rgba(0,60,20,${.25+.15*lift*(1-land)})`;
+    w2c4.style.opacity=fl>=1?0:1;
+  });
+  SHAKE.push([24.85,6]);
+})();
+
+/* INK STROKES */
+(function(){
+  const s=$('inkA');
+  const ox=330,oy=1010,h=230;
+  stroke(s,smoothPath(jit([[ox,oy+h],[ox+5,oy],[ox+125,oy+h],[ox+130,oy]],6)),1.35,.36,30);
+  stroke(s,smoothPath(jit([[ox+175,oy+h],[ox+250,oy+8],[ox+325,oy+h]],6)),1.72,.28,30);
+  stroke(s,smoothPath(jit([[ox+203,oy+145],[ox+297,oy+142]],3)),2.0,.12,26);
+  stroke(s,smoothPath(jit([[ox+200,oy-34],[ox+232,oy-62],[ox+266,oy-36],[ox+300,oy-62]],3)),2.12,.14,22);
+  stroke(s,smoothPath(ellipse(ox+440,oy+h/2,68,h/2+4,1.06,-1.7,5)),2.26,.34,30);
+  stroke(s,smoothPath(jit([[250,1270],[560,1262],[850,1272]],4)),2.65,.35,10,'#1d1b2e',.0);
+  SHAKE.push([1.5,4],[2.3,4]);
+})();
+(function(){
+  const s=$('inkC2');
+  stroke(s,smoothPath(jit([[190,1200],[420,1206],[640,1196],[890,1203]],5)),26.4,.55,14);
+})();
+(function(){
+  const s=$('inkF');
+  const x0=150,y0=1140;
+  for(let i=0;i<4;i++)stroke(s,smoothPath(jit([[x0+i*82,y0],[x0+i*82+8,y0+90],[x0+i*82+2,y0+180]],5)),48.7+i*.35,.22,24);
+  for(let i=4;i<6;i++){const p=document.createElementNS(NS,'path');p.setAttribute('d',`M${x0+i*82},${y0} L${x0+i*82+4},${y0+180}`);p.setAttribute('stroke','#1d1b2e');p.setAttribute('stroke-width',8);p.setAttribute('stroke-dasharray','14 14');p.setAttribute('stroke-linecap','round');p.setAttribute('fill','none');s.appendChild(p);FX.push(t=>{p.style.opacity=.45*eo(P(t,50.3+(i-4)*.2,.3))})}
+  [48.85,49.2,49.55,49.9].forEach(x=>SHAKE.push([x,2.5]));
+})();
+
+/* CAMERA */
+const C={A:[540,960],B:[1620,960],C:[2700,960],C2:[2700,2880],D:[1620,2880],E:[540,2880],F:[540,4800],G:[1620,4800],O:[1620,2880]};
+const K=[
+ [0,'A',1.12,'h'],[5.0,'A',1.0,'m',.16],[6.2,'B',1.0,'h'],[13.0,'B',1.035,'m',.16],[14.2,'C',1.0,'h'],[21.0,'C',1.035,'m',.22],
+ [22.2,'C2',1.0,'h'],[29.4,'C2',1.035,'m',.16],[30.6,'D',1.0,'h'],[37.0,'D',1.035,'m',.16],[38.2,'E',1.0,'h'],[45.6,'E',1.035,'m',.22],
+ [46.8,'F',1.0,'h'],[53.0,'F',1.035,'z',0],[54.7,'O',1/3,'h'],[55.5,'O',.345,'z',0],[56.9,'G',1.0,'h'],[60,'G',1.04,'h']
+];
+function cam(t){
+  for(let i=0;i<K.length-1;i++){
+    const a=K[i],b=K[i+1];
+    if(t>=a[0]&&t<=b[0]){
+      const p=(t-a[0])/(b[0]-a[0]);const pa=C[a[1]],pb=C[b[1]];
+      if(a[3]==='h'){return [lerp(pa[0],pb[0],p),lerp(pa[1],pb[1],p),lerp(a[2],b[2],p)]}
+      const e=eio(p);const dip=a[4]||0;
+      const ls=Math.exp(lerp(Math.log(a[2]),Math.log(b[2]),e))*(1-dip*Math.sin(Math.PI*e));
+      let ex=e,ey=e;
+      if(a[3]==='z'){
+        const sa=a[2],sb=b[2];
+        const ka=(1/ls-1/sa)/((1/sb-1/sa)||1e-9);
+        ex=ey=cl(ka);
+      }
+      return [lerp(pa[0],pb[0],ex),lerp(pa[1],pb[1],ey),ls];
+    }
+  }
+  const z=K[K.length-1];return [C[z[1]][0],C[z[1]][1],z[2]];
+}
+
+/* ROUTE */
+const RT=$('route');
+const anchors={A:[540,1760],B:[1620,1760],C:[2700,1760],C2t:[2700,2050],C2:[2700,3680],D:[1620,3680],E:[540,3680],Ft:[540,3970],F:[540,5600],G:[1620,5600],H:[2700,5600]};
+function wavy(a,b,amp,n=14){const pts=[];for(let i=0;i<=n;i++){const u=i/n;const dx=b[0]-a[0],dy=b[1]-a[1];const L=Math.hypot(dx,dy);const nx=-dy/L,ny=dx/L;const w=Math.sin(u*Math.PI*2)*amp*Math.sin(Math.PI*u);pts.push([a[0]+dx*u+nx*w,a[1]+dy*u+ny*w])}return jit(pts,5)}
+const RS=[['A','B',5.0,1.2],['B','C',13.0,1.2],['C','C2t',21.0,1.0],['C2','D',29.4,1.2],['D','E',37.0,1.2],['E','Ft',45.6,1.0],['F','G',53.0,1.6],['G','H',53.4,1.4]];
+const pen=document.createElementNS(NS,'g');
+pen.innerHTML='<g transform="rotate(-38)"><rect x="-14" y="-170" width="28" height="140" rx="8" fill="#2a2a3a"/><rect x="-16" y="-62" width="32" height="34" rx="5" fill="#d92a2a"/><path d="M-12,-30 L12,-30 L5,-6 L-5,-6 Z" fill="#555"/><circle cx="0" cy="-3" r="5" fill="#d92a2a"/></g>';
+RS.forEach(([a,b,t0,d])=>{
+  const pa=anchors[a],pb=anchors[b];
+  const pathD=smoothPath(wavy(pa,pb,a.length+b.length>3?40:70));
+  [[pa,1],[pb,1]].forEach(([q])=>{const c=document.createElementNS(NS,'circle');c.setAttribute('cx',q[0]);c.setAttribute('cy',q[1]);c.setAttribute('r',18);c.setAttribute('fill','#d92a2a');RT.appendChild(c);FX.push(t=>{c.style.opacity=t>=t0?1:0})});
+  const p=stroke(RT,pathD,t0,d,14,'#d92a2a',.9);
+  p.setAttribute('stroke-dasharray','');
+  const L=p.getTotalLength();p.style.strokeDasharray=L+' '+(L+10);
+  FX.push(t=>{const q=P(t,t0,d);if(q>0&&q<1){const pt=p.getPointAtLength(L*eio(q));pen.setAttribute('transform',`translate(${pt.x},${pt.y})`);pen.style.opacity=1;pen._on=t}});
+});
+RT.appendChild(pen);
+FX.unshift(t=>{pen.style.opacity=0});
+
+/* SCHEDULE */
+words('hA',0.05,.06);slap('nA',-0.25,0);rise('sA',2.65,.5);
+words('hB',5.95,.08);
+words('dB',7.55,.09);slap('t1',8.5,4);slap('t2',9.2,4);slap('t3',9.9,4);rise('sB',10.9,.5);
+words('hC',13.95,.06);
+FX.push(t=>{const p=P(t,14.0,.6);$('colsC').style.opacity=eo(p)});
+words('eC',18.4,.1);rise('sC',19.2,.5);
+words('hC2',21.95,.06);
+words('h2C2',25.8,.1);rise('sC2',27.0,.5);
+words('hD',30.35,.1);slap('n1',31.0,6);slap('n2',32.4,6);slap('n3',33.8,6);slap('n4',35.2,6);
+words('hE',37.95,.08);slap('k1',38.8,5);slap('k2',40.6,5);slap('q1',42.6,5);
+words('hF',46.55,.06);rise('lF',48.15,.4);words('pF',50.6,.12);rise('nF',51.3,.5);
+FX.push(t=>{const p=P(t,56.9,4);const k=.5+.5*Math.sin(p*Math.PI*6);['bx1','bx2'].forEach((id,i)=>{$(id).style.background=`rgba(217,42,42,${.0+.35*Math.max(0,Math.sin((t-57.0)*3.2+i*Math.PI))*(t>57?1:0)})`})});
+
+const B=$('cB').getBoundingClientRect();
+const mk=$('gBm').getBoundingClientRect();
+const mx=mk.left+mk.width/2-B.left,my=mk.top+mk.height/2-B.top;
+stroke($('inkB'),smoothPath(ellipse(mx,my,78,58,1.12,-2.3,5)),6.9,.6,12);
+const BF=$('cF').getBoundingClientRect();
+const mf=$('gFm').getBoundingClientRect();
+stroke($('inkF'),smoothPath(ellipse(mf.left+mf.width/2-BF.left,mf.top+mf.height/2-BF.top,56,40,1.12,-2.3,4)),47.3,.55,10);
+
+/* GRAIN */
+const g=$('grain'),gx=g.getContext('2d');const gi=gx.createImageData(740,1160);
+for(let i=0;i<gi.data.length;i+=4){const v=Math.random()*255;gi.data[i]=gi.data[i+1]=gi.data[i+2]=v;gi.data[i+3]=255}
+gx.putImageData(gi,0,0);g.style.width='1480px';g.style.height='2320px';
+
+const W=$('W');
+window.seek=function(t){
+  FX.forEach(f=>f(t));
+  const [cx,cy,s]=cam(t);
+  let sx=0,sy=0;
+  SHAKE.forEach(([t0,a])=>{const d=t-t0;if(d>0&&d<.6){const k=a*Math.exp(-d*9);sx+=k*Math.sin(d*2*Math.PI*11);sy+=k*Math.cos(d*2*Math.PI*8)}});
+  W.style.transform=`translate(${540+sx-cx*s}px,${960+sy-cy*s}px) scale(${s})`;
+  const f=Math.floor(t*12);g.style.transform=`translate(${-((f*137)%200)}px,${-((f*251)%200)}px)`;
+  $('brandfix').style.opacity=.85*(P(t,4.6,.6)-P(t,53.0,.6))+.85*P(t,56.6,.5);
+};
+window.DUR=DUR;
+seek(0);
+</script></body></html>

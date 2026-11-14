@@ -30,5 +30,10 @@ Requisitos: Python com playwright (Chromium) e ffmpeg.
 3. Gere imagens de teste, confira os números contra o artigo e só então renderize.
 4. O vídeo tem 1080x1920, 30 fps, sem áudio (faixa muda).
 
+## Formato caderno (reel20)
+- reel20.html: estilo papel e caneta. Uma câmera única percorre uma folha de 3x3 telas (3240x5760), seguindo uma linha de caneta vermelha, sem cortes. No fim a câmera se afasta e mostra o caminho inteiro. Cada tela é desenhada em coordenadas de tela (1080x1920) dentro de div.cell; os movimentos estão na lista K (tempo, tela, zoom, tipo).
+- render20.py: imagens de teste com python3 render20.py still PREFIXO 3.5 17.5; render em blocos paralelos a 60 fps com python3 render20.py chunk saida.mp4 QUADRO_INICIAL QUADRO_FINAL (0 a 1800 e 1800 a 3600). Depois: juntar os blocos com o concat do ffmpeg e converter para 30 fps com tmix=frames=2 (desfoque de movimento).
+- audio20.py: trilha lo-fi sintetizada (86 bpm) com sons de caneta, papel e fita nos tempos das animações. Normalizar com loudnorm I=-14:TP=-1.5.
+
 ## Capas
 - mkcapa_urnas.py, mkcapa_cbs.py, mkcapa_6x1.py, mkcapa_espectro.py, mkcapa_flavio.py, mkcapa_paraguai.py e mkcapa_rouanet.py: capas 1200x600 com PIL e fonte Inter (/usr/share/fonts/opentype/inter/). Os caminhos de saída e de referência estão no início de cada script e precisam ser ajustados ao ambiente.
