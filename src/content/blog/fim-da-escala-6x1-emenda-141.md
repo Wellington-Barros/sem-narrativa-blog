@@ -126,7 +126,9 @@ A decisão recebeu críticas de empresários, que acham que ela fez pouco, e de 
 
 **A resposta de Dino.** Em 14 de novembro, o ministro disse que a decisão não autoriza acordos individuais nem cria exceções à nova jornada, e que as adaptações dependem de negociação com os sindicatos: "Não cabe a mim definir essas hipóteses, mas aos sindicatos e às empresas. Sem acordo ou convenção coletiva, prevalecerá a regra geral", segundo o Correio Braziliense. Em publicação nas redes, segundo a CNN Brasil, ele também escreveu: "Texto perfeito não existe, no Legislativo, no Judiciário ou em qualquer outro lugar". Antes, ele já tinha dito que o STF "não tem pretensão de substituir nem as partes, muito menos o governo, muito menos o Congresso", segundo a Itatiaia.
 
-**O decreto do governo.** O presidente Lula assinou o decreto em 19 de novembro, no Palácio do Planalto, com o vice-presidente Geraldo Alckmin e o ministro do Trabalho, Luiz Marinho, segundo o Planalto, o NC News e o Migalhas. As reportagens consultadas não informam o número do decreto nem a edição do Diário Oficial. O que ele diz, segundo o Migalhas, o InfoMoney e o NC News:
+## O decreto do governo
+
+O presidente Lula assinou o decreto em 19 de novembro, no Palácio do Planalto, com o vice-presidente Geraldo Alckmin e o ministro do Trabalho, Luiz Marinho, segundo o Planalto, o NC News e o Migalhas. As reportagens consultadas não informam o número do decreto nem a edição do Diário Oficial. O que ele diz, segundo o Migalhas, o InfoMoney e o NC News:
 
 - **Novo divisor do salário-hora.** Para quem recebe por mês, o salário passa a ser dividido por **210** a partir de 16 de dezembro de 2026 (42 horas) e por **200** a partir de 16 de dezembro de 2027 (40 horas). Hoje o divisor é 220. Como o salário não cai, a hora fica mais cara, e isso aumenta horas extras e adicional noturno. Exemplo do InfoMoney: um salário de R$ 3.000 dá R$ 13,64 por hora hoje, R$ 14,29 com o divisor 210 e R$ 15,00 com o 200. Se já houver um divisor menor por lei, acordo ou contrato, ele continua valendo: "prevalece sempre o divisor mais favorável ao empregado".
 - **Folgas.** A regra é de dois dias de descanso remunerado por semana, um deles de preferência no domingo. Como exceção, acordo ou convenção coletiva pode distribuir as folgas no mês, com média de duas por semana e pelo menos uma em cada semana.
@@ -137,7 +139,7 @@ A decisão recebeu críticas de empresários, que acham que ela fez pouco, e de 
 
 Na cerimônia, Lula disse: "O que nós estamos tentando fazer aqui é humanizar o mundo do trabalho". Ele também previu disputas: "Vai ter algumas confusões, vai ter muitas queixas, [e] a justiça do trabalho tem que estar preparada", segundo a CNN Brasil. Marinho disse que o novo divisor "é uma mudança importante para o cálculo das horas extras e outros direitos trabalhistas".
 
-**Reações.** Segundo o NC News, as centrais sindicais veem as regras como uma conquista histórica, e empresários se preocupam com custos e com a reorganização das escalas. As reportagens consultadas não trazem, até esta atualização, nota oficial de entidades empresariais nem de centrais sindicais sobre o decreto. Antes dele, a CNC pediu mais prazo ao STF por causa do movimento de fim de ano no comércio, e a CNI estimou um impacto de R$ 11 bilhões na indústria no próximo ano, segundo a CNN Brasil.
+**Reações ao decreto.** Segundo o NC News, as centrais sindicais veem as regras como uma conquista histórica, e empresários se preocupam com custos e com a reorganização das escalas. As reportagens consultadas não trazem, até esta atualização, nota oficial de entidades empresariais nem de centrais sindicais sobre o decreto. Antes dele, a CNC pediu mais prazo ao STF por causa do movimento de fim de ano no comércio, e a CNI estimou um impacto de R$ 11 bilhões na indústria no próximo ano, segundo a CNN Brasil.
 
 
 ## Quem fica de fora ou tem regra diferente
