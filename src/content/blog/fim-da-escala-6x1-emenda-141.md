@@ -2,11 +2,13 @@
 title: 'Fim da escala 6x1: o que a Emenda 141 garante, o que o STF decidiu e o que muda em 16 de dezembro'
 description: 'A Emenda Constitucional 141 acabou com a escala 6x1 e reduz a jornada de 44 para 40 horas em duas etapas. Veja o calendário, a liminar do ministro Flávio Dino que manteve 16 de dezembro e flexibilizou as folgas, o julgamento que vai recomeçar no plenário presencial do STF, as críticas dos dois lados, quem fica de fora e por que é falso o boato de que o governo recuou.'
 pubDate: 'Nov 01 2026'
-updatedDate: 'Nov 16 2026'
+updatedDate: 'Nov 19 2026'
 category: 'Fato ou Narrativa'
 heroImage: '../../assets/capa-fim-da-escala-6x1-emenda-141.jpg'
 ---
 
+> **Atualização (19 de novembro de 2026):** o ministro Flávio Dino decidiu, na terça (17), que o STF vai dar a **decisão final** sobre as ações, e não só sobre a liminar. O julgamento será no plenário presencial, ainda sem data, e vai analisar a própria Emenda 141. A liminar continua valendo. O governo marcou para hoje a assinatura do decreto que regulamenta a mudança; o texto ainda não foi divulgado até esta atualização.
+>
 > **Atualização (16 de novembro de 2026):** o julgamento da liminar no plenário virtual do STF **não terminou**. No sábado (14), o ministro **Luiz Fux** fez um pedido de destaque, que leva o caso para o plenário presencial. Os 4 votos já dados deixam de contar e a votação recomeça do zero, ainda sem data. **A liminar continua valendo**, e a primeira etapa segue marcada para **16 de dezembro**. Veja a seção "O que o STF decidiu".
 >
 > **Atualização anterior (14 de novembro de 2026):** o ministro Flávio Dino, do STF, negou o pedido de empresários para adiar a mudança, confirmou o início em 16 de dezembro e deu regras para a transição, como a jornada de 8h24 e mais flexibilidade para as folgas.
@@ -22,7 +24,7 @@ O texto explica o que a emenda diz, quando cada regra começa a valer, quem fica
 - **A regra já é da Constituição:** a Emenda Constitucional 141, de 16 de outubro de 2026, veio da PEC 221/2019. Ela foi aprovada pela Câmara em maio (472 a 22 no primeiro turno e 461 a 19 no segundo) e pelo Senado em 14 de outubro (75 a 1 nos dois turnos).
 - **O que muda:** dois dias de descanso remunerado por semana, um deles preferencialmente no domingo, e jornada máxima de 40 horas semanais e 8 horas por dia, sem redução de salário.
 - **Primeira etapa, em 16 de dezembro de 2026:** o limite cai para **42 horas** e passam a valer as duas folgas. A data foi confirmada pela liminar do STF, que continua valendo.
-- **O que o STF decidiu:** o ministro Flávio Dino negou o adiamento pedido pela CNC e pela CNI, permitiu jornadas de 8h24 em cinco dias sem hora extra na transição e deixou a negociação coletiva definir quando a folga é tirada, sem poder suprimi-la. A decisão é criticada por empresários, que acham pouco, e por centrais e pelo Congresso, que acham que ela foi longe demais em alguns pontos. O julgamento no plenário virtual foi interrompido por um pedido de destaque do ministro Luiz Fux e vai recomeçar no plenário presencial, ainda sem data. Até lá, a liminar continua valendo.
+- **O que o STF decidiu:** o ministro Flávio Dino negou o adiamento pedido pela CNC e pela CNI, permitiu jornadas de 8h24 em cinco dias sem hora extra na transição e deixou a negociação coletiva definir quando a folga é tirada, sem poder suprimi-la. A decisão é criticada por empresários, que acham pouco, e por centrais e pelo Congresso, que acham que ela foi longe demais em alguns pontos. O julgamento no plenário virtual foi interrompido por um pedido de destaque do ministro Luiz Fux e vai recomeçar no plenário presencial, ainda sem data. Em 17 de novembro, Dino decidiu que esse julgamento já será o definitivo, sobre a própria Emenda 141. Até lá, a liminar continua valendo.
 - **Segunda etapa, em dezembro de 2027:** um ano depois da primeira etapa, o limite chega a **40 horas**.
 - **Quem fica de fora:** servidores públicos, trabalhadores autônomos e empregados com diploma de nível superior que ganham pelo menos 2,5 vezes o teto do INSS (cerca de R$ 21,2 mil em 2026), nas condições previstas.
 - **"O governo recuou?":** a Agência Lupa e outros checadores classificaram a alegação como **falsa**. A Secom diz, em nota, que "não há nenhuma proposta que retire direitos em discussão no governo". Uma emenda promulgada não pode ser vetada nem alterada pelo presidente.
@@ -98,6 +100,13 @@ O relator, ministro **Flávio Dino**, fez uma audiência de conciliação em 10 
 
 As reportagens consultadas não trazem declaração de Fux explicando o pedido.
 
+**O julgamento vai ser definitivo.** Na terça, 17 de novembro, Dino mudou o rito das duas ações (ADIs 8041 e 8042), com base no artigo 12 da Lei 9.868, de 1999, segundo o Conjur. Na prática:
+
+- **O plenário vai julgar o mérito.** Em vez de decidir só se mantém a liminar, o STF vai dar a decisão final sobre as ações, o que inclui analisar a própria Emenda 141.
+- **Prazos curtos para as partes.** Câmara, Senado e entidades admitidas no processo têm 5 dias para completar suas manifestações. Depois, a Advocacia-Geral da União (AGU) e a Procuradoria-Geral da República (PGR) têm 2 dias cada. São cerca de 9 dias no total, segundo a BM&C News.
+- **A liminar continua valendo.** Segundo o Conjur, "as medidas cautelares permanecerão em vigor" até o julgamento no plenário presencial, que Dino chamou de "imprescindível".
+- **Ainda sem data.** A decisão não marca dia para o julgamento.
+
 ### Criticada pelos dois lados
 
 A decisão recebeu críticas de empresários, que acham que ela fez pouco, e de sindicatos e do próprio Congresso, que acham que ela foi longe demais em alguns pontos.
@@ -116,7 +125,7 @@ A decisão recebeu críticas de empresários, que acham que ela fez pouco, e de 
 
 **A resposta de Dino.** Em 14 de novembro, o ministro disse que a decisão não autoriza acordos individuais nem cria exceções à nova jornada, e que as adaptações dependem de negociação com os sindicatos: "Não cabe a mim definir essas hipóteses, mas aos sindicatos e às empresas. Sem acordo ou convenção coletiva, prevalecerá a regra geral", segundo o Correio Braziliense. Em publicação nas redes, segundo a CNN Brasil, ele também escreveu: "Texto perfeito não existe, no Legislativo, no Judiciário ou em qualquer outro lugar". Antes, ele já tinha dito que o STF "não tem pretensão de substituir nem as partes, muito menos o governo, muito menos o Congresso", segundo a Itatiaia.
 
-**O governo.** Segundo pessoas presentes numa reunião com Dino, citadas pelo Jornal de Brasília, o ministro do Trabalho, Luiz Marinho, disse que o decreto de regulamentação está pronto e aguarda a assinatura de Lula. Em 16 de novembro, o Diário do Centro do Mundo publicou que o governo deve publicar o decreto nesta semana, seguindo os parâmetros da liminar, mas a reportagem não cita fonte oficial. Até esta atualização, o decreto não foi publicado.
+**O governo.** Segundo pessoas presentes numa reunião com Dino, citadas pelo Jornal de Brasília, o ministro do Trabalho, Luiz Marinho, disse que o decreto de regulamentação está pronto e aguarda a assinatura de Lula. Em 17 de novembro, depois de reunião com Lula, Marinho anunciou que o presidente assinaria o decreto na quinta, 19 de novembro, às 9h30, no Palácio do Planalto, segundo o Metrópoles e o ND Mais. Marinho disse que Lula pediu ajustes no texto, sem dizer quais: "O presidente fez algumas sugestões, de conteúdo nós não vamos dizer". Segundo o InfoMoney, Marinho afirmou que "caberá às partes buscar, na convenção coletiva, o arranjo mais adequado". Antes da assinatura, reportagens disseram que o decreto deve trazer novas regras de cálculo do salário-hora para que nenhum salário ou piso caia, mas os números divulgados não batem (veja "Onde as versões não batem"). Até esta atualização, o texto do decreto não foi divulgado.
 
 
 ## Quem fica de fora ou tem regra diferente
@@ -183,6 +192,7 @@ O fim da 6x1 foi aprovado com ampla maioria, mas o debate sobre os efeitos conti
 <div class="promessa-bloco"><span class="promessa-rotulo">Data da primeira etapa (42 horas)</span><p>Lupa: 16 de dezembro de 2026. Agência Senado: 15 de dezembro. <strong>Resolvido:</strong> a liminar do STF confirmou 16 de dezembro</p></div>
 <div class="promessa-bloco"><span class="promessa-rotulo">O adiamento pedido pela CNC</span><p>Folha de Pernambuco: primeira etapa em 16 de outubro de 2027 e segunda em outubro de 2028. O Tempo: entidades do comércio pediram adiamento para dezembro de 2027. O pedido foi negado nos dois casos</p></div>
 <div class="promessa-bloco"><span class="promessa-rotulo">Salário dos "hipersuficientes"</span><p>Agência Brasil: R$ 21.188,87. A Tarde: R$ 21.888,88. A regra da emenda é 2,5 vezes o teto do INSS, que em 2026 dá cerca de R$ 21.188,88. O número do A Tarde não bate com a conta</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">Divisor do salário-hora no decreto</span><p>InfoMoney, antes da assinatura: o decreto deve fixar o divisor 200 para calcular o salário-hora. Diário do Centro do Mundo, citando a Folha de S.Paulo: o governo "estuda" o divisor 210 enquanto a semana tiver 42 horas e 200 quando chegar a 40. Só o texto publicado vai dizer qual vale</p></div>
 <div class="promessa-bloco"><span class="promessa-rotulo">Dia do destaque de Fux</span><p>CNN Brasil, Contábeis, Enfoque MS e Diário do Centro do Mundo: sábado, 14 de novembro. TV Sim Brasil: sexta, 13 de novembro. A CNN informa que Dino publicou sua defesa na manhã de sábado, antes do destaque, o que reforça o dia 14</p></div>
 <div class="promessa-bloco"><span class="promessa-rotulo">Placares</span><p>A matéria da Agência Câmara sobre a promulgação não traz placares. Os números de maio vêm da Agência Câmara de 27 de maio, e os do Senado, da Agência Senado e da Agência Brasil</p></div>
 <div class="promessa-bloco"><span class="promessa-rotulo">Limite do MEI</span><p>A Agência Brasil cita o aumento do limite de faturamento do MEI junto com a emenda. Esse aumento está em outra lei, a do Prospera MEI, e não no texto da Emenda 141</p></div>
@@ -194,9 +204,9 @@ Nenhuma dessas divergências muda o essencial: todas as fontes concordam que a e
 
 ## O que ainda não se sabe
 
-- **Quando e como o STF vai julgar:** com o destaque de Fux, o caso vai para o plenário presencial, sem data marcada. Os ministros podem manter, mudar ou derrubar pontos da liminar, e os 4 votos anteriores terão de ser dados de novo.
+- **Quando o STF vai julgar:** o caso vai para o plenário presencial, sem data marcada. Como o julgamento será o definitivo, os ministros podem manter ou derrubar pontos da liminar e até da própria Emenda 141.
 - **Se o julgamento sai antes de 16 de dezembro:** se não sair, a primeira etapa começa com as regras da liminar.
-- **O texto do decreto do governo:** o ministro do Trabalho teria dito que está pronto, e uma reportagem fala em publicação nesta semana, mas ele ainda não foi publicado.
+- **O texto do decreto do governo:** a assinatura foi marcada para 19 de novembro, mas o conteúdo ainda não foi divulgado, incluindo a regra de cálculo do salário-hora.
 - **A regulamentação no Congresso:** o STF deu 180 dias para regras de micro e pequenas empresas e de atividades com escalas diferentes.
 - **O texto da PEC paralela:** quais categorias entram, o que muda para cada uma e se ela terá as assinaturas necessárias.
 - **O decreto e o projeto de lei do governo:** foram citados pela Exame, mas não encontramos os textos.
@@ -207,6 +217,7 @@ Nenhuma dessas divergências muda o essencial: todas as fontes concordam que a e
 ## Como ler
 
 - **Emenda promulgada é regra da Constituição.** Ela não depende de sanção do presidente e só muda com outra emenda.
+- **Julgamento definitivo é diferente de liminar.** A liminar é provisória. O julgamento de mérito dá a palavra final do STF sobre as ações.
 - **Destaque não derruba a liminar.** O pedido de Fux só muda onde e quando o caso é julgado. A decisão de Dino continua valendo até o plenário presencial decidir.
 - **Liminar já vale, mas é provisória.** A decisão de Dino tem efeito imediato, mas o plenário do STF pode confirmar, mudar ou derrubar pontos dela.
 - **Flexibilizar o momento da folga não é tirar a folga.** A liminar permite negociar quando a segunda folga é tirada, mas diz que ela não pode ser suprimida.
@@ -232,6 +243,7 @@ Nenhuma dessas divergências muda o essencial: todas as fontes concordam que a e
 - A jornada máxima cai de 44 para 42 horas em 16 de dezembro de 2026 e para 40 horas em 16 de dezembro de 2027.
 - Em 12 de novembro, o ministro Flávio Dino negou o adiamento pedido pela CNC e pela CNI nas ADIs 8041 e 8042, permitiu jornadas de 8h24 em cinco dias sem hora extra na transição, deixou a negociação coletiva definir quando a folga é tirada, deu 90 dias para renegociar acordos e 180 dias para o Congresso regulamentar casos especiais.
 - Até 14 de novembro, quatro ministros votaram para manter a liminar (Dino, Moraes, Cármen Lúcia e Gilmar Mendes). No mesmo dia, o ministro Luiz Fux pediu destaque: os votos deixam de contar, o caso vai para o plenário presencial, ainda sem data, e a liminar continua valendo.
+- Em 17 de novembro, Dino decidiu que o plenário presencial vai julgar o mérito das ações, de forma definitiva. Câmara, Senado e entidades têm 5 dias para se manifestar, e depois a AGU e a PGR têm 2 dias cada.
 - Empresários dizem que a decisão fez pouco. Seis centrais sindicais e as advocacias da Câmara e do Senado criticam pontos como a jornada de 8h24 sem acordo e a flexibilização das folgas.
 - O trabalhador passa a ter dois dias de descanso remunerado por semana, um deles preferencialmente no domingo, sem redução de salário.
 - Ficam de fora servidores públicos, autônomos e, nas condições previstas, empregados com diploma superior que ganham ao menos 2,5 vezes o teto do INSS.
@@ -273,6 +285,12 @@ Nenhuma dessas divergências muda o essencial: todas as fontes concordam que a e
 - TV Sim Brasil, "Fux interrompe julgamento e zera votação sobre fim da escala 6x1" (novembro de 2026)
 - Tribuna do Sertão, com Agência O Globo, "Fim da escala 6x1: Fachin pode pautar julgamento no STF ainda nesta semana" (16 de novembro de 2026)
 - TAGD Advogados, "STF vai julgar 6x1 em sessão presencial após quatro votos a favor de liminar e destaque de Fux" (novembro de 2026)
+- Conjur, "Fim da escala 6x1 será julgado diretamente no mérito, decide Dino" (17 de novembro de 2026)
+- BM&C News, "Dino abre prazo de nove dias antes de levar ações sobre escala 6x1 ao plenário do STF" (17 de novembro de 2026)
+- Metrópoles, "5x2: Lula assinará decreto nesta 5ª com mecanismos para blindar salários" (18 de novembro de 2026)
+- ND Mais, "Lula assina nesta quinta-feira (19) decreto que regulamenta fim da escala 6x1" (19 de novembro de 2026)
+- InfoMoney, "Lula assina hoje decreto que regulamenta fim da escala 6x1" (19 de novembro de 2026)
+- Diário do Centro do Mundo, "Decreto do fim da 6x1 deve deixar hora extra até 32% mais cara; entenda" (17 de novembro de 2026)
 - Diário do Centro do Mundo, "Governo Lula planeja assinatura do fim da escala 6x1 para essa semana" (16 de novembro de 2026)
 - meutudo, "Teto do INSS em 2026 é de R$ 8.475,55; confira faixas e alíquotas" (valor usado na conta dos 2,5 tetos)
 
