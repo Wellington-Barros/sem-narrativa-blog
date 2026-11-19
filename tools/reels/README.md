@@ -36,6 +36,7 @@ Requisitos: Python com playwright (Chromium) e ffmpeg.
 - audio20.py: trilha lo-fi sintetizada (86 bpm) com sons de caneta, papel e fita nos tempos das animações. Normalizar com loudnorm I=-14:TP=-1.5.
 
 - reel21.html, render21.py e audio21.py: estilo escuro de sempre (motor do reel19), sobre o destaque de Fux na 6x1. render21.py usa os mesmos comandos do render20.py (still e chunk, 60 fps).
+- reel22.html, render22.py e audio22.py: versão do reel21 com o decreto assinado em 19/11 (divisor 210 e 200) e o julgamento definitivo no mérito.
 
 ## Capas
 - mkcapa_urnas.py, mkcapa_cbs.py, mkcapa_6x1.py, mkcapa_espectro.py, mkcapa_flavio.py, mkcapa_paraguai.py e mkcapa_rouanet.py: capas 1200x600 com PIL e fonte Inter (/usr/share/fonts/opentype/inter/). Os caminhos de saída e de referência estão no início de cada script e precisam ser ajustados ao ambiente.
