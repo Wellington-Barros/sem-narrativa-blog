@@ -7,7 +7,7 @@ category: 'Fato ou Narrativa'
 heroImage: '../../assets/capa-fim-da-escala-6x1-emenda-141.jpg'
 ---
 
-> **Atualização (19 de novembro de 2026):** o ministro Flávio Dino decidiu, na terça (17), que o STF vai dar a **decisão final** sobre as ações, e não só sobre a liminar. O julgamento será no plenário presencial, ainda sem data, e vai analisar a própria Emenda 141. A liminar continua valendo. O governo marcou para hoje a assinatura do decreto que regulamenta a mudança; o texto ainda não foi divulgado até esta atualização.
+> **Atualização (19 de novembro de 2026):** o presidente Lula **assinou** o decreto que regulamenta o fim da 6x1. Ele muda o cálculo do salário-hora (divisor 210 a partir de 16 de dezembro e 200 em dezembro de 2027) e permite, por acordo coletivo, distribuir as folgas no mês. Na terça (17), o ministro Flávio Dino decidiu que o STF vai dar a **decisão final** sobre as ações, no plenário presencial, ainda sem data. A liminar continua valendo. Veja as seções "O decreto do governo" e "O que o STF decidiu".
 >
 > **Atualização (16 de novembro de 2026):** o julgamento da liminar no plenário virtual do STF **não terminou**. No sábado (14), o ministro **Luiz Fux** fez um pedido de destaque, que leva o caso para o plenário presencial. Os 4 votos já dados deixam de contar e a votação recomeça do zero, ainda sem data. **A liminar continua valendo**, e a primeira etapa segue marcada para **16 de dezembro**. Veja a seção "O que o STF decidiu".
 >
@@ -24,6 +24,7 @@ O texto explica o que a emenda diz, quando cada regra começa a valer, quem fica
 - **A regra já é da Constituição:** a Emenda Constitucional 141, de 16 de outubro de 2026, veio da PEC 221/2019. Ela foi aprovada pela Câmara em maio (472 a 22 no primeiro turno e 461 a 19 no segundo) e pelo Senado em 14 de outubro (75 a 1 nos dois turnos).
 - **O que muda:** dois dias de descanso remunerado por semana, um deles preferencialmente no domingo, e jornada máxima de 40 horas semanais e 8 horas por dia, sem redução de salário.
 - **Primeira etapa, em 16 de dezembro de 2026:** o limite cai para **42 horas** e passam a valer as duas folgas. A data foi confirmada pela liminar do STF, que continua valendo.
+- **O decreto do governo:** assinado em 19 de novembro, ele muda o divisor do salário-hora de 220 para 210 em dezembro de 2026 e para 200 em dezembro de 2027, o que aumenta o valor da hora extra. Também permite, por acordo coletivo, distribuir as folgas no mês, com pelo menos uma por semana. Portarias para categorias especiais devem sair a partir de 23 de novembro.
 - **O que o STF decidiu:** o ministro Flávio Dino negou o adiamento pedido pela CNC e pela CNI, permitiu jornadas de 8h24 em cinco dias sem hora extra na transição e deixou a negociação coletiva definir quando a folga é tirada, sem poder suprimi-la. A decisão é criticada por empresários, que acham pouco, e por centrais e pelo Congresso, que acham que ela foi longe demais em alguns pontos. O julgamento no plenário virtual foi interrompido por um pedido de destaque do ministro Luiz Fux e vai recomeçar no plenário presencial, ainda sem data. Em 17 de novembro, Dino decidiu que esse julgamento já será o definitivo, sobre a própria Emenda 141. Até lá, a liminar continua valendo.
 - **Segunda etapa, em dezembro de 2027:** um ano depois da primeira etapa, o limite chega a **40 horas**.
 - **Quem fica de fora:** servidores públicos, trabalhadores autônomos e empregados com diploma de nível superior que ganham pelo menos 2,5 vezes o teto do INSS (cerca de R$ 21,2 mil em 2026), nas condições previstas.
@@ -125,7 +126,18 @@ A decisão recebeu críticas de empresários, que acham que ela fez pouco, e de 
 
 **A resposta de Dino.** Em 14 de novembro, o ministro disse que a decisão não autoriza acordos individuais nem cria exceções à nova jornada, e que as adaptações dependem de negociação com os sindicatos: "Não cabe a mim definir essas hipóteses, mas aos sindicatos e às empresas. Sem acordo ou convenção coletiva, prevalecerá a regra geral", segundo o Correio Braziliense. Em publicação nas redes, segundo a CNN Brasil, ele também escreveu: "Texto perfeito não existe, no Legislativo, no Judiciário ou em qualquer outro lugar". Antes, ele já tinha dito que o STF "não tem pretensão de substituir nem as partes, muito menos o governo, muito menos o Congresso", segundo a Itatiaia.
 
-**O governo.** Segundo pessoas presentes numa reunião com Dino, citadas pelo Jornal de Brasília, o ministro do Trabalho, Luiz Marinho, disse que o decreto de regulamentação está pronto e aguarda a assinatura de Lula. Em 17 de novembro, depois de reunião com Lula, Marinho anunciou que o presidente assinaria o decreto na quinta, 19 de novembro, às 9h30, no Palácio do Planalto, segundo o Metrópoles e o ND Mais. Marinho disse que Lula pediu ajustes no texto, sem dizer quais: "O presidente fez algumas sugestões, de conteúdo nós não vamos dizer". Segundo o InfoMoney, Marinho afirmou que "caberá às partes buscar, na convenção coletiva, o arranjo mais adequado". Antes da assinatura, reportagens disseram que o decreto deve trazer novas regras de cálculo do salário-hora para que nenhum salário ou piso caia, mas os números divulgados não batem (veja "Onde as versões não batem"). Até esta atualização, o texto do decreto não foi divulgado.
+**O decreto do governo.** O presidente Lula assinou o decreto em 19 de novembro, no Palácio do Planalto, com o vice-presidente Geraldo Alckmin e o ministro do Trabalho, Luiz Marinho, segundo o Planalto, o NC News e o Migalhas. As reportagens consultadas não informam o número do decreto nem a edição do Diário Oficial. O que ele diz, segundo o Migalhas, o InfoMoney e o NC News:
+
+- **Novo divisor do salário-hora.** Para quem recebe por mês, o salário passa a ser dividido por **210** a partir de 16 de dezembro de 2026 (42 horas) e por **200** a partir de 16 de dezembro de 2027 (40 horas). Hoje o divisor é 220. Como o salário não cai, a hora fica mais cara, e isso aumenta horas extras e adicional noturno. Exemplo do InfoMoney: um salário de R$ 3.000 dá R$ 13,64 por hora hoje, R$ 14,29 com o divisor 210 e R$ 15,00 com o 200. Se já houver um divisor menor por lei, acordo ou contrato, ele continua valendo: "prevalece sempre o divisor mais favorável ao empregado".
+- **Folgas.** A regra é de dois dias de descanso remunerado por semana, um deles de preferência no domingo. Como exceção, acordo ou convenção coletiva pode distribuir as folgas no mês, com média de duas por semana e pelo menos uma em cada semana.
+- **Quem já trabalha 40 horas ou menos** também tem direito às duas folgas, sem precisar reduzir a carga semanal.
+- **Escala 12x36 e turnos de revezamento** continuam permitidos, mas a média semanal precisa respeitar o novo limite. Os detalhes ficam para acordo coletivo.
+- **Acordos coletivos antigos.** Cláusulas que vão contra os novos limites perdem validade a partir de 16 de dezembro, segundo a CNN Brasil, reproduzida pelo ac24horas.
+- **Portarias.** O Ministério do Trabalho vai publicar regras para categorias com regimes especiais a partir de 23 de novembro.
+
+Na cerimônia, Lula disse: "O que nós estamos tentando fazer aqui é humanizar o mundo do trabalho". Ele também previu disputas: "Vai ter algumas confusões, vai ter muitas queixas, [e] a justiça do trabalho tem que estar preparada", segundo a CNN Brasil. Marinho disse que o novo divisor "é uma mudança importante para o cálculo das horas extras e outros direitos trabalhistas".
+
+**Reações.** Segundo o NC News, as centrais sindicais veem as regras como uma conquista histórica, e empresários se preocupam com custos e com a reorganização das escalas. As reportagens consultadas não trazem, até esta atualização, nota oficial de entidades empresariais nem de centrais sindicais sobre o decreto. Antes dele, a CNC pediu mais prazo ao STF por causa do movimento de fim de ano no comércio, e a CNI estimou um impacto de R$ 11 bilhões na indústria no próximo ano, segundo a CNN Brasil.
 
 
 ## Quem fica de fora ou tem regra diferente
@@ -192,7 +204,7 @@ O fim da 6x1 foi aprovado com ampla maioria, mas o debate sobre os efeitos conti
 <div class="promessa-bloco"><span class="promessa-rotulo">Data da primeira etapa (42 horas)</span><p>Lupa: 16 de dezembro de 2026. Agência Senado: 15 de dezembro. <strong>Resolvido:</strong> a liminar do STF confirmou 16 de dezembro</p></div>
 <div class="promessa-bloco"><span class="promessa-rotulo">O adiamento pedido pela CNC</span><p>Folha de Pernambuco: primeira etapa em 16 de outubro de 2027 e segunda em outubro de 2028. O Tempo: entidades do comércio pediram adiamento para dezembro de 2027. O pedido foi negado nos dois casos</p></div>
 <div class="promessa-bloco"><span class="promessa-rotulo">Salário dos "hipersuficientes"</span><p>Agência Brasil: R$ 21.188,87. A Tarde: R$ 21.888,88. A regra da emenda é 2,5 vezes o teto do INSS, que em 2026 dá cerca de R$ 21.188,88. O número do A Tarde não bate com a conta</p></div>
-<div class="promessa-bloco"><span class="promessa-rotulo">Divisor do salário-hora no decreto</span><p>InfoMoney, antes da assinatura: o decreto deve fixar o divisor 200 para calcular o salário-hora. Diário do Centro do Mundo, citando a Folha de S.Paulo: o governo "estuda" o divisor 210 enquanto a semana tiver 42 horas e 200 quando chegar a 40. Só o texto publicado vai dizer qual vale</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">Folgas distribuídas no mês</span><p>Migalhas e InfoMoney: a distribuição das folgas no mês é uma exceção que depende de acordo ou convenção coletiva, com pelo menos uma folga por semana. NC News: empresas que não conseguirem dar duas folgas na mesma semana podem garantir pelo menos oito no mês, sem citar o acordo coletivo. O texto do decreto no Diário Oficial é o que vale</p></div>
 <div class="promessa-bloco"><span class="promessa-rotulo">Dia do destaque de Fux</span><p>CNN Brasil, Contábeis, Enfoque MS e Diário do Centro do Mundo: sábado, 14 de novembro. TV Sim Brasil: sexta, 13 de novembro. A CNN informa que Dino publicou sua defesa na manhã de sábado, antes do destaque, o que reforça o dia 14</p></div>
 <div class="promessa-bloco"><span class="promessa-rotulo">Placares</span><p>A matéria da Agência Câmara sobre a promulgação não traz placares. Os números de maio vêm da Agência Câmara de 27 de maio, e os do Senado, da Agência Senado e da Agência Brasil</p></div>
 <div class="promessa-bloco"><span class="promessa-rotulo">Limite do MEI</span><p>A Agência Brasil cita o aumento do limite de faturamento do MEI junto com a emenda. Esse aumento está em outra lei, a do Prospera MEI, e não no texto da Emenda 141</p></div>
@@ -206,7 +218,7 @@ Nenhuma dessas divergências muda o essencial: todas as fontes concordam que a e
 
 - **Quando o STF vai julgar:** o caso vai para o plenário presencial, sem data marcada. Como o julgamento será o definitivo, os ministros podem manter ou derrubar pontos da liminar e até da própria Emenda 141.
 - **Se o julgamento sai antes de 16 de dezembro:** se não sair, a primeira etapa começa com as regras da liminar.
-- **O texto do decreto do governo:** a assinatura foi marcada para 19 de novembro, mas o conteúdo ainda não foi divulgado, incluindo a regra de cálculo do salário-hora.
+- **O número do decreto e as portarias:** as reportagens não informam o número nem a edição do Diário Oficial. As portarias para categorias especiais, como comércio aos domingos e turnos contínuos, ainda não foram publicadas.
 - **A regulamentação no Congresso:** o STF deu 180 dias para regras de micro e pequenas empresas e de atividades com escalas diferentes.
 - **O texto da PEC paralela:** quais categorias entram, o que muda para cada uma e se ela terá as assinaturas necessárias.
 - **O decreto e o projeto de lei do governo:** foram citados pela Exame, mas não encontramos os textos.
@@ -244,6 +256,7 @@ Nenhuma dessas divergências muda o essencial: todas as fontes concordam que a e
 - Em 12 de novembro, o ministro Flávio Dino negou o adiamento pedido pela CNC e pela CNI nas ADIs 8041 e 8042, permitiu jornadas de 8h24 em cinco dias sem hora extra na transição, deixou a negociação coletiva definir quando a folga é tirada, deu 90 dias para renegociar acordos e 180 dias para o Congresso regulamentar casos especiais.
 - Até 14 de novembro, quatro ministros votaram para manter a liminar (Dino, Moraes, Cármen Lúcia e Gilmar Mendes). No mesmo dia, o ministro Luiz Fux pediu destaque: os votos deixam de contar, o caso vai para o plenário presencial, ainda sem data, e a liminar continua valendo.
 - Em 17 de novembro, Dino decidiu que o plenário presencial vai julgar o mérito das ações, de forma definitiva. Câmara, Senado e entidades têm 5 dias para se manifestar, e depois a AGU e a PGR têm 2 dias cada.
+- Em 19 de novembro, Lula assinou o decreto que regulamenta a mudança: o divisor do salário-hora passa de 220 para 210 em 16 de dezembro de 2026 e para 200 em 16 de dezembro de 2027.
 - Empresários dizem que a decisão fez pouco. Seis centrais sindicais e as advocacias da Câmara e do Senado criticam pontos como a jornada de 8h24 sem acordo e a flexibilização das folgas.
 - O trabalhador passa a ter dois dias de descanso remunerado por semana, um deles preferencialmente no domingo, sem redução de salário.
 - Ficam de fora servidores públicos, autônomos e, nas condições previstas, empregados com diploma superior que ganham ao menos 2,5 vezes o teto do INSS.
@@ -285,6 +298,12 @@ Nenhuma dessas divergências muda o essencial: todas as fontes concordam que a e
 - TV Sim Brasil, "Fux interrompe julgamento e zera votação sobre fim da escala 6x1" (novembro de 2026)
 - Tribuna do Sertão, com Agência O Globo, "Fim da escala 6x1: Fachin pode pautar julgamento no STF ainda nesta semana" (16 de novembro de 2026)
 - TAGD Advogados, "STF vai julgar 6x1 em sessão presencial após quatro votos a favor de liminar e destaque de Fux" (novembro de 2026)
+- Planalto, "'O que estamos fazendo é humanizar o mundo do trabalho', diz Lula ao assinar decreto que regulamenta o fim da escala 6x1" (19 de novembro de 2026)
+- Migalhas, "Lula assina decreto que regulamenta o fim da escala 6x1" (19 de novembro de 2026)
+- InfoMoney, "Entenda o decreto que regulamenta o fim da escala 6x1" (19 de novembro de 2026)
+- NC News, "Lula assina decreto 6x1 que muda jornada para 5x2 em 16/12" (19 de novembro de 2026)
+- Jota, "Decreto que regulamenta o fim da escala 6x1 traz flexibilização para descanso semanal e divisor de horas extras" (19 de novembro de 2026)
+- ac24horas, com CNN Brasil, "Lula prevê 'confusão' e embates entre sindicatos e empresas com fim da 6x1" (19 de novembro de 2026)
 - Conjur, "Fim da escala 6x1 será julgado diretamente no mérito, decide Dino" (17 de novembro de 2026)
 - BM&C News, "Dino abre prazo de nove dias antes de levar ações sobre escala 6x1 ao plenário do STF" (17 de novembro de 2026)
 - Metrópoles, "5x2: Lula assinará decreto nesta 5ª com mecanismos para blindar salários" (18 de novembro de 2026)
