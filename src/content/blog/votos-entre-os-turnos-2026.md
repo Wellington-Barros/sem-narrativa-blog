@@ -2,6 +2,7 @@
 title: 'Como os votos mudaram do 1º para o 2º turno em 2026: o que os dados cidade por cidade mostram'
 description: 'Lula somou cerca de 10,4 milhões de votos entre os dois turnos e Flávio Bolsonaro cerca de 3,7 milhões. Veja onde a votação de Flávio mais caiu, como ler esses números e o que eles não provam.'
 pubDate: 'Oct 26 2026'
+updatedDate: 'Nov 22 2026'
 category: 'Fato ou Narrativa'
 heroImage: '../../assets/capa-votos-entre-os-turnos-2026.jpg'
 ---
@@ -9,6 +10,13 @@ heroImage: '../../assets/capa-votos-entre-os-turnos-2026.jpg'
 Depois do segundo turno, circulou nas redes uma análise do perfil Radar do Voto que compara, cidade por cidade, a votação dos dois turnos de 2026. Ela mostra, por exemplo, que a parcela de Flávio Bolsonaro (PL) caiu em todos os estados e que Lula (PT) ficou com a maior parte dos votos novos.
 
 Este artigo reúne esses dados, explica **como ler cada número** e separa o que eles mostram do que eles **não** provam. Ele não defende candidato nem afirma por que cada eleitor votou como votou.
+
+## Resumo rápido
+
+- **Entre os turnos,** Lula ganhou cerca de **10,4 milhões** de votos e Flávio Bolsonaro cerca de **3,7 milhões**, pelos totais do TSE.
+- **De onde vieram os votos novos:** cerca de 9,3 milhões dos outros candidatos do 1º turno e cerca de 4,8 milhões de mais comparecimento e de menos brancos e nulos.
+- **A parcela de Flávio entre os dois candidatos** caiu de 51,0% para 48,2% no país e, segundo o levantamento do Radar do Voto, caiu em todos os 27 estados.
+- **O limite:** os dados mostram onde os votos mudaram, mas não quem votou em quem nem por quê.
 
 ## De onde vêm os dados
 
@@ -87,6 +95,21 @@ No país todo, segundo o levantamento:
 - **O motivo da mudança.** Uma queda maior em estados onde Flávio ia melhor pode ter muitas explicações, inclusive uma matemática: quando os votos dos outros candidatos se dividem, quem tinha a maior votação tende a se aproximar de 50% no segundo turno. Isso é uma hipótese, não algo testado nos dados.
 - **O peso de cada fato da campanha.** Debates, falas de aliados, comparecimento, estratégia de cada campanha e o desempenho do governo podem ter influenciado, mas os números não separam um do outro. Veja nossa análise sobre isso em [A virada no segundo turno de 2026](/blog/virada-segundo-turno-2026).
 - **Mudanças no eleitorado.** O comparecimento subiu cerca de 3 milhões de eleitores, e cidades com poucos votos variam muito de um turno para o outro.
+
+## Onde as versões não batem
+
+- **"+3,8 milhões" ou "+3,7 milhões" para Flávio?** O vídeo do Radar do Voto mostra 3,8 milhões. Pelos totais do TSE, a diferença é de 3.721.538. A diferença pode vir de arredondamento ou do momento em que os dados foram coletados.
+- **Queda de Flávio: 2,8 pontos ou alta de 1,2 ponto?** Pela parcela entre os dois candidatos, ele caiu de 51,0% para 48,2%. Pelos votos válidos, que no 1º turno incluíam outros candidatos, ele subiu de 47,03% para 48,21%. As duas contas estão certas, mas respondem a perguntas diferentes, e cada lado tende a citar a que mais lhe convém.
+
+## O que ainda não se sabe
+
+- Como os eleitores de Augusto Cury, Renan Santos e dos outros candidatos se dividiram no 2º turno. Só pesquisas pós-eleitorais poderiam estimar isso.
+- Quem são os cerca de 3 milhões de eleitores que foram votar no 2º turno sem ter ido no 1º.
+
+## Como ler
+
+- **Ao ver "o candidato caiu em todos os estados",** pergunte qual conta foi usada: parcela entre os dois ou votos válidos.
+- **Ao ver números por cidade,** lembre que cidades pequenas têm variações grandes com poucos votos.
 
 ## Perguntas para pensar
 

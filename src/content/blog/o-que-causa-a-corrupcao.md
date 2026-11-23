@@ -2,6 +2,7 @@
 title: 'O que causa a corrupção? Uma reflexão baseada em dados'
 description: 'Impunidade, falta de transparência, poder de decisão sem controle e cultura: veja o que as pesquisas apontam como causas da corrupção e o que isso tem a ver com a vida de todo mundo.'
 pubDate: 'Oct 06 2026'
+updatedDate: 'Nov 22 2026'
 category: 'Fato ou Narrativa'
 heroImage: '../../assets/capa-o-que-causa-a-corrupcao.jpg'
 ---
@@ -9,6 +10,14 @@ heroImage: '../../assets/capa-o-que-causa-a-corrupcao.jpg'
 Quase todo brasileiro tem uma opinião firme sobre corrupção. O que pouca gente para pra olhar é o que as pesquisas dizem sobre as causas dela.
 
 Duas explicações aparecem o tempo todo nas conversas. A primeira diz que corrupção é coisa de político. A segunda diz que é coisa de cultura, do "jeitinho" do brasileiro. Vamos colocar as duas ao lado dos dados.
+
+## Resumo rápido
+
+- **Onde o Brasil está:** no Índice de Percepção da Corrupção 2025, da Transparência Internacional, o país teve **35 pontos** de 100 e ficou em **107º entre 182 países**, abaixo da média mundial (42).
+- **O que o índice mede:** a percepção de especialistas e executivos, e não a quantidade real de corrupção.
+- **Causas mais citadas nos estudos:** impunidade, poder de decisão sem controle, excesso de burocracia e falta de transparência.
+- **O ponto mais disputado:** o peso da cultura. Há pesquisadores que defendem a explicação institucional e outros que encontram evidências culturais, e há quem veja uma combinação das duas.
+- **Custo:** as estimativas variam muito, de 1,38% a 2,3% do PIB (Fiesp, com dados de 2008) até valores maiores, porque só se mede o que foi descoberto.
 
 ## Onde o Brasil está nesse debate
 
@@ -52,6 +61,23 @@ E a corrupção do dia a dia? Segundo o Barômetro Global da Corrupção da Amé
 
 Isso mostra que a percepção do problema e a experiência pessoal com propina não coincidem totalmente. A corrupção de grande escala, que não passa pelo balcão do cidadão comum, é parte importante da discussão.
 
+## Onde as versões não batem
+
+- **Percepção não é medida direta.** Quando o Brasil cai no índice, isso pode refletir mais casos, mais casos descobertos ou mais desconfiança dos avaliadores. O índice não separa essas coisas, e por isso governos e oposição costumam usá-lo de formas opostas.
+- **O custo da corrupção.** Os valores citados vão de dezenas a centenas de bilhões de reais por ano, conforme a metodologia e o ano dos dados. Nenhuma das estimativas é oficial.
+- **Experiência e percepção.** Só 11% dos brasileiros disseram ter pago propina no ano anterior (Barômetro de 2019), um dos menores percentuais da região, mas a percepção de corrupção no país é alta. As duas medidas olham para coisas diferentes: a pequena corrupção do balcão e a grande corrupção, que o cidadão não vê.
+
+## O que ainda não se sabe
+
+- Quanto dinheiro a corrupção realmente custa ao país. Por definição, a parte não descoberta não aparece em nenhuma estatística.
+- Qual é o peso exato de cada causa. Os estudos apontam fatores, mas não conseguem separar com precisão o efeito de cada um.
+
+## Como ler
+
+- **Ao ver o Brasil subir ou cair no ranking,** lembre que diferenças de um ou dois pontos podem estar dentro da margem do próprio índice.
+- **Ao ver alguém dizer que a corrupção "é cultural",** pergunte em que estudo a afirmação se baseia, e o mesmo vale para quem diz que é "só institucional".
+- **Ao ver um valor de prejuízo,** confira a fonte, o ano e o método.
+
 ## Perguntas para pensar
 
 - Quando alguém "dá um jeitinho", onde termina o favor e começa o privilégio injusto?
@@ -77,3 +103,5 @@ Não existe resposta única, e este espaço não vai dar uma. O objetivo é que 
 - Jornal da USP, entrevista com o professor Gustavo Assed sobre impunidade e percepção da corrupção
 - Fiesp, estudo sobre o custo da corrupção no Brasil
 - Transparência Internacional, Barômetro Global da Corrupção, América Latina e Caribe (2019)
+
+Veja também: [Linha do tempo das emendas parlamentares](/blog/linha-do-tempo-emendas-parlamentares), [O que é foro privilegiado](/blog/foro-privilegiado) e [Como funcionam as emendas parlamentares](/blog/emendas-parlamentares).

@@ -2,12 +2,20 @@
 title: 'Linha do tempo: a corrida eleitoral de 2026'
 description: 'Da liderança de Lula nas pesquisas no início do ano, passando pelo primeiro turno surpreendente, até a reeleição no segundo turno, entenda a cronologia da eleição presidencial de 2026.'
 pubDate: 'Oct 05 2026'
-updatedDate: 'Oct 26 2026'
+updatedDate: 'Nov 22 2026'
 category: 'Linha do Tempo'
 heroImage: '../../assets/capa-linha-do-tempo-eleicao-2026.jpg'
 ---
 
 A eleição presidencial de 2026 foi decidida no segundo turno, no domingo (25 de outubro): Lula (PT) foi reeleito, derrotando Flávio Bolsonaro (PL). O caminho até aqui teve uma virada em relação às pesquisas do início do ano e um primeiro turno que surpreendeu boa parte do país. Vamos reconstruir como chegamos até aqui.
+
+## Resumo rápido
+
+- **Janeiro:** Lula liderava as pesquisas, com 35% contra 26% de Flávio Bolsonaro (Quaest).
+- **1º turno (4 de outubro):** Flávio terminou na frente, com **47,03%** dos votos válidos, contra **45,16%** de Lula. A abstenção passou de 33 milhões de pessoas, o maior número absoluto numa eleição presidencial.
+- **2º turno (25 de outubro):** Lula venceu com **51,79%**, contra **48,21%**, uma diferença de mais de 4,4 milhões de votos.
+- **Inédito:** foi a primeira vez desde a redemocratização que quem liderou o 1º turno perdeu o 2º.
+- **No dia da votação:** o ministro Cristiano Zanin prorrogou o horário até as 19h, mas só para as seções que ainda estavam abertas.
 
 ## O contexto de partida
 
@@ -69,11 +77,40 @@ Perto do fechamento das urnas, às 17h, a coligação de Lula pediu ao STF a pro
 
 O ministro Cristiano Zanin, do STF, determinou que a votação seguisse até as 19h (horário de Brasília) em todo o país. Depois, Zanin esclareceu, e o TSE orientou os tribunais regionais, que a extensão valia **apenas para as seções que ainda estavam abertas**. Urnas já encerradas às 17h não foram reabertas. O Ministério Público Eleitoral havia se manifestado contra a prorrogação, e a totalização dos votos foi pausada até depois das 19h.
 
-Até a publicação desta atualização, as fontes consultadas não relatavam contestação formal do resultado.
+## Depois do segundo turno
+
+- **26 de outubro:** o PL, partido de Flávio Bolsonaro, reconheceu o resultado em nota assinada pelo presidente da legenda, Valdemar Costa Neto.
+- **25 a 27 de outubro:** segundo reportagens, o STF havia determinado a entrega dos passaportes de Flávio à Polícia Federal. O senador deixou o país com a esposa e as filhas e chegou aos Estados Unidos, o que foi confirmado pela agência Reuters. O governo americano informou que concederia vistos a ele e à família. Os detalhes da saída, e se houve ajuda de governos estrangeiros, são alvo de questionamentos no Brasil e no Congresso americano; Flávio nega ter recebido ajuda.
+- **28 de outubro:** dos Estados Unidos, Flávio divulgou uma carta em que se declara "verdadeiro presidente eleito" e alega, **sem apresentar provas**, que houve fraude. Ele afirmou que pretende liderar a oposição a partir do exterior.
+- **Pesquisa pós-eleitoral:** levantamento da Quaest feito de 30 de outubro a 2 de novembro (2.004 entrevistas, margem de 2 pontos) mostrou que **61%** consideram a eleição limpa e justa e **30%** acreditam em fraude. Entre os eleitores de Flávio no 2º turno, **64%** disseram acreditar em fraude. Para 59% dos entrevistados, é errado Flávio questionar o resultado.
 
 ## O que vem agora
 
-Com o resultado definido, a sequência é a diplomação do presidente eleito e a posse, prevista para 1º de janeiro de 2027.
+Com o resultado definido, a sequência é a diplomação do presidente eleito pela Justiça Eleitoral e a posse, prevista para 1º de janeiro de 2027. As auditorias oficiais do dia da votação, como o Teste de Integridade, não encontraram divergências, como explicado no artigo sobre a [segurança das urnas](/blog/urnas-eletronicas-seguranca).
+
+## Onde as versões não batem
+
+- **51,74% ou 51,79%?** Alguns veículos publicaram percentuais da apuração parcial, como os 51,74% citados pela BM&C News. O número final da totalização do TSE é 51,79%.
+- **Os números de abstenção e brancos do 1º turno** variam alguns milhares entre as fontes (por exemplo, 33.469.244 ou 33.466.783 ausentes), conforme o momento da apuração em que foram coletados. A diferença não muda nenhuma conclusão.
+- **A prorrogação do horário.** A primeira notícia foi de prorrogação "em todo o país". Depois, Zanin e o TSE esclareceram que valia só para as seções ainda abertas, e isso gerou informações desencontradas durante a tarde.
+
+## O que ainda não se sabe
+
+- Por que tantos eleitores mudaram de voto ou de comportamento entre os turnos. Como o voto é secreto, só há indícios, discutidos no artigo sobre a [virada no 2º turno](/blog/virada-segundo-turno-2026).
+- Como será a relação do governo reeleito com o novo Congresso, que toma posse em fevereiro de 2027.
+- Se Flávio Bolsonaro vai voltar ao Brasil e qual será a situação dele nas investigações em curso.
+
+## Como ler
+
+- **Ao ver um resultado,** confira se ele é parcial ou da totalização final do TSE.
+- **Ao ver "recorde de abstenção",** confira se a comparação é em número absoluto ou em percentual. Com o eleitorado crescendo, números absolutos tendem a subir.
+- **Ao ver alegações sobre urnas,** os boletins de cada seção estão publicados pelo TSE e podem ser conferidos.
+
+## Perguntas para pensar
+
+- As pesquisas do começo do ano erraram ou o cenário mudou ao longo da campanha?
+- A prorrogação do horário de votação deveria ter regras mais claras e definidas antes da eleição?
+- O que explica tanta gente deixar de votar mesmo com o voto obrigatório?
 
 ## Fatos Relevantes
 
@@ -82,6 +119,7 @@ Com o resultado definido, a sequência é a diplomação do presidente eleito e 
 - A abstenção do primeiro turno bateu recorde histórico, com mais de 33 milhões de eleitores ausentes.
 - No segundo turno, em 25 de outubro, Lula foi reeleito com 51,79% dos votos válidos, contra 48,21% de Flávio Bolsonaro, segundo a totalização do TSE.
 - O ministro Zanin (STF) prorrogou a votação até as 19h, mas só para as seções ainda abertas. Urnas já encerradas não foram reabertas.
+- Depois da derrota, Flávio Bolsonaro foi para os Estados Unidos e alegou fraude, sem provas. O PL reconheceu o resultado. Segundo a Quaest, 61% dos brasileiros consideram a eleição limpa e justa.
 
 ## Fontes consultadas para este artigo
 
@@ -97,3 +135,7 @@ Com o resultado definido, a sequência é a diplomação do presidente eleito e 
 - Bahia Notícias, "TSE define que urnas fechadas não podem ser reabertas após prorrogação da votação"
 - InfoMoney, "AO VIVO: Zanin diz que prorrogação até 19h vale apenas para urnas abertas"
 - Wikipédia, verbete "Eleição presidencial no Brasil em 2026"
+- Correio 24 Horas, Correio da Manhã (com Reuters), BP Money, SBT News e Times Brasil (com o New York Times), sobre a viagem de Flávio Bolsonaro e a carta de 28 de outubro
+- Quaest, "O Brasil depois das urnas", via Estado de Minas, O Liberal e Viva (novembro de 2026)
+
+Veja também: [A virada no 2º turno de 2026](/blog/virada-segundo-turno-2026), [Como os votos mudaram entre os turnos](/blog/votos-entre-os-turnos-2026) e [Voto nulo e voto em branco](/blog/voto-nulo-e-voto-em-branco).

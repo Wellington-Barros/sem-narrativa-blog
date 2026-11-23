@@ -1,63 +1,109 @@
 ---
 title: 'Linha do tempo: a saga do foro privilegiado'
-description: 'Como o entendimento sobre o foro privilegiado no STF mudou ao longo dos anos, da restrição de 2018 até a reviravolta de 2025, e o que está em jogo na PEC que tramita há quase uma década.'
+description: 'Como o foro privilegiado mudou no STF e no Congresso: da restrição de 2018 à mudança de 2025, os recursos julgados em maio de 2026 e a PEC que o Senado aprovou em 2017 e a Câmara nunca votou.'
 pubDate: 'Oct 05 2026'
+updatedDate: 'Nov 22 2026'
 category: 'Linha do Tempo'
 heroImage: '../../assets/capa-linha-do-tempo-foro-privilegiado.jpg'
 ---
 
-Já explicamos [o que é o foro privilegiado](/blog/foro-privilegiado) aqui no blog. Agora, vamos reconstruir como esse entendimento mudou ao longo do tempo, em um vaivém que já dura quase uma década.
+Já explicamos [o que é o foro privilegiado](/blog/foro-privilegiado) aqui no blog. Agora, vamos reconstruir como as regras mudaram ao longo do tempo, num vaivém entre STF e Congresso que já dura quase uma década.
 
-## 2018: o ano da grande restrição
+## Resumo rápido
 
-Em maio de 2018, o STF restringiu as regras do foro para deputados federais e senadores.
+- **2017:** o Senado aprova uma PEC que acaba com o foro para crimes comuns de quase todas as autoridades. Na Câmara, ela vira a PEC 333/2017 e nunca é votada no plenário.
+- **Maio de 2018:** o STF restringe o foro a crimes cometidos **durante o cargo e por causa dele**.
+- **Março de 2025:** o STF decide que o foro **continua depois da saída do cargo** para esses crimes.
+- **Maio de 2026:** ao julgar recursos da PGR, o STF confirma a regra e a estende expressamente a cargos vitalícios. O ministro Luiz Fux fica vencido.
+- **Um padrão político:** grupos de lados diferentes já defenderam o fim do foro quando estavam sob investigação, e a manutenção quando não estavam.
 
-Em novembro daquele ano, a Corte foi além. No julgamento da AP 937-QO, sob relatoria do ministro Roberto Barroso, o STF fixou a chamada **regra da contemporaneidade**: o foro passaria a valer apenas para crimes cometidos durante o exercício do cargo e relacionados às funções do cargo, não bastando apenas estar diplomado.
+## Até 2018: o "elevador processual"
 
-Na prática, isso significava que, ao final do mandato, o processo saía do tribunal superior e ia para a primeira instância da Justiça comum.
+Pela regra antiga, o foro valia enquanto a autoridade ocupasse o cargo, para qualquer crime, inclusive os cometidos antes do mandato. Quando a pessoa saía do cargo, o processo descia para a primeira instância; se ela assumisse outro cargo com foro, subia de novo. O vaivém atrasava os julgamentos e aumentava o risco de prescrição.
 
-## Dezembro de 2018: nasce a PEC que ainda não foi votada
+## 2017: a PEC que o Senado aprovou
 
-Ainda em 2018, a Câmara dos Deputados debateu uma proposta mais radical. A **PEC 333/2017** propôs extinguir o foro privilegiado para crimes comuns, restringindo-o apenas aos presidentes da República, da Câmara, do Senado e do STF.
+Em **maio de 2017**, o Senado aprovou uma proposta de emenda à Constituição que acaba com o foro para crimes comuns, mantendo-o só para o presidente e o vice-presidente da República e os presidentes da Câmara, do Senado e do STF. Na Câmara, a proposta recebeu o número **PEC 333/2017**.
 
-O parecer foi aprovado em comissão e, posteriormente, a proposta também avançou no Senado. Porém, até hoje, **ela nunca foi votada no plenário da Câmara dos Deputados**, onde segue parada.
+## Maio de 2018: o STF restringe o foro
 
-## Julho de 2025: o STF muda de posição
+Em **3 de maio de 2018**, ao julgar uma questão de ordem na **Ação Penal 937**, relatada pelo ministro Luís Roberto Barroso, o STF decidiu que o foro de deputados federais e senadores vale apenas para crimes cometidos **durante o exercício do cargo e relacionados às funções**. O tribunal também fixou que, depois do fim da instrução do processo, ele não muda mais de tribunal.
 
-Em julgamento concluído em março de 2025 e publicado em julho daquele ano, o STF **reverteu parte do entendimento de 2018**. No Habeas Corpus 232.627, sob relatoria do ministro Gilmar Mendes, a Corte decidiu, por **7 votos a 4**, que o foro continua valendo mesmo depois que a pessoa deixa o cargo, desde que o crime tenha sido cometido durante o mandato e em razão da função.
+Na prática, crimes anteriores ao mandato ou sem relação com ele passaram para a primeira instância. E, ao fim do mandato, os processos continuavam descendo.
 
-Essa decisão representou uma mudança significativa em relação à jurisprudência consolidada em 2018.
+## Dezembro de 2018: a PEC avança na Câmara, e para
 
-## 2025: Bolsonaro muda de lado no debate
+Em **dezembro de 2018**, uma comissão especial da Câmara aprovou o parecer favorável à PEC 333/2017. A proposta, porém, nunca foi colocada em votação no plenário, onde precisaria de 308 votos em dois turnos.
 
-O mesmo ano trouxe uma reviravolta política interessante. Depois de se tornar réu no STF pela tentativa de golpe de Estado (processo que já detalhamos na nossa [linha do tempo sobre o 8 de janeiro](/blog/linha-do-tempo-8-de-janeiro)), o ex-presidente Jair Bolsonaro passou a declarar apoio à PEC que acabaria com o foro privilegiado.
+## Março de 2025: o STF muda de posição
 
-A movimentação, liderada por aliados como o senador Flávio Bolsonaro, buscava uma forma de tirar os processos de Jair Bolsonaro da relatoria do ministro Alexandre de Moraes no STF, transferindo-os para a primeira instância da Justiça.
+Ao julgar o **Habeas Corpus 232.627**, relatado pelo ministro Gilmar Mendes, o STF decidiu, por maioria, que o foro **continua valendo depois que a pessoa deixa o cargo**, para crimes cometidos no cargo e em razão dele, mesmo que o inquérito ou o processo comece depois. A decisão foi concluída em março e o acórdão foi publicado em julho de 2025.
 
-Vale registrar: esse é um padrão observado há anos no debate sobre foro privilegiado no Brasil, diferentes grupos políticos defendem sua extinção quando estão sob investigação, e sua manutenção quando não estão.
+O argumento central foi acabar com o "elevador processual". Críticos apontaram que a mudança ampliou o foro na contramão de 2018 e veio pouco antes de o próprio STF julgar o ex-presidente Jair Bolsonaro.
 
-## Dezembro de 2025: um capítulo relacionado
+## 2025: o debate político muda de lado
 
-No mesmo período, o ministro Gilmar Mendes (o mesmo relator da decisão de julho de 2025 sobre foro) também decidiu, monocraticamente, sobre outro tema conexo: restringir à Procuradoria-Geral da República a exclusividade para pedir impeachment de ministros do STF, tema que já cobrimos no nosso [artigo sobre decisões monocráticas](/blog/decisoes-monocraticas-stf).
+Depois de se tornar réu no STF pela tentativa de golpe de Estado (processo detalhado na nossa [linha do tempo do 8 de janeiro](/blog/linha-do-tempo-8-de-janeiro)), Jair Bolsonaro e aliados, como o senador Flávio Bolsonaro, passaram a defender a PEC do fim do foro. Na prática, isso tiraria processos de Bolsonaro do STF e os levaria para a primeira instância.
 
-## Maio de 2026: o STF detalha a nova regra
+Esse movimento não é novo nem exclusivo de um lado: ao longo dos anos, políticos de partidos diferentes mudaram de posição sobre o foro conforme a própria situação nos processos.
 
-Depois de um pedido de esclarecimentos da PGR, o STF confirmou, em maio de 2026, os detalhes práticos da decisão de 2025: quem exerceu um cargo com foro continua sendo julgado no tribunal superior pelos crimes cometidos naquele período, mesmo após deixar a função.
+## Maio de 2026: o STF julga os recursos da PGR
 
-## Hoje: a PEC segue parada, mas com nova força
+A Procuradoria-Geral da República apresentou **embargos de declaração** pedindo que o STF esclarecesse o alcance da nova regra e não a aplicasse a processos em fase final. O julgamento começou no plenário virtual em dezembro de 2025, foi suspenso por um pedido de vista do ministro Luiz Fux e terminou em maio de 2026.
 
-A PEC do fim do foro privilegiado voltou ao centro do debate em Brasília, entrando na lista de prioridades do Congresso depois de episódios de obstrução entre governo e oposição. Mesmo assim, até a publicação deste artigo, ela **ainda aguarda votação no plenário da Câmara**, quase uma década depois de sua criação.
+Prevaleceu o voto de Gilmar Mendes, acompanhado por Flávio Dino, Alexandre de Moraes, Cristiano Zanin, Dias Toffoli e Nunes Marques:
+
+- o foro continua após renúncia, aposentadoria ou fim do mandato, para crimes ligados à função;
+- a regra vale também para **cargos vitalícios**, como juízes e membros do Ministério Público;
+- os atos praticados com base no entendimento anterior continuam válidos;
+- o pedido da PGR para ampliar a modulação dos efeitos foi rejeitado.
+
+Fux, que ficou vencido, propôs manter os processos avançados onde estavam e encerrar o foro com a saída do cargo, inclusive nos cargos vitalícios. Na mesma época, o STJ precisou fixar teses próprias sobre como aplicar a nova regra aos processos que julga.
+
+## Os dois lados do debate
+
+**Quem defende a regra atual** argumenta que ela dá estabilidade aos processos, que deixam de mudar de tribunal a cada eleição, e protege o cargo contra perseguições em instâncias locais.
+
+**Quem critica** argumenta que a regra amplia um privilégio que o próprio STF tinha reduzido em 2018, que tribunais superiores são lentos para conduzir processos criminais e que a mudança deveria ter sido feita pelo Congresso.
+
+## Onde as versões não batem
+
+- **"Julho de 2025."** Algumas fontes datam a mudança do STF em julho de 2025, quando o acórdão foi publicado. O julgamento terminou em março.
+- **"O STF acabou com o foro em 2018."** Não acabou: restringiu.
+- **"A PEC do fim do foro foi aprovada."** Foi aprovada no Senado em 2017, mas não na Câmara. Não está em vigor.
+
+## O que ainda não se sabe
+
+- Se a Câmara vai votar a PEC 333/2017 ou outra proposta sobre o foro.
+- Quantos processos mudaram de tribunal por causa das decisões de 2025 e 2026.
+
+## Como ler
+
+- **Ao ver uma notícia sobre foro,** confira de qual momento ela fala: 2018, 2025 ou 2026. As regras mudaram em cada um.
+- **Ao ver um político defendendo o fim do foro,** observe se ele mesmo responde a processo, e compare com o que ele dizia antes.
+
+## Perguntas para pensar
+
+- O foro deveria acabar, ser restrito a poucos cargos ou continuar como está?
+- É coerente defender o fim do foro só quando se está sendo investigado?
+- Quem deve definir essas regras: o Congresso ou o STF?
 
 ## Fatos Relevantes
 
-- Em 2018, o STF restringiu o foro privilegiado a crimes cometidos durante o mandato e em razão da função (regra da contemporaneidade).
-- A PEC que extinguiria o foro para a maioria dos cargos, mantendo-o só para chefes dos Três Poderes, existe desde 2017 e nunca foi votada no plenário da Câmara.
-- Em julho de 2025, o STF reverteu parte do entendimento de 2018, por 7 votos a 4, mantendo o foro mesmo após o fim do mandato para crimes cometidos no cargo.
-- Jair Bolsonaro passou a defender o fim do foro privilegiado em 2025, depois de se tornar réu no STF, mudança de postura frequentemente observada em outros políticos ao longo da história recente desse debate.
+- Maio de 2017: o Senado aprova a PEC do fim do foro; na Câmara, ela vira a PEC 333/2017.
+- 3 de maio de 2018: o STF restringe o foro a crimes cometidos no cargo e por causa dele (AP 937).
+- Dezembro de 2018: comissão especial da Câmara aprova a PEC 333/2017, que nunca foi ao plenário.
+- Março de 2025: o STF mantém o foro após a saída do cargo para crimes funcionais (HC 232.627).
+- Maio de 2026: o STF rejeita a ampliação da modulação pedida pela PGR e estende a regra a cargos vitalícios; Fux vencido.
 
 ## Fontes consultadas para este artigo
 
-- Supremo Tribunal Federal, acórdão do Habeas Corpus 232.627/DF (julgamento de março de 2025, publicado em julho de 2025)
-- Supremo Tribunal Federal, AP 937-QO (2018), relatoria do ministro Roberto Barroso
+- Supremo Tribunal Federal, Ação Penal 937, questão de ordem (3 de maio de 2018)
+- Supremo Tribunal Federal, Habeas Corpus 232.627/DF (julgamento de março de 2025, acórdão publicado em julho de 2025)
+- Conjur, "STF rejeita embargos e mantém foro especial mesmo após saída do cargo" (25 de maio de 2026)
+- CartaCapital, Congresso em Foco e Estadão Conteúdo, sobre os votos de Gilmar Mendes e Luiz Fux (maio de 2026)
+- Migalhas, sobre as teses do STJ (maio de 2026)
 - Tramitação da PEC 333/2017, Câmara dos Deputados e Senado Federal
-- CNN Brasil, Politize! e Gazeta do Povo, cobertura sobre o histórico e a tramitação da PEC do foro privilegiado
+- CNN Brasil, Politize! e Gazeta do Povo, cobertura sobre o histórico da PEC do foro privilegiado
+
+Veja também: [O que é foro privilegiado](/blog/foro-privilegiado), [Como funciona uma PEC](/blog/pec-como-funciona) e [Decisões monocráticas do STF](/blog/decisoes-monocraticas-stf).

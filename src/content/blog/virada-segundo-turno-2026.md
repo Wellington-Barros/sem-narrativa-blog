@@ -2,6 +2,7 @@
 title: 'A virada no segundo turno de 2026: o que os fatos mostram e o que ninguém sabe ainda'
 description: 'Flávio Bolsonaro venceu o primeiro turno e perdeu o segundo para Lula, algo inédito desde a redemocratização. Veja os números, os episódios da campanha, o que as pesquisas diziam e o que os analistas apontam, sem afirmar uma causa única.'
 pubDate: 'Oct 26 2026'
+updatedDate: 'Nov 22 2026'
 category: 'Fato ou Narrativa'
 heroImage: '../../assets/capa-virada-segundo-turno-2026.jpg'
 ---
@@ -9,6 +10,13 @@ heroImage: '../../assets/capa-virada-segundo-turno-2026.jpg'
 No primeiro turno de 2026, Flávio Bolsonaro (PL) terminou na frente de Lula (PT). No segundo turno, Lula venceu e foi reeleito. Logo depois do resultado, começou a disputa de explicações: quem culpa uma fala, quem culpa o estilo da campanha, quem aponta outros fatores.
 
 Este artigo reúne os **fatos que já estão documentados**, os números e as hipóteses que analistas levantam. Ele **não afirma qual foi a causa da derrota nem defende candidato**. Como o voto é secreto, ninguém consegue provar com certeza por que milhões de pessoas mudaram ou mantiveram a escolha.
+
+## Resumo rápido
+
+- **O fato:** Flávio Bolsonaro liderou o 1º turno (47,03% a 45,16%) e perdeu o 2º para Lula (51,79% a 48,21%). Segundo levantamentos da imprensa, é a primeira vez desde a redemocratização que isso acontece.
+- **Os números:** entre os turnos, Lula ganhou cerca de 10,4 milhões de votos e Flávio cerca de 3,7 milhões. O comparecimento também aumentou.
+- **A campanha:** houve episódios documentados, como o debate da Band, as provocações nos bastidores e falas de Pablo Marçal e Renan Santos, mas **nenhuma pesquisa isolou o efeito de cada um**.
+- **O que não se sabe:** por que cada eleitor mudou ou manteve o voto. O voto é secreto e nenhuma causa única está provada.
 
 ## O fato: uma virada inédita
 
@@ -87,12 +95,24 @@ Aqui entram **interpretações**, e não fatos.
 
 Os dois grupos têm argumentos que fazem sentido para quem pensa assim. Este artigo não escolhe um deles.
 
+## Onde as versões não batem
+
+- **"Flávio perdeu por causa de Marçal" ou "por causa do debate".** São hipóteses. Fontes anônimas da campanha apontaram esses fatores, mas não há dado que meça o peso de cada um.
+- **"Flávio cresceu no 2º turno" ou "Flávio caiu no 2º turno".** Pelos votos válidos, ele subiu de 47,03% para 48,21%. Pela parcela entre os dois candidatos, caiu de 51,0% para 48,2%. As duas contas estão certas e medem coisas diferentes.
+- **"Primeira virada da história."** A afirmação vale para as eleições presidenciais desde a redemocratização com 2º turno (de 1989 a 2026), segundo levantamentos da imprensa.
+
 ## O que ainda não sabemos
 
 - **Como cada eleitor votou e por quê.** O voto é secreto.
 - **O efeito de cada episódio.** Não há pesquisa pós-eleição conhecida que separe o peso das falas, do debate, do comparecimento e de outros fatores.
 
-Pesquisas pós-eleitorais de institutos como Datafolha e Quaest costumam sair nas semanas seguintes e podem trazer mais respostas. Este artigo pode ser atualizado quando houver dados.
+A primeira pesquisa pós-eleitoral da Quaest, feita de 30 de outubro a 2 de novembro, tratou principalmente da avaliação do resultado e do comportamento de Flávio depois da eleição: 61% consideraram a eleição limpa e justa. Ela não isolou o peso de cada episódio da campanha sobre o voto. Este artigo pode ser atualizado quando houver dados sobre isso.
+
+## Como ler
+
+- **Ao ver uma explicação única para o resultado,** pergunte em que dado ela se baseia.
+- **Ao ver relatos de bastidores,** lembre que fontes anônimas podem ter interesses dentro da própria campanha.
+- **Ao comparar percentuais dos dois turnos,** confira se a base é votos válidos ou só os dois candidatos.
 
 ## Perguntas para pensar
 
@@ -129,3 +149,5 @@ Não existe resposta única, e este espaço não vai dar uma.
 - Suno (prorrogação da votação por Zanin, 25 de outubro de 2026)
 
 Veja também: [Linha do tempo: a corrida eleitoral de 2026](/blog/linha-do-tempo-eleicao-2026) e [Voto nulo e voto em branco](/blog/voto-nulo-e-voto-em-branco).
+
+Veja também: [Como os votos mudaram entre os turnos](/blog/votos-entre-os-turnos-2026), [Linha do tempo da eleição de 2026](/blog/linha-do-tempo-eleicao-2026) e [As 106 urnas sem nenhum voto para Flávio Bolsonaro](/blog/urnas-zeradas-segundo-turno-2026).

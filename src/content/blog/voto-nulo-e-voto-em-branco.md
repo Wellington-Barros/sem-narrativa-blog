@@ -2,7 +2,7 @@
 title: 'Você sabe a diferença entre voto nulo e voto em branco? E por que eles existem?'
 description: 'Entenda de forma simples o que é voto nulo, o que é voto em branco, como cada um entra na contagem, por que eles existem e o que os números das últimas eleições mostram. Sem recomendar voto.'
 pubDate: 'Oct 24 2026'
-updatedDate: 'Oct 26 2026'
+updatedDate: 'Nov 22 2026'
 category: 'Como Funciona'
 heroImage: '../../assets/capa-voto-nulo-e-em-branco.jpg'
 ---
@@ -10,6 +10,13 @@ heroImage: '../../assets/capa-voto-nulo-e-em-branco.jpg'
 No domingo (25/10) aconteceu o segundo turno da eleição presidencial, e em toda eleição uma pergunta aparece em muita conversa: "e se eu votar nulo ou em branco, o que acontece?". Tem quem ache que é um direito, quem ache que é desperdício, e quem nem saiba direito qual é a diferença entre os dois.
 
 Este artigo explica o que cada um é, como entram na contagem e por que existem. **Ele não recomenda nem desaconselha nenhum tipo de voto**: a decisão é sua. O objetivo é que, seja qual for a sua escolha, você saiba o que ela significa.
+
+## Resumo rápido
+
+- **Branco:** o eleitor aperta a tecla BRANCO e confirma. **Nulo:** o eleitor digita um número que não existe e confirma.
+- **Na contagem:** nenhum dos dois é voto válido. Eles não ajudam nem prejudicam nenhum candidato e não vão para quem está na frente.
+- **Mito:** mais de 50% de votos nulos **não anulam** a eleição. A regra do Código Eleitoral sobre nova eleição trata de votos anulados por fraude ou outros vícios.
+- **Em 2026:** no 2º turno, brancos e nulos somaram mais de 4 milhões de votos, um pouco abaixo da diferença de 4,4 milhões entre Lula e Flávio Bolsonaro.
 
 ## A diferença em uma frase
 
@@ -91,6 +98,21 @@ Aqui entram argumentos que são **juízos de valor**, e não fatos. Vale conhece
 - Em uma disputa apertada, cada voto válido pesa mais.
 
 Os dois grupos têm argumentos que fazem sentido para quem pensa assim. Este artigo não escolhe um lado.
+
+## Onde as versões não batem
+
+- **Os números do 1º turno de 2026 variam um pouco entre as fontes.** Este artigo usa 33.466.783 ausentes e 2.300.704 votos em branco. Outros levantamentos, incluindo a nossa [linha do tempo da eleição](/blog/linha-do-tempo-eleicao-2026), citam 33.469.244 e 2.300.798. A diferença, de poucos milhares, vem do momento da apuração em que os dados foram coletados e não muda nenhuma conclusão.
+- **Percentual sobre o quê?** Brancos e nulos às vezes aparecem como percentual dos votos registrados e às vezes como percentual do eleitorado. Os números mudam bastante conforme a base.
+
+## O que ainda não se sabe
+
+- Quantos votos nulos foram protesto e quantos foram erro de digitação. A urna registra os dois do mesmo jeito.
+- Se a queda de brancos e nulos entre os turnos de 2026 se deve a eleitores que decidiram escolher um candidato ou a eleitores diferentes que foram votar.
+
+## Como ler
+
+- **Ao ver uma campanha pelo voto nulo dizendo que ele "anula a eleição",** lembre do artigo 224 do Código Eleitoral, explicado acima.
+- **Ao ver números de brancos e nulos,** confira a base do percentual e se o dado é parcial ou final.
 
 ## Perguntas para pensar
 
