@@ -1,91 +1,150 @@
 ---
 title: 'Linha do tempo: os atos de 8 de janeiro de 2023 e seus desdobramentos'
-description: 'Uma cronologia completa e factual dos atos golpistas de 8 de janeiro de 2023 em Brasília, dos julgamentos que vieram depois, e do debate sobre anistia que segue em aberto até hoje.'
+description: 'Uma cronologia factual dos atos de 8 de janeiro de 2023 em Brasília, das investigações, da condenação de Jair Bolsonaro e aliados, da Lei da Dosimetria, suspensa pelo STF, e do julgamento marcado para dezembro de 2026.'
 pubDate: 'Sep 23 2026'
+updatedDate: 'Nov 22 2026'
 category: 'Linha do Tempo'
 heroImage: '../../assets/capa-linha-do-tempo-8-de-janeiro.jpg'
 ---
 
-Poucos eventos recentes da história brasileira geram tanta discussão quanto o 8 de janeiro de 2023. Por isso mesmo, vale reconstruir os fatos com calma, na ordem em que aconteceram, sem adjetivos, sem narrativa pronta, só a sequência do que está documentado e confirmado por instituições oficiais.
+Poucos eventos recentes geram tanta discussão quanto o 8 de janeiro de 2023. Por isso, esta linha do tempo reconstrói os fatos na ordem em que aconteceram, com base em decisões judiciais, registros do Congresso e comunicados oficiais, e separa o que já foi decidido do que ainda está em aberto.
 
-## O que levou até aqui (outubro a dezembro de 2022)
+## Resumo rápido
 
-Em outubro de 2022, Luiz Inácio Lula da Silva (PT) venceu a eleição presidencial contra o então presidente Jair Bolsonaro (PL), por margem apertada, em segundo turno.
+- **O que aconteceu:** em 8 de janeiro de 2023, manifestantes invadiram e depredaram o Congresso, o Palácio do Planalto e o STF, em Brasília.
+- **Os participantes:** até abril de 2026, segundo o STF, **1.402 pessoas** tinham sido condenadas, somando penas de prisão, penas alternativas e acordos de não persecução penal.
+- **A "trama golpista":** em setembro de 2025, a Primeira Turma do STF condenou Jair Bolsonaro a **27 anos e 3 meses** de prisão. A condenação transitou em julgado em novembro de 2025.
+- **Onde está Bolsonaro:** depois de cumprir pena numa unidade da Polícia Militar no Complexo da Papuda, ele está em **prisão domiciliar humanitária** desde março de 2026, decisão mantida em julho.
+- **Lei da Dosimetria:** promulgada em maio de 2026 depois da derrubada do veto de Lula, permite reduzir penas. Foi **suspensa** pelo ministro Alexandre de Moraes no dia seguinte, e o STF marcou o julgamento da validade da lei para **dezembro de 2026**.
+- **Anistia:** não foi aprovada pelo Congresso.
 
-Nas semanas seguintes, começaram a se formar acampamentos em frente a quartéis do Exército em várias cidades do país, incluindo um grande acampamento em Brasília, montado numa área conhecida como Setor Militar Urbano. Segundo o relatório da CPMI (Comissão Parlamentar Mista de Inquérito) que investigou os atos, esse acampamento passou de cerca de 300 pessoas em 5 de janeiro de 2023 para 5.500 pessoas em 7 de janeiro, véspera dos atos.
+## Antes do 8 de janeiro (outubro a dezembro de 2022)
+
+- **30 de outubro de 2022:** Luiz Inácio Lula da Silva (PT) vence Jair Bolsonaro (PL) no 2º turno da eleição presidencial.
+- **Novembro e dezembro de 2022:** apoiadores de Bolsonaro mantêm acampamentos em frente a quartéis do Exército em várias cidades, incluindo o Quartel-General do Exército, em Brasília, pedindo intervenção militar.
+- **1º de janeiro de 2023:** Lula toma posse.
 
 ## O dia 8 de janeiro de 2023
 
-Foi um domingo. Por volta das 14h, um grupo de milhares de manifestantes que estava concentrado em frente ao Quartel-General do Exército se deslocou até a Esplanada dos Ministérios, escoltado pela Polícia Militar do Distrito Federal.
+Era um domingo. Ônibus com manifestantes chegaram a Brasília nos dias anteriores. À tarde, um grupo que estava concentrado no acampamento em frente ao QG do Exército caminhou até a Esplanada dos Ministérios, acompanhado pela Polícia Militar do Distrito Federal.
 
-Às 15h, na Praça dos Três Poderes, parte da multidão subiu as rampas de acesso e **invadiu simultaneamente os três prédios que representam os Três Poderes da República**: o Congresso Nacional, o Palácio do Planalto (sede do Executivo) e o Supremo Tribunal Federal.
+Na Praça dos Três Poderes, a multidão rompeu o bloqueio policial e invadiu os prédios do **Congresso Nacional**, do **Palácio do Planalto** e do **Supremo Tribunal Federal**. Os invasores quebraram vidros, móveis e equipamentos, danificaram obras de arte e objetos históricos e furtaram itens dos prédios.
 
-Os invasores depredaram obras de arte, quebraram vidros e móveis, destruíram computadores e documentos, e chegaram a roubar objetos dos prédios. As perdas materiais foram estimadas, na época, em mais de R$ 20 milhões.
+No fim da tarde, forças de segurança retomaram os prédios. Centenas de pessoas foram presas no local, e outras centenas no dia seguinte, quando o acampamento em frente ao QG foi desmontado.
 
-Cerca de uma hora depois do início da invasão, forças de segurança, incluindo tropas de cavalaria e a Polícia Federal, começaram a retomar os prédios. Em aproximadamente duas horas, os manifestantes foram totalmente retirados do Planalto e do STF.
+## As primeiras decisões
 
-## As primeiras horas depois
+- **8 de janeiro de 2023:** Lula, que estava em viagem a Araraquara (SP), decreta **intervenção federal na segurança pública do Distrito Federal** até 31 de janeiro.
+- **8 e 9 de janeiro:** o ministro Alexandre de Moraes, do STF, afasta o governador do DF, **Ibaneis Rocha**, por 90 dias, e determina a prisão de **Anderson Torres**, ex-ministro da Justiça de Bolsonaro, que era secretário de Segurança Pública do DF e estava nos Estados Unidos no dia dos atos. Ibaneis voltou ao cargo em março de 2023.
+- **14 de janeiro de 2023:** Anderson Torres é preso ao desembarcar no Brasil.
+- **19 de abril de 2023:** o general Gonçalves Dias deixa o comando do Gabinete de Segurança Institucional, depois da divulgação de imagens das câmeras do Planalto que o mostravam dentro do palácio durante a invasão.
 
-Ainda no mesmo dia, o presidente Lula (que estava viajando) decretou **intervenção federal na área de Segurança Pública do Distrito Federal**, válida até 31 de janeiro, e nomeou um interventor federal responsável por essa pasta.
+## As investigações
 
-Nos dias seguintes, duas medidas de destaque:
+- **Polícia Federal e STF:** passam a investigar quem invadiu os prédios, quem financiou e organizou a mobilização e quem teria se omitido.
+- **CPMI do 8 de janeiro:** a comissão mista de deputados e senadores foi instalada em **maio de 2023**. O relatório final, da senadora Eliziane Gama (PSD-MA), foi aprovado em **outubro de 2023** e pediu o indiciamento de Bolsonaro e de dezenas de outras pessoas. Parlamentares da oposição apresentaram um relatório paralelo, com outra versão sobre as responsabilidades.
 
-- O ministro Alexandre de Moraes (STF) determinou o **afastamento do governador do Distrito Federal, Ibaneis Rocha**, e a **prisão de Anderson Torres**, ex-ministro da Justiça de Bolsonaro que, no dia dos atos, ocupava o cargo de secretário de Segurança Pública do DF.
-- O então ministro-chefe do Gabinete de Segurança Institucional, general Gonçalves Dias, pediu demissão do cargo depois que imagens dele dentro do Palácio do Planalto durante a invasão vieram a público.
+## Os julgamentos de quem participou dos atos
 
-## As investigações começam
+A partir de 2023, os participantes passaram a ser processados no STF, em ações separadas, mas muitas vezes julgadas em sequência, no plenário virtual.
 
-Nos meses seguintes, duas frentes de investigação avançaram em paralelo:
+Segundo balanço do STF divulgado em **abril de 2026**, **1.402 pessoas** tinham sido condenadas pelos atos de 8 de janeiro:
 
-**1. A Polícia Federal e o STF** passaram a investigar quem participou diretamente dos atos, tanto quem invadiu os prédios quanto quem organizou e financiou a mobilização.
+- **431** com penas de prisão;
+- **419** com penas alternativas, sem prisão;
+- **552** que firmaram **acordos de não persecução penal**, em que o acusado cumpre condições, como prestação de serviços, em troca de não ser processado.
 
-**2. O Congresso Nacional instalou, em 25 de abril de 2023, uma CPMI** (Comissão Parlamentar Mista de Inquérito, formada por deputados e senadores) para investigar o financiamento dos atos e apurar responsabilidades políticas.
+Os crimes mais comuns nas condenações foram tentativa de abolição violenta do Estado democrático de direito, golpe de Estado, participação em organização criminosa armada, dano qualificado e deterioração de patrimônio tombado.
 
-## Os julgamentos das pessoas que participaram dos atos
+## A ação da "trama golpista"
 
-Ao longo de 2023, 2024 e 2025, milhares de pessoas identificadas nos atos de invasão foram processadas individualmente pelo STF, em julgamentos que costumam ser chamados de "julgamento em bloco" (vários casos semelhantes analisados em sequência).
+Em paralelo, a Procuradoria-Geral da República denunciou um grupo acusado de planejar, desde antes da eleição, a manutenção de Bolsonaro no poder. Segundo a acusação, o 8 de janeiro seria a etapa final desse plano. A denúncia foi dividida em núcleos. O principal, chamado de **Núcleo 1**, reunia Bolsonaro e sete aliados, entre generais e ex-ministros.
 
-Segundo balanço divulgado pelo próprio STF em abril de 2026, **1.402 pessoas foram condenadas** pelos atos de 8 de janeiro até aquele momento, divididas assim:
+- **26 de março de 2025:** a Primeira Turma do STF aceita a denúncia contra o Núcleo 1, por unanimidade, e os oito acusados viram réus.
+- **11 de setembro de 2025:** a Primeira Turma condena os réus do Núcleo 1, por 4 votos a 1 (o ministro Luiz Fux divergiu). Bolsonaro recebe a pena mais alta: **27 anos e 3 meses** de prisão, em regime inicial fechado. O tenente-coronel Mauro Cid, que fez acordo de colaboração premiada, recebe pena de 2 anos, em regime aberto.
+- **4 de agosto de 2025:** antes da condenação, Bolsonaro já cumpria **prisão domiciliar** por decisão de Moraes, que considerou descumpridas medidas cautelares anteriores.
+- **Novembro de 2025:** a Primeira Turma rejeita os primeiros recursos da defesa.
+- **22 de novembro de 2025:** Bolsonaro é **preso preventivamente** pela Polícia Federal, depois de indícios de violação da tornozeleira eletrônica. Segundo a defesa e reportagens, ele disse ter encostado um ferro de solda no aparelho por curiosidade.
+- **25 de novembro de 2025:** o STF certifica o **trânsito em julgado** da condenação, ou seja, o fim dos recursos, e começa o cumprimento da pena.
 
-- 431 receberam penas de prisão
-- 419 receberam penas alternativas (sem prisão)
-- 552 firmaram Acordos de Não Persecução Penal (ANPPs), um tipo de acordo disponível para crimes mais leves, em que o acusado cumpre condições (como prestação de serviços) em troca de não virar réu formalmente
+## 2026: onde e como Bolsonaro cumpre a pena
 
-A maioria dos condenados respondeu por crimes como tentativa de abolição violenta do Estado Democrático de Direito, golpe de Estado, participação em organização criminosa armada, dano qualificado e deterioração de patrimônio tombado.
+- **Janeiro de 2026:** depois de passar por cirurgias e ter um pedido de domiciliar negado, Bolsonaro é transferido, em 15 de janeiro, da Superintendência da PF para uma unidade da Polícia Militar do DF no **Complexo Penitenciário da Papuda**.
+- **2 e 6 de março de 2026:** Moraes nega novo pedido de prisão domiciliar, e a Primeira Turma confirma a decisão por unanimidade.
+- **24 de março de 2026:** depois de uma internação, Moraes concede **prisão domiciliar humanitária** por 90 dias, a contar da alta médica, com parecer favorável da PGR.
+- **12 de maio de 2026:** a defesa apresenta ao STF um pedido de **revisão criminal**, para tentar reverter a condenação.
+- **3 de julho de 2026:** Moraes mantém Bolsonaro em prisão domiciliar humanitária, citando a melhora do quadro clínico e a ausência de falta grave.
 
-## A investigação da "trama golpista": um processo à parte
+Bolsonaro também está **inelegível até 2030**, por uma decisão separada do TSE, de 2023, sobre a reunião em que ele questionou o sistema eleitoral diante de embaixadores estrangeiros. Na eleição de 2026, ele apoiou a candidatura do filho, o senador Flávio Bolsonaro, que perdeu o 2º turno para Lula.
 
-Paralelamente aos julgamentos dos participantes dos atos, corria uma investigação diferente e mais ampla: a de que a invasão de 8 de janeiro teria sido a etapa final de um **plano articulado antes mesmo da eleição**, com o objetivo de impedir a posse de Lula e manter Bolsonaro no poder.
+## A Lei da Dosimetria
 
-Essa investigação dividiu os investigados em "núcleos". O mais importante, o **Núcleo 1, ou "Núcleo Crucial"**, reunia o ex-presidente Jair Bolsonaro e mais sete aliados próximos, incluindo generais e ex-ministros.
+O **PL da Dosimetria** (PL 2.162/2023) muda o Código Penal e a Lei de Execução Penal. Quando vários crimes contra o Estado democrático são cometidos num mesmo contexto, como no 8 de janeiro, o juiz deve aplicar só a pena mais grave, em vez de somar todas. O texto também prevê redução de pena para quem participou dos atos sem papel de liderança ou financiamento.
 
-**Linha do tempo desse processo especificamente:**
+- **8 de janeiro de 2026:** Lula **veta integralmente** o projeto.
+- **30 de abril de 2026:** o Congresso **derruba o veto**. Alguns trechos ficaram de fora, para não estender os benefícios a crimes da Lei Antifacção, sancionada em março.
+- **8 de maio de 2026:** o presidente do Senado, Davi Alcolumbre, promulga a **Lei 15.402/2026**. No mesmo dia, a Associação Brasileira de Imprensa e a federação PSOL-Rede apresentam ações no STF contra a lei (ADIs 7966 e 7967). Depois, PT, PCdoB e PV apresentam outra ação.
+- **9 de maio de 2026:** Moraes, relator das ações, **suspende a aplicação da lei** às execuções penais do 8 de janeiro até o plenário julgar a validade da norma, por segurança jurídica.
+- **19 de novembro de 2026:** Moraes libera as quatro ações para julgamento. Segundo reportagens, o julgamento no plenário virtual foi marcado para **4 a 15 de dezembro de 2026**.
 
-- **25 de março de 2025:** a Primeira Turma do STF aceitou, por unanimidade, a denúncia da Procuradoria-Geral da República contra os oito integrantes do Núcleo 1, tornando-os réus.
-- **Ao longo de 2025:** o STF julgou também os réus dos Núcleos 2, 3, 4 e 5 (esse último, ligado a uma pessoa que mora nos Estados Unidos, ainda sem data de julgamento). Ao todo, **31 pessoas foram julgadas nessas ações**, resultando em **29 condenações e 2 absolvições**.
-- **Setembro de 2025:** a Primeira Turma do STF concluiu o julgamento do Núcleo 1 e condenou Jair Bolsonaro a **27 anos e 3 meses de prisão**, a pena mais alta entre os condenados. A menor pena, de 1 ano e 11 meses, coube a um tenente-coronel. O ex-ajudante de ordens de Bolsonaro, tenente-coronel Mauro Cid, que fechou acordo de colaboração premiada com a Justiça, recebeu pena reduzida de 2 anos.
-- **14 de novembro de 2025:** o STF rejeitou, por unanimidade, os recursos (embargos de declaração) apresentados pelas defesas de Bolsonaro e outros seis réus do Núcleo 1.
-- **22 de novembro de 2025:** Bolsonaro, que já cumpria prisão domiciliar com tornozeleira eletrônica desde agosto daquele ano, foi preso preventivamente depois de tentar romper o equipamento em casa, durante a madrugada.
-- **25 de novembro de 2025:** Moraes determinou o **trânsito em julgado** (quando não cabe mais nenhum recurso) da ação penal contra Bolsonaro e os demais condenados do Núcleo 1, dando início ao cumprimento definitivo das penas, em regime fechado.
+A redução de pena **não é automática**: mesmo que a lei seja mantida, cada condenado precisa pedir ao STF que recalcule a sua pena.
 
-## 2026: pedidos por saúde, redução de penas e o debate sobre anistia
+## E a anistia?
 
-Já em regime fechado, a defesa de Bolsonaro apresentou diversos pedidos de prisão domiciliar por razões de saúde ao longo do início de 2026, a maioria negada pelo STF. Em março de 2026, um pedido foi concedido por 90 dias, depois de o ex-presidente ser internado com um quadro de pneumonia.
+Desde 2023, o Congresso discute uma **anistia**, um perdão coletivo, para os condenados pelo 8 de janeiro, incluindo, em algumas versões, o próprio Bolsonaro. A anistia é diferente da redução de pena e do indulto (que é dado pelo presidente da República). Até a data desta atualização, **nenhuma anistia foi aprovada**. A Lei da Dosimetria acabou sendo o caminho aprovado pelo Congresso.
 
-Paralelamente, corria no Congresso uma discussão legislativa importante: o **PL da Dosimetria** (PL 2.162/2023), projeto que permite reduzir as penas de quem foi condenado pelos crimes de golpe de Estado e abolição violenta do Estado Democrático de Direito, os mesmos que atingiram boa parte dos condenados do 8 de janeiro.
+## Os dois lados do debate
 
-- O presidente Lula **vetou integralmente** o projeto em janeiro de 2026, argumentando que ele seria inconstitucional.
-- Em **30 de abril de 2026**, o Congresso Nacional **derrubou o veto** (318 deputados e 49 senadores votaram pela derrubada), com a ressalva de que alguns trechos ficaram de fora, para evitar conflito com outra lei aprovada meses antes (a chamada Lei Antifacção).
-- Em **8 de maio de 2026**, o texto foi promulgado como **Lei 15.402/2026**.
+**Quem defende as condenações** argumenta que os atos foram uma tentativa concreta de impedir o funcionamento das instituições eleitas, que houve planejamento e financiamento e que as penas foram decididas pelo tribunal competente, com direito de defesa. Para esse grupo, a Lei da Dosimetria e a anistia enfraquecem a resposta a ataques contra a democracia, e o STF deve analisar se a lei foi feita para beneficiar pessoas específicas.
 
-Importante: a redução de pena **não é automática**, cada condenado precisa pedir individualmente ao STF que recalcule sua sentença com base na nova lei.
+**Quem critica as condenações** argumenta que muitos participantes receberam penas altas, de mais de uma década, sem ter papel de liderança, por crimes que exigem uso de violência ou grave ameaça. Questiona o julgamento pelo STF, e não pela primeira instância, e o fato de Moraes ser ao mesmo tempo relator e citado como alvo nos planos investigados. Para esse grupo, a Lei da Dosimetria corrige excessos e foi aprovada pelo Congresso, que tem a palavra final sobre leis penais.
 
-**Sobre a anistia especificamente:** desde 2024, existe uma discussão recorrente no Congresso sobre aprovar uma **anistia** (perdão coletivo, diferente da redução de pena) para os condenados pelo 8 de janeiro, incluindo o próprio Bolsonaro. Diferente do indulto (que é uma decisão do presidente da República), a anistia só pode ser aprovada por lei do Congresso. Até o momento desta publicação, essa proposta **não foi aprovada**, e parlamentares favoráveis à prisão de Bolsonaro afirmam que o apoio à ideia perdeu força depois da prisão preventiva de novembro de 2025.
+## Onde as versões não batem
 
-## Consequências políticas em curso
+- **Quantos foram presos.** Os números de presos no dia 8 e no dia 9 variam entre as fontes, porque misturam detidos no local, no acampamento e os liberados depois da triagem. O número usado aqui é o de condenados, divulgado pelo próprio STF.
+- **"Bolsonaro está solto."** Não está. Ele cumpre a pena em prisão domiciliar humanitária, com monitoramento e restrições, por decisão de Moraes.
+- **"A Lei da Dosimetria já reduziu as penas."** Não reduziu. A aplicação está suspensa desde 9 de maio de 2026, e cada condenado ainda precisaria fazer o pedido individual.
+- **O papel do general Gonçalves Dias.** As imagens do Planalto foram interpretadas de formas opostas: como omissão, por críticos do governo, e como tentativa de conduzir os invasores para fora, segundo a defesa do general. Ele deixou o cargo em abril de 2023.
 
-Bolsonaro está inelegível até 2030, por uma decisão anterior e separada do TSE (Tribunal Superior Eleitoral, de 2023, relacionada a reuniões em que ele questionou a segurança do sistema eleitoral perante embaixadores estrangeiros, um processo diferente do julgamento da trama golpista). Mesmo preso e inelegível, ele seguiu politicamente relevante, tendo declarado apoio à candidatura do filho, o senador Flávio Bolsonaro, para a eleição presidencial de 2026.
+## O que ainda não se sabe
 
----
+- Se o STF vai manter a Lei da Dosimetria no julgamento marcado para dezembro, e com quais ajustes.
+- Quanto cada condenado, incluindo Bolsonaro, poderia ter a pena reduzida se a lei for mantida.
+- Qual será a decisão sobre o pedido de revisão criminal de Bolsonaro.
+- Se o novo Congresso, a partir de 2027, vai voltar a discutir a anistia.
 
-Esse é um tema que ainda está em andamento, novos pedidos, recursos e discussões legislativas continuam surgindo. Sempre que houver atualização relevante, o compromisso deste espaço continua o mesmo: trazer os fatos, sem escolher lado.
+## Como ler
+
+- **Ao ver "condenados do 8 de janeiro",** confira se a notícia fala dos participantes dos atos ou dos réus da ação da trama golpista. São processos diferentes.
+- **Ao ver "pena reduzida",** pergunte se a decisão é sobre a Lei da Dosimetria, que está suspensa, ou sobre outra regra, como progressão de regime.
+- **Ao ver "anistia",** confira se o texto fala mesmo de perdão coletivo ou da redução de penas.
+
+## Perguntas para pensar
+
+- As penas aplicadas aos participantes sem papel de liderança foram proporcionais?
+- O Congresso deve poder reduzir penas de crimes já julgados? Em quais condições?
+- O STF era o tribunal adequado para julgar os participantes dos atos?
+- O que deveria pesar mais: punir com rigor ataques às instituições ou buscar pacificação política?
+
+## Fatos Relevantes
+
+- 8 de janeiro de 2023: invasão do Congresso, do Planalto e do STF, em Brasília.
+- Até abril de 2026: 1.402 condenados pelos atos (431 com prisão, 419 com penas alternativas, 552 acordos), segundo o STF.
+- 11 de setembro de 2025: Bolsonaro condenado a 27 anos e 3 meses pela Primeira Turma do STF, por 4 a 1. Trânsito em julgado em 25 de novembro de 2025.
+- Desde 24 de março de 2026, Bolsonaro cumpre pena em prisão domiciliar humanitária, mantida em 3 de julho.
+- Lei 15.402/2026 (Dosimetria): promulgada em 8 de maio de 2026 e suspensa em 9 de maio por Moraes; julgamento no STF marcado para 4 a 15 de dezembro de 2026, segundo reportagens.
+- Bolsonaro está inelegível até 2030 por decisão do TSE de 2023.
+
+## Fontes consultadas para este artigo
+
+- STF, balanço das condenações pelos atos de 8 de janeiro (abril de 2026), citado pela Agência Senado
+- STF, notícias sobre a prisão domiciliar de Bolsonaro (2 e 6 de março, 24 de março e 3 de julho de 2026) e sobre a transferência para a Papuda (15 de janeiro de 2026)
+- STF, "Relator suspende aplicação da Lei da Dosimetria a execuções penais no STF" e "STF recebe primeiras ações contra Lei da Dosimetria" (maio de 2026)
+- Agência Senado, "Promulgada lei que possibilita redução de penas pelo 8 de janeiro" (8 de maio de 2026)
+- Lei 15.402, de 8 de maio de 2026 (Planalto) e página do Veto 3/2026 no Congresso Nacional
+- Congresso em Foco e Correio da Manhã, sobre a liberação das ações para julgamento (19 de novembro de 2026)
+- Band, Conjur, O Liberal e O Povo, sobre a condenação, os recursos e o trânsito em julgado da ação penal da trama golpista
+- Gazeta do Povo, sobre a trajetória da prisão de Bolsonaro
+- Relatório final da CPMI do 8 de janeiro (Congresso Nacional, outubro de 2023)
+
+Veja também: [Virada no segundo turno de 2026](/blog/virada-segundo-turno-2026), [Decisões monocráticas do STF](/blog/decisoes-monocraticas-stf) e [O que é foro privilegiado](/blog/foro-privilegiado).

@@ -30,7 +30,7 @@ const { category, posts } = Astro.props;
 	<head>
 		<BaseHead
 			title={`${category.name} | ${SITE_TITLE}`}
-			description={`Artigos da categoria ${category.name} no Sem Narrativa.`}
+			description={category.description}
 		/>
 		<style>
 			main {
@@ -68,6 +68,13 @@ const { category, posts } = Astro.props;
 			ul li a:hover .date {
 				color: var(--accent);
 			}
+			.intro {
+				max-width: 720px;
+				margin-bottom: 2rem;
+			}
+			.count {
+				color: rgb(var(--gray));
+			}
 			@media (max-width: 720px) {
 				ul li {
 					width: 100%;
@@ -79,6 +86,10 @@ const { category, posts } = Astro.props;
 		<Header />
 		<main>
 			<h1>{category.name}</h1>
+			<div class="intro">
+				{category.intro.map((paragraph) => <p>{paragraph}</p>)}
+				<p class="count">{posts.length} {posts.length === 1 ? 'artigo publicado' : 'artigos publicados'}.</p>
+			</div>
 			{posts.length === 0 && <p>Ainda não há artigos publicados nessa categoria.</p>}
 			<ul>
 				{
