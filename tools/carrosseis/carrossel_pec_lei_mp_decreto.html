@@ -1,0 +1,241 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<style>
+@font-face{font-family:I;src:url('file:///usr/share/fonts/opentype/inter/Inter-Medium.otf');font-weight:500}
+@font-face{font-family:I;src:url('file:///usr/share/fonts/opentype/inter/Inter-SemiBold.otf');font-weight:600}
+@font-face{font-family:I;src:url('file:///usr/share/fonts/opentype/inter/Inter-Bold.otf');font-weight:700}
+@font-face{font-family:I;src:url('file:///usr/share/fonts/opentype/inter/Inter-ExtraBold.otf');font-weight:800}
+@font-face{font-family:I;src:url('file:///usr/share/fonts/opentype/inter/Inter-Black.otf');font-weight:900}
+:root{--roxo:#8b7bff;--roxo2:#6c5ce7;--ambar:#f6b848;--txt:#f2f2f8;--sub:#b9b9cf;--bg:#0b0b14}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:#000;font-family:I,sans-serif;color:var(--txt);font-feature-settings:'calt' 0}
+.s{width:1080px;height:1350px;position:relative;overflow:hidden;padding:96px 84px 110px;
+ background:radial-gradient(120% 80% at 100% 0%,rgba(124,92,246,.30),transparent 55%),
+ radial-gradient(90% 60% at 0% 100%,rgba(124,76,214,.28),transparent 60%),linear-gradient(180deg,#0e0e1a,#0a0a12);
+ margin-bottom:20px;display:flex;flex-direction:column}
+.top{position:absolute;top:44px;left:84px;right:84px;display:flex;justify-content:space-between;align-items:center;
+ font-weight:800;font-size:24px;letter-spacing:.14em;color:#d8d6f5}
+.top .pg{font-weight:700;letter-spacing:.04em;color:var(--sub);font-size:24px}
+.foot{position:absolute;bottom:40px;left:84px;right:84px;display:flex;justify-content:space-between;align-items:center;font-size:24px;color:var(--sub);font-weight:600}
+.arr{color:var(--roxo);font-weight:800}
+.wave{position:absolute;left:0;right:0;bottom:0;height:22px;background:linear-gradient(90deg,#6c4cd6,#9a6bff,#6c4cd6)}
+.tag{display:inline-block;font-weight:800;font-size:26px;letter-spacing:.12em;padding:10px 22px;border-radius:12px;margin-bottom:26px}
+.tag.c{background:rgba(124,108,246,.22);color:#c9c2ff;border:2px solid rgba(139,123,255,.6)}
+.tag.p{background:rgba(246,184,72,.16);color:var(--ambar);border:2px solid rgba(246,184,72,.6)}
+h1{font-size:96px;font-weight:900;line-height:1.02;letter-spacing:-.02em}
+h2{font-size:96px;font-weight:900;line-height:1.02;letter-spacing:-.02em;margin-bottom:18px}
+.lead{font-size:43px;line-height:1.32;color:#e4e3f0;font-weight:500;margin-bottom:34px}
+.lead b{color:#fff;font-weight:800}
+.hl{background:linear-gradient(180deg,transparent 58%,rgba(139,123,255,.55) 58%);padding:0 6px}
+.hla{background:rgba(246,184,72,.22);color:#f6b848;border-radius:10px;padding:0 10px;box-decoration-break:clone;-webkit-box-decoration-break:clone}
+.box{background:rgba(255,255,255,.045);border:2px solid rgba(255,255,255,.09);border-radius:26px;padding:38px 40px;margin-bottom:30px}
+.row{display:flex;gap:20px}
+.row .box{flex:1}
+.big{font-size:104px;font-weight:900;line-height:1;color:#fff}
+.big small{font-size:44px;color:var(--sub);font-weight:700}
+.lbl{font-size:31px;color:var(--sub);font-weight:600;margin-top:10px;line-height:1.3}
+.li{font-size:38px;line-height:1.36;color:#e6e5f2;font-weight:500;padding-left:50px;position:relative;margin-bottom:26px}
+.li:before{content:'';position:absolute;left:4px;top:17px;width:20px;height:20px;border-radius:50%;background:var(--roxo)}
+.li.a:before{background:var(--ambar)}
+.li b{color:#fff;font-weight:800}
+.ex{margin-top:auto;border-left:7px solid var(--roxo);padding:8px 0 8px 30px;font-size:35px;line-height:1.35;color:#d9d8ea}
+.ex.a{border-color:var(--ambar)}
+.ex b{color:#fff}
+.ex .k{display:block;font-size:25px;letter-spacing:.14em;font-weight:800;color:var(--roxo);margin-bottom:6px}
+.ex.a .k{color:var(--ambar)}
+#s2 h2{margin-top:26px!important;font-size:84px}
+#s2 .lead{margin-bottom:22px}
+#s2 .ex{font-size:33px}
+#s3 .li{margin-bottom:18px;font-size:36px}
+#s3 .box{padding:30px 36px;margin-bottom:24px}
+#s3 .lead{margin-bottom:26px}
+#s3 .tag{margin-top:24px!important}#s3 h2{margin-top:0!important}
+#tbl > div{padding:26px 30px!important}
+</style>
+</head>
+<body>
+
+<!-- 1 CAPA -->
+<section class="s" id="s1" style="justify-content:center">
+ <div class="top"><span>SEM NARRATIVA</span><span class="pg">1/10</span></div>
+ <div class="tag c" style="align-self:flex-start">COMO FUNCIONA</div>
+ <h1>PEC, lei,<br>medida provisória<br>e decreto</h1>
+ <p class="lead" style="margin-top:34px;font-size:46px;font-weight:700">Parece tudo a mesma coisa.<br><span class="hl">Não é.</span></p>
+ <p class="lead" style="font-size:36px;color:var(--sub)">Quem cria cada regra, quantos votos precisa, quando começa a valer e quem pode derrubar.</p>
+ <div style="display:flex;gap:14px;margin-top:20px">
+  <span class="tag c" style="margin:0">CONGRESSO</span><span class="tag p" style="margin:0">PRESIDENTE</span>
+ </div>
+ <div class="foot"><span>@semnarrativa.oficial</span><span class="arr">arrasta para o lado &rarr;</span></div>
+ <div class="wave"></div>
+</section>
+
+<!-- 2 PIRAMIDE -->
+<section class="s" id="s2">
+ <div class="top"><span>SEM NARRATIVA</span><span class="pg">2/10</span></div>
+ <h2 style="margin-top:40px">Primeiro,<br>a pirâmide</h2>
+ <p class="lead">A regra de cima vale mais. <b>A de baixo não pode contrariar a de cima.</b></p>
+ <div style="display:flex;flex-direction:column;align-items:center;gap:12px;margin-top:0">
+  <div style="width:46%;background:linear-gradient(135deg,#8b7bff,#5a48d8);border-radius:22px;padding:26px 28px;text-align:center">
+   <div style="font-size:48px;font-weight:900">Constituição</div><div style="font-size:30px;font-weight:600;color:#e9e6ff;margin-top:6px">muda só por PEC</div></div>
+  <div style="width:72%;background:rgba(124,108,246,.22);border:2px solid rgba(139,123,255,.6);border-radius:22px;padding:26px 28px;text-align:center">
+   <div style="font-size:48px;font-weight:900">Leis</div><div style="font-size:30px;font-weight:600;color:#d8d4ff;margin-top:6px">complementar, ordinária e MP (enquanto vale)</div></div>
+  <div style="width:98%;background:rgba(246,184,72,.12);border:2px solid rgba(246,184,72,.55);border-radius:22px;padding:26px 28px;text-align:center">
+   <div style="font-size:48px;font-weight:900;color:var(--ambar)">Decretos</div><div style="font-size:30px;font-weight:600;color:#f1dfb8;margin-top:6px">detalham como cumprir as leis</div></div>
+ </div>
+ <div class="ex"><span class="k">POR ISSO</span>Se um decreto contraria uma lei, ou uma lei contraria a Constituição, o caso pode ir para a Justiça e <b>o STF pode derrubar a regra.</b></div>
+ <div class="foot"><span>Constituição, arts. 59 e 84</span><span class="arr">&rarr;</span></div>
+ <div class="wave"></div>
+</section>
+
+<!-- 3 PEC -->
+<section class="s" id="s3">
+ <div class="top"><span>SEM NARRATIVA</span><span class="pg">3/10</span></div>
+ <div class="tag c" style="align-self:flex-start;margin-top:40px">CONGRESSO</div>
+ <h2>PEC</h2>
+ <p class="lead"><b>Proposta de Emenda à Constituição.</b> É o único jeito de mudar a Constituição.</p>
+ <div class="row">
+  <div class="box"><div class="big">308<small>/513</small></div><div class="lbl">deputados</div></div>
+  <div class="box"><div class="big">49<small>/81</small></div><div class="lbl">senadores</div></div>
+ </div>
+ <div class="li"><b>3/5 dos votos, em 2 turnos em cada Casa.</b> São 4 votações.</div>
+ <div class="li"><b>Sem sanção:</b> o presidente não aprova nem veta. Quem promulga é o Congresso.</div>
+ <div class="li">Não pode abolir as <b>cláusulas pétreas</b>, como o voto direto e secreto.</div>
+ <div class="ex"><span class="k">EXEMPLO REAL</span>A <b>Emenda 141</b>, de 2026, que acabou com a escala 6x1.</div>
+ <div class="foot"><span>Constituição, art. 60</span><span class="arr">&rarr;</span></div>
+ <div class="wave"></div>
+</section>
+
+<!-- 4 LEI COMPLEMENTAR -->
+<section class="s" id="s4">
+ <div class="top"><span>SEM NARRATIVA</span><span class="pg">4/10</span></div>
+ <div class="tag c" style="align-self:flex-start;margin-top:40px">CONGRESSO</div>
+ <h2>Lei<br>complementar</h2>
+ <p class="lead">Só existe quando a <b>Constituição pede</b> que um assunto seja detalhado assim.</p>
+ <div class="row">
+  <div class="box"><div class="big">257</div><div class="lbl">deputados a favor</div></div>
+  <div class="box"><div class="big">41</div><div class="lbl">senadores a favor</div></div>
+ </div>
+ <div class="li"><b>Maioria absoluta:</b> conta o total da Casa, não importa quantos estejam presentes.</div>
+ <div class="li"><b>Passa por sanção</b> ou veto do presidente.</div>
+ <div class="ex"><span class="k">EXEMPLO REAL</span>A <b>Lei Complementar 214</b>, de 2025, que regulamenta a reforma tributária.</div>
+ <div class="foot"><span>Constituição, art. 69</span><span class="arr">&rarr;</span></div>
+ <div class="wave"></div>
+</section>
+
+<!-- 5 LEI ORDINARIA -->
+<section class="s" id="s5">
+ <div class="top"><span>SEM NARRATIVA</span><span class="pg">5/10</span></div>
+ <div class="tag c" style="align-self:flex-start;margin-top:40px">CONGRESSO</div>
+ <h2>Lei ordinária</h2>
+ <p class="lead">A <b>lei comum</b>. A maior parte das regras do país está nelas.</p>
+ <div class="box"><div class="big" style="font-size:72px">Maioria dos presentes</div><div class="lbl">com pelo menos metade da Casa na sessão. Com 257 deputados presentes, bastam 129 votos.</div></div>
+ <div class="li"><b>Sanção ou veto</b> do presidente em até <b>15 dias úteis</b>.</div>
+ <div class="li">O Congresso pode <b>derrubar o veto</b> com a maioria absoluta.</div>
+ <div class="li"><b>Cidadãos podem propor:</b> 1% dos eleitores, em pelo menos 5 estados.</div>
+ <div class="ex"><span class="k">EXEMPLO REAL</span>A <b>Lei Rouanet</b> (Lei 8.313, de 1991).</div>
+ <div class="foot"><span>Constituição, arts. 47, 61 e 66</span><span class="arr">&rarr;</span></div>
+ <div class="wave"></div>
+</section>
+
+<!-- 6 MP -->
+<section class="s" id="s6">
+ <div class="top"><span>SEM NARRATIVA</span><span class="pg">6/10</span></div>
+ <div class="tag p" style="align-self:flex-start;margin-top:40px">PRESIDENTE</div>
+ <h2>Medida provisória</h2>
+ <p class="lead">O presidente edita sozinho e ela <span class="hla"><b>vale na hora</b></span>. Mas é provisória.</p>
+ <div class="row">
+  <div class="box"><div class="big" style="color:var(--ambar)">120<small> dias</small></div><div class="lbl">60 + 60 para o Congresso transformar em lei</div></div>
+  <div class="box"><div class="big" style="color:var(--ambar)">45<small> dias</small></div><div class="lbl">sem votação, ela tranca a pauta da Casa</div></div>
+ </div>
+ <div class="li a">Se não virar lei a tempo, <b>perde a validade desde o início.</b></div>
+ <div class="li a">Só para casos de <b>relevância e urgência</b>.</div>
+ <div class="ex a"><span class="k">EXEMPLO REAL</span>A <b>MP 1.399</b>, de novembro de 2026, com as alíquotas do Imposto Seletivo.</div>
+ <div class="foot"><span>Constituição, art. 62</span><span class="arr">&rarr;</span></div>
+ <div class="wave"></div>
+</section>
+
+<!-- 7 DECRETO -->
+<section class="s" id="s7">
+ <div class="top"><span>SEM NARRATIVA</span><span class="pg">7/10</span></div>
+ <div class="tag p" style="align-self:flex-start;margin-top:40px">PRESIDENTE</div>
+ <h2>Decreto</h2>
+ <p class="lead">Não tem votação. Serve para <b>detalhar como uma lei vai ser cumprida.</b></p>
+ <div class="box" style="border-color:rgba(246,184,72,.55);background:rgba(246,184,72,.08)">
+  <div style="font-size:50px;font-weight:900;color:var(--ambar);line-height:1.18">Não pode criar obrigação que a lei não criou.</div>
+  <div class="lbl">Ninguém é obrigado a fazer algo "senão em virtude de lei" (art. 5º).</div></div>
+ <div class="li a">O <b>Congresso pode sustar</b> o decreto que passar dos limites.</div>
+ <div class="li a">A <b>Justiça</b> também pode derrubar.</div>
+ <div class="ex a"><span class="k">EXEMPLO REAL</span>O decreto de <b>19/11/2026</b> sobre a 6x1: a regra das 2 folgas veio da Emenda 141. O decreto só mudou o cálculo do salário-hora (divisor 210, depois 200).</div>
+ <div class="foot"><span>Constituição, arts. 49 e 84</span><span class="arr">&rarr;</span></div>
+ <div class="wave"></div>
+</section>
+
+<!-- 8 LADO A LADO -->
+<section class="s" id="s8">
+ <div class="top"><span>SEM NARRATIVA</span><span class="pg">8/10</span></div>
+ <h2 style="margin-top:40px;font-size:76px">Lado a lado</h2>
+ <p class="lead" style="margin-bottom:24px">Salve este para consultar depois.</p>
+ <div id="tbl" style="display:flex;flex-direction:column;gap:20px"></div>
+ <div class="foot"><span>Fonte: Constituição Federal</span><span class="arr">&rarr;</span></div>
+ <div class="wave"></div>
+</section>
+
+<!-- 9 FRASES -->
+<section class="s" id="s9">
+ <div class="top"><span>SEM NARRATIVA</span><span class="pg">9/10</span></div>
+ <h2 style="margin-top:40px;font-size:76px">Frases que<br>circulam</h2>
+ <div id="frases" style="display:flex;flex-direction:column;gap:24px;margin-top:20px"></div>
+ <div class="foot"><span>semnarrativa.com.br</span><span class="arr">&rarr;</span></div>
+ <div class="wave"></div>
+</section>
+
+<!-- 10 FINAL -->
+<section class="s" id="s10" style="justify-content:center">
+ <div class="top"><span>SEM NARRATIVA</span><span class="pg">10/10</span></div>
+ <div class="tag c" style="align-self:flex-start">E VOCÊ?</div>
+ <h2 style="font-size:70px;line-height:1.08">O presidente deveria ter <span class="hla">menos poder</span> para editar medidas provisórias?</h2>
+ <div style="display:flex;gap:22px;margin:30px 0 40px">
+  <div style="flex:1;text-align:center;padding:30px;border-radius:24px;background:rgba(124,108,246,.25);border:3px solid var(--roxo);font-size:60px;font-weight:900">SIM</div>
+  <div style="flex:1;text-align:center;padding:30px;border-radius:24px;background:rgba(246,184,72,.14);border:3px solid var(--ambar);font-size:60px;font-weight:900;color:var(--ambar)">NÃO</div>
+ </div>
+ <p class="lead" style="font-size:36px">Responda nos comentários. Os dois lados do debate estão no artigo completo.</p>
+ <div class="box" style="text-align:center;margin-top:10px">
+  <div style="font-size:30px;color:var(--sub);font-weight:600">Artigo completo, com todas as fontes</div>
+  <div style="font-size:42px;font-weight:900;margin-top:8px">semnarrativa.com.br</div>
+  <div style="font-size:26px;color:var(--sub);font-weight:600;margin-top:8px">link na bio</div>
+ </div>
+ <p class="lead" style="font-size:32px;text-align:center;margin-top:16px">Salve e mande para quem confunde essas quatro coisas.</p>
+ <div class="foot"><span>@semnarrativa.oficial</span><span>Política sem escolher lado</span></div>
+ <div class="wave"></div>
+</section>
+
+<script>
+const rows=[
+ ['PEC','c','Congresso','3/5, 2 turnos em cada Casa','Sem sanção'],
+ ['Lei complementar','c','Congresso','Maioria absoluta','Com sanção'],
+ ['Lei ordinária','c','Congresso','Maioria dos presentes','Com sanção'],
+ ['Medida provisória','p','Presidente','Vale já; cai em 120 dias sem votação','Sanção se o Congresso mudar'],
+ ['Decreto','p','Presidente','Nenhuma votação','Não se aplica']];
+document.getElementById('tbl').innerHTML=rows.map(r=>`
+ <div style="display:flex;align-items:center;gap:22px;padding:32px 30px;border-radius:22px;background:${r[1]=='c'?'rgba(124,108,246,.14)':'rgba(246,184,72,.09)'};border:2px solid ${r[1]=='c'?'rgba(139,123,255,.45)':'rgba(246,184,72,.45)'}">
+  <div style="width:330px;font-size:42px;font-weight:900;line-height:1.1;color:${r[1]=='c'?'#fff':'#f6b848'}">${r[0]}<div style="font-size:24px;font-weight:800;letter-spacing:.1em;margin-top:8px;color:${r[1]=='c'?'#c9c2ff':'#f6b848'}">${r[2].toUpperCase()}</div></div>
+  <div style="flex:1;font-size:34px;line-height:1.28;font-weight:700;color:#eceaf6">${r[3]}<div style="font-size:29px;color:#b9b9cf;margin-top:8px;font-weight:600">${r[4]}</div></div>
+ </div>`).join('');
+const fr=[
+ ['"O presidente mudou a lei por decreto"','FALSO','Decreto não muda lei. Só detalha como cumprir.','n'],
+ ['"A PEC ainda precisa da sanção do presidente"','FALSO','Emenda é promulgada pelo Congresso, sem sanção.','n'],
+ ['"MP é lei"','EM PARTE','Tem força de lei, mas cai se não virar lei em 120 dias.','r'],
+ ['"Lei aprovada já está valendo"','NEM SEMPRE','Precisa de sanção e publicação. Sem data no texto, vale 45 dias depois.','n']];
+document.getElementById('frases').innerHTML=fr.map(f=>`
+ <div style="padding:32px 34px;border-radius:22px;background:rgba(255,255,255,.045);border:2px solid rgba(255,255,255,.09)">
+  <div style="display:flex;justify-content:space-between;align-items:flex-start;gap:20px">
+   <div style="font-size:39px;font-weight:800;line-height:1.2">${f[0]}</div>
+   <div style="flex-shrink:0;font-size:25px;font-weight:900;letter-spacing:.08em;padding:12px 18px;border-radius:10px;${f[3]=='n'?'background:rgba(255,90,110,.18);color:#ff8a9a;border:2px solid rgba(255,90,110,.55)':'background:rgba(246,184,72,.16);color:#f6b848;border:2px solid rgba(246,184,72,.55)'}">${f[1]}</div>
+  </div>
+  <div style="font-size:32px;color:#c9c8db;margin-top:12px;line-height:1.35;font-weight:500">${f[2]}</div>
+ </div>`).join('');
+</script>
+</body>
+</html>
