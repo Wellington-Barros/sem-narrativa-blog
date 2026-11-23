@@ -1,13 +1,13 @@
 ---
-title: 'Bolsonaro e Lula no espectro político: o que diz o teste dos 12 eixos e o que mostram os votos e os atos de cada um'
-description: 'O teste 12 Axes coloca Bolsonaro na direita e Lula na esquerda, em lados opostos em 8 de 12 eixos. Conferimos cada eixo com os votos dos dois na Câmara e com os atos como presidente, pelo mesmo critério, e mostramos onde os registros confirmam o site e onde apontam outra coisa.'
+title: '12 Axes: onde Lula e Bolsonaro ficam no teste e o que os votos e os atos de cada um mostram'
+description: 'Lula e Bolsonaro no 12 Axes (12Axes): o teste coloca Bolsonaro na direita e Lula na esquerda, em lados opostos em 8 de 12 eixos. Conferimos cada eixo com os votos dos dois na Câmara e com os atos como presidente, pelo mesmo critério, e mostramos onde os registros confirmam o site e onde apontam outra coisa.'
 pubDate: 'Nov 03 2026'
-updatedDate: 'Nov 11 2026'
+updatedDate: 'Nov 22 2026'
 category: 'Fato ou Narrativa'
 heroImage: '../../assets/capa-espectro-politico-bolsonaro-lula-12-eixos.jpg'
 ---
 
-Existe um teste político gratuito na internet, o **12 Axes** ([12axes.vercel.app](https://12axes.vercel.app)), que mede a posição de uma pessoa em **12 eixos separados**, e não só em "esquerda ou direita". Além do teste, o site tem um catálogo com o perfil de centenas de personalidades, entre elas **Jair Bolsonaro** e **Lula**.
+Existe um teste político gratuito na internet, o **12 Axes**, também escrito **12Axes** ([12axes.vercel.app](https://12axes.vercel.app)), que mede a posição de uma pessoa em **12 eixos separados**, e não só em "esquerda ou direita". Além do teste, o site tem um catálogo com o perfil de centenas de personalidades, entre elas **Jair Bolsonaro** e **Lula**.
 
 O site coloca Bolsonaro na **direita** e Lula na **esquerda**. A pergunta deste artigo é outra: **os votos de cada um na Câmara e o que cada um fez como presidente confirmam esse retrato?** Conferimos eixo por eixo, com o **mesmo critério para os dois**, usando os registros oficiais de votação da Câmara, leis, decretos, decisões judiciais e reportagens com data.
 
