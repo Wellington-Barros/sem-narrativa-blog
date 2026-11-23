@@ -1,0 +1,253 @@
+---
+interface Props {
+	autofocus?: boolean;
+}
+const { autofocus = false } = Astro.props;
+---
+
+<div class="busca" data-busca>
+	<form class="busca-form" action="/busca/" method="get" role="search">
+		<label class="sr-only" for="busca-campo">Pesquisar artigos</label>
+		<svg class="busca-icone" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true">
+			<circle cx="11" cy="11" r="7"></circle>
+			<path d="M20 20l-3.5-3.5"></path>
+		</svg>
+		<input
+			id="busca-campo"
+			class="busca-campo"
+			type="search"
+			name="q"
+			placeholder="Pesquisar: escala 6x1, STF, impostos, eleição..."
+			autocomplete="off"
+			autofocus={autofocus}
+		/>
+	</form>
+	<p class="busca-status" aria-live="polite"></p>
+	<ul class="busca-resultados"></ul>
+</div>
+
+<script>
+	type Item = { t: string; d: string; c: string; u: string; b: string };
+
+	function normalizar(texto: string) {
+		return texto
+			.toLowerCase()
+			.normalize('NFD')
+			.replace(/[̀-ͯ]/g, '')
+			.replace(/×/g, 'x')
+			.replace(/[^a-z0-9\s]/g, ' ')
+			.replace(/\s+/g, ' ')
+			.trim();
+	}
+
+	function contar(texto: string, termo: string) {
+		let total = 0;
+		let pos = texto.indexOf(termo);
+		while (pos !== -1 && total < 50) {
+			total++;
+			pos = texto.indexOf(termo, pos + termo.length);
+		}
+		return total;
+	}
+
+	function escapar(texto: string) {
+		return texto.replace(/[&<>"']/g, (ch) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[ch] as string);
+	}
+
+	let dados: Promise<(Item & { nt: string; nd: string; nb: string })[]> | null = null;
+
+	function carregar() {
+		if (!dados) {
+			dados = fetch('/busca.json')
+				.then((r) => r.json())
+				.then((lista: Item[]) =>
+					lista.map((item) => ({
+						...item,
+						nt: normalizar(item.t),
+						nd: normalizar(item.d + ' ' + item.c),
+						nb: normalizar(item.b),
+					})),
+				);
+		}
+		return dados;
+	}
+
+	document.querySelectorAll<HTMLElement>('[data-busca]').forEach((caixa) => {
+		const form = caixa.querySelector('form') as HTMLFormElement;
+		const campo = caixa.querySelector('input') as HTMLInputElement;
+		const status = caixa.querySelector('.busca-status') as HTMLElement;
+		const lista = caixa.querySelector('.busca-resultados') as HTMLElement;
+
+		async function buscar() {
+			const consulta = normalizar(campo.value);
+			if (consulta.length < 2) {
+				status.textContent = '';
+				lista.innerHTML = '';
+				return;
+			}
+			const termos = consulta
+				.split(' ')
+				.filter((t) => t.length > 1 || /\d/.test(t))
+				.map((t) => (t.length > 4 && t.endsWith('s') ? t.slice(0, -1) : t));
+			let itens;
+			try {
+				itens = await carregar();
+			} catch (e) {
+				status.textContent = 'Não foi possível carregar a busca agora. Tente de novo em instantes.';
+				return;
+			}
+			const resultados = itens
+				.map((item) => {
+					let pontos = 0;
+					for (const termo of termos) {
+						const noTitulo = contar(item.nt, termo);
+						const naDescricao = contar(item.nd, termo);
+						const noTexto = contar(item.nb, termo);
+						if (noTitulo + naDescricao + noTexto === 0) return null;
+						pontos += noTitulo * 20 + naDescricao * 6 + Math.min(noTexto, 15);
+					}
+					if (item.nt.includes(consulta)) pontos += 40;
+					return { item, pontos };
+				})
+				.filter((r): r is { item: (typeof itens)[number]; pontos: number } => r !== null)
+				.sort((a, b) => b.pontos - a.pontos)
+				.slice(0, 20);
+
+			if (resultados.length === 0) {
+				status.textContent = `Nenhum artigo encontrado para "${campo.value.trim()}". Tente outra palavra.`;
+				lista.innerHTML = '';
+				return;
+			}
+			status.textContent =
+				resultados.length === 1 ? '1 artigo encontrado' : `${resultados.length} artigos encontrados`;
+			lista.innerHTML = resultados
+				.map(
+					({ item }) => `<li><a href="${item.u}">
+						<span class="busca-cat">${escapar(item.c)}</span>
+						<span class="busca-titulo">${escapar(item.t)}</span>
+						<span class="busca-desc">${escapar(item.d)}</span>
+					</a></li>`,
+				)
+				.join('');
+		}
+
+		let espera: number | undefined;
+		campo.addEventListener('input', () => {
+			window.clearTimeout(espera);
+			espera = window.setTimeout(buscar, 150);
+		});
+		campo.addEventListener('focus', () => {
+			carregar().catch(() => {});
+		});
+		form.addEventListener('submit', (e) => {
+			e.preventDefault();
+			buscar();
+		});
+
+		const inicial = new URLSearchParams(window.location.search).get('q');
+		if (inicial) {
+			campo.value = inicial;
+			buscar();
+		}
+	});
+</script>
+
+<style>
+	.busca {
+		width: 960px;
+		max-width: calc(100% - 2em);
+		margin: 2rem auto 0;
+	}
+	.busca-form {
+		position: relative;
+	}
+	.busca-icone {
+		position: absolute;
+		left: 1.1rem;
+		top: 50%;
+		transform: translateY(-50%);
+		color: var(--accent);
+		pointer-events: none;
+	}
+	.busca-campo {
+		width: 100%;
+		box-sizing: border-box;
+		padding: 1rem 1.2rem 1rem 3.2rem;
+		border: 2px solid var(--accent);
+		border-radius: 14px;
+		background: rgba(124, 108, 246, 0.08);
+		color: rgb(var(--black));
+		font: inherit;
+		font-size: 1.05rem;
+		outline: none;
+		transition: box-shadow 0.2s ease, background 0.2s ease;
+	}
+	.busca-campo::placeholder {
+		color: rgb(var(--gray));
+	}
+	.busca-campo:focus {
+		background: rgba(124, 108, 246, 0.14);
+		box-shadow: 0 0 0 4px rgba(124, 108, 246, 0.25);
+	}
+	.busca-status {
+		margin: 0.8rem 0.2rem 0;
+		font-size: 0.9rem;
+		color: rgb(var(--gray));
+	}
+	.busca-status:empty {
+		display: none;
+	}
+	.busca-resultados {
+		list-style: none;
+		margin: 0.6rem 0 0;
+		padding: 0;
+		display: flex;
+		flex-direction: column;
+		gap: 0.6rem;
+	}
+	.busca-resultados:empty {
+		display: none;
+	}
+	.busca-resultados :global(a) {
+		display: flex;
+		flex-direction: column;
+		gap: 0.25rem;
+		padding: 0.9rem 1.1rem;
+		border: 1px solid rgb(var(--border));
+		border-radius: 12px;
+		text-decoration: none;
+		color: rgb(var(--gray-dark));
+		transition: border-color 0.2s ease, background 0.2s ease;
+	}
+	.busca-resultados :global(a:hover) {
+		border-color: var(--accent);
+		background: rgba(124, 108, 246, 0.08);
+	}
+	.busca-resultados :global(.busca-cat) {
+		font-size: 0.72rem;
+		font-weight: 700;
+		letter-spacing: 0.1em;
+		text-transform: uppercase;
+		color: var(--accent);
+	}
+	.busca-resultados :global(.busca-titulo) {
+		font-weight: 800;
+		font-size: 1.1rem;
+		line-height: 1.3;
+		color: rgb(var(--black));
+	}
+	.busca-resultados :global(.busca-desc) {
+		font-size: 0.92rem;
+		line-height: 1.45;
+	}
+	.sr-only {
+		position: absolute;
+		width: 1px;
+		height: 1px;
+		padding: 0;
+		margin: -1px;
+		overflow: hidden;
+		clip: rect(0, 0, 0, 0);
+		border: 0;
+	}
+</style>

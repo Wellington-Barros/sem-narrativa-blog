@@ -1,0 +1,45 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import Search from '../components/Search.astro';
+---
+
+<!doctype html>
+<html lang="pt-BR">
+	<head>
+		<BaseHead
+			title="Pesquisar artigos | Sem Narrativa"
+			description="Pesquise todos os artigos do Sem Narrativa por tema, nome ou palavra."
+		/>
+		<style>
+			.busca-topo {
+				width: 960px;
+				max-width: calc(100% - 2em);
+				margin: 2.5rem auto 0;
+			}
+			.busca-topo h1 {
+				margin: 0 0 0.3rem;
+			}
+			.busca-topo p {
+				margin: 0;
+				color: rgb(var(--gray));
+			}
+			.busca-pagina {
+				min-height: 50vh;
+				padding-bottom: 3rem;
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<div class="busca-pagina">
+			<div class="busca-topo">
+				<h1>Pesquisar</h1>
+				<p>Digite um tema, um nome ou uma palavra. A busca procura no título e no texto de todos os artigos.</p>
+			</div>
+			<Search autofocus />
+		</div>
+		<Footer />
+	</body>
+</html>
