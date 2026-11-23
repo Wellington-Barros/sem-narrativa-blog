@@ -2,7 +2,7 @@
 title: 'Bolsa Família x Auxílio Brasil: o que realmente mudou?'
 description: 'Uma comparação factual entre o Bolsa Família e o extinto Auxílio Brasil: valores, regras de elegibilidade e o que de fato mudou entre os dois programas sociais.'
 pubDate: 'Oct 05 2026'
-updatedDate: 'Nov 22 2026'
+updatedDate: 'Nov 23 2026'
 category: 'Fato ou Narrativa'
 heroImage: '../../assets/capa-bolsa-familia-auxilio-brasil.jpg'
 ---
@@ -15,8 +15,8 @@ Vamos à linha do tempo e às regras de cada um.
 
 - **Não são o mesmo programa, mas um sucedeu o outro:** o Bolsa Família (2004) foi substituído pelo Auxílio Brasil em dezembro de 2021, e voltou com o nome antigo e regras novas em março de 2023.
 - **Valores:** o piso passou de cerca de R$ 190 em média (2021) para R$ 400 (Auxílio Brasil), R$ 600 (agosto de 2022, mantido em 2023) e **R$ 691** a partir da folha de outubro de 2026, primeiro reajuste desde 2023.
-- **Regra nova do programa atual:** a Regra de Proteção, que mantém metade do benefício por um período para quem aumenta a renda. O prazo informado pelo MDS hoje é de **12 meses**.
-- **Base legal:** o Bolsa Família atual está na Lei 14.601/2023, aprovada pelo Congresso.
+- **Quem aumenta a renda:** os dois programas mantêm a família por um tempo. O Auxílio Brasil tinha a Regra de Emancipação, de até 24 meses. O Bolsa Família tem a Regra de Proteção, que paga metade do benefício, hoje por até **12 meses**, segundo o MDS.
+- **Base legal:** os dois foram criados por lei aprovada pelo Congresso. O Auxílio Brasil pela Lei 14.284/2021, e o Bolsa Família atual pela Lei 14.601/2023.
 - **O contexto político:** as duas mudanças de nome e os aumentos de valor aconteceram perto de eleições ou na troca de governo, e foram criticados por isso pelos dois lados.
 
 ## O histórico, resumido
@@ -42,11 +42,11 @@ Essa é a diferença mais lembrada. A evolução foi assim:
 
 Aqui estão as diferenças estruturais, não só o nome:
 
-**1. Regra de Proteção.** Criada na volta do Bolsa Família em 2023, permite que uma família continue recebendo 50% do benefício por um período, mesmo que sua renda suba acima do limite de entrada (R$ 218 por pessoa). O prazo era de até 24 meses. O material atual do MDS informa **até 12 meses**, desde que a renda não passe de **R$ 706 por pessoa**. Veja a seção "Onde as versões não batem". O objetivo declarado é não desestimular quem consegue um emprego formal. O Auxílio Brasil não tinha esse mecanismo.
+**1. Regra de Proteção.** Criada na volta do Bolsa Família em 2023, permite que uma família continue recebendo 50% do benefício por um período, mesmo que sua renda suba acima do limite de entrada (R$ 218 por pessoa). O prazo era de até 24 meses. O material atual do MDS informa **até 12 meses**, desde que a renda não passe de **R$ 706 por pessoa**. Veja a seção "Onde as versões não batem". O objetivo declarado é não desestimular quem consegue um emprego formal. O Auxílio Brasil tinha um mecanismo com o mesmo objetivo, a **Regra de Emancipação**, prevista na Lei 14.284/2021: a família que passava do limite de renda podia continuar no programa por até 24 meses, desde que a renda por pessoa não passasse de duas vezes e meia a linha de pobreza. A Regra de Proteção trocou o nome, o prazo e passou a pagar metade do benefício nesse período.
 
 **2. Adicionais mais estruturados.** O Bolsa Família atual tem dois adicionais bem definidos: o Benefício Primeira Infância (R$ 150 por criança de até 6 anos) e o Benefício Variável Familiar (R$ 50 por gestante, nutriz ou criança e adolescente de 7 a 18 anos). O Auxílio Brasil também tinha benefícios variáveis, mas com estrutura e nomes diferentes.
 
-**3. Base legal mais estável.** As regras do Bolsa Família atual estão fixadas pela [Lei nº 14.601/2023](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14601.htm), aprovada pelo Congresso. Isso dá mais estabilidade jurídica ao programa do que normas infralegais mais fáceis de alterar por decreto.
+**3. Base legal.** As regras do Bolsa Família atual estão fixadas pela [Lei nº 14.601/2023](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14601.htm), aprovada pelo Congresso. O Auxílio Brasil também foi criado por lei: a Medida Provisória 1.061/2021 foi aprovada pelo Congresso e virou a Lei 14.284/2021. Nos dois casos, valores e detalhes podem ser ajustados por decreto e portaria, o que explica mudanças como a do prazo da Regra de Proteção.
 
 **4. Condicionalidades.** Os dois programas exigem contrapartidas parecidas, como frequência escolar mínima das crianças e acompanhamento de vacinação. Essa exigência não mudou de forma significativa entre os dois.
 
@@ -95,12 +95,13 @@ O reajuste de 2026 repetiu o debate: ele foi anunciado em setembro, e os primeir
 
 - O Auxílio Brasil substituiu o Bolsa Família em dezembro de 2021, e foi substituído de volta em março de 2023.
 - O piso do benefício subiu de cerca de R$ 190 (média, 2021) para R$ 400 (criação do Auxílio Brasil), depois R$ 600 (desde agosto de 2022) e R$ 691 (a partir de outubro de 2026, reajuste de 15,04%).
-- O Bolsa Família atual tem uma regra que o Auxílio Brasil não tinha: a Regra de Proteção, que mantém 50% do benefício para quem supera o limite de renda. Pelo MDS, hoje o prazo é de até 12 meses, com renda de até R$ 706 por pessoa.
+- Os dois programas mantêm por um tempo a família que aumenta a renda: o Auxílio Brasil pela Regra de Emancipação (até 24 meses) e o Bolsa Família pela Regra de Proteção, que paga 50% do benefício. Pelo MDS, hoje o prazo é de até 12 meses, com renda de até R$ 706 por pessoa.
 - As regras atuais do Bolsa Família estão fixadas em lei (14.601/2023), aprovada pelo Congresso Nacional.
 
 ## Fontes consultadas para este artigo
 
 - Lei nº 14.601, de 19 de junho de 2023, publicada no site do Planalto
+- Lei nº 14.284, de 29 de dezembro de 2021 (Auxílio Brasil), conversão da Medida Provisória 1.061/2021, publicada no site do Planalto
 - Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome (MDS), divulgações oficiais sobre valores e regras do Bolsa Família em 2026
 - MDS, folheto "Regra de Proteção" (gov.br)
 - Folhapress (via TNH1), Broadcast (via Viva), O Povo e Gazeta SP, sobre o reajuste de 15,04% anunciado em 17 de setembro de 2026
