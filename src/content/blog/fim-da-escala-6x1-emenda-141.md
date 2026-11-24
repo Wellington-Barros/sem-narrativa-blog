@@ -2,11 +2,13 @@
 title: 'Fim da escala 6x1: o que a Emenda 141 garante, o que o STF decidiu e o que muda em 16 de dezembro'
 description: 'A Emenda Constitucional 141 acabou com a escala 6x1 e reduz a jornada de 44 para 40 horas em duas etapas. Veja o calendário, a liminar do ministro Flávio Dino que manteve 16 de dezembro e flexibilizou as folgas, o julgamento que vai recomeçar no plenário presencial do STF, as críticas dos dois lados, quem fica de fora e por que é falso o boato de que o governo recuou.'
 pubDate: 'Nov 01 2026'
-updatedDate: 'Nov 19 2026'
+updatedDate: 'Nov 24 2026'
 category: 'Fato ou Narrativa'
 heroImage: '../../assets/capa-fim-da-escala-6x1-emenda-141.jpg'
 ---
 
+> **Atualização (24 de novembro de 2026):** na segunda (23), duas novidades. O Ministério do Trabalho **publicou a Portaria nº 2.041**, com as regras práticas das duas folgas: cada uma de 24 horas seguidas, no máximo seis dias de trabalho seguidos e, no comércio, folga no domingo pelo menos a cada três semanas. E a **Advocacia-Geral da União (AGU)** pediu ao STF que considere a liminar de Flávio Dino desnecessária depois do decreto, ou que o plenário não a confirme. O julgamento continua sem data e a liminar segue valendo. Veja as seções "A portaria do Ministério do Trabalho" e "O que o STF decidiu".
+>
 > **Atualização (19 de novembro de 2026):** o presidente Lula **assinou** o decreto que regulamenta o fim da 6x1. Ele muda o cálculo do salário-hora (divisor 210 a partir de 16 de dezembro e 200 em dezembro de 2027) e permite, por acordo coletivo, distribuir as folgas no mês. Na terça (17), o ministro Flávio Dino decidiu que o STF vai dar a **decisão final** sobre as ações, no plenário presencial, ainda sem data. A liminar continua valendo. Veja as seções "O decreto do governo" e "O que o STF decidiu".
 >
 > **Atualização (16 de novembro de 2026):** o julgamento da liminar no plenário virtual do STF **não terminou**. No sábado (14), o ministro **Luiz Fux** fez um pedido de destaque, que leva o caso para o plenário presencial. Os 4 votos já dados deixam de contar e a votação recomeça do zero, ainda sem data. **A liminar continua valendo**, e a primeira etapa segue marcada para **16 de dezembro**. Veja a seção "O que o STF decidiu".
@@ -24,8 +26,9 @@ O texto explica o que a emenda diz, quando cada regra começa a valer, quem fica
 - **A regra já é da Constituição:** a Emenda Constitucional 141, de 16 de outubro de 2026, veio da PEC 221/2019. Ela foi aprovada pela Câmara em maio (472 a 22 no primeiro turno e 461 a 19 no segundo) e pelo Senado em 14 de outubro (75 a 1 nos dois turnos).
 - **O que muda:** dois dias de descanso remunerado por semana, um deles preferencialmente no domingo, e jornada máxima de 40 horas semanais e 8 horas por dia, sem redução de salário.
 - **Primeira etapa, em 16 de dezembro de 2026:** o limite cai para **42 horas** e passam a valer as duas folgas. A data foi confirmada pela liminar do STF, que continua valendo.
-- **O decreto do governo:** assinado em 19 de novembro, ele muda o divisor do salário-hora de 220 para 210 em dezembro de 2026 e para 200 em dezembro de 2027, o que aumenta o valor da hora extra. Também permite, por acordo coletivo, distribuir as folgas no mês, com pelo menos uma por semana. Portarias para categorias especiais devem sair a partir de 23 de novembro.
-- **O que o STF decidiu:** o ministro Flávio Dino negou o adiamento pedido pela CNC e pela CNI, permitiu jornadas de 8h24 em cinco dias sem hora extra na transição e deixou a negociação coletiva definir quando a folga é tirada, sem poder suprimi-la. A decisão é criticada por empresários, que acham pouco, e por centrais e pelo Congresso, que acham que ela foi longe demais em alguns pontos. O julgamento no plenário virtual foi interrompido por um pedido de destaque do ministro Luiz Fux e vai recomeçar no plenário presencial, ainda sem data. Em 17 de novembro, Dino decidiu que esse julgamento já será o definitivo, sobre a própria Emenda 141. Até lá, a liminar continua valendo.
+- **O decreto do governo:** assinado em 19 de novembro, ele muda o divisor do salário-hora de 220 para 210 em dezembro de 2026 e para 200 em dezembro de 2027, o que aumenta o valor da hora extra. Também permite, por acordo coletivo, distribuir as folgas no mês, com pelo menos uma por semana.
+- **A portaria do Ministério do Trabalho:** publicada em 23 de novembro, a Portaria nº 2.041 detalha as folgas. Cada uma tem 24 horas seguidas, o trabalhador não pode passar de seis dias seguidos de trabalho e, no comércio, uma das folgas tem de cair no domingo pelo menos a cada três semanas. Nos primeiros 90 dias, a fiscalização deve orientar antes de multar.
+- **O que o STF decidiu:** o ministro Flávio Dino negou o adiamento pedido pela CNC e pela CNI, permitiu jornadas de 8h24 em cinco dias sem hora extra na transição e deixou a negociação coletiva definir quando a folga é tirada, sem poder suprimi-la. A decisão é criticada por empresários, que acham pouco, e por centrais e pelo Congresso, que acham que ela foi longe demais em alguns pontos. O julgamento no plenário virtual foi interrompido por um pedido de destaque do ministro Luiz Fux e vai recomeçar no plenário presencial, ainda sem data. Em 17 de novembro, Dino decidiu que esse julgamento já será o definitivo, sobre a própria Emenda 141. Em 23 de novembro, a AGU pediu que a liminar seja considerada desnecessária depois do decreto. Até o julgamento, a liminar continua valendo.
 - **Segunda etapa, em dezembro de 2027:** um ano depois da primeira etapa, o limite chega a **40 horas**.
 - **Quem fica de fora:** servidores públicos, trabalhadores autônomos e empregados com diploma de nível superior que ganham pelo menos 2,5 vezes o teto do INSS (cerca de R$ 21,2 mil em 2026), nas condições previstas.
 - **"O governo recuou?":** a Agência Lupa e outros checadores classificaram a alegação como **falsa**. A Secom diz, em nota, que "não há nenhuma proposta que retire direitos em discussão no governo". Uma emenda promulgada não pode ser vetada nem alterada pelo presidente.
@@ -108,6 +111,15 @@ As reportagens consultadas não trazem declaração de Fux explicando o pedido.
 - **A liminar continua valendo.** Segundo o Conjur, "as medidas cautelares permanecerão em vigor" até o julgamento no plenário presencial, que Dino chamou de "imprescindível".
 - **Ainda sem data.** A decisão não marca dia para o julgamento.
 
+**O pedido da AGU.** Na segunda, 23 de novembro, a Advocacia-Geral da União, que defende o governo no STF, mandou sua manifestação ao ministro Dino. Segundo a CNN Brasil, o SBT News e o Diário do Grande ABC:
+
+- **A liminar teria "perdido o objeto".** Para a AGU, o decreto do governo (Decreto nº 13.173/2026, segundo a CNN Brasil) já resolve as dúvidas das empresas e dá segurança à transição. Por isso, pede que a liminar seja considerada sem efeito, revogada ou, ao menos, não confirmada pelo plenário.
+- **A jornada de 8h24 sem acordo.** A AGU diz que ela desrespeita o limite de 8 horas por dia da Constituição e troca a negociação com o sindicato por uma "permissão judicial genérica", segundo a CNN Brasil.
+- **As folgas.** Para a AGU, a folga em cada semana e a média de duas folgas por semana no mês fazem parte da proteção mínima à saúde do trabalhador e só poderiam mudar por lei específica.
+- **Os 90 dias para renegociar acordos.** A AGU considera a regra desnecessária, porque a própria emenda já tira o efeito das cláusulas que contrariam a nova jornada.
+
+Ou seja, o governo concorda com a data de 16 de dezembro, que a liminar manteve, mas discorda das flexibilizações que Dino criou. As reportagens consultadas não trazem, até esta atualização, resposta da CNC, da CNI ou do ministro ao pedido da AGU.
+
 ### Criticada pelos dois lados
 
 A decisão recebeu críticas de empresários, que acham que ela fez pouco, e de sindicatos e do próprio Congresso, que acham que ela foi longe demais em alguns pontos.
@@ -128,19 +140,43 @@ A decisão recebeu críticas de empresários, que acham que ela fez pouco, e de 
 
 ## O decreto do governo
 
-O presidente Lula assinou o decreto em 19 de novembro, no Palácio do Planalto, com o vice-presidente Geraldo Alckmin e o ministro do Trabalho, Luiz Marinho, segundo o Planalto, o NC News e o Migalhas. As reportagens consultadas não informam o número do decreto nem a edição do Diário Oficial. O que ele diz, segundo o Migalhas, o InfoMoney e o NC News:
+O presidente Lula assinou o decreto em 19 de novembro, no Palácio do Planalto, com o vice-presidente Geraldo Alckmin e o ministro do Trabalho, Luiz Marinho, segundo o Planalto, o NC News e o Migalhas. Segundo a CNN Brasil, é o Decreto nº 13.173/2026. O que ele diz, segundo o Migalhas, o InfoMoney e o NC News:
 
 - **Novo divisor do salário-hora.** Para quem recebe por mês, o salário passa a ser dividido por **210** a partir de 16 de dezembro de 2026 (42 horas) e por **200** a partir de 16 de dezembro de 2027 (40 horas). Hoje o divisor é 220. Como o salário não cai, a hora fica mais cara, e isso aumenta horas extras e adicional noturno. Exemplo do InfoMoney: um salário de R$ 3.000 dá R$ 13,64 por hora hoje, R$ 14,29 com o divisor 210 e R$ 15,00 com o 200. Se já houver um divisor menor por lei, acordo ou contrato, ele continua valendo: "prevalece sempre o divisor mais favorável ao empregado".
 - **Folgas.** A regra é de dois dias de descanso remunerado por semana, um deles de preferência no domingo. Como exceção, acordo ou convenção coletiva pode distribuir as folgas no mês, com média de duas por semana e pelo menos uma em cada semana.
 - **Quem já trabalha 40 horas ou menos** também tem direito às duas folgas, sem precisar reduzir a carga semanal.
 - **Escala 12x36 e turnos de revezamento** continuam permitidos, mas a média semanal precisa respeitar o novo limite. Os detalhes ficam para acordo coletivo.
 - **Acordos coletivos antigos.** Cláusulas que vão contra os novos limites perdem validade a partir de 16 de dezembro, segundo a CNN Brasil, reproduzida pelo ac24horas.
-- **Portarias.** O Ministério do Trabalho vai publicar regras para categorias com regimes especiais a partir de 23 de novembro.
+- **Portarias.** O decreto deixou para o Ministério do Trabalho as regras do descanso semanal. A primeira portaria saiu em 23 de novembro (veja a próxima seção).
 
 Na cerimônia, Lula disse: "O que nós estamos tentando fazer aqui é humanizar o mundo do trabalho". Ele também previu disputas: "Vai ter algumas confusões, vai ter muitas queixas, [e] a justiça do trabalho tem que estar preparada", segundo a CNN Brasil. Marinho disse que o novo divisor "é uma mudança importante para o cálculo das horas extras e outros direitos trabalhistas".
 
 **Reações ao decreto.** Segundo o NC News, as centrais sindicais veem as regras como uma conquista histórica, e empresários se preocupam com custos e com a reorganização das escalas. As reportagens consultadas não trazem, até esta atualização, nota oficial de entidades empresariais nem de centrais sindicais sobre o decreto. Antes dele, a CNC pediu mais prazo ao STF por causa do movimento de fim de ano no comércio, e a CNI estimou um impacto de R$ 11 bilhões na indústria no próximo ano, segundo a CNN Brasil.
 
+
+## A portaria do Ministério do Trabalho
+
+*Seção acrescentada em 24 de novembro de 2026.*
+
+O Ministério do Trabalho publicou a **Portaria nº 2.041** em edição extra do Diário Oficial de 23 de novembro. Ela foi assinada pelo ministro Luiz Marinho em 19 de novembro, segundo o Mix Vale. É a primeira norma com as regras práticas do dia a dia. O que ela diz, segundo o ACidade ON, o Mercado & Consumo, o Mix Vale e o Brasil em Folhas:
+
+<div class="promessas-lista">
+<div class="promessa-card">
+<div class="promessa-bloco"><span class="promessa-rotulo">As duas folgas</span><p>Cada folga tem <strong>24 horas seguidas</strong>, uma delas de preferência no domingo. As duas não precisam ser em dias seguidos</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">Compensação por acordo</span><p>Acordo ou convenção coletiva pode organizar as folgas de outro jeito, desde que garanta a <strong>média de duas folgas por semana no mês</strong> e que ninguém trabalhe mais de <strong>seis dias seguidos</strong>. Na conta do mês, isso dá 8 folgas em fevereiro e 9 nos meses de 30 ou 31 dias</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">Domingo no comércio</span><p>No comércio, uma das folgas tem de cair no <strong>domingo pelo menos a cada três semanas</strong>. Nos outros setores, a orientação é a cada quatro semanas</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">Trabalho na folga</span><p>Trabalho em domingo e feriado continua permitido em atividades que precisam funcionar sem parar. Se não houver outra folga na mesma semana, o dia trabalhado é pago <strong>em dobro</strong></p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">Falta sem justificativa</span><p>Quem falta sem justificativa e não cumpre a semana inteira perde o pagamento do descanso daquela semana, regra que já existia para a folga única. Faltas justificadas por lei e férias não contam</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">Salário</span><p>A redução da jornada não pode diminuir o salário. A portaria repete o divisor do decreto: 210 com 42 horas e 200 com 40 horas</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">Banco de horas</span><p>As horas acumuladas até 15 de dezembro podem ser compensadas com folga ou pagas, conforme o que foi negociado. Os novos limites valem para as horas trabalhadas a partir de 16 de dezembro</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">Escala 12x36 e turnos</span><p>Na 12x36, se a média do mês passar do limite semanal, a empresa tem de pagar hora extra ou compensar. Nos turnos ininterruptos, a jornada é de 6 horas por dia, salvo negociação coletiva</p></div>
+<div class="promessa-bloco"><span class="promessa-rotulo">Fiscalização</span><p>Nos primeiros <strong>90 dias</strong> de cada etapa, contados a partir de 16 de dezembro de 2026 e de novo a partir de 16 de dezembro de 2027, os auditores fazem a "dupla visita": primeiro orientam, depois podem multar</p></div>
+<div class="promessa-bloco promessa-situacao"><span class="promessa-rotulo">Situação</span><p><span class="selo selo-ok">Publicada em 23 de novembro de 2026</span></p></div>
+<div class="promessa-bloco promessa-fonte"><span class="promessa-rotulo">Fonte</span><p>ACidade ON, Mercado & Consumo, Mix Vale, Brasil em Folhas, Diário do Centro do Mundo (23 e 24 de novembro de 2026)</p></div>
+</div>
+</div>
+
+**Um ponto que ainda não está claro.** A portaria exige folga depois de no máximo seis dias de trabalho e média de duas folgas por semana no mês, inclusive nos acordos coletivos. A liminar de Dino, que continua valendo, suspendeu justamente essas duas travas e deixou a negociação coletiva definir prazos maiores. As reportagens consultadas não explicam qual regra prevalece se um acordo usar a flexibilização da liminar. Essa é uma das questões que o plenário do STF deve resolver. O Ministério do Trabalho também anunciou um manual de perguntas e respostas para empresas, empregados e sindicatos, segundo o Diário do Centro do Mundo.
 
 ## Quem fica de fora ou tem regra diferente
 
@@ -220,7 +256,9 @@ Nenhuma dessas divergências muda o essencial: todas as fontes concordam que a e
 
 - **Quando o STF vai julgar:** o caso vai para o plenário presencial, sem data marcada. Como o julgamento será o definitivo, os ministros podem manter ou derrubar pontos da liminar e até da própria Emenda 141.
 - **Se o julgamento sai antes de 16 de dezembro:** se não sair, a primeira etapa começa com as regras da liminar.
-- **O número do decreto e as portarias:** as reportagens não informam o número nem a edição do Diário Oficial. As portarias para categorias especiais, como comércio aos domingos e turnos contínuos, ainda não foram publicadas.
+- **Liminar ou portaria:** qual regra vale para um acordo coletivo que use a flexibilização das folgas permitida pela liminar, mas que a portaria proíbe.
+- **Regras para escalas muito especiais:** a primeira portaria não detalha casos como petroleiros embarcados e motoristas de ônibus e caminhão.
+- **A resposta ao pedido da AGU:** o STF ainda não decidiu se a liminar perdeu o objeto, como pede o governo.
 - **A regulamentação no Congresso:** o STF deu 180 dias para regras de micro e pequenas empresas e de atividades com escalas diferentes.
 - **O texto da PEC paralela:** quais categorias entram, o que muda para cada uma e se ela terá as assinaturas necessárias.
 - **O decreto e o projeto de lei do governo:** foram citados pela Exame, mas não encontramos os textos.
@@ -260,6 +298,8 @@ Nenhuma dessas divergências muda o essencial: todas as fontes concordam que a e
 - Em 17 de novembro, Dino decidiu que o plenário presencial vai julgar o mérito das ações, de forma definitiva. Câmara, Senado e entidades têm 5 dias para se manifestar, e depois a AGU e a PGR têm 2 dias cada.
 - Em 19 de novembro, Lula assinou o decreto que regulamenta a mudança: o divisor do salário-hora passa de 220 para 210 em 16 de dezembro de 2026 e para 200 em 16 de dezembro de 2027.
 - Empresários dizem que a decisão fez pouco. Seis centrais sindicais e as advocacias da Câmara e do Senado criticam pontos como a jornada de 8h24 sem acordo e a flexibilização das folgas.
+- Em 23 de novembro, o Ministério do Trabalho publicou a Portaria nº 2.041: folgas de 24 horas seguidas, no máximo seis dias seguidos de trabalho, folga no domingo pelo menos a cada três semanas no comércio e 90 dias de fiscalização orientadora em cada etapa.
+- Também em 23 de novembro, a AGU pediu ao STF que considere a liminar de Dino desnecessária depois do decreto e contestou a jornada de 8h24 sem acordo e a flexibilização das folgas.
 - O trabalhador passa a ter dois dias de descanso remunerado por semana, um deles preferencialmente no domingo, sem redução de salário.
 - Ficam de fora servidores públicos, autônomos e, nas condições previstas, empregados com diploma superior que ganham ao menos 2,5 vezes o teto do INSS.
 - Segundo o Ministério do Trabalho, cerca de 14,9 milhões de trabalhadores cumprem a escala 6x1.
@@ -313,6 +353,14 @@ Nenhuma dessas divergências muda o essencial: todas as fontes concordam que a e
 - InfoMoney, "Lula assina hoje decreto que regulamenta fim da escala 6x1" (19 de novembro de 2026)
 - Diário do Centro do Mundo, "Decreto do fim da 6x1 deve deixar hora extra até 32% mais cara; entenda" (17 de novembro de 2026)
 - Diário do Centro do Mundo, "Governo Lula planeja assinatura do fim da escala 6x1 para essa semana" (16 de novembro de 2026)
+- CNN Brasil, "Escala 6x1: AGU diz que intervenção de Dino perdeu objeto após decreto", Gabriela Boechat (23 de novembro de 2026)
+- SBT News, "Fim da escala 6x1: AGU se posiciona contra liminar de Dino" (23 de novembro de 2026)
+- Diário do Grande ABC, "AGU se manifesta contra liminar de Dino sobre fim da escala 6x1" (23 de novembro de 2026)
+- ACidade ON, "Fim da 6x1: governo publica regras para compensação de folgas; veja o que vai valer" (23 de novembro de 2026)
+- Mercado & Consumo, "Fim da escala 6x1: conheça as regras de compensação" (23 de novembro de 2026)
+- Mix Vale, "Portaria MTE nº 2.041: falta sem justificativa elimina pagamento do repouso" (24 de novembro de 2026)
+- Brasil em Folhas, "Ministério do Trabalho regulamenta fim da escala 6x1" (23 de novembro de 2026)
+- Diário do Centro do Mundo, "Ministério do Trabalho publica primeiras regras para fim da escala 6x1" (23 de novembro de 2026)
 - meutudo, "Teto do INSS em 2026 é de R$ 8.475,55; confira faixas e alíquotas" (valor usado na conta dos 2,5 tetos)
 
 Veja também: [Como funciona uma PEC](/blog/pec-como-funciona), [Prospera MEI: o que muda](/blog/prospera-mei-o-que-muda) e [Fake news políticas](/blog/fake-news-politicas).
