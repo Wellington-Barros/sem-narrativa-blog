@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<style>
+@font-face{font-family:I;src:url('file:///usr/share/fonts/opentype/inter/Inter-Medium.otf');font-weight:500}
+@font-face{font-family:I;src:url('file:///usr/share/fonts/opentype/inter/Inter-Bold.otf');font-weight:700}
+@font-face{font-family:I;src:url('file:///usr/share/fonts/opentype/inter/Inter-ExtraBold.otf');font-weight:800}
+@font-face{font-family:I;src:url('file:///usr/share/fonts/opentype/inter/Inter-Black.otf');font-weight:900}
+:root{--roxo:#8b7bff;--ambar:#f6b848;--txt:#f2f2f8;--sub:#b9b9cf}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:#000;font-family:I,sans-serif;color:var(--txt);font-feature-settings:'calt' 0}
+.s{width:1080px;height:1920px;position:relative;overflow:hidden;padding:260px 90px 300px;
+ background:radial-gradient(120% 70% at 100% 0%,rgba(124,92,246,.32),transparent 55%),
+ radial-gradient(90% 50% at 0% 100%,rgba(124,76,214,.30),transparent 60%),linear-gradient(180deg,#0e0e1a,#0a0a12);
+ display:flex;flex-direction:column;justify-content:center}
+.top{position:absolute;top:130px;left:90px;right:90px;display:flex;justify-content:space-between;font-weight:800;font-size:30px;letter-spacing:.14em;color:#d8d6f5}
+.top span:last-child{color:var(--sub);letter-spacing:.04em;font-weight:700}
+.foot{position:absolute;bottom:250px;left:90px;right:90px;display:flex;justify-content:space-between;font-size:28px;font-weight:700;color:var(--sub)}
+.tag{align-self:flex-start;font-size:32px;font-weight:900;letter-spacing:.12em;padding:14px 24px;border-radius:12px;margin-bottom:36px}
+.tag.c{background:rgba(139,123,255,.18);color:#c9c2ff;border:2px solid rgba(139,123,255,.6)}
+.tag.p{background:rgba(246,184,72,.14);color:var(--ambar);border:2px solid rgba(246,184,72,.6)}
+h1{font-size:150px;font-weight:900;line-height:.98;letter-spacing:-.03em}
+h2{font-size:118px;font-weight:900;line-height:1;letter-spacing:-.03em;margin-bottom:24px}
+.sub{font-size:52px;font-weight:700;color:var(--sub);line-height:1.25;margin-bottom:50px}
+.li{display:flex;gap:28px;align-items:center;font-size:52px;font-weight:800;line-height:1.2;padding:34px 38px;border-radius:26px;background:rgba(255,255,255,.05);border:2px solid rgba(255,255,255,.1);margin-bottom:22px}
+.li .n{flex-shrink:0;width:74px;height:74px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:40px;font-weight:900;background:var(--roxo);color:#fff}
+.p .li .n{background:var(--ambar);color:#1a1206}
+.hl{background:linear-gradient(transparent 58%,rgba(139,123,255,.55) 58%)}
+.hla{color:var(--ambar)}
+.pir{display:flex;flex-direction:column;align-items:center;gap:20px;margin:30px 0 60px}
+.pir div{text-align:center;font-size:50px;font-weight:900;padding:40px 0;border-radius:22px}
+.ia{position:absolute;bottom:190px;left:90px;font-size:24px;color:rgba(185,185,207,.7);font-weight:500}
+</style>
+<style>
+.passo{font-size:40px;font-weight:900;letter-spacing:.14em;color:var(--sub);margin-bottom:18px}
+.big{font-size:230px;font-weight:900;line-height:.9;letter-spacing:-.04em;color:#c9c2ff}
+.big.a{color:var(--ambar)}
+.cap{font-size:50px;font-weight:800;line-height:1.2;margin:20px 0 50px}
+.box{padding:40px 44px;border-radius:28px;background:rgba(255,255,255,.05);border:2px solid rgba(255,255,255,.1);font-size:48px;font-weight:700;line-height:1.3;color:var(--txt)}
+.vs{display:flex;flex-direction:column;gap:26px}
+.vs div{padding:40px;border-radius:28px;font-size:50px;font-weight:800;line-height:1.25}
+</style>
+</head>
+<body>
+
+<section class="s">
+ <div class="top"><span>SEM NARRATIVA</span><span>FATO OU NARRATIVA</span></div>
+ <h1 style="font-size:118px">FORO<br>PRIVILEGIADO<br>É <span style="color:var(--ambar)">IMUNIDADE?</span></h1>
+ <p class="sub" style="margin-top:60px;font-size:66px;color:var(--txt)"><span class="hl">Não é.</span></p>
+ <div class="ia">Narração com voz gerada por IA</div>
+</section>
+
+<section class="s">
+ <div class="top"><span>SEM NARRATIVA</span><span>O QUE É</span></div>
+ <h2 style="font-size:100px">Ele muda<br><span class="hl">quem julga</span></h2>
+ <p class="cap">Nome oficial: <b style="color:#fff">foro por prerrogativa de função</b></p>
+ <div class="vs">
+  <div style="background:rgba(255,255,255,.05);border:3px solid rgba(255,255,255,.15)">Não impede investigação</div>
+  <div style="background:rgba(255,255,255,.05);border:3px solid rgba(255,255,255,.15)">Não garante absolvição</div>
+ </div>
+</section>
+
+<section class="s">
+ <div class="top"><span>SEM NARRATIVA</span><span>QUEM JULGA QUEM</span></div>
+ <h2 style="font-size:96px">Quem julga quem</h2>
+ <div class="vs" style="margin-top:30px">
+  <div style="background:rgba(139,123,255,.18);border:3px solid var(--roxo)"><span style="color:#c9c2ff;font-weight:900">STF</span><br><span style="font-size:42px;font-weight:700">Presidente, deputados federais, senadores e ministros de Estado</span></div>
+  <div style="background:rgba(255,255,255,.05);border:3px solid rgba(255,255,255,.15)"><span style="color:#c9c2ff;font-weight:900">STJ</span><br><span style="font-size:42px;font-weight:700">Governadores</span></div>
+  <div style="background:rgba(255,255,255,.05);border:3px solid rgba(255,255,255,.15)"><span style="color:#c9c2ff;font-weight:900">Tribunal de Justiça</span><br><span style="font-size:42px;font-weight:700">Prefeitos</span></div>
+ </div>
+</section>
+
+<section class="s">
+ <div class="top"><span>SEM NARRATIVA</span><span>A REGRA MUDOU</span></div>
+ <div class="passo">STF</div>
+ <div class="big">2018</div>
+ <p class="cap">Foro só para crimes cometidos <b style="color:#fff">durante o cargo</b> e <b style="color:#fff">por causa dele</b></p>
+ <div class="box">Antes, valia para qualquer crime da autoridade</div>
+</section>
+
+<section class="s">
+ <div class="top"><span>SEM NARRATIVA</span><span>A REGRA MUDOU</span></div>
+ <div class="passo">STF</div>
+ <div class="big a">2025</div>
+ <p class="cap">Nesses crimes, o foro <b style="color:#fff">continua</b> mesmo depois que a pessoa <b style="color:#fff">sai do cargo</b></p>
+ <div class="box">Em maio de 2026, o STF confirmou a regra e a estendeu a juízes e promotores</div>
+</section>
+
+<section class="s">
+ <div class="top"><span>SEM NARRATIVA</span><span>E O FIM DO FORO?</span></div>
+ <h2 style="font-size:96px">A PEC que<br>acaba com o foro</h2>
+ <div class="vs" style="margin-top:30px">
+  <div style="background:rgba(139,123,255,.18);border:3px solid var(--roxo)">Senado: <b>aprovada em 2017</b></div>
+  <div style="background:rgba(246,184,72,.12);border:3px solid var(--ambar)">Câmara: <b style="color:var(--ambar)">nunca votada no plenário</b></div>
+ </div>
+</section>
+
+<section class="s" style="align-items:center;text-align:center">
+ <div class="top"><span>SEM NARRATIVA</span><span></span></div>
+ <p class="sub" style="color:var(--txt);font-size:56px">Artigo completo, com todas as fontes</p>
+ <h2 style="font-size:84px;margin:10px 0 20px">semnarrativa.com.br</h2>
+ <p class="sub" style="font-size:44px">link na bio</p>
+ <div style="margin-top:40px;padding:36px 54px;border-radius:26px;border:3px solid var(--roxo);background:rgba(139,123,255,.18);font-size:50px;font-weight:900">Siga @semnarrativa.oficial</div>
+ <p class="sub" style="margin-top:44px;font-size:44px">Política sem escolher lado</p>
+</section>
+
+</body>
+</html>
